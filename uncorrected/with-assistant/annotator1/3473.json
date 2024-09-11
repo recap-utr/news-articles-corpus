@@ -1,0 +1,1382 @@
+{
+  "nodes": {
+    "fe4ca930-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Parts of French Guiana, including schools and shops, were shut down on Monday, amid a general strike-over high crime rates, the cost of living and lack of public services",
+        "reference": {
+          "resource": "3473",
+          "offset": 0,
+          "text": "Parts of French Guiana, including schools and shops, were shut down on Monday, amid a general strike-over high crime rates, the cost of living and lack of public services"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:33:49.763Z",
+        "updated": "2024-02-13T09:33:49.763Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Descriptive statement of situation in French Guiana, not argumentative."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1062.0003602227937,
+            "y": 562
+          }
+        }
+      }
+    },
+    "fe4ca931-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "The French government appealed for calm in its South American territory, which has been gripped by protests that have halted flights, disrupted a rocket launch and prompted travel warnings since late last month",
+        "reference": {
+          "resource": "3473",
+          "offset": 172,
+          "text": "The French government appealed for calm in its South American territory, which has been gripped by protests that have halted flights, disrupted a rocket launch and prompted travel warnings since late last month"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:33:49.763Z",
+        "updated": "2024-02-13T09:33:49.763Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Reports actions by French government, descriptive not argumentative."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1612.0000844112576,
+            "y": 12
+          }
+        }
+      }
+    },
+    "fe4ca932-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "\"The first priority is the fight against insecurity,\" French President Francois Hollande said",
+        "reference": {
+          "resource": "3473",
+          "offset": 385,
+          "text": "\"The first priority is the fight against insecurity,\" French President Francois Hollande said"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:33:49.763Z",
+        "updated": "2024-02-13T09:33:49.763Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Statement of priorities by Francois Hollande, potentially argumentative as it mentions a response to the situation."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 362.00077979630885,
+            "y": 852
+          }
+        }
+      }
+    },
+    "fe4ca933-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "More than 30 labour unions launched the strike, demanding a \"Marshall Plan\" to improve public services and security",
+        "reference": {
+          "resource": "3473",
+          "offset": 480,
+          "text": "More than 30 labour unions launched the strike, demanding a \"Marshall Plan\" to improve public services and security"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:33:49.763Z",
+        "updated": "2024-02-13T09:33:49.763Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Description of the action by labor unions and their demands, represents an argument for improvements."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1758.9263730091216,
+            "y": 1234.875246333269
+          }
+        }
+      }
+    },
+    "fe4ca934-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "The territory, home to about 250,000 people, relies on large injections of public funds and residents say it is often overlooked by the French government",
+        "reference": {
+          "resource": "3473",
+          "offset": 597,
+          "text": "The territory, home to about 250,000 people, relies on large injections of public funds and residents say it is often overlooked by the French government"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:33:49.763Z",
+        "updated": "2024-02-13T09:33:49.763Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "An assertion about the territory's reliance on public funds and perceived neglect by the government, argumentative as it presents a claim about oversight."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1062.000073615366,
+            "y": 852
+          }
+        }
+      }
+    },
+    "fe4ca935-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "\"This has gone on long enough! All we have is plundered, it's time to recognize the people of Guiana,\" a woman at a barricade blocking access to the airport in the capital Cayenne told AFP news agency on Sunday",
+        "reference": {
+          "resource": "3473",
+          "text": "\"This has gone on long enough! All we have is plundered, it's time to recognize the people of Guiana,\" a woman at a barricade blocking access to the airport in the capital Cayenne told AFP news agency on Sunday"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:33:49.763Z",
+        "updated": "2024-02-13T09:33:49.763Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "An argumentative personal testimony reflecting frustration and a call for recognition."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1612.0000004450926,
+            "y": 326
+          }
+        }
+      }
+    },
+    "fe4ca936-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Antoine Karma, Guiana's representative to the French senate in Paris, said those in the territory are without basic social services and goods",
+        "reference": {
+          "resource": "3473",
+          "offset": 964,
+          "text": "Antoine Karma, Guiana's representative to the French senate in Paris, said those in the territory are without basic social services and goods"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:33:49.763Z",
+        "updated": "2024-02-13T09:33:49.763Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "An argument stating a lack of basic services, represents a specific claim about the situation in Guiana."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 534.2254666566209,
+            "y": 1185.750220850517
+          }
+        }
+      }
+    },
+    "fe4ca937-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "\"Today, 30 percent of the population still does not have access to drinking water or electricity,\" Karma told French media on Monday",
+        "reference": {
+          "resource": "3473",
+          "offset": 1107,
+          "text": "\"Today, 30 percent of the population still does not have access to drinking water or electricity,\" Karma told French media on Monday"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:33:49.763Z",
+        "updated": "2024-02-13T09:33:49.763Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Provides statistical evidence to support the claim about the lack of basic services, argumentative."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 12.000857661694347,
+            "y": 1166
+          }
+        }
+      }
+    },
+    "fe4ca938-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "\"We are not treated the same way as the French on the French mainland,\" the socialist party politician said",
+        "reference": {
+          "resource": "3473",
+          "offset": 1241,
+          "text": "\"We are not treated the same way as the French on the French mainland,\" the socialist party politician said"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:33:49.763Z",
+        "updated": "2024-02-13T09:33:49.763Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Argumentative statement highlighting perceived inequality."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 12.000834140430072,
+            "y": 1432
+          }
+        }
+      }
+    },
+    "fe4ca939-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "French Prime Minister Bernard Cazeneuve said a delegation of ministers would be sent to Guiana by the end of the week if certain conditions were met",
+        "reference": {
+          "resource": "3473",
+          "offset": 1350,
+          "text": "French Prime Minister Bernard Cazeneuve said a delegation of ministers would be sent to Guiana by the end of the week if certain conditions were met"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:33:49.763Z",
+        "updated": "2024-02-13T09:33:49.763Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "A promise of action conditional on unspecified terms, descriptive mainly."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2131.01231263092,
+            "y": 527.0933367236964
+          }
+        }
+      }
+    },
+    "fe4ca93a-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "The French government had previously sent a delegation to negotiate with protesters, but many refused to meet the officials, demanding that French ministers come instead",
+        "reference": {
+          "resource": "3473",
+          "offset": 1552,
+          "text": "The French government had previously sent a delegation to negotiate with protesters, but many refused to meet the officials, demanding that French ministers come instead"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:33:49.763Z",
+        "updated": "2024-02-13T09:33:49.763Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Describes a failed negotiation attempt and the demands of the protestors, reflects an argumentative aspect regarding negotiation conditions."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2252.0885546700733,
+            "y": -14.514851913738568
+          }
+        }
+      }
+    },
+    "fe4ca93b-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "With less than four weeks until the first round of the French presidential election, the unrest in Guiana has been highlighted by several top candidates",
+        "reference": {
+          "resource": "3473",
+          "offset": 1723,
+          "text": "With less than four weeks until the first round of the French presidential election, the unrest in Guiana has been highlighted by several top candidates"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:33:49.763Z",
+        "updated": "2024-02-13T09:33:49.763Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Contextual information about political climate, not argumentative."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 691.8029382243933,
+            "y": -459.94304309394613
+          }
+        }
+      }
+    },
+    "fe4ca93c-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Marine Le Pen, the far-right leader, condemned what she called a \"cruel minimum service\" delivered by French governments to the territory. She also blamed \"mass immigration\" for insecurity, according to local media",
+        "reference": {
+          "resource": "3473",
+          "offset": 1877,
+          "text": "Marine Le Pen, the far-right leader, condemned what she called a \"cruel minimum service\" delivered by French governments to the territory. She also blamed \"mass immigration\" for insecurity, according to local media"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:33:49.763Z",
+        "updated": "2024-02-13T09:33:49.763Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Presents an argumentative critique of the government's service level and the cause of insecurity."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 929.5143918616066,
+            "y": -47.703637981764246
+          }
+        }
+      }
+    },
+    "fe4ca93d-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Independent centrist candidate Emmanuel Macron, who just completed a tour of France's overseas territories, called for calm, saying the situation was \"serious\"",
+        "reference": {
+          "resource": "3473",
+          "offset": 2093,
+          "text": "Independent centrist candidate Emmanuel Macron, who just completed a tour of France's overseas territories, called for calm, saying the situation was \"serious\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:33:49.763Z",
+        "updated": "2024-02-13T09:33:49.763Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "An appeal for calm, mixed between an argumentative stance and descriptive."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 146.1005622491541,
+            "y": -216.863945596763
+          }
+        }
+      }
+    },
+    "fe4ca93e-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "He was later mocked for calling the overseas territory an island, which it is not",
+        "reference": {
+          "resource": "3473",
+          "offset": 2254,
+          "text": "He was later mocked for calling the overseas territory an island, which it is not"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:33:49.763Z",
+        "updated": "2024-02-13T09:33:49.763Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Descriptive of a reaction to Macron's statement, not argumentative."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 13.421759851506522,
+            "y": 12
+          }
+        }
+      }
+    },
+    "fe4ca93f-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Conservative candidate Francois Fillon blamed the situation on \"the failed policies of Francois Hollande\"",
+        "reference": {
+          "resource": "3473",
+          "offset": 2337,
+          "text": "Conservative candidate Francois Fillon blamed the situation on \"the failed policies of Francois Hollande\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:33:49.763Z",
+        "updated": "2024-02-13T09:33:49.763Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Presents an argument attributing the situation to specific policies."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 332.00033799356737,
+            "y": 12
+          }
+        }
+      }
+    },
+    "fe4ca940-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "The unions part of the strike have called for a complete shutdown of activity on Tuesday, according to the France-Guyane newspaper",
+        "reference": {
+          "resource": "3473",
+          "offset": 2508,
+          "text": "The unions part of the strike have called for a complete shutdown of activity on Tuesday, according to the France-Guyane newspaper"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:33:49.763Z",
+        "updated": "2024-02-13T09:33:49.763Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Describes actions by the unions, does not present an argument."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2112.0005135821007,
+            "y": 876
+          }
+        }
+      }
+    },
+    "fe4ca941-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Air France and Air Caraibes cancelled all flights into Guiana and schools and universities were closed",
+        "reference": {
+          "resource": "3473",
+          "offset": 2640,
+          "text": "Air France and Air Caraibes cancelled all flights into Guiana and schools and universities were closed"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:33:49.763Z",
+        "updated": "2024-02-13T09:33:49.763Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Descriptive of the consequences of the strike, not argumentative."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1412.0009148273766,
+            "y": 852
+          }
+        }
+      }
+    },
+    "fe4ca942-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "The protests also led to the postponement of an Arianespace rocket launch at Europe's Guiana Space Centre in Kourou",
+        "reference": {
+          "resource": "3473",
+          "offset": 2744,
+          "text": "The protests also led to the postponement of an Arianespace rocket launch at Europe's Guiana Space Centre in Kourou"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:33:49.763Z",
+        "updated": "2024-02-13T09:33:49.763Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "A direct result of the protests, descriptive."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2112.000302400367,
+            "y": 1166
+          }
+        }
+      }
+    },
+    "fe4ca943-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Barricades were briefly lifted on Sunday to allow some residents to stock up on food and other supplies before the strike began",
+        "reference": {
+          "resource": "3473",
+          "offset": 2861,
+          "text": "Barricades were briefly lifted on Sunday to allow some residents to stock up on food and other supplies before the strike began"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:33:49.763Z",
+        "updated": "2024-02-13T09:33:49.763Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Descriptive of arrangements made during the protest, not argumentative."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1645.0758834352498,
+            "y": 1596.650295599923
+          }
+        }
+      }
+    },
+    "4fdf88d0-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:36:06.621Z",
+        "updated": "2024-02-13T09:36:06.621Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "President Hollande's statement underscores the urgency and prioritization of addressing insecurity, which aligns with the context of the shutdowns due to high crime rates."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 697.1258312130276,
+            "y": 680.2249507333462
+          }
+        }
+      }
+    },
+    "4fdf88d3-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:36:06.621Z",
+        "updated": "2024-02-13T09:36:06.621Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The launch of the strike by over 30 labor unions is a direct response to the issues mentioned in the major claim, such as the high cost of living and lack of public services."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1913.3760606759395,
+            "y": 1041.5751987654653
+          }
+        }
+      }
+    },
+    "4fdf88d6-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:36:06.621Z",
+        "updated": "2024-02-13T09:36:06.621Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The statement about the territory's reliance on public funds and feeling of neglect by the French government supports the context of dissatisfaction leading to the shutdown."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1162.0008325176464,
+            "y": 752
+          }
+        }
+      }
+    },
+    "4fdf88d9-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:36:06.621Z",
+        "updated": "2024-02-13T09:36:06.621Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Barricades being briefly lifted for residents to stock up before the strike indicates support for and a consequence of the declared strike."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1779.7260360326763,
+            "y": 1449.6252633217703
+          }
+        }
+      }
+    },
+    "4fdf88dc-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:36:06.621Z",
+        "updated": "2024-02-13T09:36:06.621Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The cancellation of flights and closing of schools and universities are direct impacts of the strike and unrest, which were initially highlighted in the major claim."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1512.0008792491458,
+            "y": 752
+          }
+        }
+      }
+    },
+    "4fdf88df-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:36:06.621Z",
+        "updated": "2024-02-13T09:36:06.621Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The postponement of the Arianespace rocket launch is a specific example of the disruptions caused by the strike, which itself is mentioned as requiring a 'complete shutdown of activity'."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2236.1661041262314,
+            "y": 1089.0285460786804
+          }
+        }
+      }
+    },
+    "4fdf88e5-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:36:06.621Z",
+        "updated": "2024-02-13T09:36:06.621Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The refusal to meet with the initial delegation and the demand for French ministers to come instead shows a progression in the negotiations."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2089.499342228903,
+            "y": 223.80576331625892
+          }
+        }
+      }
+    },
+    "4fdfafe0-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:36:06.622Z",
+        "updated": "2024-02-13T09:36:06.622Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The call for a complete shutdown by unions escalates the situation described in the major claim, emphasizing the severity of the strike."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2212.000493562469,
+            "y": 752
+          }
+        }
+      }
+    },
+    "4fdfafe3-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:36:06.622Z",
+        "updated": "2024-02-13T09:36:06.622Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The call to recognize the people of Guiana and the presence of a barricade reflects the heightened tensions and protests mentioned in the appeal for calm."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1712.0007772181,
+            "y": 226
+          }
+        }
+      }
+    },
+    "4fdfafe6-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:36:06.622Z",
+        "updated": "2024-02-13T09:36:06.622Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The lack of basic social services and goods in the territory supports the claims of high crime rates, cost of living, and lack of public services leading to the shutdown."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 988.1515421354729,
+            "y": 1152.9502752137214
+          }
+        }
+      }
+    },
+    "4fdfafe9-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:36:06.622Z",
+        "updated": "2024-02-13T09:36:06.622Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Karma's statement about the lack of access to drinking water or electricity is a specific example supporting the general lack of basic social services previously mentioned."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 112.0002830092303,
+            "y": 1066
+          }
+        }
+      }
+    },
+    "4fdfafec-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:36:06.622Z",
+        "updated": "2024-02-13T09:36:06.622Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The claim of unequal treatment compared to mainland French supports the issues of basic service access highlighted by Karma."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 105.81282326901157,
+            "y": 1334.47500169885
+          }
+        }
+      }
+    },
+    "cce72220-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:39:36.386Z",
+        "updated": "2024-02-13T09:39:36.386Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1337.0002223170256,
+            "y": 287
+          }
+        }
+      }
+    },
+    "f1730f50-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:40:37.701Z",
+        "updated": "2024-02-13T09:40:37.701Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 898.2243770742238,
+            "y": 502.3595512913639
+          }
+        }
+      }
+    },
+    "f9112210-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:40:50.481Z",
+        "updated": "2024-02-13T09:40:50.481Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 511.90163810898036,
+            "y": -223.97152154697307
+          }
+        }
+      }
+    },
+    "fe5936e0-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:40:59.342Z",
+        "updated": "2024-02-13T09:40:59.342Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 418.9517502367737,
+            "y": -338.40349434535455
+          }
+        }
+      }
+    },
+    "01dd5490-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:41:05.241Z",
+        "updated": "2024-02-13T09:41:05.241Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 79.05040345530934,
+            "y": -102.4319727983815
+          }
+        }
+      }
+    },
+    "31a00ba0-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:42:25.370Z",
+        "updated": "2024-02-13T09:42:25.370Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 810.6586650429999,
+            "y": -253.8233405378552
+          }
+        }
+      }
+    },
+    "54e6cea0-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:43:24.554Z",
+        "updated": "2024-02-13T09:43:24.554Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1871.5061985210887,
+            "y": 269.5466683618482
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "4fdf88d1-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "fe4ca932-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "4fdf88d0-ca53-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:36:06.621Z",
+        "updated": "2024-02-13T09:36:06.621Z"
+      },
+      "userdata": {}
+    },
+    "4fdf88d2-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "4fdf88d0-ca53-11ee-b5b8-bbee0a74ec6f",
+      "target": "fe4ca930-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:36:06.621Z",
+        "updated": "2024-02-13T09:36:06.621Z"
+      },
+      "userdata": {}
+    },
+    "4fdf88d4-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "fe4ca933-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "4fdf88d3-ca53-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:36:06.621Z",
+        "updated": "2024-02-13T09:36:06.621Z"
+      },
+      "userdata": {}
+    },
+    "4fdf88d7-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "fe4ca934-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "4fdf88d6-ca53-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:36:06.621Z",
+        "updated": "2024-02-13T09:36:06.621Z"
+      },
+      "userdata": {}
+    },
+    "4fdf88d8-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "4fdf88d6-ca53-11ee-b5b8-bbee0a74ec6f",
+      "target": "fe4ca930-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:36:06.621Z",
+        "updated": "2024-02-13T09:36:06.621Z"
+      },
+      "userdata": {}
+    },
+    "4fdf88da-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "fe4ca943-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "4fdf88d9-ca53-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:36:06.621Z",
+        "updated": "2024-02-13T09:36:06.621Z"
+      },
+      "userdata": {}
+    },
+    "4fdf88db-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "4fdf88d9-ca53-11ee-b5b8-bbee0a74ec6f",
+      "target": "fe4ca933-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:36:06.621Z",
+        "updated": "2024-02-13T09:36:06.621Z"
+      },
+      "userdata": {}
+    },
+    "4fdf88dd-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "fe4ca941-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "4fdf88dc-ca53-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:36:06.621Z",
+        "updated": "2024-02-13T09:36:06.621Z"
+      },
+      "userdata": {}
+    },
+    "4fdf88de-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "4fdf88dc-ca53-11ee-b5b8-bbee0a74ec6f",
+      "target": "fe4ca930-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:36:06.621Z",
+        "updated": "2024-02-13T09:36:06.621Z"
+      },
+      "userdata": {}
+    },
+    "4fdf88e0-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "fe4ca942-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "4fdf88df-ca53-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:36:06.621Z",
+        "updated": "2024-02-13T09:36:06.621Z"
+      },
+      "userdata": {}
+    },
+    "4fdf88e3-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "fe4ca944-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "4fdf88e2-ca53-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:36:06.621Z",
+        "updated": "2024-02-13T09:36:06.621Z"
+      },
+      "userdata": {}
+    },
+    "4fdf88e4-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "4fdf88e2-ca53-11ee-b5b8-bbee0a74ec6f",
+      "target": "fe4ca930-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:36:06.621Z",
+        "updated": "2024-02-13T09:36:06.621Z"
+      },
+      "userdata": {}
+    },
+    "4fdf88e6-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "fe4ca93a-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "4fdf88e5-ca53-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:36:06.621Z",
+        "updated": "2024-02-13T09:36:06.621Z"
+      },
+      "userdata": {}
+    },
+    "4fdf88e7-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "4fdf88e5-ca53-11ee-b5b8-bbee0a74ec6f",
+      "target": "fe4ca939-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:36:06.621Z",
+        "updated": "2024-02-13T09:36:06.621Z"
+      },
+      "userdata": {}
+    },
+    "4fdfafe1-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "fe4ca940-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "4fdfafe0-ca53-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:36:06.622Z",
+        "updated": "2024-02-13T09:36:06.622Z"
+      },
+      "userdata": {}
+    },
+    "4fdfafe4-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "fe4ca935-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "4fdfafe3-ca53-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:36:06.622Z",
+        "updated": "2024-02-13T09:36:06.622Z"
+      },
+      "userdata": {}
+    },
+    "4fdfafe7-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "fe4ca936-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "4fdfafe6-ca53-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:36:06.622Z",
+        "updated": "2024-02-13T09:36:06.622Z"
+      },
+      "userdata": {}
+    },
+    "4fdfafea-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "fe4ca937-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "4fdfafe9-ca53-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:36:06.622Z",
+        "updated": "2024-02-13T09:36:06.622Z"
+      },
+      "userdata": {}
+    },
+    "4fdfafeb-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "4fdfafe9-ca53-11ee-b5b8-bbee0a74ec6f",
+      "target": "fe4ca936-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:36:06.622Z",
+        "updated": "2024-02-13T09:36:06.622Z"
+      },
+      "userdata": {}
+    },
+    "4fdfafed-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "fe4ca938-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "4fdfafec-ca53-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:36:06.622Z",
+        "updated": "2024-02-13T09:36:06.622Z"
+      },
+      "userdata": {}
+    },
+    "4fdfaff1-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "4fdfafef-ca53-11ee-b5b8-bbee0a74ec6f",
+      "target": "fe4ca93a-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:36:06.622Z",
+        "updated": "2024-02-13T09:36:06.622Z"
+      },
+      "userdata": {}
+    },
+    "63054490-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "4fdfafec-ca53-11ee-b5b8-bbee0a74ec6f",
+      "target": "fe4ca937-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:36:38.745Z",
+        "updated": "2024-02-13T09:36:38.745Z"
+      },
+      "userdata": {}
+    },
+    "7b3dfb60-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "4fdfafe6-ca53-11ee-b5b8-bbee0a74ec6f",
+      "target": "fe4ca934-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:37:19.382Z",
+        "updated": "2024-02-13T09:37:19.382Z"
+      },
+      "userdata": {}
+    },
+    "980d0330-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "4fdfafe0-ca53-11ee-b5b8-bbee0a74ec6f",
+      "target": "fe4ca930-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:38:07.715Z",
+        "updated": "2024-02-13T09:38:07.715Z"
+      },
+      "userdata": {}
+    },
+    "9c9b64f0-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "4fdf88d3-ca53-11ee-b5b8-bbee0a74ec6f",
+      "target": "4fdfafe0-ca53-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:38:15.359Z",
+        "updated": "2024-02-13T09:38:15.359Z"
+      },
+      "userdata": {}
+    },
+    "c4fc7600-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "4fdfafe3-ca53-11ee-b5b8-bbee0a74ec6f",
+      "target": "fe4ca934-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:39:23.104Z",
+        "updated": "2024-02-13T09:39:23.104Z"
+      },
+      "userdata": {}
+    },
+    "cce72221-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "fe4ca931-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "cce72220-ca53-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:39:36.386Z",
+        "updated": "2024-02-13T09:39:36.386Z"
+      },
+      "userdata": {}
+    },
+    "cce72222-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "cce72220-ca53-11ee-b5b8-bbee0a74ec6f",
+      "target": "fe4ca930-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:39:36.386Z",
+        "updated": "2024-02-13T09:39:36.386Z"
+      },
+      "userdata": {}
+    },
+    "d764fc40-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "4fdf88df-ca53-11ee-b5b8-bbee0a74ec6f",
+      "target": "fe4ca931-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:39:53.988Z",
+        "updated": "2024-02-13T09:39:53.988Z"
+      },
+      "userdata": {}
+    },
+    "f1730f51-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "fe4ca93b-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "f1730f50-ca53-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:40:37.701Z",
+        "updated": "2024-02-13T09:40:37.701Z"
+      },
+      "userdata": {}
+    },
+    "f1730f52-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "f1730f50-ca53-11ee-b5b8-bbee0a74ec6f",
+      "target": "fe4ca930-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:40:37.701Z",
+        "updated": "2024-02-13T09:40:37.701Z"
+      },
+      "userdata": {}
+    },
+    "f9114920-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "fe4ca93f-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "f9112210-ca53-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:40:50.482Z",
+        "updated": "2024-02-13T09:40:50.482Z"
+      },
+      "userdata": {}
+    },
+    "f9114921-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "f9112210-ca53-11ee-b5b8-bbee0a74ec6f",
+      "target": "fe4ca93b-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:40:50.482Z",
+        "updated": "2024-02-13T09:40:50.482Z"
+      },
+      "userdata": {}
+    },
+    "fe5936e1-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "fe4ca93d-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "fe5936e0-ca53-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:40:59.342Z",
+        "updated": "2024-02-13T09:40:59.342Z"
+      },
+      "userdata": {}
+    },
+    "fe5936e2-ca53-11ee-b5b8-bbee0a74ec6f": {
+      "source": "fe5936e0-ca53-11ee-b5b8-bbee0a74ec6f",
+      "target": "fe4ca93b-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:40:59.342Z",
+        "updated": "2024-02-13T09:40:59.342Z"
+      },
+      "userdata": {}
+    },
+    "01dd5491-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "fe4ca93e-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "01dd5490-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:41:05.241Z",
+        "updated": "2024-02-13T09:41:05.241Z"
+      },
+      "userdata": {}
+    },
+    "01dd5492-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "01dd5490-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "fe4ca93d-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:41:05.241Z",
+        "updated": "2024-02-13T09:41:05.241Z"
+      },
+      "userdata": {}
+    },
+    "31a00ba1-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "fe4ca93c-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "31a00ba0-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:42:25.370Z",
+        "updated": "2024-02-13T09:42:25.370Z"
+      },
+      "userdata": {}
+    },
+    "31a00ba2-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "31a00ba0-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "fe4ca93b-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:42:25.370Z",
+        "updated": "2024-02-13T09:42:25.370Z"
+      },
+      "userdata": {}
+    },
+    "54e6cea1-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "fe4ca939-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "54e6cea0-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:43:24.554Z",
+        "updated": "2024-02-13T09:43:24.554Z"
+      },
+      "userdata": {}
+    },
+    "54e6cea2-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "54e6cea0-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "fe4ca931-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:43:24.554Z",
+        "updated": "2024-02-13T09:43:24.554Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "3473": {
+      "text": "Parts of French Guiana, including schools and shops, were shut down on Monday, amid a general strike-over high crime rates, the cost of living and lack of public services. The French government appealed for calm in its South American territory, which has been gripped by protests that have halted flights, disrupted a rocket launch and prompted travel warnings since late last month.- \"The first priority is the fight against insecurity,\" French President Francois Hollande said. More than 30 labour unions launched the strike, demanding a \"Marshall Plan\" to improve public services and security. The territory, home to about 250,000 people, relies on large injections of public funds and residents say it is often overlooked by the French government. \"This has gone on long enough! All we have is plundered, it's time to recognise the people of Guiana,\" a woman at a barricade blocking access to the airport in the capital Cayenne told AFP news agency on Sunday. Antoine Karma, Guiana's representative to the French senate in Paris, said those in the territory are without basic social services and goods. \"Today, 30 percent of the population still does not have access to drinking water or electricity,\" Karma told French media on Monday. \"We are not treated the same way as the French on the French mainland,\" the socialist party politician said. French Prime Minister Bernard Cazeneuve said a delegation of ministers would be sent to Guiana by the end of the week if certain conditions were met. He did not elaborate on what those conditions were. The French government had previously sent a delegation to negotiate with protesters, but many refused to meet the officials, demanding that French ministers come instead. With less than four weeks until the first round of the French presidential election, the unrest in Guiana has been highlighted by several top candidates. Marine Le Pen, the far-right leader, condemned what she called a \"cruel minimum service\" delivered by French governments to the territory. She also blamed \"mass immigration\" for insecurity, according to local media. Independent centrist candidate Emmanuel Macron, who just completed a tour of France's overseas territories, called for calm, saying the situation was \"serious\". He was later mocked for calling the overseas territory an island, which it is not. Conservative candidate Francois Fillon blamed the situation on \"the failed policies of Francois Hollande\". READ MORE: Marine Le Pen and post-colonial overseas departments The unions part of the strike have called for a complete shutdown of activity on Tuesday, according to the France-Guyane newspaper. Air France and Air Caraibes cancelled all flights into Guiana and schools and universities were closed. The protests also led to the postponement of an Arianespace rocket launch at Europe's Guiana Space Centre in Kourou. Barricades were briefly lifted on Sunday to allow some residents to stock up on food and other supplies before the strike began. Similar unrest gripped French Guiana in 2008 over soaring fuel prices. Schools and the airport were shut down. The strike ended after 11 days, when the government agreed to cut fuel prices. Source:-News agencies",
+      "title": "French Guiana paralysed by general strike",
+      "source": "http://www.aljazeera.com/news/2017/03/general-strike-paralyses-french-guiana-170327211722833.html",
+      "timestamp": "2017-03-27T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.178Z",
+        "updated": "2024-02-09T13:09:16.178Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "fe4ca930-ca52-11ee-b5b8-bbee0a74ec6f",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.178Z",
+    "updated": "2024-02-13T09:43:51.946Z"
+  }
+}

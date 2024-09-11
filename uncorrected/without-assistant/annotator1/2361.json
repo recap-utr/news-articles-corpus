@@ -1,0 +1,163 @@
+{
+  "nodes": {
+    "2f175070-c9fd-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "The US Department of Justice declined to comment on the case of Russian citizen Stanislav Lisov",
+        "reference": {
+          "resource": "2361",
+          "offset": 30,
+          "text": "The US Department of Justice declined to comment on the case of Russian citizen Stanislav Lisov"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:19:34.903Z",
+        "updated": "2024-02-12T23:19:34.903Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 174.06031098333,
+            "y": -77.12261795300525
+          }
+        }
+      }
+    },
+    "3d8b1ce0-c9fd-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": " \"The Justice Department declines to comment,\" says department spokesperson",
+        "reference": {
+          "resource": "2361",
+          "offset": 209,
+          "text": " \"The Justice Department declines to comment,\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:19:59.150Z",
+        "updated": "2024-02-12T23:19:59.150Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -119.85709900253772,
+            "y": 244.9621292379054
+          }
+        }
+      }
+    },
+    "40176d10-c9fd-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:20:03.425Z",
+        "updated": "2024-02-12T23:20:03.425Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -34.928105179443776,
+            "y": 147.09816516728702
+          }
+        }
+      }
+    },
+    "60e2cfd0-c9fd-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": " the \"extradition documents have been received by Spain's (foreign) ministry, but not handed over to the court yet.\" says Lisovs Lawyer",
+        "reference": {
+          "resource": "2361",
+          "offset": 316,
+          "text": " the \"extradition documents have been received by Spain's (foreign) ministry, but not handed over to the court yet.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:20:58.445Z",
+        "updated": "2024-02-12T23:20:58.445Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 233.94199433654921,
+            "y": 248.7911237545622
+          }
+        }
+      }
+    },
+    "636953a0-c9fd-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:21:02.682Z",
+        "updated": "2024-02-12T23:21:02.682Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 203.23535375660825,
+            "y": 87.36585070744118
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "40179420-c9fd-11ee-b733-854bb707c32b": {
+      "source": "3d8b1ce0-c9fd-11ee-b733-854bb707c32b",
+      "target": "40176d10-c9fd-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:20:03.426Z",
+        "updated": "2024-02-12T23:20:03.426Z"
+      },
+      "userdata": {}
+    },
+    "40179421-c9fd-11ee-b733-854bb707c32b": {
+      "source": "40176d10-c9fd-11ee-b733-854bb707c32b",
+      "target": "2f175070-c9fd-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:20:03.426Z",
+        "updated": "2024-02-12T23:20:03.426Z"
+      },
+      "userdata": {}
+    },
+    "636953a1-c9fd-11ee-b733-854bb707c32b": {
+      "source": "60e2cfd0-c9fd-11ee-b733-854bb707c32b",
+      "target": "636953a0-c9fd-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:21:02.682Z",
+        "updated": "2024-02-12T23:21:02.682Z"
+      },
+      "userdata": {}
+    },
+    "636953a2-c9fd-11ee-b733-854bb707c32b": {
+      "source": "636953a0-c9fd-11ee-b733-854bb707c32b",
+      "target": "2f175070-c9fd-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:21:02.682Z",
+        "updated": "2024-02-12T23:21:02.682Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "2361": {
+      "text": "WASHINGTON, March 15. /TASS/. The US Department of Justice declined to comment on the case of Russian citizen Stanislav Lisov, detained in Spain on a US query, department spokesperson Nicole Navas told TASS.   \"The Justice Department declines to comment,\" she said. Lisov's lawyer Oleg Gubarev told TASS Tuesday that the \"extradition documents have been received by Spain's (foreign) ministry, but not handed over to the court yet.\" \"Thus, all time limits have been observed,\" he said, adding that it was too early to make any forecasts. The date of the Spanish court hearings on the extradition case remains to be set. Lisov was detained in the Barcelona airport on January 13, on a request from the United States. He is kept in a penitentiary facility in Madrid while the court is considering the issue of his extradition. The US suspects Lisov of developing and using a new banking Trojan, NeverQuest, together with other persons to gain \"access to computers of individuals and financial institutions to steal banking data, information on credit cards and personal data.\" The damage from the actions of the hacker network, to which Lisov allegedly belongs, is estimated at about $5 million. The Russian national earlier denied any wrongdoing and said he had no idea of why the US authorities designated him as a suspect.  ",
+      "title": "US Department of Justice declines to comment on case of Russian man detained on US request",
+      "source": "http://tass.com/world/935551",
+      "timestamp": "2017-03-15T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-08T09:23:32.582Z",
+        "updated": "2024-02-08T09:23:32.582Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "2f175070-c9fd-11ee-b733-854bb707c32b",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-08T09:23:32.582Z",
+    "updated": "2024-02-12T23:22:29.198Z"
+  }
+}

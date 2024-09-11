@@ -1,0 +1,980 @@
+{
+  "nodes": {
+    "99f87080-c616-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "A man who admitted raping a 12-year-old girl has walked free from court",
+        "reference": {
+          "resource": "2743",
+          "offset": 0,
+          "text": "A man who admitted raping a 12-year-old girl has walked free from court"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:11:26.984Z",
+        "updated": "2024-02-08T00:11:26.984Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1034.5004675492196,
+            "y": 12
+          }
+        }
+      }
+    },
+    "aaa9f7f0-c616-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "He had believed the girl - who he met in a taxi queue in Edinburgh in July 2015 - was 16",
+        "reference": {
+          "resource": "2743",
+          "offset": 93,
+          "text": "had believed the girl - who he met in a taxi queue in Edinburgh in July 2015 - was 16"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:11:54.991Z",
+        "updated": "2024-02-08T00:11:54.991Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1384.5002251685985,
+            "y": 230
+          }
+        }
+      }
+    },
+    "b1d795a0-c616-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:12:07.034Z",
+        "updated": "2024-02-08T00:12:07.034Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1484.5008914525988,
+            "y": 130
+          }
+        }
+      }
+    },
+    "b9731050-c616-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "He burst into tears when police later revealed her true age",
+        "reference": {
+          "resource": "2743",
+          "offset": 180,
+          "text": "He burst into tears when police later revealed her true age"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:12:19.797Z",
+        "updated": "2024-02-08T00:12:19.797Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1384.5003276092616,
+            "y": 472
+          }
+        }
+      }
+    },
+    "bc735800-c616-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:12:24.832Z",
+        "updated": "2024-02-08T00:12:24.832Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1484.5009075525154,
+            "y": 372
+          }
+        }
+      }
+    },
+    "d0062d70-c616-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": " she gave the first offender an absolute discharge at the High Court in Glasgow",
+        "reference": {
+          "resource": "2743",
+          "offset": 351,
+          "text": " she gave the first offender an absolute discharge at the High Court in Glasgow"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:12:57.671Z",
+        "updated": "2024-02-08T00:12:57.671Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1034.5006594089277,
+            "y": 230
+          }
+        }
+      }
+    },
+    "d2936800-c616-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:13:01.952Z",
+        "updated": "2024-02-08T00:13:01.952Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1134.500954994895,
+            "y": 130
+          }
+        }
+      }
+    },
+    "db830100-c616-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "I do not consider there is any need for, or public interest in, punishment. To do so would in my view be disproportionate given the nature of the criminal culpability here",
+        "reference": {
+          "resource": "2743",
+          "offset": 443,
+          "text": "I do not consider there is any need for, or public interest in, punishment. To do so would in my view be disproportionate given the nature of the criminal culpability here"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:13:16.944Z",
+        "updated": "2024-02-08T00:13:16.944Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1034.5003871018048,
+            "y": 472
+          }
+        }
+      }
+    },
+    "dde5a920-c616-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:13:20.946Z",
+        "updated": "2024-02-08T00:13:20.946Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1134.5001222344285,
+            "y": 372
+          }
+        }
+      }
+    },
+    "f72aedf0-c616-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "had earlier pleaded guilty to the rape charge",
+        "reference": {
+          "resource": "2743",
+          "offset": 673,
+          "text": "had earlier pleaded guilty to the rape charge"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:14:03.343Z",
+        "updated": "2024-02-08T00:14:03.343Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 684.5004700680979,
+            "y": 242
+          }
+        }
+      }
+    },
+    "2c9f5110-c617-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "officers had not noted her details \"as they were not concerned by her age\"",
+        "reference": {
+          "resource": "2743",
+          "offset": 1039,
+          "text": "officers had not noted her details \"as they were not concerned by her age\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:15:33.025Z",
+        "updated": "2024-02-08T00:15:33.025Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 334.50070139289244,
+            "y": 762
+          }
+        }
+      }
+    },
+    "2edce500-c617-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:15:36.784Z",
+        "updated": "2024-02-08T00:15:36.784Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 434.5001860938067,
+            "y": 662
+          }
+        }
+      }
+    },
+    "36dcc6d0-c617-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "The victim said she was 16 and her friend was 17",
+        "reference": {
+          "resource": "2743",
+          "offset": 1207,
+          "text": "The victim said she was 16 and her friend was 17"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:15:50.206Z",
+        "updated": "2024-02-08T00:15:50.206Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 684.500451217687,
+            "y": 786
+          }
+        }
+      }
+    },
+    "39d8a1b0-c617-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:15:55.211Z",
+        "updated": "2024-02-08T00:15:55.211Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 784.5002646187284,
+            "y": 662
+          }
+        }
+      }
+    },
+    "405d0710-c617-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "The taxi driver later said he thought the girl was 20",
+        "reference": {
+          "resource": "2743",
+          "offset": 1257,
+          "text": "The taxi driver later said he thought the girl was 20"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:16:06.145Z",
+        "updated": "2024-02-08T00:16:06.145Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1034.5001061768178,
+            "y": 762
+          }
+        }
+      }
+    },
+    "44a55f20-c617-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:16:13.330Z",
+        "updated": "2024-02-08T00:16:13.330Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1134.500068923535,
+            "y": 662
+          }
+        }
+      }
+    },
+    "5bc48fa0-c617-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "Cieslak then invited them to a party at his friend's house, where he had sex with the 12-year-old",
+        "reference": {
+          "resource": "2743",
+          "offset": 1312,
+          "text": "Cieslak then invited them to a party at his friend's house, where he had sex with the 12-year-old"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:16:52.122Z",
+        "updated": "2024-02-08T00:16:52.122Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 684.5001238057822,
+            "y": 472
+          }
+        }
+      }
+    },
+    "5fb9bea0-c617-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:16:58.762Z",
+        "updated": "2024-02-08T00:16:58.762Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 784.5005440823967,
+            "y": 372
+          }
+        }
+      }
+    },
+    "6a6893d0-c617-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "The court heard she left the next morning, and there had been no suggestion of her being distressed",
+        "reference": {
+          "resource": "2743",
+          "offset": 1411,
+          "text": "The court heard she left the next morning, and there had been no suggestion of her being distressed"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:17:16.685Z",
+        "updated": "2024-02-08T00:17:16.685Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1384.5005336128152,
+            "y": 762
+          }
+        }
+      }
+    },
+    "6e09af60-c617-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:17:22.774Z",
+        "updated": "2024-02-08T00:17:22.774Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1484.500915689189,
+            "y": 662
+          }
+        }
+      }
+    },
+    "95361100-c617-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "At its heart is the fact that the girl in question looked over 16 - even the judge accepts that, having viewed CCTV footage",
+        "reference": {
+          "resource": "2743",
+          "offset": 2200,
+          "text": "At its heart is the fact that the girl in question looked over 16 - even the judge accepts that, having viewed CCTV footage"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:18:28.496Z",
+        "updated": "2024-02-08T00:18:28.496Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1734.5006131598825,
+            "y": 762
+          }
+        }
+      }
+    },
+    "9a0bdc00-c617-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:18:36.608Z",
+        "updated": "2024-02-08T00:18:36.608Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1834.5007907838558,
+            "y": 662
+          }
+        }
+      }
+    },
+    "b9c95130-c617-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": " if the girl, who was 12 years and seven months old at the time of the offence, had been aged 13 then Cieslak would have had a defence to the rape charge",
+        "reference": {
+          "resource": "2743",
+          "offset": 3609,
+          "text": " if the girl, who was 12 years and seven months old at the time of the offence, had been aged 13 then Cieslak would have had a defence to the rape charge"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:19:29.859Z",
+        "updated": "2024-02-08T00:19:29.859Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2084.5003167528553,
+            "y": 762
+          }
+        }
+      }
+    },
+    "be82ba90-c617-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:19:37.785Z",
+        "updated": "2024-02-08T00:19:37.785Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2184.50036506652,
+            "y": 662
+          }
+        }
+      }
+    },
+    "fece8030-fb22-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T12:23:41.747Z",
+        "updated": "2024-04-15T12:23:41.747Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 784.5005759561296,
+            "y": 130
+          }
+        }
+      }
+    },
+    "83a96d10-fb23-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "they met more friends and bought vodka",
+        "reference": {
+          "text": "they met more friends and bought vodka"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T12:27:24.641Z",
+        "updated": "2024-04-15T12:27:24.641Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 684.5004426161407,
+            "y": 1028
+          }
+        }
+      }
+    },
+    "86b1f220-fb23-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T12:27:29.730Z",
+        "updated": "2024-04-15T12:27:29.730Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 784.5000663712481,
+            "y": 928
+          }
+        }
+      }
+    },
+    "f74ba120-fb23-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "the girl engaged in sex willingly",
+        "reference": {
+          "text": "the girl engaged in sex willingly"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T12:30:38.642Z",
+        "updated": "2024-04-15T12:30:38.642Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 39.500435945343824,
+            "y": 795
+          }
+        }
+      }
+    },
+    "fa6f2840-fb23-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T12:30:43.908Z",
+        "updated": "2024-04-15T12:30:43.908Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00034908520053,
+            "y": 662
+          }
+        }
+      }
+    },
+    "1ac1b180-fb24-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "Rape laws, which were strengthened in 2009, do not allow any child under the age of 13 to give informed consent about sexual intercourse",
+        "reference": {
+          "text": "Rape laws, which were strengthened in 2009, do not allow any child under the age of 13 to give informed consent about sexual intercourse"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T12:31:38.136Z",
+        "updated": "2024-04-15T12:31:38.136Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.00025071254864,
+            "y": 1028
+          }
+        }
+      }
+    },
+    "1e80dc60-fb24-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T12:31:44.422Z",
+        "updated": "2024-04-15T12:31:44.422Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00000657107218,
+            "y": 928
+          }
+        }
+      }
+    },
+    "4d3d9520-fb24-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "the statutory offence had \"a very wide scope\" and that there were a number of \"exceptional circumstances\" in the case",
+        "reference": {
+          "text": "the statutory offence had \"a very wide scope\" and that there were a number of \"exceptional circumstances\" in the case"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T12:33:02.834Z",
+        "updated": "2024-04-15T12:33:02.834Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000455798344486,
+            "y": 1294
+          }
+        }
+      }
+    },
+    "4fa4f830-fb24-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T12:33:06.867Z",
+        "updated": "2024-04-15T12:33:06.867Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.0005348213617,
+            "y": 1194
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "b1d795a1-c616-11ee-bbb2-f78c6e9d2422": {
+      "source": "aaa9f7f0-c616-11ee-bbb2-f78c6e9d2422",
+      "target": "b1d795a0-c616-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:12:07.034Z",
+        "updated": "2024-02-08T00:12:07.034Z"
+      },
+      "userdata": {}
+    },
+    "b1d795a2-c616-11ee-bbb2-f78c6e9d2422": {
+      "source": "b1d795a0-c616-11ee-bbb2-f78c6e9d2422",
+      "target": "99f87080-c616-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:12:07.034Z",
+        "updated": "2024-02-08T00:12:07.034Z"
+      },
+      "userdata": {}
+    },
+    "bc735801-c616-11ee-bbb2-f78c6e9d2422": {
+      "source": "b9731050-c616-11ee-bbb2-f78c6e9d2422",
+      "target": "bc735800-c616-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:12:24.832Z",
+        "updated": "2024-02-08T00:12:24.832Z"
+      },
+      "userdata": {}
+    },
+    "bc735802-c616-11ee-bbb2-f78c6e9d2422": {
+      "source": "bc735800-c616-11ee-bbb2-f78c6e9d2422",
+      "target": "aaa9f7f0-c616-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:12:24.832Z",
+        "updated": "2024-02-08T00:12:24.832Z"
+      },
+      "userdata": {}
+    },
+    "d2936801-c616-11ee-bbb2-f78c6e9d2422": {
+      "source": "d0062d70-c616-11ee-bbb2-f78c6e9d2422",
+      "target": "d2936800-c616-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:13:01.952Z",
+        "updated": "2024-02-08T00:13:01.952Z"
+      },
+      "userdata": {}
+    },
+    "d2936802-c616-11ee-bbb2-f78c6e9d2422": {
+      "source": "d2936800-c616-11ee-bbb2-f78c6e9d2422",
+      "target": "99f87080-c616-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:13:01.952Z",
+        "updated": "2024-02-08T00:13:01.952Z"
+      },
+      "userdata": {}
+    },
+    "dde5a921-c616-11ee-bbb2-f78c6e9d2422": {
+      "source": "db830100-c616-11ee-bbb2-f78c6e9d2422",
+      "target": "dde5a920-c616-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:13:20.946Z",
+        "updated": "2024-02-08T00:13:20.946Z"
+      },
+      "userdata": {}
+    },
+    "dde5a922-c616-11ee-bbb2-f78c6e9d2422": {
+      "source": "dde5a920-c616-11ee-bbb2-f78c6e9d2422",
+      "target": "d0062d70-c616-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:13:20.946Z",
+        "updated": "2024-02-08T00:13:20.946Z"
+      },
+      "userdata": {}
+    },
+    "02bd6c61-c617-11ee-bbb2-f78c6e9d2422": {
+      "source": "f72aedf0-c616-11ee-bbb2-f78c6e9d2422",
+      "target": "02bd6c60-c617-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:14:22.758Z",
+        "updated": "2024-02-08T00:14:22.758Z"
+      },
+      "userdata": {}
+    },
+    "2edce501-c617-11ee-bbb2-f78c6e9d2422": {
+      "source": "2c9f5110-c617-11ee-bbb2-f78c6e9d2422",
+      "target": "2edce500-c617-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:15:36.784Z",
+        "updated": "2024-02-08T00:15:36.784Z"
+      },
+      "userdata": {}
+    },
+    "2edce502-c617-11ee-bbb2-f78c6e9d2422": {
+      "source": "2edce500-c617-11ee-bbb2-f78c6e9d2422",
+      "target": "db830100-c616-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:15:36.784Z",
+        "updated": "2024-02-08T00:15:36.784Z"
+      },
+      "userdata": {}
+    },
+    "39d8a1b1-c617-11ee-bbb2-f78c6e9d2422": {
+      "source": "36dcc6d0-c617-11ee-bbb2-f78c6e9d2422",
+      "target": "39d8a1b0-c617-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:15:55.211Z",
+        "updated": "2024-02-08T00:15:55.211Z"
+      },
+      "userdata": {}
+    },
+    "39d8a1b2-c617-11ee-bbb2-f78c6e9d2422": {
+      "source": "39d8a1b0-c617-11ee-bbb2-f78c6e9d2422",
+      "target": "db830100-c616-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:15:55.211Z",
+        "updated": "2024-02-08T00:15:55.211Z"
+      },
+      "userdata": {}
+    },
+    "44a55f21-c617-11ee-bbb2-f78c6e9d2422": {
+      "source": "405d0710-c617-11ee-bbb2-f78c6e9d2422",
+      "target": "44a55f20-c617-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:16:13.330Z",
+        "updated": "2024-02-08T00:16:13.330Z"
+      },
+      "userdata": {}
+    },
+    "44a55f22-c617-11ee-bbb2-f78c6e9d2422": {
+      "source": "44a55f20-c617-11ee-bbb2-f78c6e9d2422",
+      "target": "db830100-c616-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:16:13.330Z",
+        "updated": "2024-02-08T00:16:13.330Z"
+      },
+      "userdata": {}
+    },
+    "5fb9bea1-c617-11ee-bbb2-f78c6e9d2422": {
+      "source": "5bc48fa0-c617-11ee-bbb2-f78c6e9d2422",
+      "target": "5fb9bea0-c617-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:16:58.762Z",
+        "updated": "2024-02-08T00:16:58.762Z"
+      },
+      "userdata": {}
+    },
+    "5fb9bea2-c617-11ee-bbb2-f78c6e9d2422": {
+      "source": "5fb9bea0-c617-11ee-bbb2-f78c6e9d2422",
+      "target": "f72aedf0-c616-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:16:58.762Z",
+        "updated": "2024-02-08T00:16:58.762Z"
+      },
+      "userdata": {}
+    },
+    "6e09af61-c617-11ee-bbb2-f78c6e9d2422": {
+      "source": "6a6893d0-c617-11ee-bbb2-f78c6e9d2422",
+      "target": "6e09af60-c617-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:17:22.774Z",
+        "updated": "2024-02-08T00:17:22.774Z"
+      },
+      "userdata": {}
+    },
+    "6e09af62-c617-11ee-bbb2-f78c6e9d2422": {
+      "source": "6e09af60-c617-11ee-bbb2-f78c6e9d2422",
+      "target": "db830100-c616-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:17:22.774Z",
+        "updated": "2024-02-08T00:17:22.774Z"
+      },
+      "userdata": {}
+    },
+    "9a0bdc01-c617-11ee-bbb2-f78c6e9d2422": {
+      "source": "95361100-c617-11ee-bbb2-f78c6e9d2422",
+      "target": "9a0bdc00-c617-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:18:36.608Z",
+        "updated": "2024-02-08T00:18:36.608Z"
+      },
+      "userdata": {}
+    },
+    "9a0bdc02-c617-11ee-bbb2-f78c6e9d2422": {
+      "source": "9a0bdc00-c617-11ee-bbb2-f78c6e9d2422",
+      "target": "db830100-c616-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:18:36.608Z",
+        "updated": "2024-02-08T00:18:36.608Z"
+      },
+      "userdata": {}
+    },
+    "be82ba91-c617-11ee-bbb2-f78c6e9d2422": {
+      "source": "b9c95130-c617-11ee-bbb2-f78c6e9d2422",
+      "target": "be82ba90-c617-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:19:37.785Z",
+        "updated": "2024-02-08T00:19:37.785Z"
+      },
+      "userdata": {}
+    },
+    "be82ba92-c617-11ee-bbb2-f78c6e9d2422": {
+      "source": "be82ba90-c617-11ee-bbb2-f78c6e9d2422",
+      "target": "db830100-c616-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:19:37.785Z",
+        "updated": "2024-02-08T00:19:37.785Z"
+      },
+      "userdata": {}
+    },
+    "f82f18c0-fb22-11ee-aa26-a11ecda1a83c": {
+      "source": "02bd6c60-c617-11ee-bbb2-f78c6e9d2422",
+      "target": "db830100-c616-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-04-15T12:23:30.636Z",
+        "updated": "2024-04-15T12:23:30.636Z"
+      },
+      "userdata": {}
+    },
+    "fece8031-fb22-11ee-aa26-a11ecda1a83c": {
+      "source": "f72aedf0-c616-11ee-bbb2-f78c6e9d2422",
+      "target": "fece8030-fb22-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T12:23:41.747Z",
+        "updated": "2024-04-15T12:23:41.747Z"
+      },
+      "userdata": {}
+    },
+    "403f4720-fb23-11ee-aa26-a11ecda1a83c": {
+      "source": "fece8030-fb22-11ee-aa26-a11ecda1a83c",
+      "target": "99f87080-c616-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-04-15T12:25:31.538Z",
+        "updated": "2024-04-15T12:25:31.538Z"
+      },
+      "userdata": {}
+    },
+    "86b1f221-fb23-11ee-aa26-a11ecda1a83c": {
+      "source": "83a96d10-fb23-11ee-aa26-a11ecda1a83c",
+      "target": "86b1f220-fb23-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T12:27:29.730Z",
+        "updated": "2024-04-15T12:27:29.730Z"
+      },
+      "userdata": {}
+    },
+    "86b1f222-fb23-11ee-aa26-a11ecda1a83c": {
+      "source": "86b1f220-fb23-11ee-aa26-a11ecda1a83c",
+      "target": "36dcc6d0-c617-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-04-15T12:27:29.730Z",
+        "updated": "2024-04-15T12:27:29.730Z"
+      },
+      "userdata": {}
+    },
+    "fa6f2841-fb23-11ee-aa26-a11ecda1a83c": {
+      "source": "f74ba120-fb23-11ee-aa26-a11ecda1a83c",
+      "target": "fa6f2840-fb23-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T12:30:43.908Z",
+        "updated": "2024-04-15T12:30:43.908Z"
+      },
+      "userdata": {}
+    },
+    "fa6f2842-fb23-11ee-aa26-a11ecda1a83c": {
+      "source": "fa6f2840-fb23-11ee-aa26-a11ecda1a83c",
+      "target": "db830100-c616-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-04-15T12:30:43.908Z",
+        "updated": "2024-04-15T12:30:43.908Z"
+      },
+      "userdata": {}
+    },
+    "1e80dc61-fb24-11ee-aa26-a11ecda1a83c": {
+      "source": "1ac1b180-fb24-11ee-aa26-a11ecda1a83c",
+      "target": "1e80dc60-fb24-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T12:31:44.422Z",
+        "updated": "2024-04-15T12:31:44.422Z"
+      },
+      "userdata": {}
+    },
+    "1e810370-fb24-11ee-aa26-a11ecda1a83c": {
+      "source": "1e80dc60-fb24-11ee-aa26-a11ecda1a83c",
+      "target": "f74ba120-fb23-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T12:31:44.423Z",
+        "updated": "2024-04-15T12:31:44.423Z"
+      },
+      "userdata": {}
+    },
+    "4fa4f831-fb24-11ee-aa26-a11ecda1a83c": {
+      "source": "4d3d9520-fb24-11ee-aa26-a11ecda1a83c",
+      "target": "4fa4f830-fb24-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T12:33:06.867Z",
+        "updated": "2024-04-15T12:33:06.867Z"
+      },
+      "userdata": {}
+    },
+    "4fa4f832-fb24-11ee-aa26-a11ecda1a83c": {
+      "source": "4fa4f830-fb24-11ee-aa26-a11ecda1a83c",
+      "target": "1ac1b180-fb24-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T12:33:06.867Z",
+        "updated": "2024-04-15T12:33:06.867Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "2743": {
+      "text": "A man who admitted raping a 12-year-old girl has walked free from court. Daniel Cieslak, 21, had believed the girl - who he met in a taxi queue in Edinburgh in July 2015 - was 16. He burst into tears when police later revealed her true age. The judge, Lady Scott, said she was taking the \"wholly exceptional decision\" not to sentence Cieslak. Instead, she gave the first offender an absolute discharge at the High Court in Glasgow. She said: \"I do not consider there is any need for, or public interest in, punishment. To do so would in my view be disproportionate given the nature of the criminal culpability here.\" Student Cieslak, who was 19 at the time of the offence, had earlier pleaded guilty to the rape charge. The court heard that the girl had travelled to Edinburgh on a Friday in July with her 13-year-old friend, where they met more friends and bought vodka. In the early hours of the following morning, police searching for another girl who was missing spoke to the 12-year-old in Princes Street. Prosecutor Kath Harper said officers had not noted her details \"as they were not concerned by her age\". At about 04:00, the girl and her friend met Cieslak and one of his friends in a taxi queue. The victim said she was 16 and her friend was 17. The taxi driver later said he thought the girl was 20. Cieslak then invited them to a party at his friend's house, where he had sex with the 12-year-old. The court heard she left the next morning, and there had been no suggestion of her being distressed. The offence came to light days later after the girl told her sister she was \"extremely worried\" she could be pregnant. An absolute discharge is given instead of sentencing an offender. It is not a conviction - although it may put before the court if the offender appears again for another offence. It is used \"when the court is of the opinion, having regard to the circumstances, including the nature of the offence and the character of the offender, that it is inexpedient to inflict punishment\". This is a highly unusual case, and the judge has pointed out a number of \"exceptional circumstances\" in it, as she sought to explain why she passed the most lenient sentence allowed in law. At its heart is the fact that the girl in question looked over 16 - even the judge accepts that, having viewed CCTV footage. Police officers looking at night for under-age children in the streets of Edinburgh had no concerns about her age. Also, the girl engaged in sex willingly. So why was Daniel Cieslak prosecuted? Rape laws, which were strengthened in 2009, do not allow any child under the age of 13 to give informed consent about sexual intercourse. So if it happens, in the eyes of the law, it is rape; there is no defence of consent. Under the strict definition of the Act, prosecutors were bound to charge Mr Cieslak who, in any case, admitted the offence. But the judge has exercised her sentencing powers to impose no punishment on him. That would appear to be an exceptional decision, although the most recent figures show in 2015-16, nine people convicted of rape or attempted rape were sentenced to community payback orders or probation. Lady Scott told Cieslak that the case was one of \"strict liability\" as anyone under the age of 13 was deemed to be incapable of giving consent. This was to both protect young girls from \"predatory adult males\" and to \"protect them from themselves\". However, she said the statutory offence had \"a very wide scope\" and that there were a number of \"exceptional circumstances\" in the case. Lady Scott said there had been consent from the victim. She added that if the girl, who was 12 years and seven months old at the time of the offence, had been aged 13 then Cieslak would have had a defence to the rape charge. He could have argued that he had \"reasonable grounds\" to believe that the victim was above the age of consent. Lady Scott said there there were a number of \"relevant facts\", which included that all witnesses had thought the victim was older than 16. The police officers had no concerns about her age, and having viewed CCTV footage Lady Scott said it would have been \"reasonable\" to believe the girl was over 16.",
+      "title": "No punishment for man who raped girl, 12",
+      "source": "http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-39305042",
+      "timestamp": "2024-02-08T00:07:56.294Z",
+      "metadata": {
+        "created": "2024-02-05T09:49:22.053Z",
+        "updated": "2024-02-05T09:49:22.053Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "2c603380-c41a-11ee-a06c-cb1cbb90ffa4": {
+      "name": "annotator0",
+      "email": "s4kibart@uni-trier.de",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "99f87080-c616-11ee-bbb2-f78c6e9d2422",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-05T09:49:22.053Z",
+    "updated": "2024-04-15T12:33:51.930Z"
+  },
+  "userdata": {
+    "notes": "12min"
+  }
+}

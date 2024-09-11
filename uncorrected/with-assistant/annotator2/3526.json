@@ -1,0 +1,414 @@
+{
+  "nodes": {
+    "9a4807c1-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "The meeting raises additional questions because VEB has been under US sanctions for three years",
+        "reference": {
+          "resource": "3526",
+          "offset": 356,
+          "text": "The meeting raises additional questions because VEB has been under US sanctions for three years"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:36:47.164Z",
+        "updated": "2024-02-11T13:36:47.164Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This presents a potential issue with the meeting, adding to the argument that the meeting is questionable."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 362.00018939153875,
+            "y": 342
+          }
+        }
+      }
+    },
+    "9a4807c0-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "The meeting between Kushner and the chairman of a state-run Russian bank will likely be scrutinized by congressional investigators probing links between Trump associates and the Russian government",
+        "reference": {
+          "resource": "3526",
+          "text": "The meeting between Kushner and the chairman of a state-run Russian bank will likely be scrutinized by congressional investigators probing links between Trump associates and the Russian government"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:36:47.164Z",
+        "updated": "2024-02-11T13:36:47.164Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement presents a context for the scrutiny of Kushner's meeting with a Russian bank chairman, which is part of the argument.",
+          "mcConfig": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "mcExplanation": "This ADU sets up the central issue around which the other ADUs revolve: the potential implications and scrutiny of Kushner's meeting with a Russian bank chairman."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 312.0007755475655,
+            "y": 12
+          }
+        }
+      }
+    },
+    "9a4807c7-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:36:47.164Z",
+        "updated": "2024-02-11T13:36:47.164Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "ADU2 presents a specific issue (sanctions) that would lead to the scrutiny mentioned in ADU1."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 462.00081317939186,
+            "y": 226
+          }
+        }
+      }
+    },
+    "9a4807c2-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "The White House said Kushner was acting as a Trump adviser -- not as a private developer -- when he met with Gorkov",
+        "reference": {
+          "resource": "3526",
+          "offset": 554,
+          "text": "The White House said Kushner was acting as a Trump adviser -- not as a private developer -- when he met with Gorkov"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:36:47.164Z",
+        "updated": "2024-02-11T13:36:47.164Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU provides a defense argument for Kushner's meeting, stating it was in his official capacity and not personal."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 12.000675557342518,
+            "y": 326
+          }
+        }
+      }
+    },
+    "9a4807ca-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:36:47.164Z",
+        "updated": "2024-02-11T13:36:47.164Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "ADU3 argues against the implication that the meeting was inappropriate by stating Kushner's role as an adviser, not a private developer."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 112.0006395919171,
+            "y": 226
+          }
+        }
+      }
+    },
+    "9a4807c3-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "The meeting between Kushner and Gorkov does not violate the US sanctions, and it is not unusual for businesses under sanctions to meet with US officials, experts said",
+        "reference": {
+          "resource": "3526",
+          "offset": 1237,
+          "text": "The meeting between Kushner and Gorkov does not violate the US sanctions, and it is not unusual for businesses under sanctions to meet with US officials, experts said"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:36:47.164Z",
+        "updated": "2024-02-11T13:36:47.164Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement argues that the meeting did not violate any sanction laws and is normalized behavior, contradicting potential criticisms."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 412.0003522215287,
+            "y": 592
+          }
+        }
+      }
+    },
+    "9a4807cd-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:36:47.164Z",
+        "updated": "2024-02-11T13:36:47.164Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "ADU4 argues that the meeting did not violate sanctions, which contradicts the concerns raised in ADU2."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 512.0006291788037,
+            "y": 492
+          }
+        }
+      }
+    },
+    "9a4807c4-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Trump said during his presidential campaign that he was open to reconsidering the sanctions against Russia",
+        "reference": {
+          "resource": "3526",
+          "offset": 1648,
+          "text": "Trump said during his presidential campaign that he was open to reconsidering the sanctions against Russia"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:36:47.164Z",
+        "updated": "2024-02-11T13:36:47.164Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement provides context for the potential leniency towards Russia, supporting the notion that meeting with a sanctioned entity might be in line with Trump's stance."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 412.00045899135563,
+            "y": 882
+          }
+        }
+      }
+    },
+    "9a4807d0-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:36:47.164Z",
+        "updated": "2024-02-11T13:36:47.164Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "ADU5 supports ADU4 by providing context on Trump's stance on sanctions, suggesting a consistency with the meeting's nature."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 512.0006379402241,
+            "y": 782
+          }
+        }
+      }
+    },
+    "9a4807c5-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "President Obama imposed sanctions on Russian financial institutions in 2014 after Russia annexed part of neighboring Ukraine",
+        "reference": {
+          "resource": "3526",
+          "text": "President Obama imposed sanctions on Russian financial institutions in 2014 after Russia annexed part of neighboring Ukraine"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:36:47.164Z",
+        "updated": "2024-02-11T13:36:47.164Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This provides background on why the sanctions were in place, essential to understanding the context of the scrutiny of the meeting."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 62.000838826418125,
+            "y": 592
+          }
+        }
+      }
+    },
+    "9a4807d3-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:36:47.164Z",
+        "updated": "2024-02-11T13:36:47.164Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "ADU6 gives background on why sanctions were imposed, which adds weight to the concerns raised in ADU2 about the meeting."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 162.0004743124305,
+            "y": 492
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "9a4807c8-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "source": "9a4807c1-c8e2-11ee-a7b6-0184e7d3dd10",
+      "target": "9a4807c7-c8e2-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:36:47.164Z",
+        "updated": "2024-02-11T13:36:47.164Z"
+      },
+      "userdata": {}
+    },
+    "9a4807c9-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "source": "9a4807c7-c8e2-11ee-a7b6-0184e7d3dd10",
+      "target": "9a4807c0-c8e2-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:36:47.164Z",
+        "updated": "2024-02-11T13:36:47.164Z"
+      },
+      "userdata": {}
+    },
+    "9a4807cb-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "source": "9a4807c2-c8e2-11ee-a7b6-0184e7d3dd10",
+      "target": "9a4807ca-c8e2-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:36:47.164Z",
+        "updated": "2024-02-11T13:36:47.164Z"
+      },
+      "userdata": {}
+    },
+    "9a4807cc-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "source": "9a4807ca-c8e2-11ee-a7b6-0184e7d3dd10",
+      "target": "9a4807c0-c8e2-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:36:47.164Z",
+        "updated": "2024-02-11T13:36:47.164Z"
+      },
+      "userdata": {}
+    },
+    "9a4807ce-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "source": "9a4807c3-c8e2-11ee-a7b6-0184e7d3dd10",
+      "target": "9a4807cd-c8e2-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:36:47.164Z",
+        "updated": "2024-02-11T13:36:47.164Z"
+      },
+      "userdata": {}
+    },
+    "9a4807cf-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "source": "9a4807cd-c8e2-11ee-a7b6-0184e7d3dd10",
+      "target": "9a4807c1-c8e2-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:36:47.164Z",
+        "updated": "2024-02-11T13:36:47.164Z"
+      },
+      "userdata": {}
+    },
+    "9a4807d1-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "source": "9a4807c4-c8e2-11ee-a7b6-0184e7d3dd10",
+      "target": "9a4807d0-c8e2-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:36:47.164Z",
+        "updated": "2024-02-11T13:36:47.164Z"
+      },
+      "userdata": {}
+    },
+    "9a4807d2-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "source": "9a4807d0-c8e2-11ee-a7b6-0184e7d3dd10",
+      "target": "9a4807c3-c8e2-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:36:47.164Z",
+        "updated": "2024-02-11T13:36:47.164Z"
+      },
+      "userdata": {}
+    },
+    "9a4807d4-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "source": "9a4807c5-c8e2-11ee-a7b6-0184e7d3dd10",
+      "target": "9a4807d3-c8e2-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:36:47.164Z",
+        "updated": "2024-02-11T13:36:47.164Z"
+      },
+      "userdata": {}
+    },
+    "9a4807d5-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "source": "9a4807d3-c8e2-11ee-a7b6-0184e7d3dd10",
+      "target": "9a4807c1-c8e2-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:36:47.164Z",
+        "updated": "2024-02-11T13:36:47.164Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "3526": {
+      "text": "The meeting between Kushner, President Donald Trump's son-in-law and one of his closest advisers, and the chairman of a state-run Russian bank will likely be scrutinized by congressional investigators probing links between Trump associates and the Russian government. Kushner met with Sergey Gorkov, the chairman VneshEconomBank, or VEB, in December 2016. The meeting raises additional questions because VEB has been under US sanctions for three years, and because Kushner has been trying to attract financing for a building project of his in Manhattan. The White House said Kushner was acting as a Trump adviser -- not as a private developer -- when he met with Gorkov. \"He was a conduit and to -- to leaders and that's until we had a State Department, a functioning place for people to go,\" White House press secretary Sean Spicer on Monday. VEB confirmed the meeting with Kushner in a statement to CNN, though described Kushner in his role as head of Kushner Companies, not as a representative of Trump. \"During 2016 the bank's management repeatedly met with representatives of the world's leading financial institutions in Europe, Asia and America ... including the head of Kushner Companies, Jared Kushner,\" the VEB statement said. The meeting between Kushner and Gorkov does not violate the US sanctions, and it is not unusual for businesses under sanctions to meet with US officials, experts said. \"I don't see any problem in having a meeting,\" said Paul Saunders, executive director of the Center for the National Interest, a Washington, D.C., think-tank. \"The prohibitions relate to doing business with the banks, not to talking to them.\" Trump said during his presidential campaign that he was open to reconsidering the sanctions against Russia. The sanctions weakened much of the Russian finance sector by barring Americans and US companies from buying the debt of Russian financial institutions, which limits their ability to raise money. \"Right after the election, there was an expectation on the part of Russia that sanctions will be lifted,\" said Alevtina Guseva, a Boston University expert on Russian finance. VEB is a state-owned Russian corporation formed in 2007 that is closely tied to the Russian government. Its chairman is appointed by the Russian president. The Russian prime minister is chairman of the bank supervisory board. The bank has helped rescue financially troubled oligarchs and has financed infrastructure projects such as the 2014 Winter Olympics in Sochi that are too risky for commercial banks. Last year, the bank restructured 200 billion roubles (roughly $3.5 billion) in debts that were affiliated with Sochi projects. It was disclosed on Monday that Kushner agreed to speak to the Senate intelligence committee for its inquiry into whether the Trump campaign colluded with the Russian government in its effort to sway the 2016 election toward Trump. Lawmakers also want to question Kushner about his meeting in December with the Russian ambassador to the US, Sergey Kislyak. President Barack Obama imposed sanctions on Russian financial institutions in 2014 after Russian annexed part of neighboring Ukraine. ",
+      "title": "Russian banker who met with Jared Kushner has ties to Putin",
+      "source": "http://www.cnn.com/2017/03/27/politics/kushner-meeting-russian-banker-tied-to-putin/index.html",
+      "timestamp": "2017-03-28T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.223Z",
+        "updated": "2024-02-09T13:09:16.223Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "9a4807c0-c8e2-11ee-a7b6-0184e7d3dd10",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.223Z",
+    "updated": "2024-02-11T13:38:19.799Z"
+  }
+}

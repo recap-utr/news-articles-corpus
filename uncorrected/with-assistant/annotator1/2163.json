@@ -1,0 +1,615 @@
+{
+  "nodes": {
+    "49316310-ca4d-11ee-b99b-f5363d8acf38": {
+      "atom": {
+        "text": "The counsel for the defense of ex-Ukrainian President Viktor Yanukovich has urged international human rights organizations to openly monitor legal processes initiated against him",
+        "reference": {
+          "resource": "2163",
+          "offset": 24,
+          "text": "The counsel for the defense of ex-Ukrainian President Viktor Yanukovich has urged international human rights organizations to openly monitor legal processes initiated against him"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:52:58.433Z",
+        "updated": "2024-02-13T08:52:58.433Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU provides the main argument from Yanukovich's legal team concerning the necessity for international oversight.",
+          "mcConfig": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "mcExplanation": "This ADU introduces the main subject of the argument, which is the urge by Viktor Yanukovich's defense counsel for international human rights organizations to monitor the legal processes initiated against him. It sets the context and primary concern around which the subsequent points and evidence are structured, making it the central claim of the argument."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 733.4292240112874,
+            "y": 12
+          }
+        }
+      }
+    },
+    "49316311-ca4d-11ee-b99b-f5363d8acf38": {
+      "atom": {
+        "text": "We have initiated the monitoring of this process [against Yanukovich] by all international human rights organizations",
+        "reference": {
+          "resource": "2163",
+          "offset": 263,
+          "text": "We have initiated the monitoring of this process [against Yanukovich] by all international human rights organizations"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:52:58.433Z",
+        "updated": "2024-02-13T08:52:58.433Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU offers supportive evidence to the main argument by detailing actions taken by the defense team."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 362.00075539475336,
+            "y": 362
+          }
+        }
+      }
+    },
+    "49316312-ca4d-11ee-b99b-f5363d8acf38": {
+      "atom": {
+        "text": "the counsel for the defense of Viktor Yanukovich has turned with open letters to Ukraine's Verkhovna Rada human rights envoy, Transparency International, Amnesty International, the Ukrainian Helsinki Human Rights Union and other human rights institutions with a request to hold open monitoring of judicial proceedings against him, including the high treason case",
+        "reference": {
+          "resource": "2163",
+          "offset": 489,
+          "text": "the counsel for the defense of Viktor Yanukovich has turned with open letters to Ukraine's Verkhovna Rada human rights envoy, Transparency International, Amnesty International, the Ukrainian Helsinki Human Rights Union and other human rights institutions with a request to hold open monitoring of judicial proceedings against him, including the high treason case"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:52:58.433Z",
+        "updated": "2024-02-13T08:52:58.433Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU further elaborates on the specific efforts made by the defense counsel to secure international monitoring."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 360.851999415936,
+            "y": 688
+          }
+        }
+      }
+    },
+    "49316313-ca4d-11ee-b99b-f5363d8acf38": {
+      "atom": {
+        "text": "The letters also contain a request \"to respond to the gross violations by the Ukrainian state bodies of his [Yanukovich's] rights to defense and respond to his constant political persecution",
+        "reference": {
+          "resource": "2163",
+          "offset": 854,
+          "text": "The letters also contain a request \"to respond to the gross violations by the Ukrainian state bodies of his [Yanukovich's] rights to defense and respond to his constant political persecution"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:52:58.433Z",
+        "updated": "2024-02-13T08:52:58.433Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU indicates the appeals or demands made by Yanukovich's team in their communication to human rights entities, highlighting concerns over rights violations and political persecution."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 705.4030573004547,
+            "y": 920.8492101524868
+          }
+        }
+      }
+    },
+    "49316314-ca4d-11ee-b99b-f5363d8acf38": {
+      "atom": {
+        "text": "The counsel for the defense argues it has provided proofs that the Ukrainian authorities are deliberately ignoring article 6 of the European Convention on Human Rights \"Right to a Fair Trial\" and article 11 of the Universal Declaration of Human Rights (a person is presumed innocent until proved guilty)",
+        "reference": {
+          "resource": "2163",
+          "offset": 1047,
+          "text": "The counsel for the defense argues it has provided proofs that the Ukrainian authorities are deliberately ignoring article 6 of the European Convention on Human Rights \"Right to a Fair Trial\" and article 11 of the Universal Declaration of Human Rights (a person is presumed innocent until proved guilty)"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:52:58.433Z",
+        "updated": "2024-02-13T08:52:58.433Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU presents the basis of the legal argument by the defense, asserting violations of specific human rights statutes."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1081.7926506801516,
+            "y": 837.7202117737945
+          }
+        }
+      }
+    },
+    "49316315-ca4d-11ee-b99b-f5363d8acf38": {
+      "atom": {
+        "text": "A precedent is being created in Ukraine contrary to national and international norms for investigating the case without the participation of the person and with his deliberate deprivation of the possibility to give testimony and defense himself personally",
+        "reference": {
+          "resource": "2163",
+          "offset": 1353,
+          "text": "A precedent is being created in Ukraine contrary to national and international norms for investigating the case without the participation of the person and with his deliberate deprivation of the possibility to give testimony and defense himself personally"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:52:58.433Z",
+        "updated": "2024-02-13T08:52:58.433Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU describes the perceived unfairness in the legal process as viewed by Yanukovich's defense team."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1413.3197134033458,
+            "y": 302
+          }
+        }
+      }
+    },
+    "49316316-ca4d-11ee-b99b-f5363d8acf38": {
+      "atom": {
+        "text": "The Ukrainian Prosecutor-General accused the ex-president of high treason",
+        "reference": {
+          "resource": "2163",
+          "offset": 1900,
+          "text": "The Ukrainian Prosecutor-General accused the ex-president of high treason"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:52:58.433Z",
+        "updated": "2024-02-13T08:52:58.433Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU provides essential context about the charges against Yanukovich, framing the nature of the legal actions against him."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1762.0004705496156,
+            "y": 302
+          }
+        }
+      }
+    },
+    "49316317-ca4d-11ee-b99b-f5363d8acf38": {
+      "atom": {
+        "text": "Kiev's Pechyorsky District Court allowed on January 20 a pre-judicial investigation against Yanukovich in absentia",
+        "reference": {
+          "resource": "2163",
+          "offset": 1975,
+          "text": "Kiev's Pechyorsky District Court allowed on January 20 a pre-judicial investigation against Yanukovich in absentia"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:52:58.433Z",
+        "updated": "2024-02-13T08:52:58.433Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU outlines a specific legal decision that affects Yanukovich, indicating a step in the judicial process."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 12.000186950491372,
+            "y": 302
+          }
+        }
+      }
+    },
+    "a53bb430-ca4d-11ee-b99b-f5363d8acf38": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T08:55:32.851Z",
+        "updated": "2024-02-13T08:55:32.851Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The ADU describes an action taken by the defense counsel that directly supports the major claim by showing a move to involve international human rights organizations in monitoring the legal processes against Yanukovich."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 462.00042783584917,
+            "y": 202
+          }
+        }
+      }
+    },
+    "a53bb433-ca4d-11ee-b99b-f5363d8acf38": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T08:55:32.851Z",
+        "updated": "2024-02-13T08:55:32.851Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU provides specific details on the action mentioned in the previous ADU, further supporting the claim by naming the organizations contacted by the counsel for the defense."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 462.0003693702355,
+            "y": 588
+          }
+        }
+      }
+    },
+    "a53bb436-ca4d-11ee-b99b-f5363d8acf38": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T08:55:32.851Z",
+        "updated": "2024-02-13T08:55:32.851Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "By mentioning the requests contained in the letters, this ADU supports the major claim by highlighting specific concerns about violations of Yanukovich's rights."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 880.6152970768455,
+            "y": 787.8615123831644
+          }
+        }
+      }
+    },
+    "a53bb439-ca4d-11ee-b99b-f5363d8acf38": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T08:55:32.851Z",
+        "updated": "2024-02-13T08:55:32.851Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU supports the major claim by arguing that Ukrainian authorities are violating certain human rights, which is a concern the counsel wants international organizations to monitor."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1069.6353453082154,
+            "y": 657.230229216648
+          }
+        }
+      }
+    },
+    "a53bb43c-ca4d-11ee-b99b-f5363d8acf38": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T08:55:32.851Z",
+        "updated": "2024-02-13T08:55:32.851Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU constructs a narrative of unorthodox judicial proceedings against Yanukovich, thereby supporting the counsel's urge for international monitoring as stated in the major claim."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1512.0005799669702,
+            "y": 202
+          }
+        }
+      }
+    },
+    "a53bb43f-ca4d-11ee-b99b-f5363d8acf38": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T08:55:32.851Z",
+        "updated": "2024-02-13T08:55:32.851Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "By mentioning the accusation of high treason against Yanukovich, this ADU underpins the necessity of monitoring the legal processes as urged by the counsel in the major claim."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1862.0009398447885,
+            "y": 202
+          }
+        }
+      }
+    },
+    "a53bb442-ca4d-11ee-b99b-f5363d8acf38": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T08:55:32.851Z",
+        "updated": "2024-02-13T08:55:32.851Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU provides specific information about the judicial actions against Yanukovich, supporting the major claim's focus on the need for international monitoring of the legal processes."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 112.00007665270171,
+            "y": 202
+          }
+        }
+      }
+    },
+    "10ea1460-ca4e-11ee-b99b-f5363d8acf38": {
+      "atom": {
+        "text": "the Ukrainian Prosecutor General's Office has opened eight criminal cases against Yanukovich",
+        "reference": {
+          "resource": "2163",
+          "offset": 2100,
+          "text": "the Ukrainian Prosecutor General's Office has opened eight criminal cases against Yanukovich"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:58:33.510Z",
+        "updated": "2024-02-13T08:58:33.510Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1885.3949773006561,
+            "y": 579.8342177900711
+          }
+        }
+      }
+    },
+    "14c0e5f0-ca4e-11ee-b99b-f5363d8acf38": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T08:58:39.951Z",
+        "updated": "2024-02-13T08:58:39.951Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1823.697723925136,
+            "y": 440.91710889503554
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "a53bb431-ca4d-11ee-b99b-f5363d8acf38": {
+      "source": "49316311-ca4d-11ee-b99b-f5363d8acf38",
+      "target": "a53bb430-ca4d-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T08:55:32.851Z",
+        "updated": "2024-02-13T08:55:32.851Z"
+      },
+      "userdata": {}
+    },
+    "a53bb432-ca4d-11ee-b99b-f5363d8acf38": {
+      "source": "a53bb430-ca4d-11ee-b99b-f5363d8acf38",
+      "target": "49316310-ca4d-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T08:55:32.851Z",
+        "updated": "2024-02-13T08:55:32.851Z"
+      },
+      "userdata": {}
+    },
+    "a53bb434-ca4d-11ee-b99b-f5363d8acf38": {
+      "source": "49316312-ca4d-11ee-b99b-f5363d8acf38",
+      "target": "a53bb433-ca4d-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T08:55:32.851Z",
+        "updated": "2024-02-13T08:55:32.851Z"
+      },
+      "userdata": {}
+    },
+    "a53bb435-ca4d-11ee-b99b-f5363d8acf38": {
+      "source": "a53bb433-ca4d-11ee-b99b-f5363d8acf38",
+      "target": "49316311-ca4d-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T08:55:32.851Z",
+        "updated": "2024-02-13T08:55:32.851Z"
+      },
+      "userdata": {}
+    },
+    "a53bb437-ca4d-11ee-b99b-f5363d8acf38": {
+      "source": "49316313-ca4d-11ee-b99b-f5363d8acf38",
+      "target": "a53bb436-ca4d-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T08:55:32.851Z",
+        "updated": "2024-02-13T08:55:32.851Z"
+      },
+      "userdata": {}
+    },
+    "a53bb43a-ca4d-11ee-b99b-f5363d8acf38": {
+      "source": "49316314-ca4d-11ee-b99b-f5363d8acf38",
+      "target": "a53bb439-ca4d-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T08:55:32.851Z",
+        "updated": "2024-02-13T08:55:32.851Z"
+      },
+      "userdata": {}
+    },
+    "a53bb43d-ca4d-11ee-b99b-f5363d8acf38": {
+      "source": "49316315-ca4d-11ee-b99b-f5363d8acf38",
+      "target": "a53bb43c-ca4d-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T08:55:32.851Z",
+        "updated": "2024-02-13T08:55:32.851Z"
+      },
+      "userdata": {}
+    },
+    "a53bb440-ca4d-11ee-b99b-f5363d8acf38": {
+      "source": "49316316-ca4d-11ee-b99b-f5363d8acf38",
+      "target": "a53bb43f-ca4d-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T08:55:32.851Z",
+        "updated": "2024-02-13T08:55:32.851Z"
+      },
+      "userdata": {}
+    },
+    "a53bb441-ca4d-11ee-b99b-f5363d8acf38": {
+      "source": "a53bb43f-ca4d-11ee-b99b-f5363d8acf38",
+      "target": "49316310-ca4d-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T08:55:32.851Z",
+        "updated": "2024-02-13T08:55:32.851Z"
+      },
+      "userdata": {}
+    },
+    "a53bb443-ca4d-11ee-b99b-f5363d8acf38": {
+      "source": "49316317-ca4d-11ee-b99b-f5363d8acf38",
+      "target": "a53bb442-ca4d-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T08:55:32.851Z",
+        "updated": "2024-02-13T08:55:32.851Z"
+      },
+      "userdata": {}
+    },
+    "d94e8b80-ca4d-11ee-b99b-f5363d8acf38": {
+      "source": "a53bb436-ca4d-11ee-b99b-f5363d8acf38",
+      "target": "49316312-ca4d-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T08:57:00.216Z",
+        "updated": "2024-02-13T08:57:00.216Z"
+      },
+      "userdata": {}
+    },
+    "e00bb420-ca4d-11ee-b99b-f5363d8acf38": {
+      "source": "a53bb439-ca4d-11ee-b99b-f5363d8acf38",
+      "target": "49316312-ca4d-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T08:57:11.522Z",
+        "updated": "2024-02-13T08:57:11.522Z"
+      },
+      "userdata": {}
+    },
+    "faf13b70-ca4d-11ee-b99b-f5363d8acf38": {
+      "source": "a53bb43c-ca4d-11ee-b99b-f5363d8acf38",
+      "target": "49316311-ca4d-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T08:57:56.647Z",
+        "updated": "2024-02-13T08:57:56.647Z"
+      },
+      "userdata": {}
+    },
+    "000288d0-ca4e-11ee-b99b-f5363d8acf38": {
+      "source": "a53bb442-ca4d-11ee-b99b-f5363d8acf38",
+      "target": "49316316-ca4d-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T08:58:05.149Z",
+        "updated": "2024-02-13T08:58:05.149Z"
+      },
+      "userdata": {}
+    },
+    "14c0e5f1-ca4e-11ee-b99b-f5363d8acf38": {
+      "source": "10ea1460-ca4e-11ee-b99b-f5363d8acf38",
+      "target": "14c0e5f0-ca4e-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T08:58:39.951Z",
+        "updated": "2024-02-13T08:58:39.951Z"
+      },
+      "userdata": {}
+    },
+    "14c0e5f2-ca4e-11ee-b99b-f5363d8acf38": {
+      "source": "14c0e5f0-ca4e-11ee-b99b-f5363d8acf38",
+      "target": "49316316-ca4d-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T08:58:39.951Z",
+        "updated": "2024-02-13T08:58:39.951Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "2163": {
+      "text": "KIEV, March 13. /TASS/. The counsel for the defense of ex-Ukrainian President Viktor Yanukovich has urged international human rights organizations to openly monitor legal processes initiated against him, Yanukovych's attorney Vitaly Serdyuk told TASS on Monday. \"We have initiated the monitoring of this process [against Yanukovich] by all international human rights organizations,\" the attorney said.   The law association Aver Lex, where Serdyuk is a partner and an attorney, said that \"the counsel for the defense of Viktor Yanukovich has turned with open letters to Ukraine's Verkhovna Rada human rights envoy, Transparency International, Amnesty International, the Ukrainian Helsinki Human Rights Union and other human rights institutions with a request to hold open monitoring of judicial proceedings against him, including the high treason case.\" The letters also contain a request \"to respond to the gross violations by the Ukrainian state bodies of his [Yanukovich's] rights to defense and respond to his constant political persecution.\" The counsel for the defense argues it has provided proofs that the Ukrainian authorities are deliberately ignoring article 6 of the European Convention on Human Rights \"Right to a Fair Trial\" and article 11 of the Universal Declaration of Human Rights (a person is presumed innocent until proved guilty). \"A precedent is being created in Ukraine contrary to national and international norms for investigating the case without the participation of the person and with his deliberate deprivation of the possibility to give testimony and defense himself personally,\" Serdyuk said. At a court hearing on the case of Ukraine's former Berkut elite anti-riot police held on November 28, 2016 where Yanukovich was giving testimony via a video link, Ukrainian Prosecutor General Yuri Lutsenko read out a notice to the ex-president on opening a case against him. The Ukrainian Prosecutor-General accused the ex-president of high treason. Kiev's Pechyorsky District Court allowed on January 20 a pre-judicial investigation against Yanukovich in absentia. Overall, the Ukrainian Prosecutor General's Office has opened eight criminal cases against Yanukovich.",
+      "title": "Attorney asks human rights institutions to monitor legal actions against Yanukovich",
+      "source": "http://tass.com/world/935265",
+      "timestamp": "2017-03-13T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.202Z",
+        "updated": "2024-02-09T13:09:16.202Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "49316310-ca4d-11ee-b99b-f5363d8acf38",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.202Z",
+    "updated": "2024-02-13T08:58:57.157Z"
+  }
+}

@@ -1,0 +1,752 @@
+{
+  "nodes": {
+    "17fc2bb0-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "Judith Permar, 56, of Mount Carmel, went to a drop-off box in the town of Natalie at around 2:30 a.m",
+        "reference": {
+          "resource": "718",
+          "offset": 136,
+          "text": "Judith Permar, 56, of Mount Carmel, went to a drop-off box in the town of Natalie at around 2:30 a.m"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 502.0008791141752,
+            "y": 278
+          }
+        }
+      }
+    },
+    "17fc04a0-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "A Pennsylvania woman died Sunday morning night after her arm got stuck in a clothing donation bin, leaving her unable to call for help",
+        "reference": {
+          "resource": "718",
+          "offset": 0,
+          "text": "A Pennsylvania woman died Sunday morning night after her arm got stuck in a clothing donation bin, leaving her unable to call for help"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 152.00008304523493,
+            "y": 12
+          }
+        }
+      }
+    },
+    "17fc2bba-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 602.0000316466817,
+            "y": 178
+          }
+        }
+      }
+    },
+    "17fc2bb2-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "The engine on her black Hummer was still running and bags of clothes were scattered near the bin",
+        "reference": {
+          "resource": "718",
+          "offset": 312,
+          "text": "The engine on her black Hummer was still running and bags of clothes were scattered near the bin"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 802.0008459858371,
+            "y": 520
+          }
+        }
+      }
+    },
+    "17fc2bbd-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 902.0004009245396,
+            "y": 420
+          }
+        }
+      }
+    },
+    "17fc2bb3-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "she died from blunt force trauma and hypothermia. Her injuries included a broken arm and wrist",
+        "reference": {
+          "resource": "718",
+          "offset": 410,
+          "text": "she died from blunt force trauma and hypothermia. Her injuries included a broken arm and wrist"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 102.00011609010069,
+            "y": 278
+          }
+        }
+      }
+    },
+    "17fc2bc0-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 202.00089781095403,
+            "y": 178
+          }
+        }
+      }
+    },
+    "17fc2bb5-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "she always wanted to help the less fortunate and constantly donated to those clothing bins",
+        "reference": {
+          "resource": "718",
+          "offset": 641,
+          "text": "she always wanted to help the less fortunate and constantly donated to those clothing bins"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 102.00012643250498,
+            "y": 762
+          }
+        }
+      }
+    },
+    "17fc2bb4-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "She was reaching into the bin when the step ladder she was standing on collapsed",
+        "reference": {
+          "resource": "718",
+          "offset": 530,
+          "text": "She was reaching into the bin when the step ladder she was standing on collapsed"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 102.00033652350639,
+            "y": 520
+          }
+        }
+      }
+    },
+    "17fc2bc3-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 202.00080577233928,
+            "y": 662
+          }
+        }
+      }
+    },
+    "17fc2bb6-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "But investigators believe Permar was actually taking items from the bin",
+        "reference": {
+          "resource": "718",
+          "offset": 761,
+          "text": "But investigators believe Permar was actually taking items from the bin"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 102.00018002516518,
+            "y": 1004
+          }
+        }
+      }
+    },
+    "17fc2bc6-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 202.0005646668157,
+            "y": 904
+          }
+        }
+      }
+    },
+    "17fc2bb7-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "Back in November, police received a call about a woman in a black Hummer who was taking items from the bin",
+        "reference": {
+          "resource": "718",
+          "offset": 1045,
+          "text": "Back in November, police received a call about a woman in a black Hummer who was taking items from the bin"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 321.0009223740929,
+            "y": 1222
+          }
+        }
+      }
+    },
+    "17fc2bc9-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 421.00040250028593,
+            "y": 1122
+          }
+        }
+      }
+    },
+    "17fc2bb8-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "she was fishing bags out and the ladder she was standing on gave way,  and she couldn\"t get her hand loose.",
+        "reference": {
+          "resource": "718",
+          "text": "she was fishing bags out and the ladder she was standing on gave way,  and she couldn\"t get her hand loose."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1021.000776992486,
+            "y": 1222
+          }
+        }
+      }
+    },
+    "17fc2bb9-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "He admits being surprised when he heard she may have removed items from clothing bin. \"It wasn\"t something that I would expect to be seeing,\" he said",
+        "reference": {
+          "resource": "718",
+          "text": "He admits being surprised when he heard she may have removed items from clothing bin. \"It wasn\"t something that I would expect to be seeing,\" he said"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 671.0002450879285,
+            "y": 1222
+          }
+        }
+      }
+    },
+    "17fc2bcf-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 771.0005533369764,
+            "y": 1122
+          }
+        }
+      }
+    },
+    "2f22d640-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:52:38.436Z",
+        "updated": "2024-02-13T00:52:38.436Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 202.00088252044134,
+            "y": 420
+          }
+        }
+      }
+    },
+    "84f2c350-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "Permar was discovered around 8:30 a.m. and pronounced dead at the scene",
+        "reference": {
+          "resource": "718",
+          "offset": 238,
+          "text": "Permar was discovered around 8:30 a.m. and pronounced dead at the scene"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:55:02.405Z",
+        "updated": "2024-02-13T00:55:02.405Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 452.0001028240961,
+            "y": 520
+          }
+        }
+      }
+    },
+    "88925840-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:55:08.484Z",
+        "updated": "2024-02-13T00:55:08.484Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 552.0002556547895,
+            "y": 420
+          }
+        }
+      }
+    },
+    "261ad470-faf8-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T07:16:59.319Z",
+        "updated": "2024-04-15T07:16:59.319Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1121.0001290106918,
+            "y": 1122
+          }
+        }
+      }
+    },
+    "88bfd210-faf8-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "she was a very nice woman",
+        "reference": {
+          "text": "she was a very nice woman"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T07:19:44.817Z",
+        "updated": "2024-04-15T07:19:44.817Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 53.000063415611095,
+            "y": 1267
+          }
+        }
+      }
+    },
+    "8c85b3b0-faf8-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T07:19:51.147Z",
+        "updated": "2024-04-15T07:19:51.147Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00005662699748,
+            "y": 1122
+          }
+        }
+      }
+    },
+    "9591fc70-faf8-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "He admits being surprised when he heard she may have removed items from clothing bin",
+        "reference": {
+          "text": "He admits being surprised when he heard she may have removed items from clothing bin"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T07:20:06.327Z",
+        "updated": "2024-04-15T07:20:06.327Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000169777112681,
+            "y": 1512
+          }
+        }
+      }
+    },
+    "98b1da10-faf8-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T07:20:11.569Z",
+        "updated": "2024-04-15T07:20:11.569Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.0007981273019,
+            "y": 1412
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "17fc2bbb-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bb0-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc2bba-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {}
+    },
+    "17fc2bbc-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bba-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc04a0-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {}
+    },
+    "17fc2bbe-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bb2-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc2bbd-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {}
+    },
+    "17fc2bbf-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bbd-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc2bb0-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {}
+    },
+    "17fc2bc1-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bb3-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc2bc0-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {}
+    },
+    "17fc2bc2-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bc0-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc04a0-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {}
+    },
+    "17fc2bc4-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bb5-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc2bc3-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {}
+    },
+    "17fc2bc5-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bc3-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc2bb4-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {}
+    },
+    "17fc2bc7-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bb6-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc2bc6-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {}
+    },
+    "17fc2bca-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bb7-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc2bc9-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {}
+    },
+    "17fc2bcb-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bc9-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc2bb6-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {}
+    },
+    "17fc2bcd-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bb8-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc2bcc-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {}
+    },
+    "17fc2bce-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bcc-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc2bb7-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {}
+    },
+    "17fc2bd0-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bb9-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc2bcf-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {}
+    },
+    "17fc2bd1-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bcf-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc2bb6-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {}
+    },
+    "2cefc9a0-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bc6-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc2bb5-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:52:34.746Z",
+        "updated": "2024-02-13T00:52:34.746Z"
+      },
+      "userdata": {}
+    },
+    "2f22d641-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bb4-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "2f22d640-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:52:38.436Z",
+        "updated": "2024-02-13T00:52:38.436Z"
+      },
+      "userdata": {}
+    },
+    "2f22d642-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "2f22d640-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc2bb3-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:52:38.436Z",
+        "updated": "2024-02-13T00:52:38.436Z"
+      },
+      "userdata": {}
+    },
+    "88925841-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "84f2c350-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "88925840-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:55:08.484Z",
+        "updated": "2024-02-13T00:55:08.484Z"
+      },
+      "userdata": {}
+    },
+    "88925842-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "88925840-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc2bb0-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:55:08.484Z",
+        "updated": "2024-02-13T00:55:08.484Z"
+      },
+      "userdata": {}
+    },
+    "261ad471-faf8-11ee-aa26-a11ecda1a83c": {
+      "source": "17fc2bb8-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "261ad470-faf8-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T07:16:59.319Z",
+        "updated": "2024-04-15T07:16:59.319Z"
+      },
+      "userdata": {}
+    },
+    "261ad472-faf8-11ee-aa26-a11ecda1a83c": {
+      "source": "261ad470-faf8-11ee-aa26-a11ecda1a83c",
+      "target": "17fc2bb6-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-04-15T07:16:59.319Z",
+        "updated": "2024-04-15T07:16:59.319Z"
+      },
+      "userdata": {}
+    },
+    "8c85b3b1-faf8-11ee-aa26-a11ecda1a83c": {
+      "source": "88bfd210-faf8-11ee-aa26-a11ecda1a83c",
+      "target": "8c85b3b0-faf8-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T07:19:51.147Z",
+        "updated": "2024-04-15T07:19:51.147Z"
+      },
+      "userdata": {}
+    },
+    "8c85b3b2-faf8-11ee-aa26-a11ecda1a83c": {
+      "source": "8c85b3b0-faf8-11ee-aa26-a11ecda1a83c",
+      "target": "17fc2bb6-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-04-15T07:19:51.147Z",
+        "updated": "2024-04-15T07:19:51.147Z"
+      },
+      "userdata": {}
+    },
+    "98b1da11-faf8-11ee-aa26-a11ecda1a83c": {
+      "source": "9591fc70-faf8-11ee-aa26-a11ecda1a83c",
+      "target": "98b1da10-faf8-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T07:20:11.569Z",
+        "updated": "2024-04-15T07:20:11.569Z"
+      },
+      "userdata": {}
+    },
+    "98b1da12-faf8-11ee-aa26-a11ecda1a83c": {
+      "source": "98b1da10-faf8-11ee-aa26-a11ecda1a83c",
+      "target": "88bfd210-faf8-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T07:20:11.569Z",
+        "updated": "2024-04-15T07:20:11.569Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "718": {
+      "text": "A Pennsylvania woman died Sunday morning night after her arm got stuck in a clothing donation bin, leaving her unable to call for help. Judith Permar, 56, of Mount Carmel, went to a drop-off box in the town of Natalie at around 2:30 a.m.-Permar was discovered around 8:30 a.m. and pronounced dead at the scene.- The engine on her black Hummer was still running and bags of clothes were scattered near the bin.-A coroner's report said she died from blunt force trauma and hypothermia. Her injuries included a broken arm and wrist. She was reaching into the bin when the step ladder she was standing on collapsed, according to PennLive.com.-- Permar's son told WNEP that she always wanted to help the less fortunate and constantly donated to those clothing bins. But investigators believe Permar was actually taking items from the bin \"?and it may not have been the first time. \"she was fishing bags out and the ladder she was standing on gave way, and she couldn\"t get her hand loose,\"?Mount Carmel Police Chief Brian Hollenbush told Philly.com. Back in November, police received a call about a woman in a black Hummer who was taking items from the bin, according to the New York Daily News. Hollenbush said he knew Permar and told the Associated Press she was a very nice woman.-He admits being surprised when he heard she may have removed items from clothing bin. \"It wasn\"t something that I would expect to be seeing,\"?he said, according to the Associated Press. Funeral services for Permar are scheduled for Friday. Permar's family did not respond to HuffPost about the allegations she was taking donated items from the bin.",
+      "title": "Woman Dies After Getting Arm Stuck In Donation Box",
+      "source": "http://www.huffingtonpost.com/2017/02/09/judith-permar-arm-stuck-in-donation-box_n_14661108.html",
+      "timestamp": "2017-02-09T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.200Z",
+        "updated": "2024-02-09T13:09:16.200Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "2c603380-c41a-11ee-a06c-cb1cbb90ffa4": {
+      "name": "annotator0",
+      "email": "s4kibart@uni-trier.de",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "17fc04a0-ca0a-11ee-ab2a-4dc8d1f5b568",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.200Z",
+    "updated": "2024-04-15T07:21:36.264Z"
+  },
+  "userdata": {}
+}

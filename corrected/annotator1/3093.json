@@ -1,0 +1,744 @@
+{
+  "nodes": {
+    "088a85b0-c685-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "celebrated for his insights into the lives of everyday New Yorkers",
+        "reference": {
+          "resource": "3093",
+          "offset": 62,
+          "text": "celebrated for his insights into the lives of everyday New Yorkers"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:21:57.131Z",
+        "updated": "2024-02-08T13:21:57.131Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -203.84527048821724,
+            "y": 0.5270004718313857
+          }
+        }
+      }
+    },
+    "1f4f6130-c685-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "Jimmy Breslin, who was famous for his everday New Yorkers' columns, died at age 88"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:22:35.331Z",
+        "updated": "2024-02-08T13:22:35.331Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 21.56131041485537,
+            "y": -206.27596077175042
+          }
+        }
+      }
+    },
+    "23649b50-c685-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "He had been recovering from pneumonia",
+        "reference": {
+          "resource": "3093",
+          "offset": 176,
+          "text": "He had been recovering from pneumonia"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:22:42.181Z",
+        "updated": "2024-02-08T13:22:42.181Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 334.18956040191927,
+            "y": 73.7001636802312
+          }
+        }
+      }
+    },
+    "25a7ad80-c685-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:22:45.976Z",
+        "updated": "2024-02-08T13:22:45.976Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 365.6358269691214,
+            "y": -7.890149575212199
+          }
+        }
+      }
+    },
+    "2cfe2ff0-c685-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "He was 88",
+        "reference": {
+          "resource": "3093",
+          "offset": 165,
+          "text": "He was 88"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:22:58.287Z",
+        "updated": "2024-02-08T13:22:58.287Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 199.90550316900203,
+            "y": 85.59875102998338
+          }
+        }
+      }
+    },
+    "2e8a2720-c685-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:23:00.882Z",
+        "updated": "2024-02-08T13:23:00.882Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 210.10429232593242,
+            "y": 6.558135063772582
+          }
+        }
+      }
+    },
+    "45e3efa0-c685-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "Breslin found fame for his portrayals of ordinary New Yorkers and the city's scruffy anti-heroes, often those at the sidelines of major world news events",
+        "reference": {
+          "resource": "3093",
+          "offset": 545,
+          "text": "Breslin found fame for his portrayals of ordinary New Yorkers and the city's scruffy anti-heroes, often those at the sidelines of major world news events"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:23:40.058Z",
+        "updated": "2024-02-08T13:23:40.058Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -103.04369245626481,
+            "y": 358.0175599848215
+          }
+        }
+      }
+    },
+    "4a6495c0-c685-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:23:47.612Z",
+        "updated": "2024-02-08T13:23:47.612Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -98.23843395335004,
+            "y": 269.55040499451286
+          }
+        }
+      }
+    },
+    "661200f0-c685-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "Breslin's depiction of gravedigger Clifton Pollard encapsulated his knack for letting his subjects\"?details speak for themselves",
+        "reference": {
+          "resource": "3093",
+          "offset": 996,
+          "text": "Breslin's depiction of gravedigger Clifton Pollard encapsulated his knack for letting his subjects\"?details speak for themselves"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:24:34.047Z",
+        "updated": "2024-02-08T13:24:34.047Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -279.4618232357556,
+            "y": 609.851932440333
+          }
+        }
+      }
+    },
+    "71f0caa0-c685-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:24:53.962Z",
+        "updated": "2024-02-08T13:24:53.962Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -160.07757807063655,
+            "y": 513.8109601639769
+          }
+        }
+      }
+    },
+    "8fa63ad0-c685-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "That piece is often cited as the type of writing that made Breslin the legendary storyteller he's remembered as",
+        "reference": {
+          "resource": "3093",
+          "offset": 1546,
+          "text": "That piece is often cited as the type of writing that made Breslin the legendary storyteller he's remembered as"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:25:43.805Z",
+        "updated": "2024-02-08T13:25:43.805Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -199.29263169564467,
+            "y": 908.8584120491682
+          }
+        }
+      }
+    },
+    "9161a670-c685-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:25:46.711Z",
+        "updated": "2024-02-08T13:25:46.711Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -156.75277486731846,
+            "y": 778.2106637141437
+          }
+        }
+      }
+    },
+    "a3a89af0-c685-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "[I]t showed how a writer can break away from the crowd, even on the biggest possible story; how, in the words of the great editor Gene Roberts, an enterprising reporter can zig when everyone else zags",
+        "reference": {
+          "resource": "3093",
+          "offset": 1660,
+          "text": "[I]t showed how a writer can break away from the crowd, even on the biggest possible story; how, in the words of the great editor Gene Roberts, an enterprising reporter can zig when everyone else zags"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:26:17.375Z",
+        "updated": "2024-02-08T13:26:17.375Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 452.3722503791264,
+            "y": 615.1922633341928
+          }
+        }
+      }
+    },
+    "a7295d40-c685-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:26:23.252Z",
+        "updated": "2024-02-08T13:26:23.252Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 385.1070188250686,
+            "y": 492.5608382594214
+          }
+        }
+      }
+    },
+    "bb7aa0b0-c685-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "his pursuit of those characters was central to good journalism",
+        "reference": {
+          "resource": "3093",
+          "offset": 2127,
+          "text": "his pursuit of those characters was central to good journalism"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:26:57.339Z",
+        "updated": "2024-02-08T13:26:57.339Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -632.3387163931079,
+            "y": 630.1528603179999
+          }
+        }
+      }
+    },
+    "bf3d7510-c685-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:27:03.649Z",
+        "updated": "2024-02-08T13:27:03.649Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -367.69120442468636,
+            "y": 494.0852101514107
+          }
+        }
+      }
+    },
+    "d266b340-c685-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:27:35.796Z",
+        "updated": "2024-02-08T13:27:35.796Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 478.80775728482297,
+            "y": 844.0345004562437
+          }
+        }
+      }
+    },
+    "eb71ae30-c685-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "What's wrong with journalists today? They don\"t go out, television would be your answer. They'r all on television giving the news. As you listen to them talk, you know they haven\"t left the office. They have no authentic spirit to the voice as they'r telling you what happened in New York, because they don\"t know and they don\"t bother with it",
+        "reference": {
+          "resource": "3093",
+          "offset": 2192,
+          "text": "What's wrong with journalists today? They don\"t go out,\"?Breslin said in a 2015 interview with the City University of New York TV station. \"television would be your answer. They'r all on television giving the news. As you listen to them talk, you know they haven\"t left the office. They have no authentic spirit to the voice as they'r telling you what happened in New York, because they don\"t know and they don\"t bother with it"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:28:17.811Z",
+        "updated": "2024-02-08T13:28:17.811Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 386.12473219223375,
+            "y": 999.2585766880384
+          }
+        }
+      }
+    },
+    "35079230-c686-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "he published letters written to him by notorious New York serial killer-\"n of Sam",
+        "reference": {
+          "resource": "3093",
+          "offset": 3223,
+          "text": "he published letters written to him by notorious New York serial killer-\"n of Sam"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:30:21.267Z",
+        "updated": "2024-02-08T13:30:21.267Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 797.083667586319,
+            "y": 1008.2885233013676
+          }
+        }
+      }
+    },
+    "386a6c40-c686-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:30:26.948Z",
+        "updated": "2024-02-08T13:30:26.948Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 656.4929008489322,
+            "y": 849.461261783904
+          }
+        }
+      }
+    },
+    "467823e0-c686-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "If he wants any further contact, all he has to do is call or write me at The Daily News",
+        "reference": {
+          "resource": "3093",
+          "offset": 3352,
+          "text": "If he wants any further contact, all he has to do is call or write me at The Daily News"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:30:50.526Z",
+        "updated": "2024-02-08T13:30:50.526Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1126.3500584028245,
+            "y": 1009.9000926713007
+          }
+        }
+      }
+    },
+    "6dcc0ab0-c686-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:31:56.507Z",
+        "updated": "2024-02-08T13:31:56.507Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 863.4022063574881,
+            "y": 838.5254944822248
+          }
+        }
+      }
+    },
+    "9e46ee30-c686-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:33:17.843Z",
+        "updated": "2024-02-08T13:33:17.843Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -61.26576608528103,
+            "y": -87.28689026227265
+          }
+        }
+      }
+    },
+    "633f7f60-fc90-11ee-bacf-6f44838a7611": {
+      "atom": {
+        "text": "He is survived by his wife, four children, three stepchildren and twelve grandchildren",
+        "reference": {
+          "resource": "3093",
+          "offset": 4181,
+          "text": "He is survived by his wife, four children, three stepchildren and twelve grandchildren"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-17T07:59:16.566Z",
+        "updated": "2024-04-17T07:59:16.566Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 588.080318367875,
+            "y": 183.1844092789794
+          }
+        }
+      }
+    },
+    "65946be0-fc90-11ee-bacf-6f44838a7611": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-17T07:59:20.478Z",
+        "updated": "2024-04-17T07:59:20.478Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 652.4878099280859,
+            "y": -25.302383483450015
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "25a7ad81-c685-11ee-ba3b-07e43482f0f9": {
+      "source": "23649b50-c685-11ee-ba3b-07e43482f0f9",
+      "target": "25a7ad80-c685-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:22:45.976Z",
+        "updated": "2024-02-08T13:22:45.976Z"
+      },
+      "userdata": {}
+    },
+    "25a7ad82-c685-11ee-ba3b-07e43482f0f9": {
+      "source": "25a7ad80-c685-11ee-ba3b-07e43482f0f9",
+      "target": "1f4f6130-c685-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:22:45.976Z",
+        "updated": "2024-02-08T13:22:45.976Z"
+      },
+      "userdata": {}
+    },
+    "2e8a2721-c685-11ee-ba3b-07e43482f0f9": {
+      "source": "2cfe2ff0-c685-11ee-ba3b-07e43482f0f9",
+      "target": "2e8a2720-c685-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:23:00.882Z",
+        "updated": "2024-02-08T13:23:00.882Z"
+      },
+      "userdata": {}
+    },
+    "2e8a2722-c685-11ee-ba3b-07e43482f0f9": {
+      "source": "2e8a2720-c685-11ee-ba3b-07e43482f0f9",
+      "target": "1f4f6130-c685-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:23:00.882Z",
+        "updated": "2024-02-08T13:23:00.882Z"
+      },
+      "userdata": {}
+    },
+    "4a6495c1-c685-11ee-ba3b-07e43482f0f9": {
+      "source": "45e3efa0-c685-11ee-ba3b-07e43482f0f9",
+      "target": "4a6495c0-c685-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:23:47.612Z",
+        "updated": "2024-02-08T13:23:47.612Z"
+      },
+      "userdata": {}
+    },
+    "4a6495c2-c685-11ee-ba3b-07e43482f0f9": {
+      "source": "4a6495c0-c685-11ee-ba3b-07e43482f0f9",
+      "target": "088a85b0-c685-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:23:47.612Z",
+        "updated": "2024-02-08T13:23:47.612Z"
+      },
+      "userdata": {}
+    },
+    "71f0f1b0-c685-11ee-ba3b-07e43482f0f9": {
+      "source": "661200f0-c685-11ee-ba3b-07e43482f0f9",
+      "target": "71f0caa0-c685-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:24:53.963Z",
+        "updated": "2024-02-08T13:24:53.963Z"
+      },
+      "userdata": {}
+    },
+    "71f0f1b1-c685-11ee-ba3b-07e43482f0f9": {
+      "source": "71f0caa0-c685-11ee-ba3b-07e43482f0f9",
+      "target": "45e3efa0-c685-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:24:53.963Z",
+        "updated": "2024-02-08T13:24:53.963Z"
+      },
+      "userdata": {}
+    },
+    "9161a671-c685-11ee-ba3b-07e43482f0f9": {
+      "source": "8fa63ad0-c685-11ee-ba3b-07e43482f0f9",
+      "target": "9161a670-c685-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:25:46.711Z",
+        "updated": "2024-02-08T13:25:46.711Z"
+      },
+      "userdata": {}
+    },
+    "a7298450-c685-11ee-ba3b-07e43482f0f9": {
+      "source": "a3a89af0-c685-11ee-ba3b-07e43482f0f9",
+      "target": "a7295d40-c685-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:26:23.253Z",
+        "updated": "2024-02-08T13:26:23.253Z"
+      },
+      "userdata": {}
+    },
+    "bf3d7511-c685-11ee-ba3b-07e43482f0f9": {
+      "source": "bb7aa0b0-c685-11ee-ba3b-07e43482f0f9",
+      "target": "bf3d7510-c685-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:27:03.649Z",
+        "updated": "2024-02-08T13:27:03.649Z"
+      },
+      "userdata": {}
+    },
+    "bf3d7512-c685-11ee-ba3b-07e43482f0f9": {
+      "source": "bf3d7510-c685-11ee-ba3b-07e43482f0f9",
+      "target": "45e3efa0-c685-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:27:03.649Z",
+        "updated": "2024-02-08T13:27:03.649Z"
+      },
+      "userdata": {}
+    },
+    "d266da50-c685-11ee-ba3b-07e43482f0f9": {
+      "source": "d0690e80-c685-11ee-ba3b-07e43482f0f9",
+      "target": "d266b340-c685-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:27:35.797Z",
+        "updated": "2024-02-08T13:27:35.797Z"
+      },
+      "userdata": {}
+    },
+    "d266da51-c685-11ee-ba3b-07e43482f0f9": {
+      "source": "d266b340-c685-11ee-ba3b-07e43482f0f9",
+      "target": "a3a89af0-c685-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:27:35.797Z",
+        "updated": "2024-02-08T13:27:35.797Z"
+      },
+      "userdata": {}
+    },
+    "ede40dc0-c685-11ee-ba3b-07e43482f0f9": {
+      "source": "eb71ae30-c685-11ee-ba3b-07e43482f0f9",
+      "target": "d266b340-c685-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:28:21.916Z",
+        "updated": "2024-02-08T13:28:21.916Z"
+      },
+      "userdata": {}
+    },
+    "386a6c41-c686-11ee-ba3b-07e43482f0f9": {
+      "source": "35079230-c686-11ee-ba3b-07e43482f0f9",
+      "target": "386a6c40-c686-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:30:26.948Z",
+        "updated": "2024-02-08T13:30:26.948Z"
+      },
+      "userdata": {}
+    },
+    "386a6c42-c686-11ee-ba3b-07e43482f0f9": {
+      "source": "386a6c40-c686-11ee-ba3b-07e43482f0f9",
+      "target": "a3a89af0-c685-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:30:26.948Z",
+        "updated": "2024-02-08T13:30:26.948Z"
+      },
+      "userdata": {}
+    },
+    "6dcc31c0-c686-11ee-ba3b-07e43482f0f9": {
+      "source": "467823e0-c686-11ee-ba3b-07e43482f0f9",
+      "target": "6dcc0ab0-c686-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:31:56.508Z",
+        "updated": "2024-02-08T13:31:56.508Z"
+      },
+      "userdata": {}
+    },
+    "6dcc31c1-c686-11ee-ba3b-07e43482f0f9": {
+      "source": "6dcc0ab0-c686-11ee-ba3b-07e43482f0f9",
+      "target": "a3a89af0-c685-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:31:56.508Z",
+        "updated": "2024-02-08T13:31:56.508Z"
+      },
+      "userdata": {}
+    },
+    "9e46ee31-c686-11ee-ba3b-07e43482f0f9": {
+      "source": "088a85b0-c685-11ee-ba3b-07e43482f0f9",
+      "target": "9e46ee30-c686-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:33:17.843Z",
+        "updated": "2024-02-08T13:33:17.843Z"
+      },
+      "userdata": {}
+    },
+    "9e46ee32-c686-11ee-ba3b-07e43482f0f9": {
+      "source": "9e46ee30-c686-11ee-ba3b-07e43482f0f9",
+      "target": "1f4f6130-c685-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:33:17.843Z",
+        "updated": "2024-02-08T13:33:17.843Z"
+      },
+      "userdata": {}
+    },
+    "2a1e40e0-fc90-11ee-bacf-6f44838a7611": {
+      "source": "9161a670-c685-11ee-ba3b-07e43482f0f9",
+      "target": "661200f0-c685-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-04-17T07:57:40.718Z",
+        "updated": "2024-04-17T07:57:40.718Z"
+      },
+      "userdata": {}
+    },
+    "39fb8860-fc90-11ee-bacf-6f44838a7611": {
+      "source": "a7295d40-c685-11ee-ba3b-07e43482f0f9",
+      "target": "8fa63ad0-c685-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-04-17T07:58:07.334Z",
+        "updated": "2024-04-17T07:58:07.334Z"
+      },
+      "userdata": {}
+    },
+    "65946be1-fc90-11ee-bacf-6f44838a7611": {
+      "source": "633f7f60-fc90-11ee-bacf-6f44838a7611",
+      "target": "65946be0-fc90-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T07:59:20.478Z",
+        "updated": "2024-04-17T07:59:20.478Z"
+      },
+      "userdata": {}
+    },
+    "65946be2-fc90-11ee-bacf-6f44838a7611": {
+      "source": "65946be0-fc90-11ee-bacf-6f44838a7611",
+      "target": "1f4f6130-c685-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-04-17T07:59:20.478Z",
+        "updated": "2024-04-17T07:59:20.478Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "3093": {
+      "text": "Jimmy Breslin, an award-winning New York Daily News columnist celebrated for his insights into the lives of everyday New Yorkers, died Sunday, the outlet confirmed. He was 88. He had been recovering from pneumonia, his wife Ronnie Eldridge, a former New York City Council member, confirmed to the The New York Times. - His last column for the Daily News ran in 2012, but The Daily Beast began running new writing from him late last year after years of reprinting his classic columns.- In his decades-spanning career writing for several outlets, Breslin found fame for his portrayals of ordinary New Yorkers and the city's scruffy anti-heroes, often those at the sidelines of major world news events. In a 1980 Daily News story, Breslin told the story of the New York City cops who retrieved John Lennon's body moments after he been fatally shot. For an iconic 1963 column in The New York Herald Tribune, he tracked down the cemetery worker-tasked with digging President John F. Kennedy's grave.- Breslin's depiction of gravedigger Clifton Pollard encapsulated his knack for letting his subjects\"?details speak for themselves:- Pollard is 42. He is a slim man with a mustache who was born in Pittsburgh and served as a private in the 352nd Engineers battalion in Burma in World War II. He is an equipment operator, grade 10, which means he gets $3.01 an hour. One of the last to serve John Fitzgerald Kennedy, who was the thirty-fifth President of this country, was a working man who earns $3.01 an hour and said it was an honor to dig the grave. That piece is often cited as the type of writing that made Breslin the legendary storyteller he's remembered as. \"[I]t showed how a writer can break away from the crowd, even on the biggest possible story; how, in the words of the great editor Gene Roberts, an enterprising reporter can zig when everyone else zags,\"?the Poynter Institute for Media Studies-wrote. He received many awards for his writing, most notably the Pulitzer Prize for Commentary in 1986. The board awarding him the prize praised him-\"Hor columns which consistently champion ordinary citizens.\"?Breslin said his pursuit of those characters was central to good journalism. \"What's wrong with journalists today? They don\"t go out,\"?Breslin said in a 2015 interview with the City University of New York TV station. \"television would be your answer. They'r all on television giving the news. As you listen to them talk, you know they haven\"t left the office. They have no authentic spirit to the voice as they'r telling you what happened in New York, because they don\"t know and they don\"t bother with it.\"?The Pulitzer board pointed to an emotionally-wrought 1985 column that weaved a story of the AIDS crisis through the lens of one inflicted young man: \"You have Karposi's sarcoma,\"?the doctor said. \"One of them was on an artery. That caused your trouble. There are 10 to 12 more in there.\"?\"What does that mean?\"?his mother said. He remembers mumbling to his mother, \"that is the cancer you get when you have AIDS.\"?He and his mother looked at each other. Now the life he never talked about was part of the family album. In another fascinating 1977 column that spoke to the reach of Breslin's writing, he published letters written to him by notorious New York serial killer-\"n of Sam,\"ho had yet to identified as David Berkowitz. \"If he wants any further contact, all he has to do is call or write me at The Daily News,\"?Breslin wrote. \"It's simple to get me. The only people I don\"t answer are bill collectors.\"Breslin also authored several lauded books, including The Church That Forgot Christ, a response to the Catholic Church's many sex scandals; How the Good Guys Finally Won, a glimpse into the politicians who helped bring down President Richard Nixon during the Watergate scandal; and a novel, The Gang That Couldn\"t Shoot Straight.- In 1969, Breslin ran as writer Norman Mailer's running mate in an unsuccessful New York mayoral bid. Their campaign manager described the ill-fated run as-\"A dull campaign in a sad city with a grimace of despair carved into its face. Mailer and Breslin managed, for a short season, to turn that grimace into a grin.\"?He is survived by his wife, four children, three stepchildren and twelve grandchildren.- Correction: This article has been updated to correct Jimmy Breslin's age. Share this slide: How will Trump's first 100 days impact you? Learn more",
+      "title": "Iconic New York Columnist Jimmy Breslin Dead At 88",
+      "source": "http://www.huffingtonpost.com/2017/03/19/jimmy-breslin-dead_n_15471458.html",
+      "timestamp": "2017-03-19T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-08T09:23:32.565Z",
+        "updated": "2024-02-08T09:23:32.565Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "69ca24d0-c5b2-11ee-bbb2-f78c6e9d2422": {
+      "name": "Martin Hoppe",
+      "email": "mogramming@gmail.com",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "1f4f6130-c685-11ee-ba3b-07e43482f0f9",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-08T09:23:32.564Z",
+    "updated": "2024-04-17T07:59:33.626Z"
+  },
+  "userdata": {}
+}

@@ -1,0 +1,856 @@
+{
+  "nodes": {
+    "dceea810-c42b-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "British Prime Minister Theresa May will not visit Northern Ireland before the triggering of Article 50 on Wednesday",
+        "reference": {
+          "resource": "3501",
+          "offset": 0,
+          "text": "British Prime Minister Theresa May will not visit Northern Ireland before the triggering of Article 50 on Wednesday"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:38:36.433Z",
+        "updated": "2024-02-05T13:38:36.433Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 40.00073832219544,
+            "y": 40
+          }
+        }
+      }
+    },
+    "eadddb30-c42b-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Mrs May had been expected to visit all of the devolved assemblies before formally notifying the European Union later this week of the UK's plan to leave the bloc",
+        "reference": {
+          "resource": "3501",
+          "offset": 117,
+          "text": "Mrs May had been expected to visit all of the devolved assemblies before formally notifying the European Union later this week of the UK's plan to leave the bloc"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:38:59.811Z",
+        "updated": "2024-02-05T13:38:59.811Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -146.20140374035986,
+            "y": 315.4250023982988
+          }
+        }
+      }
+    },
+    "ed04d9e0-c42b-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:39:03.422Z",
+        "updated": "2024-02-05T13:39:03.422Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 6.617951541291291,
+            "y": 212.95607878953373
+          }
+        }
+      }
+    },
+    "fa415ed0-c42b-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "\"when the great union of nations that is England, Scotland, Wales and Northern Ireland worked together it is an unstoppable force\"",
+        "reference": {
+          "resource": "3501",
+          "offset": 326,
+          "text": "when the great union of nations that is England, Scotland, Wales and Northern Ireland worked together it is an unstoppable force"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:39:25.629Z",
+        "updated": "2024-02-05T13:39:25.629Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -170.13309953302263,
+            "y": 1047.9957037405707
+          }
+        }
+      }
+    },
+    "06b40410-c42c-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:39:46.513Z",
+        "updated": "2024-02-05T13:39:46.513Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -57.02685975486804,
+            "y": 902.5896298761666
+          }
+        }
+      }
+    },
+    "1423ce00-c42c-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Downing Street confirmed that Mrs May does not plan to visit Northern Ireland tomorrow - her last chance to do so before the triggering of Article 50",
+        "reference": {
+          "resource": "3501",
+          "offset": 460,
+          "text": "Downing Street confirmed that Mrs May does not plan to visit Northern Ireland tomorrow - her last chance to do so before the triggering of Article 50"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:40:09.056Z",
+        "updated": "2024-02-05T13:40:09.056Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 199.76894182748106,
+            "y": 314.48018861254536
+          }
+        }
+      }
+    },
+    "17852170-c42c-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:40:14.727Z",
+        "updated": "2024-02-05T13:40:14.727Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 185.47705392360922,
+            "y": 210.5256953638579
+          }
+        }
+      }
+    },
+    "2c651050-c42c-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Earlier this month, Mrs May visited Wales as part of what was billed an \"ongoing engagement\" with the devolved assemblies prior to beginning the Brexit process. At the time Downing Street said Mrs May would be \"engaging and listening to people from right across the nation as she prepared to leave the EU as one United Kingdom",
+        "reference": {
+          "resource": "3501",
+          "offset": 611,
+          "text": "Earlier this month, Mrs May visited Wales as part of what was billed an \"ongoing engagement\" with the devolved assemblies prior to beginning the Brexit process. At the time Downing Street said Mrs May would be \"engaging and listening to people from right across the nation as she prepared to leave the EU as one United Kingdom"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:40:49.749Z",
+        "updated": "2024-02-05T13:40:49.749Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 235.1360837195731,
+            "y": 591.8317108548708
+          }
+        }
+      }
+    },
+    "326ddd10-c42c-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:40:59.873Z",
+        "updated": "2024-02-05T13:40:59.873Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 206.47883017571337,
+            "y": 505.33415136683163
+          }
+        }
+      }
+    },
+    "4b0f67d0-c42c-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Mrs May's trip to Scotland also comes a day before the Scottish Parliament is expected to pass a vote in favour of seeking a new Scottish independence referendum",
+        "reference": {
+          "resource": "3501",
+          "offset": 1027,
+          "text": "Mrs May's trip to Scotland also comes a day before the Scottish Parliament is expected to pass a vote in favour of seeking a new Scottish independence referendum"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:41:41.197Z",
+        "updated": "2024-02-05T13:41:41.197Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 579.280732612342,
+            "y": 337.67121370459904
+          }
+        }
+      }
+    },
+    "55dbfe30-c42c-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "\"now is not the time\" for a fresh independence vote, will vow in a speech never to allow the UK to become \"looser and weaker\"",
+        "reference": {
+          "resource": "3501",
+          "offset": 1217,
+          "text": "\"now is not the time\" for a fresh independence vote, will vow in a speech never to allow the UK to become \"looser and weaker\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:41:59.315Z",
+        "updated": "2024-02-05T13:41:59.315Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 846.755222681241,
+            "y": 830.4034335038161
+          }
+        }
+      }
+    },
+    "806e2010-c42c-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Mrs May will address staff at the East Kilbride base of the UK's Department for International Development ahead of a bilateral meeting with Scotland's First Minister. She is expected to say: \"That is why the plan for Britain I have set out, a plan to get the right deal for Britain abroad as well as a better deal for ordinary, working people at home, has at its heart one overarching goal: to build a more united nation",
+        "reference": {
+          "resource": "3501",
+          "offset": 1561,
+          "text": "Mrs May will address staff at the East Kilbride base of the UK's Department for International Development ahead of a bilateral meeting with Scotland's First Minister. She is expected to say: \"That is why the plan for Britain I have set out, a plan to get the right deal for Britain abroad as well as a better deal for ordinary, working people at home, has at its heart one overarching goal: to build a more united nation"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:43:10.737Z",
+        "updated": "2024-02-05T13:43:10.737Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 219.96959842104047,
+            "y": 972.5179529197146
+          }
+        }
+      }
+    },
+    "96fb70d0-c42c-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "A more united nation means working actively to bring people and communities together by promoting policies which support integration and social cohesion. \"In Scotland, Wales and Northern Ireland that means fully respecting, and indeed strengthening, the devolution settlements. \"But never allowing our Union to become looser and weaker, or our people to drift apart",
+        "reference": {
+          "resource": "3501",
+          "offset": 1984,
+          "text": "A more united nation means working actively to bring people and communities together by promoting policies which support integration and social cohesion. \"In Scotland, Wales and Northern Ireland that means fully respecting, and indeed strengthening, the devolution settlements. \"But never allowing our Union to become looser and weaker, or our people to drift apart"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:43:48.573Z",
+        "updated": "2024-02-05T13:43:48.573Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -472.1280276626627,
+            "y": 1370.830051442389
+          }
+        }
+      }
+    },
+    "a3d05a50-c42c-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "we will put the interests of the Union, both the parts and the whole, at the heart of our decision-making",
+        "reference": {
+          "resource": "3501",
+          "offset": 2444,
+          "text": "we will put the interests of the Union, both the parts and the whole, at the heart of our decision-making"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:44:10.101Z",
+        "updated": "2024-02-05T13:44:10.101Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 275.60119754811285,
+            "y": 1414.0706056057018
+          }
+        }
+      }
+    },
+    "b5904480-c42c-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "their work helping crisis-hit areas around the world \"says that we are a big country that will never let down, or turn our back on, those in need",
+        "reference": {
+          "resource": "3501",
+          "offset": 2597,
+          "text": "their work helping crisis-hit areas around the world \"says that we are a big country that will never let down, or turn our back on, those in need"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:44:39.880Z",
+        "updated": "2024-02-05T13:44:39.880Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -87.36890870711807,
+            "y": 1414.566943437526
+          }
+        }
+      }
+    },
+    "be9ed730-c42c-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": " Scottish Government has criticised what it sees as a \"lack of engagement\" by UK ministers over Scotland's place in Europe",
+        "reference": {
+          "resource": "3501",
+          "offset": 2748,
+          "text": " Scottish Government has criticised what it sees as a \"lack of engagement\" by UK ministers over Scotland's place in Europe"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:44:55.075Z",
+        "updated": "2024-02-05T13:44:55.075Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 598.4331368681421,
+            "y": 1410.2253134778407
+          }
+        }
+      }
+    },
+    "fe7e4fc0-c42c-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Ms Sturgeon previously set out \"compromise\" proposals that-would have kept Scotland in the single market and handed more powers to Holyrood",
+        "reference": {
+          "resource": "3501",
+          "offset": 2872,
+          "text": "Ms Sturgeon previously set out \"compromise\" proposals that-would have kept Scotland in the single market and handed more powers to Holyrood"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:46:42.236Z",
+        "updated": "2024-02-05T13:46:42.236Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 616.5506865163007,
+            "y": 1059.1943187329032
+          }
+        }
+      }
+    },
+    "06d6fff0-c42d-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:46:56.239Z",
+        "updated": "2024-02-05T13:46:56.239Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 638.428738525351,
+            "y": 1331.2027918511758
+          }
+        }
+      }
+    },
+    "424cdcd0-c42d-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "have, as yet, been no discussion with the Scottish Government over what will be in the letter triggering departure from the EU. \"There has been no discussion over how Scotland's interests will be represented, what role the Scottish Government will play in negotiations, nor which powers the Tories intend to take for Westminster and which powers will rightly be determined by Holyrood. \"Most worryingly, there has been no discussion over how the UK Government intends to manage the financial impacts of Brexit and the consequences for jobs and the economy in Scotland. \"There are clearly a lot of areas where we hope the Prime Minister intends to provide answers",
+        "reference": {
+          "resource": "3501",
+          "offset": 3225,
+          "text": "have, as yet, been no discussion with the Scottish Government over what will be in the letter triggering departure from the EU. \"There has been no discussion over how Scotland's interests will be represented, what role the Scottish Government will play in negotiations, nor which powers the Tories intend to take for Westminster and which powers will rightly be determined by Holyrood. \"Most worryingly, there has been no discussion over how the UK Government intends to manage the financial impacts of Brexit and the consequences for jobs and the economy in Scotland. \"There are clearly a lot of areas where we hope the Prime Minister intends to provide answers"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:48:35.997Z",
+        "updated": "2024-02-05T13:48:35.997Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 612.7438759220919,
+            "y": 1713.483202515398
+          }
+        }
+      }
+    },
+    "45f01b40-c42d-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:48:42.100Z",
+        "updated": "2024-02-05T13:48:42.100Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 604.2895405711433,
+            "y": 1582.6377111802017
+          }
+        }
+      }
+    },
+    "5729be70-c42d-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Given the lack of engagement and the failure of the UK Government to seek an agreed approach or to support staying in the single market, which are at the heart of our compromise proposals, it is appearing that this is another area where a Tory prime minister intends to simply dictate the rules and expect people in Scotland to go along with it",
+        "reference": {
+          "resource": "3501",
+          "offset": 3901,
+          "text": "Given the lack of engagement and the failure of the UK Government to seek an agreed approach or to support staying in the single market, which are at the heart of our compromise proposals, it is appearing that this is another area where a Tory prime minister intends to simply dictate the rules and expect people in Scotland to go along with it"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:49:10.999Z",
+        "updated": "2024-02-05T13:49:10.999Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 979.0522382827327,
+            "y": 1714.782168339372
+          }
+        }
+      }
+    },
+    "5b760e20-c42d-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:49:18.210Z",
+        "updated": "2024-02-05T13:49:18.210Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 788.7426875754375,
+            "y": 1562.5037409086062
+          }
+        }
+      }
+    },
+    "75d48b20-c42d-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:50:02.450Z",
+        "updated": "2024-02-05T13:50:02.450Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 463.3612052319106,
+            "y": 210.65450751437393
+          }
+        }
+      }
+    },
+    "7f4f9b40-c42d-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:50:18.356Z",
+        "updated": "2024-02-05T13:50:18.356Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 586.0782879358023,
+            "y": 733.6336905827734
+          }
+        }
+      }
+    },
+    "d7775b00-c42d-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:52:46.256Z",
+        "updated": "2024-02-05T13:52:46.256Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 239.61752650969777,
+            "y": 882.1393683851035
+          }
+        }
+      }
+    },
+    "e41c5ae0-c42d-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:53:07.470Z",
+        "updated": "2024-02-05T13:53:07.470Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 356.36756693909535,
+            "y": 1308.770554182593
+          }
+        }
+      }
+    },
+    "e9951ca0-c42d-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:53:16.650Z",
+        "updated": "2024-02-05T13:53:16.650Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 107.66498064915868,
+            "y": 1312.4657760811883
+          }
+        }
+      }
+    },
+    "18463ca0-c42e-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:54:34.986Z",
+        "updated": "2024-02-05T13:54:34.986Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -151.9321119909347,
+            "y": 1247.5091678000808
+          }
+        }
+      }
+    },
+    "274d6f70-c42e-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:55:00.199Z",
+        "updated": "2024-02-05T13:55:00.199Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 912.9470506424129,
+            "y": 613.3372739570142
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "ed04d9e1-c42b-11ee-a06c-cb1cbb90ffa4": {
+      "source": "eadddb30-c42b-11ee-a06c-cb1cbb90ffa4",
+      "target": "ed04d9e0-c42b-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:39:03.422Z",
+        "updated": "2024-02-05T13:39:03.422Z"
+      },
+      "userdata": {}
+    },
+    "ed04d9e2-c42b-11ee-a06c-cb1cbb90ffa4": {
+      "source": "ed04d9e0-c42b-11ee-a06c-cb1cbb90ffa4",
+      "target": "dceea810-c42b-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:39:03.422Z",
+        "updated": "2024-02-05T13:39:03.422Z"
+      },
+      "userdata": {}
+    },
+    "06b40411-c42c-11ee-a06c-cb1cbb90ffa4": {
+      "source": "fa415ed0-c42b-11ee-a06c-cb1cbb90ffa4",
+      "target": "06b40410-c42c-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:39:46.514Z",
+        "updated": "2024-02-05T13:39:46.514Z"
+      },
+      "userdata": {}
+    },
+    "17852171-c42c-11ee-a06c-cb1cbb90ffa4": {
+      "source": "1423ce00-c42c-11ee-a06c-cb1cbb90ffa4",
+      "target": "17852170-c42c-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:40:14.727Z",
+        "updated": "2024-02-05T13:40:14.727Z"
+      },
+      "userdata": {}
+    },
+    "17852172-c42c-11ee-a06c-cb1cbb90ffa4": {
+      "source": "17852170-c42c-11ee-a06c-cb1cbb90ffa4",
+      "target": "dceea810-c42b-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:40:14.727Z",
+        "updated": "2024-02-05T13:40:14.727Z"
+      },
+      "userdata": {}
+    },
+    "326ddd11-c42c-11ee-a06c-cb1cbb90ffa4": {
+      "source": "2c651050-c42c-11ee-a06c-cb1cbb90ffa4",
+      "target": "326ddd10-c42c-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:40:59.873Z",
+        "updated": "2024-02-05T13:40:59.873Z"
+      },
+      "userdata": {}
+    },
+    "326ddd12-c42c-11ee-a06c-cb1cbb90ffa4": {
+      "source": "326ddd10-c42c-11ee-a06c-cb1cbb90ffa4",
+      "target": "eadddb30-c42b-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:40:59.873Z",
+        "updated": "2024-02-05T13:40:59.873Z"
+      },
+      "userdata": {}
+    },
+    "06d6fff1-c42d-11ee-a06c-cb1cbb90ffa4": {
+      "source": "be9ed730-c42c-11ee-a06c-cb1cbb90ffa4",
+      "target": "06d6fff0-c42d-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:46:56.239Z",
+        "updated": "2024-02-05T13:46:56.239Z"
+      },
+      "userdata": {}
+    },
+    "06d6fff2-c42d-11ee-a06c-cb1cbb90ffa4": {
+      "source": "06d6fff0-c42d-11ee-a06c-cb1cbb90ffa4",
+      "target": "fe7e4fc0-c42c-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:46:56.239Z",
+        "updated": "2024-02-05T13:46:56.239Z"
+      },
+      "userdata": {}
+    },
+    "45f04250-c42d-11ee-a06c-cb1cbb90ffa4": {
+      "source": "424cdcd0-c42d-11ee-a06c-cb1cbb90ffa4",
+      "target": "45f01b40-c42d-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:48:42.101Z",
+        "updated": "2024-02-05T13:48:42.101Z"
+      },
+      "userdata": {}
+    },
+    "45f04251-c42d-11ee-a06c-cb1cbb90ffa4": {
+      "source": "45f01b40-c42d-11ee-a06c-cb1cbb90ffa4",
+      "target": "be9ed730-c42c-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:48:42.101Z",
+        "updated": "2024-02-05T13:48:42.101Z"
+      },
+      "userdata": {}
+    },
+    "5b760e21-c42d-11ee-a06c-cb1cbb90ffa4": {
+      "source": "5729be70-c42d-11ee-a06c-cb1cbb90ffa4",
+      "target": "5b760e20-c42d-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:49:18.210Z",
+        "updated": "2024-02-05T13:49:18.210Z"
+      },
+      "userdata": {}
+    },
+    "5b763530-c42d-11ee-a06c-cb1cbb90ffa4": {
+      "source": "5b760e20-c42d-11ee-a06c-cb1cbb90ffa4",
+      "target": "be9ed730-c42c-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:49:18.211Z",
+        "updated": "2024-02-05T13:49:18.211Z"
+      },
+      "userdata": {}
+    },
+    "75d48b22-c42d-11ee-a06c-cb1cbb90ffa4": {
+      "source": "75d48b20-c42d-11ee-a06c-cb1cbb90ffa4",
+      "target": "dceea810-c42b-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:50:02.450Z",
+        "updated": "2024-02-05T13:50:02.450Z"
+      },
+      "userdata": {}
+    },
+    "7f4f9b41-c42d-11ee-a06c-cb1cbb90ffa4": {
+      "source": "fe7e4fc0-c42c-11ee-a06c-cb1cbb90ffa4",
+      "target": "7f4f9b40-c42d-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:50:18.356Z",
+        "updated": "2024-02-05T13:50:18.356Z"
+      },
+      "userdata": {}
+    },
+    "7f4f9b42-c42d-11ee-a06c-cb1cbb90ffa4": {
+      "source": "7f4f9b40-c42d-11ee-a06c-cb1cbb90ffa4",
+      "target": "4b0f67d0-c42c-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:50:18.356Z",
+        "updated": "2024-02-05T13:50:18.356Z"
+      },
+      "userdata": {}
+    },
+    "94992160-c42d-11ee-a06c-cb1cbb90ffa4": {
+      "source": "66ac7f50-c42c-11ee-a06c-cb1cbb90ffa4",
+      "target": "75d48b20-c42d-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:50:54.070Z",
+        "updated": "2024-02-05T13:50:54.070Z"
+      },
+      "userdata": {}
+    },
+    "af9b3160-c42d-11ee-a06c-cb1cbb90ffa4": {
+      "source": "4b0f67d0-c42c-11ee-a06c-cb1cbb90ffa4",
+      "target": "75d48b20-c42d-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:51:39.382Z",
+        "updated": "2024-02-05T13:51:39.382Z"
+      },
+      "userdata": {}
+    },
+    "d7775b01-c42d-11ee-a06c-cb1cbb90ffa4": {
+      "source": "806e2010-c42c-11ee-a06c-cb1cbb90ffa4",
+      "target": "d7775b00-c42d-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:52:46.256Z",
+        "updated": "2024-02-05T13:52:46.256Z"
+      },
+      "userdata": {}
+    },
+    "d7775b02-c42d-11ee-a06c-cb1cbb90ffa4": {
+      "source": "d7775b00-c42d-11ee-a06c-cb1cbb90ffa4",
+      "target": "2c651050-c42c-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:52:46.256Z",
+        "updated": "2024-02-05T13:52:46.256Z"
+      },
+      "userdata": {}
+    },
+    "e41c5ae1-c42d-11ee-a06c-cb1cbb90ffa4": {
+      "source": "a3d05a50-c42c-11ee-a06c-cb1cbb90ffa4",
+      "target": "e41c5ae0-c42d-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:53:07.470Z",
+        "updated": "2024-02-05T13:53:07.470Z"
+      },
+      "userdata": {}
+    },
+    "e41c5ae2-c42d-11ee-a06c-cb1cbb90ffa4": {
+      "source": "e41c5ae0-c42d-11ee-a06c-cb1cbb90ffa4",
+      "target": "806e2010-c42c-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:53:07.470Z",
+        "updated": "2024-02-05T13:53:07.470Z"
+      },
+      "userdata": {}
+    },
+    "e9951ca1-c42d-11ee-a06c-cb1cbb90ffa4": {
+      "source": "b5904480-c42c-11ee-a06c-cb1cbb90ffa4",
+      "target": "e9951ca0-c42d-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:53:16.650Z",
+        "updated": "2024-02-05T13:53:16.650Z"
+      },
+      "userdata": {}
+    },
+    "e9951ca2-c42d-11ee-a06c-cb1cbb90ffa4": {
+      "source": "e9951ca0-c42d-11ee-a06c-cb1cbb90ffa4",
+      "target": "806e2010-c42c-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:53:16.650Z",
+        "updated": "2024-02-05T13:53:16.650Z"
+      },
+      "userdata": {}
+    },
+    "18463ca1-c42e-11ee-a06c-cb1cbb90ffa4": {
+      "source": "96fb70d0-c42c-11ee-a06c-cb1cbb90ffa4",
+      "target": "18463ca0-c42e-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:54:34.986Z",
+        "updated": "2024-02-05T13:54:34.986Z"
+      },
+      "userdata": {}
+    },
+    "18463ca2-c42e-11ee-a06c-cb1cbb90ffa4": {
+      "source": "18463ca0-c42e-11ee-a06c-cb1cbb90ffa4",
+      "target": "806e2010-c42c-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:54:34.986Z",
+        "updated": "2024-02-05T13:54:34.986Z"
+      },
+      "userdata": {}
+    },
+    "274d6f71-c42e-11ee-a06c-cb1cbb90ffa4": {
+      "source": "55dbfe30-c42c-11ee-a06c-cb1cbb90ffa4",
+      "target": "274d6f70-c42e-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:55:00.199Z",
+        "updated": "2024-02-05T13:55:00.199Z"
+      },
+      "userdata": {}
+    },
+    "274d6f72-c42e-11ee-a06c-cb1cbb90ffa4": {
+      "source": "274d6f70-c42e-11ee-a06c-cb1cbb90ffa4",
+      "target": "4b0f67d0-c42c-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:55:00.199Z",
+        "updated": "2024-02-05T13:55:00.199Z"
+      },
+      "userdata": {}
+    },
+    "516d65e0-c59f-11ee-8a5f-e9414857ffc5": {
+      "source": "06b40410-c42c-11ee-a06c-cb1cbb90ffa4",
+      "target": "2c651050-c42c-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-07T09:57:35.166Z",
+        "updated": "2024-02-07T09:57:35.166Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "3501": {
+      "text": "British Prime Minister Theresa May will not visit Northern Ireland before the triggering of Article 50 on Wednesday. Mrs May had been expected to visit all of the devolved assemblies before formally notifying the European Union later this week of the UK's plan to leave the bloc. Today she was in Scotland where she said that when the great union of nations that is England, Scotland, Wales and Northern Ireland worked together it is an unstoppable force. But Downing Street confirmed that Mrs May does not plan to visit Northern Ireland tomorrow - her last chance to do so before the triggering of Article 50. Earlier this month, Mrs May visited Wales as part of what was billed an \"ongoing engagement\" with the devolved assemblies prior to beginning the Brexit process. At the time Downing Street said Mrs May would be \"engaging and listening to people from right across the nation as she prepared to leave the EU as one United Kingdom\". Nicola Sturgeon and Theresa May are meeting just two days before triggering Article 50 Mrs May's trip to Scotland also comes a day before the Scottish Parliament is expected to pass a vote in favour of seeking a new Scottish independence referendum. Mrs May, who recently said \"now is not the time\" for a fresh independence vote, will vow in a speech never to allow the UK to become \"looser and weaker\". Scottish ministers say there have been no discussions with the UK Government over how Scotland's interests will be represented as the Brexit process gets under way and they have called for answers from Mrs May today. Mrs May will address staff at the East Kilbride base of the UK's Department for International Development ahead of a bilateral meeting with Scotland's First Minister. She is expected to say: \"That is why the plan for Britain I have set out, a plan to get the right deal for Britain abroad as well as a better deal for ordinary, working people at home, has at its heart one overarching goal: to build a more united nation. \"A more united nation means working actively to bring people and communities together by promoting policies which support integration and social cohesion. \"In Scotland, Wales and Northern Ireland that means fully respecting, and indeed strengthening, the devolution settlements. \"But never allowing our Union to become looser and weaker, or our people to drift apart. \"So in those policy areas where the UK Government holds responsibility, I am determined that we will put the interests of the Union, both the parts and the whole, at the heart of our decision-making.\" The prime minister will also tell staff that their work helping crisis-hit areas around the world \"says that we are a big country that will never let down, or turn our back on, those in need\". The Scottish Government has criticised what it sees as a \"lack of engagement\" by UK ministers over Scotland's place in Europe. Ms Sturgeon previously set out \"compromise\" proposals that-would have kept Scotland in the single market and handed more powers to Holyrood. A spokeswoman for Michael Russell, Scotland's Brexit minister, said: \"We understand the UK Government wishes to discuss Article 50. \"Given we are just days from the formal process of Brexit being triggered there have, as yet, been no discussion with the Scottish Government over what will be in the letter triggering departure from the EU. \"There has been no discussion over how Scotland's interests will be represented, what role the Scottish Government will play in negotiations, nor which powers the Tories intend to take for Westminster and which powers will rightly be determined by Holyrood. \"Most worryingly, there has been no discussion over how the UK Government intends to manage the financial impacts of Brexit and the consequences for jobs and the economy in Scotland. \"There are clearly a lot of areas where we hope the Prime Minister intends to provide answers.\" He added: \"Given the lack of engagement and the failure of the UK Government to seek an agreed approach or to support staying in the single market, which are at the heart of our compromise proposals, it is appearing that this is another area where a Tory prime minister intends to simply dictate the rules and expect people in Scotland to go along with it.\"",
+      "title": "May will not visit Northern Ireland ahead of triggering Brexit",
+      "source": "http://www.rte.ie/news/2017/0327/862880-may-sturgeon-brexit/",
+      "timestamp": "2024-02-05T13:38:21.360Z",
+      "metadata": {
+        "created": "2024-02-05T09:49:22.023Z",
+        "updated": "2024-02-05T09:49:22.023Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "dceea810-c42b-11ee-a06c-cb1cbb90ffa4",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-05T09:49:22.023Z",
+    "updated": "2024-02-07T09:59:19.167Z"
+  }
+}

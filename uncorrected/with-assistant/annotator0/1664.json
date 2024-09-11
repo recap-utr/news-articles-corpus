@@ -1,0 +1,630 @@
+{
+  "nodes": {
+    "acd00690-c766-11ee-9b00-4fc0ad6780df": {
+      "atom": {
+        "text": "Democratic Leader Nancy Pelosi looked far less than thrilled at President Trump's mention of repealing and replacing the Affordable Care Act",
+        "reference": {
+          "resource": "1664",
+          "offset": 0,
+          "text": "Democratic Leader Nancy Pelosi looked far less than thrilled at President Trump's mention of repealing and replacing the Affordable Care Act"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:17:09.497Z",
+        "updated": "2024-02-09T16:17:09.497Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This sentence indicates Pelosi's disapproval of Trump's stance on the Affordable Care Act, making it an ADU expressing disapproval."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 362.00031117680373,
+            "y": 278
+          }
+        }
+      }
+    },
+    "acd00691-c766-11ee-9b00-4fc0ad6780df": {
+      "atom": {
+        "text": "Other Democrats, like Rep. Jackie Speier, were very clear in their response to the idea of repealing Obamacare, giving it a thumbs-down",
+        "reference": {
+          "resource": "1664",
+          "offset": 234,
+          "text": "Other Democrats, like Rep. Jackie Speier, were very clear in their response to the idea of repealing Obamacare, giving it a thumbs-down"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:17:09.497Z",
+        "updated": "2024-02-09T16:17:09.497Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This sentence details the Democrats' explicit disinterest in the repeal of Obamacare, acting as an ADU that explicates their stance."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 712.0007061916914,
+            "y": 278
+          }
+        }
+      }
+    },
+    "acd00692-c766-11ee-9b00-4fc0ad6780df": {
+      "atom": {
+        "text": "Republican House Speaker Paul Ryan appreciated a reference President Trump made to negotiators needing to get better deals to repair the nation's infrastructure",
+        "reference": {
+          "resource": "1664",
+          "offset": 371,
+          "text": "Republican House Speaker Paul Ryan appreciated a reference President Trump made to negotiators needing to get better deals to repair the nation's infrastructure"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:17:09.497Z",
+        "updated": "2024-02-09T16:17:09.497Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This sentence showcases Paul Ryan's approval of Trump's reference to negotiations for better infrastructure deals, therefore it is an ADU representing approval."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1062.0006736882438,
+            "y": 278
+          }
+        }
+      }
+    },
+    "acd00693-c766-11ee-9b00-4fc0ad6780df": {
+      "atom": {
+        "text": "Everyone knows a good deal is one of the President's favorite things",
+        "reference": {
+          "resource": "1664",
+          "offset": 533,
+          "text": "Everyone knows a good deal is one of the President's favorite things"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:17:09.497Z",
+        "updated": "2024-02-09T16:17:09.497Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This sentence infers President Trump's preference for good deals, serving as an ADU indicating his likes."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1108.514970602722,
+            "y": 533.7757927622174
+          }
+        }
+      }
+    },
+    "acd00694-c766-11ee-9b00-4fc0ad6780df": {
+      "atom": {
+        "text": "Rep. Debbie Wasserman Schultz and Rep. Keith Ellison had some of the straightest faces of the night, remaining somber when the President mentioned crime in inner cities",
+        "reference": {
+          "resource": "1664",
+          "offset": 603,
+          "text": "Rep. Debbie Wasserman Schultz and Rep. Keith Ellison had some of the straightest faces of the night, remaining somber when the President mentioned crime in inner cities"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:17:09.497Z",
+        "updated": "2024-02-09T16:17:09.497Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This sentence indicates Wasserman Schultz and Ellison's disapproval or concern regarding the President's mention of crime in inner cities, marking it as an ADU."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1690.435955235042,
+            "y": 297.8789476240065
+          }
+        }
+      }
+    },
+    "acd00695-c766-11ee-9b00-4fc0ad6780df": {
+      "atom": {
+        "text": "Meanwhile, the President had the full support of Republican leaders Rep. Kevin McCarthy and Rep. Steve Scalise on the idea of putting \"America first.\"",
+        "reference": {
+          "resource": "1664",
+          "offset": 773,
+          "text": "Meanwhile, the President had the full support of Republican leaders Rep. Kevin McCarthy and Rep. Steve Scalise on the idea of putting \"America first.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:17:09.497Z",
+        "updated": "2024-02-09T16:17:09.497Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This sentence shows the support of McCarthy and Scalise for Trump's 'America first' ideology, making it an ADU expressing support."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2112.000973574779,
+            "y": 278
+          }
+        }
+      }
+    },
+    "acd00696-c766-11ee-9b00-4fc0ad6780df": {
+      "atom": {
+        "text": "Republicans largely supported President Trump's thoughts on immigration, while the Democrats were noticeably less enthusiastic",
+        "reference": {
+          "resource": "1664",
+          "offset": 1058,
+          "text": "Republicans largely supported President Trump's thoughts on immigration, while the Democrats were noticeably less enthusiastic"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:17:09.497Z",
+        "updated": "2024-02-09T16:17:09.497Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This sentence contrasts the Republican support with Democratic opposition to Trump's immigration policies, serving as an ADU depicting a divide."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2462.000532996731,
+            "y": 278
+          }
+        }
+      }
+    },
+    "acd00697-c766-11ee-9b00-4fc0ad6780df": {
+      "atom": {
+        "text": "However, there are a few things that were able to bring everyone to their feet, like supporting the troops and their families",
+        "reference": {
+          "resource": "1664",
+          "offset": 1186,
+          "text": "However, there are a few things that were able to bring everyone to their feet, like supporting the troops and their families"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:17:09.497Z",
+        "updated": "2024-02-09T16:17:09.497Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This sentence highlights a bipartisan standing ovation for supporting troops and their families, characterizing it as an ADU representing unity."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 12.000450037127159,
+            "y": 278
+          }
+        }
+      }
+    },
+    "df1e7190-c766-11ee-9b00-4fc0ad6780df": {
+      "atom": {
+        "text": "Trumps speech announced repealing Obamacare, which was supported by the Republicans and not well received by the Democrats."
+      },
+      "metadata": {
+        "created": "2024-02-09T16:18:33.897Z",
+        "updated": "2024-02-09T16:18:33.897Z"
+      },
+      "userdata": {
+        "assistant": {
+          "mcConfig": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "mcExplanation": "This ADU represents the overarching theme of the argument, which is about the reception to Trump's speech, specifically highlighting the division in responses to the proposal of repealing Obamacare. It summarizes the varied reactions of Democrats and Republicans to a key part of the speech, making it the central point of the narrative."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1078.6672282555319,
+            "y": 12
+          }
+        }
+      }
+    },
+    "85578b50-c767-11ee-9351-85050d0742e5": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:23:12.773Z",
+        "updated": "2024-02-09T16:23:12.773Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Pelosi's unenthusiastic response indicates opposition to Trump's mention, which supports the claim that the statement was not well received by Democrats."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 462.0001952680409,
+            "y": 178
+          }
+        }
+      }
+    },
+    "85578b53-c767-11ee-9351-85050d0742e5": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:23:12.773Z",
+        "updated": "2024-02-09T16:23:12.773Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Speier's thumbs-down explicitly shows disagreement with repealing Obamacare, supporting the claim regarding Democrats' reception."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 812.0005299111633,
+            "y": 178
+          }
+        }
+      }
+    },
+    "85578b56-c767-11ee-9351-85050d0742e5": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:23:12.773Z",
+        "updated": "2024-02-09T16:23:12.773Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Ryan's appreciation for Trump's reference aligns with Republican support, contradicting the claim on Democrats' reception."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1162.0002978747311,
+            "y": 178
+          }
+        }
+      }
+    },
+    "85578b5c-c767-11ee-9351-85050d0742e5": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:23:12.773Z",
+        "updated": "2024-02-09T16:23:12.773Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Schultz and Ellison's somber faces indicate disapproval of Trump's comments on crime, aligning with the major claim's notion."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1862.0007411748097,
+            "y": 178
+          }
+        }
+      }
+    },
+    "85578b5f-c767-11ee-9351-85050d0742e5": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:23:12.773Z",
+        "updated": "2024-02-09T16:23:12.773Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Republican leaders' support for \"America first\" suggests alignment with Trump's policies, opposing the claim on Democrats' reception."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2212.0009740063506,
+            "y": 178
+          }
+        }
+      }
+    },
+    "85578b62-c767-11ee-9351-85050d0742e5": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:23:12.773Z",
+        "updated": "2024-02-09T16:23:12.773Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The contrasting enthusiasm levels among Republicans and Democrats on immigration reinforce the claim about Democrats not well receiving Trump's speech."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2562.000170016469,
+            "y": 178
+          }
+        }
+      }
+    },
+    "85578b65-c767-11ee-9351-85050d0742e5": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:23:12.773Z",
+        "updated": "2024-02-09T16:23:12.773Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Supporting the troops being a unifying factor doesn't align directly with the claim considering it as a divisive statement."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 112.00072674208428,
+            "y": 178
+          }
+        }
+      }
+    },
+    "a04b9190-c767-11ee-9351-85050d0742e5": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:23:57.993Z",
+        "updated": "2024-02-09T16:23:57.993Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1109.1125592942908,
+            "y": 448.29631797898924
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "85578b51-c767-11ee-9351-85050d0742e5": {
+      "source": "acd00690-c766-11ee-9b00-4fc0ad6780df",
+      "target": "85578b50-c767-11ee-9351-85050d0742e5",
+      "metadata": {
+        "created": "2024-02-09T16:23:12.773Z",
+        "updated": "2024-02-09T16:23:12.773Z"
+      },
+      "userdata": {}
+    },
+    "85578b52-c767-11ee-9351-85050d0742e5": {
+      "source": "85578b50-c767-11ee-9351-85050d0742e5",
+      "target": "df1e7190-c766-11ee-9b00-4fc0ad6780df",
+      "metadata": {
+        "created": "2024-02-09T16:23:12.773Z",
+        "updated": "2024-02-09T16:23:12.773Z"
+      },
+      "userdata": {}
+    },
+    "85578b54-c767-11ee-9351-85050d0742e5": {
+      "source": "acd00691-c766-11ee-9b00-4fc0ad6780df",
+      "target": "85578b53-c767-11ee-9351-85050d0742e5",
+      "metadata": {
+        "created": "2024-02-09T16:23:12.773Z",
+        "updated": "2024-02-09T16:23:12.773Z"
+      },
+      "userdata": {}
+    },
+    "85578b55-c767-11ee-9351-85050d0742e5": {
+      "source": "85578b53-c767-11ee-9351-85050d0742e5",
+      "target": "df1e7190-c766-11ee-9b00-4fc0ad6780df",
+      "metadata": {
+        "created": "2024-02-09T16:23:12.773Z",
+        "updated": "2024-02-09T16:23:12.773Z"
+      },
+      "userdata": {}
+    },
+    "85578b57-c767-11ee-9351-85050d0742e5": {
+      "source": "acd00692-c766-11ee-9b00-4fc0ad6780df",
+      "target": "85578b56-c767-11ee-9351-85050d0742e5",
+      "metadata": {
+        "created": "2024-02-09T16:23:12.773Z",
+        "updated": "2024-02-09T16:23:12.773Z"
+      },
+      "userdata": {}
+    },
+    "85578b58-c767-11ee-9351-85050d0742e5": {
+      "source": "85578b56-c767-11ee-9351-85050d0742e5",
+      "target": "df1e7190-c766-11ee-9b00-4fc0ad6780df",
+      "metadata": {
+        "created": "2024-02-09T16:23:12.773Z",
+        "updated": "2024-02-09T16:23:12.773Z"
+      },
+      "userdata": {}
+    },
+    "85578b5a-c767-11ee-9351-85050d0742e5": {
+      "source": "acd00693-c766-11ee-9b00-4fc0ad6780df",
+      "target": "85578b59-c767-11ee-9351-85050d0742e5",
+      "metadata": {
+        "created": "2024-02-09T16:23:12.773Z",
+        "updated": "2024-02-09T16:23:12.773Z"
+      },
+      "userdata": {}
+    },
+    "85578b5b-c767-11ee-9351-85050d0742e5": {
+      "source": "85578b59-c767-11ee-9351-85050d0742e5",
+      "target": "df1e7190-c766-11ee-9b00-4fc0ad6780df",
+      "metadata": {
+        "created": "2024-02-09T16:23:12.773Z",
+        "updated": "2024-02-09T16:23:12.773Z"
+      },
+      "userdata": {}
+    },
+    "85578b5d-c767-11ee-9351-85050d0742e5": {
+      "source": "acd00694-c766-11ee-9b00-4fc0ad6780df",
+      "target": "85578b5c-c767-11ee-9351-85050d0742e5",
+      "metadata": {
+        "created": "2024-02-09T16:23:12.773Z",
+        "updated": "2024-02-09T16:23:12.773Z"
+      },
+      "userdata": {}
+    },
+    "85578b5e-c767-11ee-9351-85050d0742e5": {
+      "source": "85578b5c-c767-11ee-9351-85050d0742e5",
+      "target": "df1e7190-c766-11ee-9b00-4fc0ad6780df",
+      "metadata": {
+        "created": "2024-02-09T16:23:12.773Z",
+        "updated": "2024-02-09T16:23:12.773Z"
+      },
+      "userdata": {}
+    },
+    "85578b60-c767-11ee-9351-85050d0742e5": {
+      "source": "acd00695-c766-11ee-9b00-4fc0ad6780df",
+      "target": "85578b5f-c767-11ee-9351-85050d0742e5",
+      "metadata": {
+        "created": "2024-02-09T16:23:12.773Z",
+        "updated": "2024-02-09T16:23:12.773Z"
+      },
+      "userdata": {}
+    },
+    "85578b61-c767-11ee-9351-85050d0742e5": {
+      "source": "85578b5f-c767-11ee-9351-85050d0742e5",
+      "target": "df1e7190-c766-11ee-9b00-4fc0ad6780df",
+      "metadata": {
+        "created": "2024-02-09T16:23:12.773Z",
+        "updated": "2024-02-09T16:23:12.773Z"
+      },
+      "userdata": {}
+    },
+    "85578b63-c767-11ee-9351-85050d0742e5": {
+      "source": "acd00696-c766-11ee-9b00-4fc0ad6780df",
+      "target": "85578b62-c767-11ee-9351-85050d0742e5",
+      "metadata": {
+        "created": "2024-02-09T16:23:12.773Z",
+        "updated": "2024-02-09T16:23:12.773Z"
+      },
+      "userdata": {}
+    },
+    "85578b64-c767-11ee-9351-85050d0742e5": {
+      "source": "85578b62-c767-11ee-9351-85050d0742e5",
+      "target": "df1e7190-c766-11ee-9b00-4fc0ad6780df",
+      "metadata": {
+        "created": "2024-02-09T16:23:12.773Z",
+        "updated": "2024-02-09T16:23:12.773Z"
+      },
+      "userdata": {}
+    },
+    "85578b66-c767-11ee-9351-85050d0742e5": {
+      "source": "acd00697-c766-11ee-9b00-4fc0ad6780df",
+      "target": "85578b65-c767-11ee-9351-85050d0742e5",
+      "metadata": {
+        "created": "2024-02-09T16:23:12.773Z",
+        "updated": "2024-02-09T16:23:12.773Z"
+      },
+      "userdata": {}
+    },
+    "85578b67-c767-11ee-9351-85050d0742e5": {
+      "source": "85578b65-c767-11ee-9351-85050d0742e5",
+      "target": "df1e7190-c766-11ee-9b00-4fc0ad6780df",
+      "metadata": {
+        "created": "2024-02-09T16:23:12.773Z",
+        "updated": "2024-02-09T16:23:12.773Z"
+      },
+      "userdata": {}
+    },
+    "a04b9191-c767-11ee-9351-85050d0742e5": {
+      "source": "acd00693-c766-11ee-9b00-4fc0ad6780df",
+      "target": "a04b9190-c767-11ee-9351-85050d0742e5",
+      "metadata": {
+        "created": "2024-02-09T16:23:57.993Z",
+        "updated": "2024-02-09T16:23:57.993Z"
+      },
+      "userdata": {}
+    },
+    "a04b9192-c767-11ee-9351-85050d0742e5": {
+      "source": "a04b9190-c767-11ee-9351-85050d0742e5",
+      "target": "acd00692-c766-11ee-9b00-4fc0ad6780df",
+      "metadata": {
+        "created": "2024-02-09T16:23:57.993Z",
+        "updated": "2024-02-09T16:23:57.993Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "1664": {
+      "text": "Democratic Leader Nancy Pelosi looked far less than thrilled at President Trump's mention of repealing and replacing the Affordable Care Act. Pelosi, clad in white as an homage to women's suffrage, shook her head and pursed her lips. Other Democrats, like Rep. Jackie Speier, were very clear in their response to the idea of repealing Obamacare, giving it a thumbs-down. Republican House Speaker Paul Ryan appreciated a reference President Trump made to negotiators needing to get better deals to repair the nation's infrastructure. Everyone knows a good deal is one of the President's favorite things. Rep. Debbie Wasserman Schultz and Rep. Keith Ellison had some of the straightest faces of the night, remaining somber when the President mentioned crime in inner cities. Meanwhile, the President had the full support of Republican leaders Rep. Kevin McCarthy and Rep. Steve Scalise on the idea of putting \"America first.\" A standard at any Joint Session of Congress, the half up/half down crowd split between Democrats and Republicans was on full display. Republicans largely supported President Trump's thoughts on immigration, while the Democrats were noticeably less enthusiastic. However, there are a few things that were able to bring everyone to their feet, like supporting the troops and their families. Carryn Owens, the wife of Ryan Owens, a Navy Seal killed in a raid in Yemen, received more than two minutes of applause.",
+      "title": "The looks on lawmakers' faces during Trump's speech",
+      "source": "http://www.cnn.com/2017/02/28/politics/joint-address-reaction-gifs/index.html",
+      "timestamp": "2017-03-01T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.164Z",
+        "updated": "2024-02-09T13:09:16.164Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "df1e7190-c766-11ee-9b00-4fc0ad6780df",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.163Z",
+    "updated": "2024-02-09T16:24:31.846Z"
+  }
+}

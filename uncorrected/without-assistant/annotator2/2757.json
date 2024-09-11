@@ -1,0 +1,163 @@
+{
+  "nodes": {
+    "79b3eb30-c67d-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "certain Russian footballers were mentioned in the now-infamous McLaren report on the widespread doping abuse among the national athletes.",
+        "reference": {
+          "resource": "2757",
+          "offset": 104,
+          "text": "certain Russian footballers were mentioned in the now-infamous McLaren report on the widespread doping abuse among the national athletes."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:27:51.011Z",
+        "updated": "2024-02-08T12:27:51.011Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 90.48304854746516,
+            "y": 12.982143212231193
+          }
+        }
+      }
+    },
+    "9f33fc60-c67d-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "Various media agencies reported earlier citing its own sources in FIFA that certain footballers playing for Russia's leading football clubs were mentioned in the McLaren list.",
+        "reference": {
+          "resource": "2757",
+          "offset": 242,
+          "text": "Various media agencies reported earlier citing its own sources in FIFA that certain footballers playing for Russia's leading football clubs were mentioned in the McLaren list."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:28:53.926Z",
+        "updated": "2024-02-08T12:28:53.926Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0005045370401,
+            "y": 301
+          }
+        }
+      }
+    },
+    "a41dc490-c67d-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T12:29:02.169Z",
+        "updated": "2024-02-08T12:29:02.169Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.00046679950674,
+            "y": 201
+          }
+        }
+      }
+    },
+    "c741e460-c67d-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "The world's governing body of football FIFA had repeatedly rebuked such accusations and Fatma Samoura, the organization's secretary general, announced during her recent visit to St. Petersburg earlier in the month that there was no evidence regarding possible violations of doping regulations on behalf of Russian players.",
+        "reference": {
+          "resource": "2757",
+          "offset": 934,
+          "text": "The world's governing body of football FIFA had repeatedly rebuked such accusations and Fatma Samoura, the organization's secretary general, announced during her recent visit to St. Petersburg earlier in the month that there was no evidence regarding possible violations of doping regulations on behalf of Russian players."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:30:01.127Z",
+        "updated": "2024-02-08T12:30:01.127Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.0002695331218,
+            "y": 301
+          }
+        }
+      }
+    },
+    "c9082570-c67d-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T12:30:04.103Z",
+        "updated": "2024-02-08T12:30:04.103Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00020352638076,
+            "y": 201
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "a41dc491-c67d-11ee-bb24-29eae2ae94d0": {
+      "source": "9f33fc60-c67d-11ee-bb24-29eae2ae94d0",
+      "target": "a41dc490-c67d-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:29:02.169Z",
+        "updated": "2024-02-08T12:29:02.169Z"
+      },
+      "userdata": {}
+    },
+    "a41dc492-c67d-11ee-bb24-29eae2ae94d0": {
+      "source": "a41dc490-c67d-11ee-bb24-29eae2ae94d0",
+      "target": "79b3eb30-c67d-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:29:02.169Z",
+        "updated": "2024-02-08T12:29:02.169Z"
+      },
+      "userdata": {}
+    },
+    "c9082571-c67d-11ee-bb24-29eae2ae94d0": {
+      "source": "c741e460-c67d-11ee-bb24-29eae2ae94d0",
+      "target": "c9082570-c67d-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:30:04.103Z",
+        "updated": "2024-02-08T12:30:04.103Z"
+      },
+      "userdata": {}
+    },
+    "c9082572-c67d-11ee-bb24-29eae2ae94d0": {
+      "source": "c9082570-c67d-11ee-bb24-29eae2ae94d0",
+      "target": "79b3eb30-c67d-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:30:04.103Z",
+        "updated": "2024-02-08T12:30:04.103Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "2757": {
+      "text": "MOSCOW, March 17. /TASS/. Russian Deputy Prime Minister Vitaly Mutko brushed off media allegations that certain Russian footballers were mentioned in the now-infamous McLaren report on the widespread doping abuse among the national athletes. Various media agencies reported earlier citing its own sources in FIFA that certain footballers playing for Russia's leading football clubs were mentioned in the McLaren list. The players mentioned particularly were, Igor Akinfeyev (CSKA Moscow FC), Denis Glushakov (Spartak Moscow FC), Yury Zhirkov (Zenit St. Petersburg FC) and Igor Denisov (Lokomotiv Moscow FC). \"Our footballers\"?names mentioned in the McLaren list?\" Mutko, who is also the president of the Russian Football Union (RFU), said in an interview with TASS after asked to comment on media reports.   \"I believe that (Fatma) Samoura gave more than a thorough reply to this question when she was in St. Petersburg,\" Mutko said. The world's governing body of football FIFA had repeatedly rebuked such accusations and Fatma Samoura, the organization's secretary general, announced during her recent visit to St. Petersburg earlier in the month that there was no evidence regarding possible violations of doping regulations on behalf of Russian players. Last week on Thursday, Samoura attended celebration events dedicated to the 100-day countdown to the 2017 FIFA Confederations Cup Celebrations were held both in Moscow and St. Petersburg. Over 1,000 people took part in a dancing flash mob on Palace Square in Russia's second largest city of St. Petersburg. The FIFA Confederations Cup, which is also viewed by experts as a rehearsal a year prior to the FIFA World Cup, will be held between June 17 and July 2 at four stadiums in Russia and they are Spartak Stadium in Moscow, Zenit Arena in St. Petersburg, Fisht Stadium in Sochi and Kazan Arena in Kazan. Participants in the 2017 Confederations Cup are hosts Russia, 2014 FIFA World Cup Champions Germany, 2015 Copa America Champions Chile, 2015 AFC Asian Cup Champion Australia, 2015 CONCACAF Gold Cup winners Mexico, 2016 UEFA Euro Cup champs Portugal, OFC (Oceania Football Confederation) Nations Cup victors New Zealand and 2017 CAF Africa Cup of Nations Champion Cameroon.   The Draw for the 2017 FIFA Confederations Cup was held on November 26 in the Russian city of Kazan. Following the event, hosts Russia was placed in Group A alongside with Portugal, Mexico and New Zealand. Group B has brought together Germany, Chile, Australia and Cameroon. The opening game will be held in St. Petersburg on June 17 between Russia and New Zealand. Russia will face Portugal in Moscow on June 21 and on June 24 it will play Mexico in Kazan.",
+      "title": "FIFA reiterates lack of doping-abuse proofs in Russian football \"?Deputy PM Mutko",
+      "source": "http://tass.com/sport/936220",
+      "timestamp": "2024-02-08T12:24:57.834Z",
+      "metadata": {
+        "created": "2024-02-05T09:49:22.079Z",
+        "updated": "2024-02-05T09:49:22.079Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "79b3eb30-c67d-11ee-bb24-29eae2ae94d0",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-05T09:49:22.079Z",
+    "updated": "2024-02-08T12:32:48.128Z"
+  }
+}

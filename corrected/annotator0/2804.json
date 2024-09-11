@@ -1,0 +1,741 @@
+{
+  "nodes": {
+    "6a81c3b0-c670-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "The Trump Administration says recent immigration-related executive orders have not made the US less welcoming to immigrants.",
+        "reference": {
+          "resource": "2804",
+          "offset": 0,
+          "text": "The Trump Administration says recent immigration-related executive orders have not made the US less welcoming to immigrants."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T10:54:22.059Z",
+        "updated": "2024-02-08T10:54:22.059Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1812.000921645805,
+            "y": 406
+          }
+        }
+      }
+    },
+    "a47657c0-c670-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "the US did not have a merit-based immigration system and wanted to put one in place.",
+        "reference": {
+          "resource": "2804",
+          "offset": 164,
+          "text": "White House Press Secretary Sean Spicer said the US did not have a merit-based immigration system and wanted to put one in place."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T10:55:59.292Z",
+        "updated": "2024-02-08T10:55:59.292Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2112.000431674313,
+            "y": 688
+          }
+        }
+      }
+    },
+    "aa9d81f0-c670-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T10:56:09.615Z",
+        "updated": "2024-02-08T10:56:09.615Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2212.0008952476987,
+            "y": 588
+          }
+        }
+      }
+    },
+    "d93107d0-c670-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "On immigration reform, Mr Spicer said that every country, including the US, needed to protect its identity and its people and its economy, and needed to make sure \"people aren't coming in and undermining their ability to work hard and make a good living\"",
+        "reference": {
+          "resource": "2804",
+          "offset": 672,
+          "text": "On immigration reform, Mr Spicer said that every country, including the US, needed to protect its identity and its people and its economy, and needed to make sure \"people aren't coming in and undermining their ability to work hard and make a good living\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T10:57:27.757Z",
+        "updated": "2024-02-08T10:57:27.757Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1762.000109767613,
+            "y": 688
+          }
+        }
+      }
+    },
+    "db4b5c50-c670-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T10:57:31.285Z",
+        "updated": "2024-02-08T10:57:31.285Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1862.000213706727,
+            "y": 588
+          }
+        }
+      }
+    },
+    "3c17a250-c671-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "In an interview conducted at the White House to mark St Patrick's Day, Mr Spicer also rejected any suggestion that the administration had a difficult relationship with the truth, or was a war with the media.",
+        "reference": {
+          "resource": "2804",
+          "offset": 464,
+          "text": "In an interview conducted at the White House to mark St Patrick's Day, Mr Spicer also rejected any suggestion that the administration had a difficult relationship with the truth, or was a war with the media."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T11:00:13.685Z",
+        "updated": "2024-02-08T11:00:13.685Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0005785540861,
+            "y": 374
+          }
+        }
+      }
+    },
+    "41d8dec0-c671-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T11:00:23.340Z",
+        "updated": "2024-02-08T11:00:23.340Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0003220612426,
+            "y": 274
+          }
+        }
+      }
+    },
+    "6c5e0850-c671-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "it is-\"interesting to see the media talk about credibility and integrity\" when there were so many news reports that attempted \"to create a false narrative or overlooked key facts in other to try to tell the narrative they're trying to suggest\"",
+        "reference": {
+          "resource": "2804",
+          "offset": 3183,
+          "text": "it is-\"interesting to see the media talk about credibility and integrity\" when there were so many news reports that attempted \"to create a false narrative or overlooked key facts in other to try to tell the narrative they're trying to suggest\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T11:01:34.678Z",
+        "updated": "2024-02-08T11:01:34.678Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0001986770904,
+            "y": 1026
+          }
+        }
+      }
+    },
+    "ad023070-c671-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "the media applied a \"double standard\" in how they judged the administration and judged themselves.",
+        "reference": {
+          "resource": "2804",
+          "offset": 3071,
+          "text": "the media applied a \"double standard\" in how they judged the administration and judged themselves."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T11:03:23.127Z",
+        "updated": "2024-02-08T11:03:23.127Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.00036251920864,
+            "y": 736
+          }
+        }
+      }
+    },
+    "af4d31e0-c671-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T11:03:26.974Z",
+        "updated": "2024-02-08T11:03:26.974Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.0002253314359,
+            "y": 588
+          }
+        }
+      }
+    },
+    "8189a810-fb28-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "The Trump Administration claims that its recent executive orders on immigration aim to establish a merit-based system and protect the identity, people, and economy of the US, while maintaining respect for the rule of law, despite concerns over credibility and media relations."
+      },
+      "metadata": {
+        "created": "2024-04-15T13:03:08.561Z",
+        "updated": "2024-04-15T13:03:08.561Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 762.0003970190816,
+            "y": 12
+          }
+        }
+      }
+    },
+    "858dcb30-fb28-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T13:03:15.299Z",
+        "updated": "2024-04-15T13:03:15.299Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1912.0003085729743,
+            "y": 274
+          }
+        }
+      }
+    },
+    "ca7d0a80-fb28-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": " Mr Spicer does not think that there is a war, describing the relationship instead as \"definitely intense\", adding there was a big difference between being \"disagreeable\" and \"disrespectful\", but that they strove \"to find the balance at all times\"",
+        "reference": {
+          "text": " Mr Spicer does not think that there is a war, describing the relationship instead as \"definitely intense\", adding there was a big difference between being \"disagreeable\" and \"disrespectful\", but that they strove \"to find the balance at all times\""
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T13:05:10.952Z",
+        "updated": "2024-04-15T13:05:10.952Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0003507415897,
+            "y": 688
+          }
+        }
+      }
+    },
+    "cd474e10-fb28-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T13:05:15.633Z",
+        "updated": "2024-04-15T13:05:15.633Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0008213385406,
+            "y": 588
+          }
+        }
+      }
+    },
+    "0650e5e0-fb29-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "the relationship between the Trump administration and some outlets has deteriorated",
+        "reference": {
+          "text": "the relationship between the Trump administration and some outlets has deteriorated"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T13:06:51.326Z",
+        "updated": "2024-04-15T13:06:51.326Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.0001733378892,
+            "y": 688
+          }
+        }
+      }
+    },
+    "0a61b330-fb29-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T13:06:58.147Z",
+        "updated": "2024-04-15T13:06:58.147Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0006489724499,
+            "y": 588
+          }
+        }
+      }
+    },
+    "2b817780-fb29-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "sometimes he and other spokespeople massaged the truth in what they briefed on behalf the President",
+        "reference": {
+          "text": "sometimes he and other spokespeople massaged the truth in what they briefed on behalf the President"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T13:07:53.720Z",
+        "updated": "2024-04-15T13:07:53.720Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1412.0003122445269,
+            "y": 688
+          }
+        }
+      }
+    },
+    "2e5b7280-fb29-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T13:07:58.504Z",
+        "updated": "2024-04-15T13:07:58.504Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1512.0000575321046,
+            "y": 588
+          }
+        }
+      }
+    },
+    "5c5c7c60-fb29-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T13:09:15.686Z",
+        "updated": "2024-04-15T13:09:15.686Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.00068321935845,
+            "y": 926
+          }
+        }
+      }
+    },
+    "3e7ef550-fb2a-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "some of the President's tweets were not always based in fact",
+        "reference": {
+          "text": "some of the President's tweets were not always based in fact"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T13:15:35.077Z",
+        "updated": "2024-04-15T13:15:35.077Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000222164396751,
+            "y": 748
+          }
+        }
+      }
+    },
+    "4226c7a0-fb2a-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T13:15:41.210Z",
+        "updated": "2024-04-15T13:15:41.210Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00016469064195,
+            "y": 588
+          }
+        }
+      }
+    },
+    "5ad5bfe0-fb2a-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "in most cases we're either striving to get all those facts or we've proven right in almost all of those circumstances",
+        "reference": {
+          "text": "in most cases we're either striving to get all those facts or we've proven right in almost all of those circumstances"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T13:16:22.622Z",
+        "updated": "2024-04-15T13:16:22.622Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000991756901277,
+            "y": 1026
+          }
+        }
+      }
+    },
+    "5cb0c170-fb2a-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T13:16:25.735Z",
+        "updated": "2024-04-15T13:16:25.735Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00006712840042,
+            "y": 926
+          }
+        }
+      }
+    },
+    "8702cd10-fb2a-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "the President's various social media platforms gave the administration a \"very unique ability to speak directly to the American people\", something he felt \"some folks in the media\" viewed as a threat",
+        "reference": {
+          "text": "the President's various social media platforms gave the administration a \"very unique ability to speak directly to the American people\", something he felt \"some folks in the media\" viewed as a threat"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T13:17:36.737Z",
+        "updated": "2024-04-15T13:17:36.737Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -351.1664046614567,
+            "y": 1015.0213893396722
+          }
+        }
+      }
+    },
+    "8c0a5670-fb2a-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T13:17:45.175Z",
+        "updated": "2024-04-15T13:17:45.175Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -169.58309124852997,
+            "y": 881.5106946698361
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "aa9d81f1-c670-11ee-bb24-29eae2ae94d0": {
+      "source": "a47657c0-c670-11ee-bb24-29eae2ae94d0",
+      "target": "aa9d81f0-c670-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:56:09.615Z",
+        "updated": "2024-02-08T10:56:09.615Z"
+      },
+      "userdata": {}
+    },
+    "aa9d81f2-c670-11ee-bb24-29eae2ae94d0": {
+      "source": "aa9d81f0-c670-11ee-bb24-29eae2ae94d0",
+      "target": "6a81c3b0-c670-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:56:09.615Z",
+        "updated": "2024-02-08T10:56:09.615Z"
+      },
+      "userdata": {}
+    },
+    "db4b8360-c670-11ee-bb24-29eae2ae94d0": {
+      "source": "d93107d0-c670-11ee-bb24-29eae2ae94d0",
+      "target": "db4b5c50-c670-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:57:31.286Z",
+        "updated": "2024-02-08T10:57:31.286Z"
+      },
+      "userdata": {}
+    },
+    "db4b8361-c670-11ee-bb24-29eae2ae94d0": {
+      "source": "db4b5c50-c670-11ee-bb24-29eae2ae94d0",
+      "target": "6a81c3b0-c670-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:57:31.286Z",
+        "updated": "2024-02-08T10:57:31.286Z"
+      },
+      "userdata": {}
+    },
+    "41d8dec1-c671-11ee-bb24-29eae2ae94d0": {
+      "source": "3c17a250-c671-11ee-bb24-29eae2ae94d0",
+      "target": "41d8dec0-c671-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T11:00:23.340Z",
+        "updated": "2024-02-08T11:00:23.340Z"
+      },
+      "userdata": {}
+    },
+    "6f818f71-c671-11ee-bb24-29eae2ae94d0": {
+      "source": "6c5e0850-c671-11ee-bb24-29eae2ae94d0",
+      "target": "6f818f70-c671-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T11:01:39.943Z",
+        "updated": "2024-02-08T11:01:39.943Z"
+      },
+      "userdata": {}
+    },
+    "6f818f72-c671-11ee-bb24-29eae2ae94d0": {
+      "source": "6f818f70-c671-11ee-bb24-29eae2ae94d0",
+      "target": "3c17a250-c671-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T11:01:39.943Z",
+        "updated": "2024-02-08T11:01:39.943Z"
+      },
+      "userdata": {}
+    },
+    "af4d31e1-c671-11ee-bb24-29eae2ae94d0": {
+      "source": "ad023070-c671-11ee-bb24-29eae2ae94d0",
+      "target": "af4d31e0-c671-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T11:03:26.974Z",
+        "updated": "2024-02-08T11:03:26.974Z"
+      },
+      "userdata": {}
+    },
+    "af4d31e2-c671-11ee-bb24-29eae2ae94d0": {
+      "source": "af4d31e0-c671-11ee-bb24-29eae2ae94d0",
+      "target": "3c17a250-c671-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T11:03:26.974Z",
+        "updated": "2024-02-08T11:03:26.974Z"
+      },
+      "userdata": {}
+    },
+    "858dcb31-fb28-11ee-aa26-a11ecda1a83c": {
+      "source": "6a81c3b0-c670-11ee-bb24-29eae2ae94d0",
+      "target": "858dcb30-fb28-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T13:03:15.299Z",
+        "updated": "2024-04-15T13:03:15.299Z"
+      },
+      "userdata": {}
+    },
+    "858dcb32-fb28-11ee-aa26-a11ecda1a83c": {
+      "source": "858dcb30-fb28-11ee-aa26-a11ecda1a83c",
+      "target": "8189a810-fb28-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T13:03:15.299Z",
+        "updated": "2024-04-15T13:03:15.299Z"
+      },
+      "userdata": {}
+    },
+    "8a7d86d0-fb28-11ee-aa26-a11ecda1a83c": {
+      "source": "41d8dec0-c671-11ee-bb24-29eae2ae94d0",
+      "target": "8189a810-fb28-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T13:03:23.581Z",
+        "updated": "2024-04-15T13:03:23.581Z"
+      },
+      "userdata": {}
+    },
+    "cd474e11-fb28-11ee-aa26-a11ecda1a83c": {
+      "source": "ca7d0a80-fb28-11ee-aa26-a11ecda1a83c",
+      "target": "cd474e10-fb28-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T13:05:15.633Z",
+        "updated": "2024-04-15T13:05:15.633Z"
+      },
+      "userdata": {}
+    },
+    "cd474e12-fb28-11ee-aa26-a11ecda1a83c": {
+      "source": "cd474e10-fb28-11ee-aa26-a11ecda1a83c",
+      "target": "3c17a250-c671-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-04-15T13:05:15.633Z",
+        "updated": "2024-04-15T13:05:15.633Z"
+      },
+      "userdata": {}
+    },
+    "0a61b331-fb29-11ee-aa26-a11ecda1a83c": {
+      "source": "0650e5e0-fb29-11ee-aa26-a11ecda1a83c",
+      "target": "0a61b330-fb29-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T13:06:58.147Z",
+        "updated": "2024-04-15T13:06:58.147Z"
+      },
+      "userdata": {}
+    },
+    "0a61b332-fb29-11ee-aa26-a11ecda1a83c": {
+      "source": "0a61b330-fb29-11ee-aa26-a11ecda1a83c",
+      "target": "3c17a250-c671-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-04-15T13:06:58.147Z",
+        "updated": "2024-04-15T13:06:58.147Z"
+      },
+      "userdata": {}
+    },
+    "2e5b7281-fb29-11ee-aa26-a11ecda1a83c": {
+      "source": "2b817780-fb29-11ee-aa26-a11ecda1a83c",
+      "target": "2e5b7280-fb29-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T13:07:58.504Z",
+        "updated": "2024-04-15T13:07:58.504Z"
+      },
+      "userdata": {}
+    },
+    "2e5b7282-fb29-11ee-aa26-a11ecda1a83c": {
+      "source": "2e5b7280-fb29-11ee-aa26-a11ecda1a83c",
+      "target": "3c17a250-c671-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-04-15T13:07:58.504Z",
+        "updated": "2024-04-15T13:07:58.504Z"
+      },
+      "userdata": {}
+    },
+    "5c5c7c61-fb29-11ee-aa26-a11ecda1a83c": {
+      "source": "6c5e0850-c671-11ee-bb24-29eae2ae94d0",
+      "target": "5c5c7c60-fb29-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T13:09:15.686Z",
+        "updated": "2024-04-15T13:09:15.686Z"
+      },
+      "userdata": {}
+    },
+    "5c5c7c62-fb29-11ee-aa26-a11ecda1a83c": {
+      "source": "5c5c7c60-fb29-11ee-aa26-a11ecda1a83c",
+      "target": "ad023070-c671-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-04-15T13:09:15.686Z",
+        "updated": "2024-04-15T13:09:15.686Z"
+      },
+      "userdata": {}
+    },
+    "4226eeb0-fb2a-11ee-aa26-a11ecda1a83c": {
+      "source": "3e7ef550-fb2a-11ee-aa26-a11ecda1a83c",
+      "target": "4226c7a0-fb2a-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T13:15:41.211Z",
+        "updated": "2024-04-15T13:15:41.211Z"
+      },
+      "userdata": {}
+    },
+    "4226eeb1-fb2a-11ee-aa26-a11ecda1a83c": {
+      "source": "4226c7a0-fb2a-11ee-aa26-a11ecda1a83c",
+      "target": "3c17a250-c671-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-04-15T13:15:41.211Z",
+        "updated": "2024-04-15T13:15:41.211Z"
+      },
+      "userdata": {}
+    },
+    "5cb0c171-fb2a-11ee-aa26-a11ecda1a83c": {
+      "source": "5ad5bfe0-fb2a-11ee-aa26-a11ecda1a83c",
+      "target": "5cb0c170-fb2a-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T13:16:25.735Z",
+        "updated": "2024-04-15T13:16:25.735Z"
+      },
+      "userdata": {}
+    },
+    "5cb0c172-fb2a-11ee-aa26-a11ecda1a83c": {
+      "source": "5cb0c170-fb2a-11ee-aa26-a11ecda1a83c",
+      "target": "3e7ef550-fb2a-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T13:16:25.735Z",
+        "updated": "2024-04-15T13:16:25.735Z"
+      },
+      "userdata": {}
+    },
+    "8c0a7d80-fb2a-11ee-aa26-a11ecda1a83c": {
+      "source": "8702cd10-fb2a-11ee-aa26-a11ecda1a83c",
+      "target": "8c0a5670-fb2a-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T13:17:45.176Z",
+        "updated": "2024-04-15T13:17:45.176Z"
+      },
+      "userdata": {}
+    },
+    "8c0a7d81-fb2a-11ee-aa26-a11ecda1a83c": {
+      "source": "8c0a5670-fb2a-11ee-aa26-a11ecda1a83c",
+      "target": "3e7ef550-fb2a-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T13:17:45.176Z",
+        "updated": "2024-04-15T13:17:45.176Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "2804": {
+      "text": "The Trump Administration says recent immigration-related executive orders have not made the US less welcoming to immigrants. Speaking to RT? News in Washington DC, White House Press Secretary Sean Spicer said the US did not have a merit-based immigration system and wanted to put one in place. He said that it was something that President Donald Trump \"really wants to get done\", and there was a \"national security implication as well as an economic implication\". In an interview conducted at the White House to mark St Patrick's Day, Mr Spicer also rejected any suggestion that the administration had a difficult relationship with the truth, or was a war with the media. On immigration reform, Mr Spicer said that every country, including the US, needed to protect its identity and its people and its economy, and needed to make sure \"people aren't coming in and undermining their ability to work hard and make a good living\". Mr Trump discussed immigration with Taoiseach Enda Kenny yesterday. Mr Spicer said there was \"a way to do this\", but that the US was a country of laws and the rule of law needed to be respected. Wearing a shamrock tie, green socks and an Ireland-US flag pin, Mr Spicer said he cherished his Irish heritage, and considered himself \"very much Irish\". He joked that he was not wearing his famous pair of green white and shamrock trousers today because \"I don't think they would go over well at the White House\", adding that they would \"live forever on the Internet\". His great-grandfather William Spicer emigrated to the US from Co-Cork in the late 1800s. He joined the US navy, fought in the Spanish-American war and was a recipient of a medal of honour for his service. He-settled in Newport, Rhode Island \"and the Spicers have been there ever-since\". He has Irish heritage on his mother's side too, with the surname Kelly. Mr Spicer said he had been all over Ireland, but had been to Dublin more than any other county, and that he had done some work to trace his roots, saying \"If I ever get the time\", he hoped to explore more. He is just one of several Irish-Americans working in the West Wing;-advisors KellyAnne Conway, Steve Bannon, Mick Mulvaney-and Hope Hicks all have Irish roots, as does Vice President Mike Pence, whose grandfather emigrated from Ireland in 1923. Top: KellyAnne Conway, Steve Bannon and Mike Pence with Mick Mulvaney and Hope Hicks Trump administration has 'intense' relationship with some media outlets Mr Spicer's daily press briefings have become combative of late as the relationship between the Trump administration and some outlets has deteriorated. But Mr Spicer does not think that there is a war, describing the relationship instead as \"definitely intense\", adding there was a big difference between being \"disagreeable\" and \"disrespectful\", but that they strove \"to find the balance at all times\". He rejected a suggestion that sometimes he and other spokespeople massaged the truth in what they briefed on behalf the President, saying that every day he and the team made sure to \"articulate our position\". But he said the media applied a \"double standard\" in how they judged the administration and judged themselves. He said it is-\"interesting to see the media talk about credibility and integrity\" when there were so many news reports that attempted \"to create a false narrative or overlooked key facts in other to try to tell the narrative they're trying to suggest\". But when asked about the situation whereby some of the President's tweets were not always based in fact, Mr Spicer said \"some people would suggest that, but in most cases we're either striving to get all those facts or we've proven right in almost all of those circumstances\". He said that he had never faced a situation where he had to say no to the President, and they usually talked through issues in advance. He said-Mr Trump \"constantly has ideas and suggestions on how to say things\". He said Twitter had not made his job more difficult, but the President's various social media platforms gave the administration a \"very unique ability to speak directly to the American people\", something he felt \"some folks in the media\" viewed as a threat. He also-said that-he did feel a sense of humour was important to the job but also \"a sense of grounding, and about knowing who you are and what's important\". \"You have to-keep your compass straight on why you're here and what you're supposed to be doing\". Mr Spicer said-he loved his job, adding \"you can't do something like this if you don't love it\".",
+      "title": "Orders did not make US 'less welcoming' to immigrants - Spicer",
+      "source": "http://www.rte.ie/news/world/2017/0317/860596-sean-spicer/",
+      "timestamp": "2024-02-08T10:53:58.841Z",
+      "metadata": {
+        "created": "2024-02-05T09:49:22.083Z",
+        "updated": "2024-02-05T09:49:22.083Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "2c603380-c41a-11ee-a06c-cb1cbb90ffa4": {
+      "name": "annotator0",
+      "email": "s4kibart@uni-trier.de",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "8189a810-fb28-11ee-aa26-a11ecda1a83c",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-05T09:49:22.083Z",
+    "updated": "2024-04-15T13:20:32.697Z"
+  },
+  "userdata": {}
+}

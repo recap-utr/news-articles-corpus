@@ -1,0 +1,1215 @@
+{
+  "nodes": {
+    "5e142c00-c777-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "On the campaign trail, Donald Trump showed his sharp political instincts by promising voters that no American would go without health insurance",
+        "reference": {
+          "resource": "2303",
+          "offset": 0,
+          "text": "On the campaign trail, Donald Trump showed his sharp political instincts by promising voters that no American would go without health insurance"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:16:38.848Z",
+        "updated": "2024-02-09T18:16:38.848Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This is an ADU because it presents Trump's promise as a key point in his campaign."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1412.0003485329723,
+            "y": 594
+          }
+        }
+      }
+    },
+    "5e142c01-c777-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "\"I am going to take care of everybody,\" he said. \"I don't care if it costs me votes or not. Everybody's going to be taken care of much better than they're taken care of now.\"",
+        "reference": {
+          "resource": "2303",
+          "offset": 145,
+          "text": "\"I am going to take care of everybody,\" he said. \"I don't care if it costs me votes or not. Everybody's going to be taken care of much better than they're taken care of now.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:16:38.848Z",
+        "updated": "2024-02-09T18:16:38.848Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU represents Trump's pledge to better healthcare, emphasizing his commitment."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2462.000145414746,
+            "y": 968
+          }
+        }
+      }
+    },
+    "5e142c02-c777-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "That declaration won him overwhelming support from white men and women, whose life expectancy has begun to decline",
+        "reference": {
+          "resource": "2303",
+          "offset": 321,
+          "text": "That declaration won him overwhelming support from white men and women, whose life expectancy has begun to decline"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:16:38.848Z",
+        "updated": "2024-02-09T18:16:38.848Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU highlights the impact of Trump's declaration on a specific demographic."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2462.0002890003193,
+            "y": 1270
+          }
+        }
+      }
+    },
+    "5e142c03-c777-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "But Trump's concept of healthcare reform ran counter to the ideological convictions of the Republicans controlling Congress",
+        "reference": {
+          "resource": "2303",
+          "offset": 437,
+          "text": "But Trump's concept of healthcare reform ran counter to the ideological convictions of the Republicans controlling Congress"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:16:38.848Z",
+        "updated": "2024-02-09T18:16:38.848Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Points out a conflict between Trump's healthcare reform ideas and the Republican Congress's ideology."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2112.000910058626,
+            "y": 594
+          }
+        }
+      }
+    },
+    "5e142c04-c777-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "They voted more than 60 times to repeal Barack Obama's signature legislative achievement, the Affordable Care Act",
+        "reference": {
+          "resource": "2303",
+          "offset": 562,
+          "text": "They voted more than 60 times to repeal Barack Obama's signature legislative achievement, the Affordable Care Act"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:16:38.848Z",
+        "updated": "2024-02-09T18:16:38.848Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU shows the Congress's continual efforts to repeal Obamacare, highlighting their opposition."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 712.0002350445986,
+            "y": 642
+          }
+        }
+      }
+    },
+    "5e142c06-c777-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "The law, better known as Obamacare, had been adopted without a single Republican vote-when Democrats were in charge in the Capitol",
+        "reference": {
+          "resource": "2303",
+          "offset": 747,
+          "text": "The law, better known as Obamacare, had been adopted without a single Republican vote-when Democrats were in charge in the Capitol"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:16:38.848Z",
+        "updated": "2024-02-09T18:16:38.848Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU highlights the partisan nature of the enactment of Obamacare."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 712.0002841375772,
+            "y": 956
+          }
+        }
+      }
+    },
+    "5e142c07-c777-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "As Republicans now proceed to dismantle it - another promise to voters - Trump has given his blessing to its replacement, which is running into a wall of resistance ranging from doctors, hospitals, seniors advocates and many state governors to free-market conservatives",
+        "reference": {
+          "resource": "2303",
+          "offset": 879,
+          "text": "As Republicans now proceed to dismantle it - another promise to voters - Trump has given his blessing to its replacement, which is running into a wall of resistance ranging from doctors, hospitals, seniors advocates and many state governors to free-market conservatives"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:16:38.848Z",
+        "updated": "2024-02-09T18:16:38.848Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Shows the broad opposition to the Republican replacement for Obamacare, despite Trump's support."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 12.000054981821366,
+            "y": 594
+          }
+        }
+      }
+    },
+    "5e142c08-c777-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Obamacare's defenders warn the Republican alternative would strip millions of patients of coverage acquired in the past few years and cost more both to taxpayers and poorer, older patients",
+        "reference": {
+          "resource": "2303",
+          "text": "Obamacare's defenders warn the Republican alternative would strip millions of patients of coverage acquired in the past few years and cost more both to taxpayers and poorer, older patients"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:16:38.848Z",
+        "updated": "2024-02-09T18:16:38.848Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU outlines the criticisms of the Republican healthcare alternative from various perspectives."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 3162.0000226951433,
+            "y": 594
+          }
+        }
+      }
+    },
+    "5e142c0a-c777-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Paying for medical treatment was largely a private or charity responsibility until the 1940s",
+        "reference": {
+          "resource": "2303",
+          "offset": 1701,
+          "text": "Paying for medical treatment was largely a private or charity responsibility until the 1940s"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:16:38.848Z",
+        "updated": "2024-02-09T18:16:38.848Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU provides historical context on healthcare funding in America."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1762.0000458858126,
+            "y": 654
+          }
+        }
+      }
+    },
+    "5e142c0b-c777-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "In 1965, the government and taxpayers emerged as a dominant factor",
+        "reference": {
+          "resource": "2303",
+          "offset": 1901,
+          "text": "In 1965, the government and taxpayers emerged as a dominant factor"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:16:38.848Z",
+        "updated": "2024-02-09T18:16:38.848Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Highlights a significant change in healthcare funding."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1762.0002031732613,
+            "y": 992
+          }
+        }
+      }
+    },
+    "5e142c0c-c777-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "The enactment of Medicare guaranteed basic doctor and hospital coverage for everyone aged 65 and older, while Medicaid helped states pay for long-term care and insurance for certain classes of the poor and disabled",
+        "reference": {
+          "resource": "2303",
+          "offset": 2021,
+          "text": "The enactment of Medicare guaranteed basic doctor and hospital coverage for everyone aged 65 and older, while Medicaid helped states pay for long-term care and insurance for certain classes of the poor and disabled"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:16:38.848Z",
+        "updated": "2024-02-09T18:16:38.848Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Describes the impact of Medicare and Medicaid on healthcare coverage."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1762.0004408399432,
+            "y": 1270
+          }
+        }
+      }
+    },
+    "5e142c0f-c777-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Obamacare was aimed to help fill the gap for the 16.3 percent of Americans who remained without coverage",
+        "reference": {
+          "resource": "2303",
+          "offset": 2607,
+          "text": "Obamacare was aimed to help fill the gap for the 16.3 percent of Americans who remained without coverage"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:16:38.848Z",
+        "updated": "2024-02-09T18:16:38.848Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Describes the primary goal of Obamacare."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2462.000263068585,
+            "y": 654
+          }
+        }
+      }
+    },
+    "5e142c10-c777-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "By the time Obama left office the number was down to 8.6 percent, the ... objection derives from a fundamental reality of insurance pools - a healthy, younger majority whose premiums finance care for the far fewer who are older and sicker",
+        "reference": {
+          "resource": "2303",
+          "text": "By the time Obama left office the number was down to 8.6 percent, the ... objection derives from a fundamental reality of insurance pools - a healthy, younger majority whose premiums finance care for the far fewer who are older and sicker"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:16:38.848Z",
+        "updated": "2024-02-09T18:16:38.848Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU provides statistics on Obamacare coverage and introduces a major criticism of it."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 3512.0003014150584,
+            "y": 594
+          }
+        }
+      }
+    },
+    "5e142c11-c777-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Another reality - a big redistribution of wealth through higher taxes, the financial dynamic underlying Obamacare",
+        "reference": {
+          "resource": "2303",
+          "offset": 3161,
+          "text": "Another reality - a big redistribution of wealth through higher taxes, the financial dynamic underlying Obamacare"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:16:38.848Z",
+        "updated": "2024-02-09T18:16:38.848Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Introduces another criticism of Obamacare related to its financial impact."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2812.0001769291,
+            "y": 642
+          }
+        }
+      }
+    },
+    "5e142c12-c777-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Without those added taxes, paid by wealthier patients, highly profitable drug companies and - potentially - medical device makers, private insurers would see no profit and exit from the marketplace",
+        "reference": {
+          "resource": "2303",
+          "text": "Without those added taxes, paid by wealthier patients, highly profitable drug companies and - potentially - medical device makers, private insurers would see no profit and exit from the marketplace"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:16:38.848Z",
+        "updated": "2024-02-09T18:16:38.848Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Discusses the consequences of removing Obamacare's taxes, highlighting the financial dynamics involved."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2812.000604730398,
+            "y": 956
+          }
+        }
+      }
+    },
+    "5e142c13-c777-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Republicans have pointed to another of Obamacare's flaws - the threat of ...\"death spiral\"",
+        "reference": {
+          "resource": "2303",
+          "text": "Republicans have pointed to another of Obamacare's flaws - the threat of ...\"death spiral\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:16:38.848Z",
+        "updated": "2024-02-09T18:16:38.848Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Highlights a specific criticism of Obamacare by Republicans regarding market competition."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 362.0003400461559,
+            "y": 594
+          }
+        }
+      }
+    },
+    "5e142c14-c777-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "But their proposed reforms have yet to address the crushing economic burden of American healthcare for too many",
+        "reference": {
+          "resource": "2303",
+          "offset": 3656,
+          "text": "But their proposed reforms have yet to address the crushing economic burden of American healthcare for too many"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:16:38.848Z",
+        "updated": "2024-02-09T18:16:38.848Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Presents Trump's argument for a healthcare system similar to Canada's as part of his past stance.",
+          "mcConfig": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "mcExplanation": "This ADU represents the overarching conclusion of the argument, addressing the main issue with the Republican healthcare reforms and summarizing the overall discourse on healthcare reform in America. It indicates the persistence of a fundamental problem without providing a solution, which encapsulates the crux of the discussion."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1062.0009854116256,
+            "y": 594
+          }
+        }
+      }
+    },
+    "5e142c16-c777-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "\"[Canada's healthcare system] could have worked in a different age,\" he said on his climb to the presidency. But he's never explained why not now",
+        "reference": {
+          "resource": "2303",
+          "offset": 4647,
+          "text": "\"It could have worked in a different age,\" he said on his climb to the presidency. But he's never explained why not now"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:16:38.848Z",
+        "updated": "2024-02-09T18:16:38.848Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Highlights a vague explanation by Trump on changing his mind about healthcare solutions."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1256.841083738853,
+            "y": 1011.6090922521655
+          }
+        }
+      }
+    },
+    "85138a30-c777-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Trump's cabinett wants to repeal Obamacare"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:17:44.275Z",
+        "updated": "2024-02-09T18:17:44.275Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1762.0003955118489,
+            "y": 366
+          }
+        }
+      }
+    },
+    "d7d2b4d0-c777-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:20:03.101Z",
+        "updated": "2024-02-09T18:20:03.101Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.00057511755705,
+            "y": 494
+          }
+        }
+      }
+    },
+    "e66c0aa0-c777-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:20:27.594Z",
+        "updated": "2024-02-09T18:20:27.594Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0005492232636,
+            "y": 494
+          }
+        }
+      }
+    },
+    "effb6610-c777-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:20:43.633Z",
+        "updated": "2024-02-09T18:20:43.633Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.000206581229,
+            "y": 494
+          }
+        }
+      }
+    },
+    "3d3db040-c778-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:22:53.252Z",
+        "updated": "2024-02-09T18:22:53.252Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1512.000556070031,
+            "y": 494
+          }
+        }
+      }
+    },
+    "49db5d20-c778-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:23:14.418Z",
+        "updated": "2024-02-09T18:23:14.418Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1862.000302005972,
+            "y": 494
+          }
+        }
+      }
+    },
+    "4e2080e0-c778-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:23:21.582Z",
+        "updated": "2024-02-09T18:23:21.582Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1862.000238448335,
+            "y": 856
+          }
+        }
+      }
+    },
+    "8e61c880-c778-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:25:09.384Z",
+        "updated": "2024-02-09T18:25:09.384Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1862.0008938831454,
+            "y": 1170
+          }
+        }
+      }
+    },
+    "980bb0d0-c778-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:25:25.597Z",
+        "updated": "2024-02-09T18:25:25.597Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0003292114898,
+            "y": 856
+          }
+        }
+      }
+    },
+    "af41c4b0-c778-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:26:04.539Z",
+        "updated": "2024-02-09T18:26:04.539Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2212.0009937391305,
+            "y": 494
+          }
+        }
+      }
+    },
+    "c5c7c270-c778-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:26:42.327Z",
+        "updated": "2024-02-09T18:26:42.327Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2562.0005345614404,
+            "y": 856
+          }
+        }
+      }
+    },
+    "ca5c8cd0-c778-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:26:50.013Z",
+        "updated": "2024-02-09T18:26:50.013Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2562.000588877064,
+            "y": 494
+          }
+        }
+      }
+    },
+    "da7aade0-c778-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:27:17.054Z",
+        "updated": "2024-02-09T18:27:17.054Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2562.0009243445234,
+            "y": 1170
+          }
+        }
+      }
+    },
+    "e6053d10-c778-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:27:36.417Z",
+        "updated": "2024-02-09T18:27:36.417Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2912.000188883182,
+            "y": 494
+          }
+        }
+      }
+    },
+    "4c9f1b90-c779-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:30:28.553Z",
+        "updated": "2024-02-09T18:30:28.553Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2912.0006668051174,
+            "y": 856
+          }
+        }
+      }
+    },
+    "60112290-c779-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:31:01.177Z",
+        "updated": "2024-02-09T18:31:01.177Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 3262.0009496122116,
+            "y": 494
+          }
+        }
+      }
+    },
+    "71f361d0-c779-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:31:31.181Z",
+        "updated": "2024-02-09T18:31:31.181Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 3612.0005191459263,
+            "y": 494
+          }
+        }
+      }
+    },
+    "800a8f50-c779-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:31:54.821Z",
+        "updated": "2024-02-09T18:31:54.821Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.0003206676785,
+            "y": 494
+          }
+        }
+      }
+    },
+    "93c8e190-c779-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:32:27.945Z",
+        "updated": "2024-02-09T18:32:27.945Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1688.0891871891138,
+            "y": 789.2325624037536
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "d7d2b4d1-c777-11ee-a75d-3d21b0b510a2": {
+      "source": "5e142c13-c777-11ee-a75d-3d21b0b510a2",
+      "target": "d7d2b4d0-c777-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:20:03.101Z",
+        "updated": "2024-02-09T18:20:03.101Z"
+      },
+      "userdata": {}
+    },
+    "d7d2b4d2-c777-11ee-a75d-3d21b0b510a2": {
+      "source": "d7d2b4d0-c777-11ee-a75d-3d21b0b510a2",
+      "target": "85138a30-c777-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:20:03.101Z",
+        "updated": "2024-02-09T18:20:03.101Z"
+      },
+      "userdata": {}
+    },
+    "e66c0aa1-c777-11ee-a75d-3d21b0b510a2": {
+      "source": "5e142c04-c777-11ee-a75d-3d21b0b510a2",
+      "target": "e66c0aa0-c777-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:20:27.594Z",
+        "updated": "2024-02-09T18:20:27.594Z"
+      },
+      "userdata": {}
+    },
+    "e66c0aa2-c777-11ee-a75d-3d21b0b510a2": {
+      "source": "e66c0aa0-c777-11ee-a75d-3d21b0b510a2",
+      "target": "85138a30-c777-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:20:27.594Z",
+        "updated": "2024-02-09T18:20:27.594Z"
+      },
+      "userdata": {}
+    },
+    "effb6611-c777-11ee-a75d-3d21b0b510a2": {
+      "source": "5e142c14-c777-11ee-a75d-3d21b0b510a2",
+      "target": "effb6610-c777-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:20:43.633Z",
+        "updated": "2024-02-09T18:20:43.633Z"
+      },
+      "userdata": {}
+    },
+    "effb6612-c777-11ee-a75d-3d21b0b510a2": {
+      "source": "effb6610-c777-11ee-a75d-3d21b0b510a2",
+      "target": "85138a30-c777-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:20:43.633Z",
+        "updated": "2024-02-09T18:20:43.633Z"
+      },
+      "userdata": {}
+    },
+    "3d3db041-c778-11ee-a75d-3d21b0b510a2": {
+      "source": "5e142c00-c777-11ee-a75d-3d21b0b510a2",
+      "target": "3d3db040-c778-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:22:53.252Z",
+        "updated": "2024-02-09T18:22:53.252Z"
+      },
+      "userdata": {}
+    },
+    "3d3db042-c778-11ee-a75d-3d21b0b510a2": {
+      "source": "3d3db040-c778-11ee-a75d-3d21b0b510a2",
+      "target": "85138a30-c777-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:22:53.252Z",
+        "updated": "2024-02-09T18:22:53.252Z"
+      },
+      "userdata": {}
+    },
+    "49db5d21-c778-11ee-a75d-3d21b0b510a2": {
+      "source": "5e142c0a-c777-11ee-a75d-3d21b0b510a2",
+      "target": "49db5d20-c778-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:23:14.418Z",
+        "updated": "2024-02-09T18:23:14.418Z"
+      },
+      "userdata": {}
+    },
+    "49db5d22-c778-11ee-a75d-3d21b0b510a2": {
+      "source": "49db5d20-c778-11ee-a75d-3d21b0b510a2",
+      "target": "85138a30-c777-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:23:14.418Z",
+        "updated": "2024-02-09T18:23:14.418Z"
+      },
+      "userdata": {}
+    },
+    "4e2080e1-c778-11ee-a75d-3d21b0b510a2": {
+      "source": "5e142c0b-c777-11ee-a75d-3d21b0b510a2",
+      "target": "4e2080e0-c778-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:23:21.582Z",
+        "updated": "2024-02-09T18:23:21.582Z"
+      },
+      "userdata": {}
+    },
+    "4e2080e2-c778-11ee-a75d-3d21b0b510a2": {
+      "source": "4e2080e0-c778-11ee-a75d-3d21b0b510a2",
+      "target": "5e142c0a-c777-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:23:21.582Z",
+        "updated": "2024-02-09T18:23:21.582Z"
+      },
+      "userdata": {}
+    },
+    "8e61c881-c778-11ee-a75d-3d21b0b510a2": {
+      "source": "5e142c0c-c777-11ee-a75d-3d21b0b510a2",
+      "target": "8e61c880-c778-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:25:09.384Z",
+        "updated": "2024-02-09T18:25:09.384Z"
+      },
+      "userdata": {}
+    },
+    "8e61c882-c778-11ee-a75d-3d21b0b510a2": {
+      "source": "8e61c880-c778-11ee-a75d-3d21b0b510a2",
+      "target": "5e142c0b-c777-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:25:09.384Z",
+        "updated": "2024-02-09T18:25:09.384Z"
+      },
+      "userdata": {}
+    },
+    "980bb0d1-c778-11ee-a75d-3d21b0b510a2": {
+      "source": "5e142c06-c777-11ee-a75d-3d21b0b510a2",
+      "target": "980bb0d0-c778-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:25:25.597Z",
+        "updated": "2024-02-09T18:25:25.597Z"
+      },
+      "userdata": {}
+    },
+    "980bb0d2-c778-11ee-a75d-3d21b0b510a2": {
+      "source": "980bb0d0-c778-11ee-a75d-3d21b0b510a2",
+      "target": "5e142c04-c777-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:25:25.597Z",
+        "updated": "2024-02-09T18:25:25.597Z"
+      },
+      "userdata": {}
+    },
+    "af41c4b1-c778-11ee-a75d-3d21b0b510a2": {
+      "source": "5e142c03-c777-11ee-a75d-3d21b0b510a2",
+      "target": "af41c4b0-c778-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:26:04.539Z",
+        "updated": "2024-02-09T18:26:04.539Z"
+      },
+      "userdata": {}
+    },
+    "af41c4b2-c778-11ee-a75d-3d21b0b510a2": {
+      "source": "af41c4b0-c778-11ee-a75d-3d21b0b510a2",
+      "target": "85138a30-c777-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:26:04.539Z",
+        "updated": "2024-02-09T18:26:04.539Z"
+      },
+      "userdata": {}
+    },
+    "c5c7e980-c778-11ee-a75d-3d21b0b510a2": {
+      "source": "5e142c01-c777-11ee-a75d-3d21b0b510a2",
+      "target": "c5c7c270-c778-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:26:42.328Z",
+        "updated": "2024-02-09T18:26:42.328Z"
+      },
+      "userdata": {}
+    },
+    "c5c7e981-c778-11ee-a75d-3d21b0b510a2": {
+      "source": "c5c7c270-c778-11ee-a75d-3d21b0b510a2",
+      "target": "5e142c0f-c777-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:26:42.328Z",
+        "updated": "2024-02-09T18:26:42.328Z"
+      },
+      "userdata": {}
+    },
+    "ca5c8cd1-c778-11ee-a75d-3d21b0b510a2": {
+      "source": "5e142c0f-c777-11ee-a75d-3d21b0b510a2",
+      "target": "ca5c8cd0-c778-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:26:50.013Z",
+        "updated": "2024-02-09T18:26:50.013Z"
+      },
+      "userdata": {}
+    },
+    "ca5c8cd2-c778-11ee-a75d-3d21b0b510a2": {
+      "source": "ca5c8cd0-c778-11ee-a75d-3d21b0b510a2",
+      "target": "85138a30-c777-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:26:50.013Z",
+        "updated": "2024-02-09T18:26:50.013Z"
+      },
+      "userdata": {}
+    },
+    "da7aade1-c778-11ee-a75d-3d21b0b510a2": {
+      "source": "5e142c02-c777-11ee-a75d-3d21b0b510a2",
+      "target": "da7aade0-c778-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:27:17.054Z",
+        "updated": "2024-02-09T18:27:17.054Z"
+      },
+      "userdata": {}
+    },
+    "da7aade2-c778-11ee-a75d-3d21b0b510a2": {
+      "source": "da7aade0-c778-11ee-a75d-3d21b0b510a2",
+      "target": "5e142c01-c777-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:27:17.054Z",
+        "updated": "2024-02-09T18:27:17.054Z"
+      },
+      "userdata": {}
+    },
+    "e6053d11-c778-11ee-a75d-3d21b0b510a2": {
+      "source": "5e142c11-c777-11ee-a75d-3d21b0b510a2",
+      "target": "e6053d10-c778-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:27:36.417Z",
+        "updated": "2024-02-09T18:27:36.417Z"
+      },
+      "userdata": {}
+    },
+    "e6053d12-c778-11ee-a75d-3d21b0b510a2": {
+      "source": "e6053d10-c778-11ee-a75d-3d21b0b510a2",
+      "target": "85138a30-c777-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:27:36.417Z",
+        "updated": "2024-02-09T18:27:36.417Z"
+      },
+      "userdata": {}
+    },
+    "4c9f1b91-c779-11ee-a75d-3d21b0b510a2": {
+      "source": "5e142c12-c777-11ee-a75d-3d21b0b510a2",
+      "target": "4c9f1b90-c779-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:30:28.553Z",
+        "updated": "2024-02-09T18:30:28.553Z"
+      },
+      "userdata": {}
+    },
+    "4c9f1b92-c779-11ee-a75d-3d21b0b510a2": {
+      "source": "4c9f1b90-c779-11ee-a75d-3d21b0b510a2",
+      "target": "5e142c11-c777-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:30:28.553Z",
+        "updated": "2024-02-09T18:30:28.553Z"
+      },
+      "userdata": {}
+    },
+    "60112291-c779-11ee-a75d-3d21b0b510a2": {
+      "source": "5e142c08-c777-11ee-a75d-3d21b0b510a2",
+      "target": "60112290-c779-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:31:01.177Z",
+        "updated": "2024-02-09T18:31:01.177Z"
+      },
+      "userdata": {}
+    },
+    "60112292-c779-11ee-a75d-3d21b0b510a2": {
+      "source": "60112290-c779-11ee-a75d-3d21b0b510a2",
+      "target": "85138a30-c777-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:31:01.177Z",
+        "updated": "2024-02-09T18:31:01.177Z"
+      },
+      "userdata": {}
+    },
+    "6965e601-c779-11ee-a75d-3d21b0b510a2": {
+      "source": "5e142c15-c777-11ee-a75d-3d21b0b510a2",
+      "target": "6965e600-c779-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:31:16.832Z",
+        "updated": "2024-02-09T18:31:16.832Z"
+      },
+      "userdata": {}
+    },
+    "6965e602-c779-11ee-a75d-3d21b0b510a2": {
+      "source": "6965e600-c779-11ee-a75d-3d21b0b510a2",
+      "target": "5e142c16-c777-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:31:16.832Z",
+        "updated": "2024-02-09T18:31:16.832Z"
+      },
+      "userdata": {}
+    },
+    "71f361d1-c779-11ee-a75d-3d21b0b510a2": {
+      "source": "5e142c10-c777-11ee-a75d-3d21b0b510a2",
+      "target": "71f361d0-c779-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:31:31.181Z",
+        "updated": "2024-02-09T18:31:31.181Z"
+      },
+      "userdata": {}
+    },
+    "71f361d2-c779-11ee-a75d-3d21b0b510a2": {
+      "source": "71f361d0-c779-11ee-a75d-3d21b0b510a2",
+      "target": "85138a30-c777-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:31:31.181Z",
+        "updated": "2024-02-09T18:31:31.181Z"
+      },
+      "userdata": {}
+    },
+    "800a8f51-c779-11ee-a75d-3d21b0b510a2": {
+      "source": "5e142c07-c777-11ee-a75d-3d21b0b510a2",
+      "target": "800a8f50-c779-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:31:54.821Z",
+        "updated": "2024-02-09T18:31:54.821Z"
+      },
+      "userdata": {}
+    },
+    "800a8f52-c779-11ee-a75d-3d21b0b510a2": {
+      "source": "800a8f50-c779-11ee-a75d-3d21b0b510a2",
+      "target": "85138a30-c777-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:31:54.821Z",
+        "updated": "2024-02-09T18:31:54.821Z"
+      },
+      "userdata": {}
+    },
+    "93c8e191-c779-11ee-a75d-3d21b0b510a2": {
+      "source": "5e142c16-c777-11ee-a75d-3d21b0b510a2",
+      "target": "93c8e190-c779-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:32:27.945Z",
+        "updated": "2024-02-09T18:32:27.945Z"
+      },
+      "userdata": {}
+    },
+    "93c8e192-c779-11ee-a75d-3d21b0b510a2": {
+      "source": "93c8e190-c779-11ee-a75d-3d21b0b510a2",
+      "target": "85138a30-c777-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:32:27.945Z",
+        "updated": "2024-02-09T18:32:27.945Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "2303": {
+      "text": "On the campaign trail, Donald Trump showed his sharp political instincts by promising voters that no American would go without health insurance. \"I am going to take care of everybody,\" he said. \"I don't care if it costs me votes or not. Everybody's going to be taken care of much better than they're taken care of now.\"- That declaration won him overwhelming support from white men and women, whose life expectancy has begun to decline. But Trump's concept of healthcare reform ran counter to the ideological convictions of the Republicans controlling Congress. They voted more than 60 times to repeal Barack Obama's signature legislative achievement, the Affordable Care Act. But they could not overturn it, because the president used his veto.- The law, better known as Obamacare, had been adopted without a single Republican vote-when Democrats were in charge in the Capitol. As Republicans now proceed to dismantle it - another promise to voters - Trump has given his blessing to its replacement, which is running into a wall of resistance ranging from doctors, hospitals, seniors advocates and many state governors to free-market conservatives. Obamacare's defenders warn the Republican alternative would strip millions of patients of coverage acquired in the past few years and cost more both to taxpayers and poorer, older patients. Conservatives instead call the new bill a socialist sell-out because it would continue to provide some subsidies, albeit more meager, to pay for unaffordable insurance premiums that show every sign of becoming even more expensive. The economics of healthcare have bedeviled many countries but America's history of patchwork remedies is particularly remarkable. Paying for medical treatment was largely a private or charity responsibility until the 1940s. That's when some employers began to provide insurance as a fringe benefit to evade wartime wage controls. In 1965, the government and taxpayers emerged as a dominant factor. READ MORE: Americans split over replacing Obamacare The enactment of Medicare guaranteed basic doctor and hospital coverage for everyone aged 65 and older, while Medicaid helped states pay for long-term care and insurance for certain classes of the poor and disabled. Almost 30 years later, Bill Clinton launched another presidential effort at universal coverage, in the teeth of resistance from private insurers and small business owners, who objected to requiring that they cover their employees. His wife, Hillary Clinton, was assigned the task of designing and steering the plan through Congress. It never even was put up for a vote. Obamacare was aimed to help fill the gap for the 16.3 percent of Americans who remained without coverage. By the time Obama left office the number was down to 8.6 percent, the lowest in history. But Obama's seeming success has always been overshadowed by the law's unpopularity. Many resent the requirement that every American be insured in some way or else pay a penalty. Yet the bigger objection derives from a fundamental reality of insurance pools - a healthy, younger majority whose premiums finance care for the far fewer who are older and sicker. Another reality - a big redistribution of wealth through higher taxes, the financial dynamic underlying Obamacare. Without those added taxes, paid by wealthier patients, highly profitable drug companies and - potentially - medical device makers, private insurers would see no profit and exit from the marketplace. Republicans have pointed to another of Obamacare's flaws - the threat of too few competing insurance companies offering coverage, a sign that the system had begun a \"death spiral\". But their proposed reforms have yet to address the crushing economic burden of American healthcare for too many. It's the reason that medical bills are still a significant cause of personal bankruptcy.- Trump has made a pledge that Republican legislators have been too cautious to repeat - that not only would everyone be protected by insurance but that the cost of premiums for everybody would fall. Yet long before Trump became a successful Republican politician, he argued that the solution for his country's dilemma was the popular system across the northern border, where it's the government, not private insurers, that pay the doctors and hospitals. \"Doctors might be paid less than they are now, as is the case in Canada,\" Trump wrote in one of his books back in 2000, \"but they would be able to treat more patients because of the reduction in their paperwork.-The Canadian plan also helps Canadians live longer and healthier than Americans.\"- Why doesn't he believe that any longer? \"It could have worked in a different age,\" he said on his climb to the presidency. But he's never explained why not now. Source:-Al Jazeera News",
+      "title": "nan",
+      "source": "http://www.aljazeera.com/blogs/americas/2017/03/trump-obamacare-170314003756826.html",
+      "timestamp": "2017-03-14T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.170Z",
+        "updated": "2024-02-09T13:09:16.170Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "85138a30-c777-11ee-a75d-3d21b0b510a2",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.170Z",
+    "updated": "2024-02-09T18:32:58.156Z"
+  }
+}

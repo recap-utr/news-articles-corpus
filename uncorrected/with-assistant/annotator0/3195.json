@@ -1,0 +1,756 @@
+{
+  "nodes": {
+    "74c454c0-c77c-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Japan and Russia are ready to continue their close work on a peace treaty",
+        "reference": {
+          "resource": "3195",
+          "offset": 25,
+          "text": "Japan and Russia are ready to continue their close work on a peace treaty, Japanese Foreign Minister Fumio Kishida said on Monday"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:53:04.396Z",
+        "updated": "2024-02-09T18:53:04.396Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement by the Japanese Foreign Minister highlights the commitment of both Japan and Russia to continue working closely on a peace treaty, serving as an argument for their cooperation."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 162.0005782023663,
+            "y": 12
+          }
+        }
+      }
+    },
+    "74c454c1-c77c-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "The talks between Japanese and Russian foreign and defense ministers in the 2+2 format will have a positive impact on negotiations on signing a peace treaty",
+        "reference": {
+          "resource": "3195",
+          "offset": 545,
+          "text": "The talks between Japanese and Russian foreign and defense ministers in the 2+2 format will have a positive impact on negotiations on signing a peace treaty, according to-Kishida"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:53:04.396Z",
+        "updated": "2024-02-09T18:53:04.396Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This prediction by Kishida provides a rationale for the continuation of the 2+2 talks, arguing they positively influence the peace treaty negotiations."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1283.0786333294752,
+            "y": 272.49498444840935
+          }
+        }
+      }
+    },
+    "74c454c3-c77c-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "\"The development of bilateral relations focused on the future is very important, especially taking into account the worsening situation in security in the region,\"",
+        "reference": {
+          "resource": "3195",
+          "offset": 851,
+          "text": "\"The development of bilateral relations focused on the future is very important, especially taking into account the worsening situation in security in the region,\" he added"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:53:04.396Z",
+        "updated": "2024-02-09T18:53:04.396Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement serves as a justification for the continuation and deepening of diplomatic efforts between Japan and Russia, highlighting the importance of such relations amidst regional security concerns."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 919.8944693638764,
+            "y": 280.05868763411655
+          }
+        }
+      }
+    },
+    "74c454c4-c77c-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "\"That's why we will continue active contacts - this includes two visits of Japan's prime minister to Russia scheduled for this year,\"",
+        "reference": {
+          "resource": "3195",
+          "offset": 1025,
+          "text": "\"That's why we will continue active contacts - this includes two visits of Japan's prime minister to Russia scheduled for this year,\" Kishida said"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:53:04.396Z",
+        "updated": "2024-02-09T18:53:04.396Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Here, Kishida argues for the necessity of maintaining active diplomatic contacts between Japan and Russia, evidenced by the planned visits of Japan's prime minister to Russia."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1284.4836737041571,
+            "y": 615.668064737586
+          }
+        }
+      }
+    },
+    "74c454c5-c77c-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Russia and Japan have been negotiating since the middle of the 20th century a peace treaty after World War II",
+        "reference": {
+          "resource": "3195",
+          "offset": 1173,
+          "text": "Russia and Japan have been negotiating since the middle of the 20th century a peace treaty after World War II"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:53:04.396Z",
+        "updated": "2024-02-09T18:53:04.396Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This provides a historical context for the ongoing negotiations, arguing that the peace treaty discussions are a long-standing issue."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 112.00077964042293,
+            "y": 270
+          }
+        }
+      }
+    },
+    "74c454c6-c77c-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "The main obstacle is the problem of the south Kuril Islands",
+        "reference": {
+          "resource": "3195",
+          "offset": 1284,
+          "text": "The main obstacle is the problem of the south Kuril Islands"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:53:04.396Z",
+        "updated": "2024-02-09T18:53:04.396Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Identifies the primary challenge in the peace treaty negotiations between Japan and Russia, framing it as an argument for the complexity of the issue."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 412.0002394367768,
+            "y": 544
+          }
+        }
+      }
+    },
+    "74c454c7-c77c-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "In 1956, Russia and Japan inked a declaration, which put an end to the state of war between the countries and restored diplomatic and other relations",
+        "reference": {
+          "resource": "3195",
+          "offset": 1485,
+          "text": "In 1956, Russia and Japan inked a declaration, which put an end to the state of war between the countries and restored diplomatic and other relations"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:53:04.396Z",
+        "updated": "2024-02-09T18:53:04.396Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This historical fact argues that there has been progress in relations between Japan and Russia, suggesting a foundation for future agreement on the peace treaty."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 62.00057305390042,
+            "y": 544
+          }
+        }
+      }
+    },
+    "74c454c8-c77c-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "But the issue of the border near the Kuril Islands remained unsettled then",
+        "reference": {
+          "resource": "3195",
+          "offset": 1636,
+          "text": "But the issue of the border near the Kuril Islands remained unsettled then"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:53:04.396Z",
+        "updated": "2024-02-09T18:53:04.396Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This points out the unresolved issue from the 1956 declaration, arguing that despite progress, significant challenges remain in the peace treaty negotiations."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 362.00015016472145,
+            "y": 834
+          }
+        }
+      }
+    },
+    "74c454c9-c77c-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "At the same time, the Soviet Union expressed a goodwill gesture in the declaration to give Shikotan and Habomai to Japan after a peace treaty was signed",
+        "reference": {
+          "resource": "3195",
+          "offset": 1712,
+          "text": "At the same time, the Soviet Union expressed a goodwill gesture in the declaration to give Shikotan and Habomai to Japan after a peace treaty was signed"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:53:04.396Z",
+        "updated": "2024-02-09T18:53:04.396Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This indicates a previous willingness to compromise, serving as an argument for the possibility of future agreement in the peace treaty negotiations."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 12.000982080557565,
+            "y": 834
+          }
+        }
+      }
+    },
+    "ab8bebd0-c77c-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:54:36.301Z",
+        "updated": "2024-02-09T18:54:36.301Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The statement that talks in the 2+2 format will positively impact the negotiations supports the readiness for close work on a peace treaty."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1212.0008772190092,
+            "y": 154
+          }
+        }
+      }
+    },
+    "ab8bebd6-c77c-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:54:36.301Z",
+        "updated": "2024-02-09T18:54:36.301Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The importance of focusing on the future of bilateral relations, especially given security concerns, supports the claim that the 2+2 talks will positively impact peace treaty negotiations."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 931.1964189187706,
+            "y": 157.88620376694595
+          }
+        }
+      }
+    },
+    "ab8bebd9-c77c-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:54:36.301Z",
+        "updated": "2024-02-09T18:54:36.301Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Planned active contacts, including two visits of Japan's prime minister to Russia, support the assertion of positive impacts from the 2+2 talks on peace treaty negotiations."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1382.1718349433618,
+            "y": 460.1831113923581
+          }
+        }
+      }
+    },
+    "ab8bebdc-c77c-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:54:36.301Z",
+        "updated": "2024-02-09T18:54:36.301Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The historical context of negotiations between Russia and Japan since mid-20th century underlines the ongoing efforts towards a peace treaty."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 212.00072951794263,
+            "y": 154
+          }
+        }
+      }
+    },
+    "ab8bebdf-c77c-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:54:36.301Z",
+        "updated": "2024-02-09T18:54:36.301Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The problem of the south Kuril Islands is highlighted as a major obstacle in the peace treaty negotiations, challenging the progress implied."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 512.0002122090442,
+            "y": 444
+          }
+        }
+      }
+    },
+    "ab8bebe2-c77c-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:54:36.301Z",
+        "updated": "2024-02-09T18:54:36.301Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The 1956 declaration ending the state of war and restoring relations supports the historical efforts towards a peace treaty."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 162.00031022285089,
+            "y": 444
+          }
+        }
+      }
+    },
+    "ab8bebe5-c77c-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:54:36.301Z",
+        "updated": "2024-02-09T18:54:36.301Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The unsettled issue of the border near the Kuril Islands after the 1956 declaration attacks the effectiveness of this declaration towards achieving a comprehensive peace treaty."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 462.0006022026712,
+            "y": 734
+          }
+        }
+      }
+    },
+    "ab8bebe8-c77c-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:54:36.301Z",
+        "updated": "2024-02-09T18:54:36.301Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The Soviet Union's gesture to give Shikotan and Habomai to Japan after a peace treaty is signed supports the efforts reflected in the 1956 declaration towards resolving territorial disputes."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 112.00018211707383,
+            "y": 734
+          }
+        }
+      }
+    },
+    "ff6511f0-c77c-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Considering the resolve displayed by the leaders of both countries late last year",
+        "reference": {
+          "resource": "3195",
+          "offset": 315,
+          "text": "Considering the resolve displayed by the leaders of both countries late last year"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:56:56.975Z",
+        "updated": "2024-02-09T18:56:56.975Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 571.9422978175078,
+            "y": 275.349304747305
+          }
+        }
+      }
+    },
+    "011f6c20-c77d-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:56:59.874Z",
+        "updated": "2024-02-09T18:56:59.874Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 524.8587440197548,
+            "y": 157.26964993149036
+          }
+        }
+      }
+    },
+    "336a2da0-c77d-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "The archipelago became the territory of the USSR after the war. Japan, however, disputes the Iturup, Kunashir, Shikotan and Habomai status",
+        "reference": {
+          "resource": "3195",
+          "offset": 1345,
+          "text": "The archipelago became the territory of the USSR after the war. Japan, however, disputes the Iturup, Kunashir, Shikotan and Habomai status"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:58:24.250Z",
+        "updated": "2024-02-09T18:58:24.250Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 685.7410314445381,
+            "y": 785.5479662692663
+          }
+        }
+      }
+    },
+    "38e3d9c0-c77d-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:58:33.436Z",
+        "updated": "2024-02-09T18:58:33.436Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 632.9950770435161,
+            "y": 671.7018783254568
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "ab8bebd1-c77c-11ee-a75d-3d21b0b510a2": {
+      "source": "74c454c1-c77c-11ee-a75d-3d21b0b510a2",
+      "target": "ab8bebd0-c77c-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:54:36.301Z",
+        "updated": "2024-02-09T18:54:36.301Z"
+      },
+      "userdata": {}
+    },
+    "ab8bebd2-c77c-11ee-a75d-3d21b0b510a2": {
+      "source": "ab8bebd0-c77c-11ee-a75d-3d21b0b510a2",
+      "target": "74c454c0-c77c-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:54:36.301Z",
+        "updated": "2024-02-09T18:54:36.301Z"
+      },
+      "userdata": {}
+    },
+    "ab8bebd4-c77c-11ee-a75d-3d21b0b510a2": {
+      "source": "74c454c2-c77c-11ee-a75d-3d21b0b510a2",
+      "target": "ab8bebd3-c77c-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:54:36.301Z",
+        "updated": "2024-02-09T18:54:36.301Z"
+      },
+      "userdata": {}
+    },
+    "ab8bebd5-c77c-11ee-a75d-3d21b0b510a2": {
+      "source": "ab8bebd3-c77c-11ee-a75d-3d21b0b510a2",
+      "target": "74c454c1-c77c-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:54:36.301Z",
+        "updated": "2024-02-09T18:54:36.301Z"
+      },
+      "userdata": {}
+    },
+    "ab8bebd7-c77c-11ee-a75d-3d21b0b510a2": {
+      "source": "74c454c3-c77c-11ee-a75d-3d21b0b510a2",
+      "target": "ab8bebd6-c77c-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:54:36.301Z",
+        "updated": "2024-02-09T18:54:36.301Z"
+      },
+      "userdata": {}
+    },
+    "ab8bebda-c77c-11ee-a75d-3d21b0b510a2": {
+      "source": "74c454c4-c77c-11ee-a75d-3d21b0b510a2",
+      "target": "ab8bebd9-c77c-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:54:36.301Z",
+        "updated": "2024-02-09T18:54:36.301Z"
+      },
+      "userdata": {}
+    },
+    "ab8bebdb-c77c-11ee-a75d-3d21b0b510a2": {
+      "source": "ab8bebd9-c77c-11ee-a75d-3d21b0b510a2",
+      "target": "74c454c1-c77c-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:54:36.301Z",
+        "updated": "2024-02-09T18:54:36.301Z"
+      },
+      "userdata": {}
+    },
+    "ab8bebdd-c77c-11ee-a75d-3d21b0b510a2": {
+      "source": "74c454c5-c77c-11ee-a75d-3d21b0b510a2",
+      "target": "ab8bebdc-c77c-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:54:36.301Z",
+        "updated": "2024-02-09T18:54:36.301Z"
+      },
+      "userdata": {}
+    },
+    "ab8bebde-c77c-11ee-a75d-3d21b0b510a2": {
+      "source": "ab8bebdc-c77c-11ee-a75d-3d21b0b510a2",
+      "target": "74c454c0-c77c-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:54:36.301Z",
+        "updated": "2024-02-09T18:54:36.301Z"
+      },
+      "userdata": {}
+    },
+    "ab8bebe0-c77c-11ee-a75d-3d21b0b510a2": {
+      "source": "74c454c6-c77c-11ee-a75d-3d21b0b510a2",
+      "target": "ab8bebdf-c77c-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:54:36.301Z",
+        "updated": "2024-02-09T18:54:36.301Z"
+      },
+      "userdata": {}
+    },
+    "ab8bebe1-c77c-11ee-a75d-3d21b0b510a2": {
+      "source": "ab8bebdf-c77c-11ee-a75d-3d21b0b510a2",
+      "target": "74c454c5-c77c-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:54:36.301Z",
+        "updated": "2024-02-09T18:54:36.301Z"
+      },
+      "userdata": {}
+    },
+    "ab8bebe3-c77c-11ee-a75d-3d21b0b510a2": {
+      "source": "74c454c7-c77c-11ee-a75d-3d21b0b510a2",
+      "target": "ab8bebe2-c77c-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:54:36.301Z",
+        "updated": "2024-02-09T18:54:36.301Z"
+      },
+      "userdata": {}
+    },
+    "ab8bebe4-c77c-11ee-a75d-3d21b0b510a2": {
+      "source": "ab8bebe2-c77c-11ee-a75d-3d21b0b510a2",
+      "target": "74c454c5-c77c-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:54:36.301Z",
+        "updated": "2024-02-09T18:54:36.301Z"
+      },
+      "userdata": {}
+    },
+    "ab8bebe6-c77c-11ee-a75d-3d21b0b510a2": {
+      "source": "74c454c8-c77c-11ee-a75d-3d21b0b510a2",
+      "target": "ab8bebe5-c77c-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:54:36.301Z",
+        "updated": "2024-02-09T18:54:36.301Z"
+      },
+      "userdata": {}
+    },
+    "ab8bebe7-c77c-11ee-a75d-3d21b0b510a2": {
+      "source": "ab8bebe5-c77c-11ee-a75d-3d21b0b510a2",
+      "target": "74c454c7-c77c-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:54:36.301Z",
+        "updated": "2024-02-09T18:54:36.301Z"
+      },
+      "userdata": {}
+    },
+    "ab8bebe9-c77c-11ee-a75d-3d21b0b510a2": {
+      "source": "74c454c9-c77c-11ee-a75d-3d21b0b510a2",
+      "target": "ab8bebe8-c77c-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:54:36.301Z",
+        "updated": "2024-02-09T18:54:36.301Z"
+      },
+      "userdata": {}
+    },
+    "ab8bebea-c77c-11ee-a75d-3d21b0b510a2": {
+      "source": "ab8bebe8-c77c-11ee-a75d-3d21b0b510a2",
+      "target": "74c454c7-c77c-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:54:36.301Z",
+        "updated": "2024-02-09T18:54:36.301Z"
+      },
+      "userdata": {}
+    },
+    "011f6c21-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "ff6511f0-c77c-11ee-a75d-3d21b0b510a2",
+      "target": "011f6c20-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:56:59.874Z",
+        "updated": "2024-02-09T18:56:59.874Z"
+      },
+      "userdata": {}
+    },
+    "011f6c22-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "011f6c20-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "74c454c0-c77c-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:56:59.874Z",
+        "updated": "2024-02-09T18:56:59.874Z"
+      },
+      "userdata": {}
+    },
+    "10293700-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "ab8bebd6-c77c-11ee-a75d-3d21b0b510a2",
+      "target": "74c454c0-c77c-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:57:25.104Z",
+        "updated": "2024-02-09T18:57:25.104Z"
+      },
+      "userdata": {}
+    },
+    "38e3d9c1-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "336a2da0-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "38e3d9c0-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:58:33.436Z",
+        "updated": "2024-02-09T18:58:33.436Z"
+      },
+      "userdata": {}
+    },
+    "38e3d9c2-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "38e3d9c0-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "74c454c6-c77c-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:58:33.436Z",
+        "updated": "2024-02-09T18:58:33.436Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "3195": {
+      "text": "TOKYO, March 20. /TASS/. Japan and Russia are ready to continue their close work on a peace treaty, Japanese Foreign Minister Fumio Kishida said on Monday. Japan's top diplomat made this statement at a press conference after a Russian-Japanese 2+2 meeting of the defense and foreign ministers from both countries. \"Considering the resolve displayed by the leaders of both countries late last year, we confirmed that we will continue the close negotiating process on the issue of concluding a peace treaty,\" the Japanese foreign minister said.   The talks between Japanese and Russian foreign and defense ministers in the 2+2 format will have a positive impact on negotiations on signing a peace treaty, according to-Kishida. \"Such a format of talks has a very positive influence on the negotiating process on concluding a peace treaty,\" Kishida said. \"The development of bilateral relations focused on the future is very important, especially taking into account the worsening situation in security in the region,\" he added. \"That's why we will continue active contacts - this includes two visits of Japan's prime minister to Russia scheduled for this year,\" Kishida said. Russia and Japan have been negotiating since the middle of the 20th century a peace treaty after World War II. The main obstacle is the problem of the south Kuril Islands. The archipelago became the territory of the USSR after the war. Japan, however, disputes the Iturup, Kunashir, Shikotan and Habomai status. In 1956, Russia and Japan inked a declaration, which put an end to the state of war between the countries and restored diplomatic and other relations. But the issue of the border near the Kuril Islands remained unsettled then. At the same time, the Soviet Union expressed a goodwill gesture in the declaration to give Shikotan and Habomai to Japan after a peace treaty was signed.",
+      "title": "Tokyo, Moscow to continue close work on peace treaty",
+      "source": "http://tass.com/world/936428",
+      "timestamp": "2017-03-20T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.159Z",
+        "updated": "2024-02-09T13:09:16.159Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "74c454c0-c77c-11ee-a75d-3d21b0b510a2",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.159Z",
+    "updated": "2024-02-09T18:59:12.639Z"
+  }
+}

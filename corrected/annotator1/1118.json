@@ -1,0 +1,510 @@
+{
+  "nodes": {
+    "c65a3390-c8da-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Businesses around the country today are planning to close their doors or provide limited service in support of the Day Without Immigrants, a social-media-led protest of President Donald Trump's promises to crack down on illegal immigration",
+        "reference": {
+          "resource": "1118",
+          "offset": 0,
+          "text": "Businesses around the country today are planning to close their doors or provide limited service in support of the Day Without Immigrants, a social-media-led protest of President Donald Trump's promises to crack down on illegal immigration"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:40:45.129Z",
+        "updated": "2024-02-11T12:40:45.129Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 392.00038351787606,
+            "y": 12
+          }
+        }
+      }
+    },
+    "c65a3392-c8da-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Hundreds of business owners in Washington, D.C.; Pittsburgh; Boston; Philadelphia; Austin, Texas; San Jose, California; Des Moines, Iowa, and other cities are participating in the protests",
+        "reference": {
+          "resource": "1118",
+          "offset": 366,
+          "text": "Hundreds of business owners in Washington, D.C.; Pittsburgh; Boston; Philadelphia; Austin, Texas; San Jose, California; Des Moines, Iowa, and other cities are participating in the protests"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:40:45.129Z",
+        "updated": "2024-02-11T12:40:45.129Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0000070455023,
+            "y": 382
+          }
+        }
+      }
+    },
+    "c65a5aa0-c8da-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "The president has promised to deport unauthorized immigrants, build a wall along the U.S.-Mexico border and use \"extreme vetting\" on immigrants from select countries",
+        "reference": {
+          "resource": "1118",
+          "text": "The president has promised to deport unauthorized immigrants, build a wall along the U.S.-Mexico border and use \"extreme vetting\" on immigrants from select countries"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:40:45.130Z",
+        "updated": "2024-02-11T12:40:45.130Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0008011055808,
+            "y": 350
+          }
+        }
+      }
+    },
+    "c65a5aa1-c8da-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "United for Change, a group based in North Carolina that helped organize today's protests, wrote on Facebook, \"This will be a peaceful day. While the economic effects of the boycott are unknown, most initial reports indicated that the boycott could cause to halt \"Business as usual.\"",
+        "reference": {
+          "resource": "1118",
+          "offset": 818,
+          "text": "United for Change, a group based in North Carolina that helped organize today's protests, wrote on Facebook, \"This will be a peaceful day. While the economic effects of the boycott are unknown, most initial reports indicated that the boycott could cause to halt \"Business as usual.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:40:45.130Z",
+        "updated": "2024-02-11T12:40:45.130Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.0000889603916,
+            "y": 350
+          }
+        }
+      }
+    },
+    "c65a5aa2-c8da-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Erika Almiron, the executive director at Juntos, a Latino immigrant advocacy organization in Philadelphia, told ABC News that her team is trying to send a message to Americans, asking, \"What would happen if all of us were disappeared the way Trump wants us to?\"",
+        "reference": {
+          "resource": "1118",
+          "offset": 1101,
+          "text": "Erika Almiron, the executive director at Juntos, a Latino immigrant advocacy organization in Philadelphia, told ABC News that her team is trying to send a message to Americans, asking, \"What would happen if all of us were disappeared the way Trump wants us to?\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:40:45.130Z",
+        "updated": "2024-02-11T12:40:45.130Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000312305638626,
+            "y": 350
+          }
+        }
+      }
+    },
+    "c65a5aa3-c8da-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "In Washington, D.C., nearly 50 restaurant owners said they would close or offer a limited menu for the day",
+        "reference": {
+          "resource": "1118",
+          "offset": 1535,
+          "text": "In Washington, D.C., nearly 50 restaurant owners said they would close or offer a limited menu for the day"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:40:45.130Z",
+        "updated": "2024-02-11T12:40:45.130Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 662.0004964357792,
+            "y": 712
+          }
+        }
+      }
+    },
+    "c65a5aa7-c8da-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Some schools and day care centers around the country are closing in solidarity with today's protest",
+        "reference": {
+          "resource": "1118",
+          "offset": 2603,
+          "text": "Some schools and day care centers around the country are closing in solidarity with today's protest"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:40:45.130Z",
+        "updated": "2024-02-11T12:40:45.130Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 312.0000062000982,
+            "y": 728
+          }
+        }
+      }
+    },
+    "c65a5aa8-c8da-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "In Bluffton, South Carolina, Little Steps Daycare decided not to open, to the chagrin of some parents. \"At least give us the respect of a notice,\" one parent told The Hilton Head Island Packet. \"You just let a hundred families down.\"",
+        "reference": {
+          "resource": "1118",
+          "text": "In Bluffton, South Carolina, Little Steps Daycare decided not to open, to the chagrin of some parents. \"At least give us the respect of a notice,\" one parent told The Hilton Head Island Packet. \"You just let a hundred families down.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:40:45.130Z",
+        "updated": "2024-02-11T12:40:45.130Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 612.000805025779,
+            "y": 978
+          }
+        }
+      }
+    },
+    "c65a5aa9-c8da-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Earlier this week, a similar protest was staged in Milwaukee. Thousands of people attended the Day Without Latinos, Immigrants and Refugees march, according to The Milwaukee Journal Sentinel",
+        "reference": {
+          "resource": "1118",
+          "offset": 3072,
+          "text": "Earlier this week, a similar protest was staged in Milwaukee. Thousands of people attended the Day Without Latinos, Immigrants and Refugees march, according to The Milwaukee Journal Sentinel"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:40:45.130Z",
+        "updated": "2024-02-11T12:40:45.130Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 262.00073420231996,
+            "y": 978
+          }
+        }
+      }
+    },
+    "7a005820-c8db-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:45:46.530Z",
+        "updated": "2024-02-11T12:45:46.530Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.0009649831666,
+            "y": 250
+          }
+        }
+      }
+    },
+    "7a007f30-c8db-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:45:46.531Z",
+        "updated": "2024-02-11T12:45:46.531Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0002929695881,
+            "y": 250
+          }
+        }
+      }
+    },
+    "7a007f33-c8db-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:45:46.531Z",
+        "updated": "2024-02-11T12:45:46.531Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0006301696437,
+            "y": 250
+          }
+        }
+      }
+    },
+    "7a007f36-c8db-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:45:46.531Z",
+        "updated": "2024-02-11T12:45:46.531Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00046929890776,
+            "y": 250
+          }
+        }
+      }
+    },
+    "7a007f39-c8db-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:45:46.531Z",
+        "updated": "2024-02-11T12:45:46.531Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 762.0000717502586,
+            "y": 612
+          }
+        }
+      }
+    },
+    "7a007f45-c8db-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:45:46.531Z",
+        "updated": "2024-02-11T12:45:46.531Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 412.0001966132336,
+            "y": 612
+          }
+        }
+      }
+    },
+    "7a007f48-c8db-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:45:46.531Z",
+        "updated": "2024-02-11T12:45:46.531Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0002094850641,
+            "y": 878
+          }
+        }
+      }
+    },
+    "7a007f4b-c8db-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:45:46.531Z",
+        "updated": "2024-02-11T12:45:46.531Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0002440929681,
+            "y": 878
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "7a005821-c8db-11ee-a7b6-0184e7d3dd10": {
+      "source": "c65a3392-c8da-11ee-a7b6-0184e7d3dd10",
+      "target": "7a005820-c8db-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:45:46.530Z",
+        "updated": "2024-02-11T12:45:46.530Z"
+      },
+      "userdata": {}
+    },
+    "7a005822-c8db-11ee-a7b6-0184e7d3dd10": {
+      "source": "7a005820-c8db-11ee-a7b6-0184e7d3dd10",
+      "target": "c65a3390-c8da-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:45:46.530Z",
+        "updated": "2024-02-11T12:45:46.530Z"
+      },
+      "userdata": {}
+    },
+    "7a007f31-c8db-11ee-a7b6-0184e7d3dd10": {
+      "source": "c65a5aa0-c8da-11ee-a7b6-0184e7d3dd10",
+      "target": "7a007f30-c8db-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:45:46.531Z",
+        "updated": "2024-02-11T12:45:46.531Z"
+      },
+      "userdata": {}
+    },
+    "7a007f32-c8db-11ee-a7b6-0184e7d3dd10": {
+      "source": "7a007f30-c8db-11ee-a7b6-0184e7d3dd10",
+      "target": "c65a3390-c8da-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:45:46.531Z",
+        "updated": "2024-02-11T12:45:46.531Z"
+      },
+      "userdata": {}
+    },
+    "7a007f34-c8db-11ee-a7b6-0184e7d3dd10": {
+      "source": "c65a5aa1-c8da-11ee-a7b6-0184e7d3dd10",
+      "target": "7a007f33-c8db-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:45:46.531Z",
+        "updated": "2024-02-11T12:45:46.531Z"
+      },
+      "userdata": {}
+    },
+    "7a007f35-c8db-11ee-a7b6-0184e7d3dd10": {
+      "source": "7a007f33-c8db-11ee-a7b6-0184e7d3dd10",
+      "target": "c65a3390-c8da-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:45:46.531Z",
+        "updated": "2024-02-11T12:45:46.531Z"
+      },
+      "userdata": {}
+    },
+    "7a007f37-c8db-11ee-a7b6-0184e7d3dd10": {
+      "source": "c65a5aa2-c8da-11ee-a7b6-0184e7d3dd10",
+      "target": "7a007f36-c8db-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:45:46.531Z",
+        "updated": "2024-02-11T12:45:46.531Z"
+      },
+      "userdata": {}
+    },
+    "7a007f38-c8db-11ee-a7b6-0184e7d3dd10": {
+      "source": "7a007f36-c8db-11ee-a7b6-0184e7d3dd10",
+      "target": "c65a3390-c8da-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:45:46.531Z",
+        "updated": "2024-02-11T12:45:46.531Z"
+      },
+      "userdata": {}
+    },
+    "7a007f3a-c8db-11ee-a7b6-0184e7d3dd10": {
+      "source": "c65a5aa3-c8da-11ee-a7b6-0184e7d3dd10",
+      "target": "7a007f39-c8db-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:45:46.531Z",
+        "updated": "2024-02-11T12:45:46.531Z"
+      },
+      "userdata": {}
+    },
+    "7a007f3b-c8db-11ee-a7b6-0184e7d3dd10": {
+      "source": "7a007f39-c8db-11ee-a7b6-0184e7d3dd10",
+      "target": "c65a3392-c8da-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:45:46.531Z",
+        "updated": "2024-02-11T12:45:46.531Z"
+      },
+      "userdata": {}
+    },
+    "7a007f46-c8db-11ee-a7b6-0184e7d3dd10": {
+      "source": "c65a5aa7-c8da-11ee-a7b6-0184e7d3dd10",
+      "target": "7a007f45-c8db-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:45:46.531Z",
+        "updated": "2024-02-11T12:45:46.531Z"
+      },
+      "userdata": {}
+    },
+    "7a007f47-c8db-11ee-a7b6-0184e7d3dd10": {
+      "source": "7a007f45-c8db-11ee-a7b6-0184e7d3dd10",
+      "target": "c65a3392-c8da-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:45:46.531Z",
+        "updated": "2024-02-11T12:45:46.531Z"
+      },
+      "userdata": {}
+    },
+    "7a007f49-c8db-11ee-a7b6-0184e7d3dd10": {
+      "source": "c65a5aa8-c8da-11ee-a7b6-0184e7d3dd10",
+      "target": "7a007f48-c8db-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:45:46.531Z",
+        "updated": "2024-02-11T12:45:46.531Z"
+      },
+      "userdata": {}
+    },
+    "7a007f4a-c8db-11ee-a7b6-0184e7d3dd10": {
+      "source": "7a007f48-c8db-11ee-a7b6-0184e7d3dd10",
+      "target": "c65a5aa7-c8da-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:45:46.531Z",
+        "updated": "2024-02-11T12:45:46.531Z"
+      },
+      "userdata": {}
+    },
+    "7a007f4c-c8db-11ee-a7b6-0184e7d3dd10": {
+      "source": "c65a5aa9-c8da-11ee-a7b6-0184e7d3dd10",
+      "target": "7a007f4b-c8db-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:45:46.531Z",
+        "updated": "2024-02-11T12:45:46.531Z"
+      },
+      "userdata": {}
+    },
+    "7a007f4d-c8db-11ee-a7b6-0184e7d3dd10": {
+      "source": "7a007f4b-c8db-11ee-a7b6-0184e7d3dd10",
+      "target": "c65a5aa7-c8da-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:45:46.531Z",
+        "updated": "2024-02-11T12:45:46.531Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "1118": {
+      "text": "Businesses around the country today are planning to close their doors or provide limited service in support of the Day Without Immigrants, a social-media-led protest of President Donald Trump's promises to crack down on illegal immigration. The actions are intended to illustrate the contributions of immigrants in the United States, particularly Latino immigrants. Hundreds of business owners in Washington, D.C.; Pittsburgh; Boston; Philadelphia; Austin, Texas; San Jose, California; Des Moines, Iowa, and other cities are participating in the protests. The president has promised to deport unauthorized immigrants, build a wall along the U.S.-Mexico border and use \"extreme vetting\"?on immigrants from select countries.  Todos somos todos #ADayWithoutImmigrants #AmericaRunsOnImmigrants pic.twitter.com/49HPvQAsdj  United for Change, a group based in North Carolina that helped organize today's protests, wrote on Facebook, \"This will be a peaceful day. While the economic effects of the boycott are unknown, most initial reports indicated that the boycott could cause to halt \"Business as usual.\"?Erika Almiron, the executive director at Juntos, a Latino immigrant advocacy organization in Philadelphia, told ABC News that her team is trying to send a message to Americans, asking, \"What would happen if all of us were disappeared the way Trump wants us to?\"?It is not clear exactly how many people are protesting nationwide, but Almiron said nearly 100 vendors in Philadelphia's iconic Italian Market have shuttered their stalls. In Washington, D.C., nearly 50 restaurant owners said they would close or offer a limited menu for the day. Celebrity chefs Jose Andres and Andy Shallal are among the restaurateurs who have announced their participation. \"We had a deep heartfelt conversation, and it was an easy decision,\"?Shallal told ABC via email of the discussion he had with his kitchen staffers. \"there are times when standing on the sidelines is not an option. This is one of those times.\"?Shallal, who is an Iraqi immigrant, also said that his decision to close his six Busboys and Poets locations was a push for \"Lumanistic\"?immigration reform, writing, \"I want to make sure that immigrants such as myself and others don\"t live in fear \"?We cannot continue to ignore this forever.\"? In support of our people & #ADayWithoutImmigrants Thurs 2/16 we will not open @jaleo DC CC MD, @zaytinya or @oyameldc #ImmigrantsFeedAmerica   Our founder @andyshallal is an immigrant in solidarity #ADayWithoutImmigrants. We will be closed on Thurs. Immigrants make America great! pic.twitter.com/X6evbrp9yZ  Some schools and day care centers around the country are closing in solidarity with today's protest. In Bluffton, South Carolina, Little Steps Daycare decided not to open, to the chagrin of some parents. \"At least give us the respect of a notice,\"?one parent told The Hilton Head Island Packet. \"You just let a hundred families down.\"? A KIPP school in Texas is empty today. Such a powerful statement. #ADayWithoutImmigrants #BetterTogether pic.twitter.com/TH9woAUpuY  Earlier this week, a similar protest was staged in Milwaukee. Thousands of people attended the Day Without Latinos, Immigrants and Refugees march, according to The Milwaukee Journal Sentinel. These protests have some history. A boycott and marches were staged nationwide for a Day Without an Immigrant on May 1, 2006, in support of loosening the nation's laws on immigration.",
+      "title": "Businesses nationwide participate in Day Without Immigrants protest",
+      "source": "http://abcnews.go.com/Politics/businesses-nationwide-participate-day-immigrants-protest/story?id=45521945",
+      "timestamp": "2017-02-16T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.231Z",
+        "updated": "2024-02-09T13:09:16.231Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "69ca24d0-c5b2-11ee-bbb2-f78c6e9d2422": {
+      "name": "Martin Hoppe",
+      "email": "mogramming@gmail.com",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "c65a3390-c8da-11ee-a7b6-0184e7d3dd10",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.231Z",
+    "updated": "2024-04-17T06:48:01.741Z"
+  },
+  "userdata": {}
+}

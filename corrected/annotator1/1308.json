@@ -1,0 +1,244 @@
+{
+  "nodes": {
+    "80600ee0-c764-11ee-9cc2-154172df10e6": {
+      "atom": {
+        "text": "Attorney General Jeff Sessions has rescinded an Obama-era memo aimed at reducing and ultimately ending the Justice Department's use of private prisons",
+        "reference": {
+          "resource": "1308",
+          "offset": 0,
+          "text": "Attorney General Jeff Sessions has rescinded an Obama-era memo aimed at reducing and ultimately ending the Justice Department's use of private prisons"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:01:35.950Z",
+        "updated": "2024-02-09T16:01:35.950Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 154.85931351231056,
+            "y": -241.6334362116742
+          }
+        }
+      }
+    },
+    "80600ee1-c764-11ee-9cc2-154172df10e6": {
+      "atom": {
+        "text": "The memo, penned in August 2016 by former Deputy Attorney General Sally Yates suggested that private correctional facilities \"compare poorly\" to federal facilities, and instructed officials to begin \"the process of reducing, and ultimately ending, our use of privately operated prisons.\"",
+        "reference": {
+          "resource": "1308",
+          "text": "The memo, penned in August 2016 by former Deputy Attorney General Sally Yates suggested that private correctional facilities \"compare poorly\" to federal facilities, and instructed officials to begin \"the process of reducing, and ultimately ending, our use of privately operated prisons.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:01:35.950Z",
+        "updated": "2024-02-09T16:01:35.950Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 416.95861282286637,
+            "y": 24.840787042019002
+          }
+        }
+      }
+    },
+    "80600ee2-c764-11ee-9cc2-154172df10e6": {
+      "atom": {
+        "text": "Citing declining inmate numbers and an Inspector General's report showing private institutions experience more security incidents per capita than government-run prisons, Yates directed the Bureau of Prisons to decline to renew private contracts, or \"substantially reduce\" their scope",
+        "reference": {
+          "resource": "1308",
+          "offset": 540,
+          "text": "Citing declining inmate numbers and an Inspector General's report showing private institutions experience more security incidents per capita than government-run prisons, Yates directed the Bureau of Prisons to decline to renew private contracts, or \"substantially reduce\" their scope"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:01:35.950Z",
+        "updated": "2024-02-09T16:01:35.950Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 458.0294947074427,
+            "y": 420.6881581704927
+          }
+        }
+      }
+    },
+    "80600ee3-c764-11ee-9cc2-154172df10e6": {
+      "atom": {
+        "text": "In his letter to the Bureau of Prisons, however, Sessions claimed Yates' guidance \"changed long-standing policy and practice, and impaired the Bureau's ability to meet the future needs of the federal correctional system,\"",
+        "reference": {
+          "resource": "1308",
+          "offset": 825,
+          "text": "In his letter to the Bureau of Prisons, however, Sessions claimed Yates' guidance \"changed long-standing policy and practice, and impaired the Bureau's ability to meet the future needs of the federal correctional system,\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:01:35.950Z",
+        "updated": "2024-02-09T16:01:35.950Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -100.53131174527527,
+            "y": 405.6342143868977
+          }
+        }
+      }
+    },
+    "c6f64770-c764-11ee-9cc2-154172df10e6": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:03:34.375Z",
+        "updated": "2024-02-09T16:03:34.375Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 517.9839716068757,
+            "y": 278.8295046779631
+          }
+        }
+      }
+    },
+    "e7de8100-c764-11ee-9cc2-154172df10e6": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:04:29.584Z",
+        "updated": "2024-02-09T16:04:29.584Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 422.531776673694,
+            "y": -59.158266310140064
+          }
+        }
+      }
+    },
+    "f76fcb60-c764-11ee-9cc2-154172df10e6": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:04:55.702Z",
+        "updated": "2024-02-09T16:04:55.702Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 83.4301488403307,
+            "y": -34.8167181058371
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "c6f66e80-c764-11ee-9cc2-154172df10e6": {
+      "source": "80600ee2-c764-11ee-9cc2-154172df10e6",
+      "target": "c6f64770-c764-11ee-9cc2-154172df10e6",
+      "metadata": {
+        "created": "2024-02-09T16:03:34.376Z",
+        "updated": "2024-02-09T16:03:34.376Z"
+      },
+      "userdata": {}
+    },
+    "c6f66e81-c764-11ee-9cc2-154172df10e6": {
+      "source": "c6f64770-c764-11ee-9cc2-154172df10e6",
+      "target": "bbde2920-c764-11ee-9cc2-154172df10e6",
+      "metadata": {
+        "created": "2024-02-09T16:03:34.377Z",
+        "updated": "2024-02-09T16:03:34.377Z"
+      },
+      "userdata": {}
+    },
+    "e7de8101-c764-11ee-9cc2-154172df10e6": {
+      "source": "bbde2920-c764-11ee-9cc2-154172df10e6",
+      "target": "e7de8100-c764-11ee-9cc2-154172df10e6",
+      "metadata": {
+        "created": "2024-02-09T16:04:29.584Z",
+        "updated": "2024-02-09T16:04:29.584Z"
+      },
+      "userdata": {}
+    },
+    "e7de8102-c764-11ee-9cc2-154172df10e6": {
+      "source": "e7de8100-c764-11ee-9cc2-154172df10e6",
+      "target": "80600ee0-c764-11ee-9cc2-154172df10e6",
+      "metadata": {
+        "created": "2024-02-09T16:04:29.584Z",
+        "updated": "2024-02-09T16:04:29.584Z"
+      },
+      "userdata": {}
+    },
+    "f76fcb61-c764-11ee-9cc2-154172df10e6": {
+      "source": "80600ee3-c764-11ee-9cc2-154172df10e6",
+      "target": "f76fcb60-c764-11ee-9cc2-154172df10e6",
+      "metadata": {
+        "created": "2024-02-09T16:04:55.702Z",
+        "updated": "2024-02-09T16:04:55.702Z"
+      },
+      "userdata": {}
+    },
+    "f76fcb62-c764-11ee-9cc2-154172df10e6": {
+      "source": "f76fcb60-c764-11ee-9cc2-154172df10e6",
+      "target": "80600ee0-c764-11ee-9cc2-154172df10e6",
+      "metadata": {
+        "created": "2024-02-09T16:04:55.702Z",
+        "updated": "2024-02-09T16:04:55.702Z"
+      },
+      "userdata": {}
+    },
+    "0d041620-c765-11ee-9cc2-154172df10e6": {
+      "source": "80600ee1-c764-11ee-9cc2-154172df10e6",
+      "target": "e7de8100-c764-11ee-9cc2-154172df10e6",
+      "metadata": {
+        "created": "2024-02-09T16:05:31.906Z",
+        "updated": "2024-02-09T16:05:31.906Z"
+      },
+      "userdata": {}
+    },
+    "0f669730-c765-11ee-9cc2-154172df10e6": {
+      "source": "c6f64770-c764-11ee-9cc2-154172df10e6",
+      "target": "80600ee1-c764-11ee-9cc2-154172df10e6",
+      "metadata": {
+        "created": "2024-02-09T16:05:35.907Z",
+        "updated": "2024-02-09T16:05:35.907Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "1308": {
+      "text": "Attorney General Jeff Sessions has rescinded an Obama-era memo aimed at reducing and ultimately ending the Justice Department's use of private prisons. The memo, penned in August 2016 by former Deputy Attorney General Sally Yates -- who was fired by President Trump last month after she refused to defend his immigration order -- suggested that private correctional facilities \"compare poorly\" to federal facilities, and instructed officials to begin \"the process of reducing, and ultimately ending, our use of privately operated prisons.\" Citing declining inmate numbers and an Inspector General's report showing private institutions experience more security incidents per capita than government-run prisons, Yates directed the Bureau of Prisons to decline to renew private contracts, or \"substantially reduce\" their scope. In his letter to the Bureau of Prisons, however, Sessions claimed Yates' guidance \"changed long-standing policy and practice, and impaired the Bureau's ability to meet the future needs of the federal correctional system,\" and directed officials to \"return to its previous approach.\" ABC News' Jack Date and Mike Levine contributed to this report.",
+      "title": "Justice Department reverses Obama guidance on reducing private prisons",
+      "source": "http://abcnews.go.com/Politics/justice-department-reverses-obama-guidance-reducing-private-prisons/story?id=45696324",
+      "timestamp": "2017-02-23T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.161Z",
+        "updated": "2024-02-09T13:09:16.161Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "69ca24d0-c5b2-11ee-bbb2-f78c6e9d2422": {
+      "name": "Martin Hoppe",
+      "email": "mogramming@gmail.com",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "80600ee0-c764-11ee-9cc2-154172df10e6",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.161Z",
+    "updated": "2024-04-17T06:53:23.275Z"
+  },
+  "userdata": {}
+}

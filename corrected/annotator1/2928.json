@@ -1,0 +1,679 @@
+{
+  "nodes": {
+    "cf4686a0-c779-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Protesters have voiced their anger at rising anti-immigration sentiment in the UK in a series of demonstrations across the country",
+        "reference": {
+          "resource": "2928",
+          "offset": 0,
+          "text": "Protesters have voiced their anger at rising anti-immigration sentiment in the UK in a series of demonstrations across the country"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:34:07.754Z",
+        "updated": "2024-02-09T18:34:07.754Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 192.0006559997058,
+            "y": 12
+          }
+        }
+      }
+    },
+    "cf4686a1-c779-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Thousands of anti-racism activists at Saturday's rally in central London took aim at the increasing number of attacks on foreigners in the aftermath of the vote to leave the EU last year",
+        "reference": {
+          "resource": "2928",
+          "offset": 132,
+          "text": "Thousands of anti-racism activists at Saturday's rally in central London took aim at the increasing number of attacks on foreigners in the aftermath of the vote to leave the EU last year"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:34:07.754Z",
+        "updated": "2024-02-09T18:34:07.754Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 452.0006568197558,
+            "y": 278
+          }
+        }
+      }
+    },
+    "cf4686a2-c779-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Similar demonstrations, which were organised to mark the UN's International Day for the Elimination of Racial Discrimination, drew crowds in the Welsh capital Cardiff, and in the Scottish city of Glasgow",
+        "reference": {
+          "resource": "2928",
+          "offset": 320,
+          "text": "Similar demonstrations, which were organised to mark the UN's International Day for the Elimination of Racial Discrimination, drew crowds in the Welsh capital Cardiff, and in the Scottish city of Glasgow"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:34:07.754Z",
+        "updated": "2024-02-09T18:34:07.754Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 802.0005433990382,
+            "y": 278
+          }
+        }
+      }
+    },
+    "cf4686a3-c779-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Many activists condemned the government's refusal to guarantee residency for EU nationals living in the UK after it leaves the bloc in just over two years time",
+        "reference": {
+          "resource": "2928",
+          "offset": 525,
+          "text": "Many activists condemned the government's refusal to guarantee residency for EU nationals living in the UK after it leaves the bloc in just over two years time"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:34:07.754Z",
+        "updated": "2024-02-09T18:34:07.754Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1412.0005322898232,
+            "y": 290
+          }
+        }
+      }
+    },
+    "cf4686a4-c779-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Despina Karayianni, a Greek national living in London, told Al Jazeera that the British Prime Minister Theresa May was using EU nationals like her as \"bargaining chips\"",
+        "reference": {
+          "resource": "2928",
+          "offset": 714,
+          "text": "Despina Karayianni, a Greek national living in London, told Al Jazeera that the British Prime Minister Theresa May was using EU nationals like her as \"bargaining chips\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:34:07.754Z",
+        "updated": "2024-02-09T18:34:07.754Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1412.0003969009401,
+            "y": 592
+          }
+        }
+      }
+    },
+    "cf4686a5-c779-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "June's vote led to a dramatic rise in racist attacks on visible minorities and immigrants from EU countries",
+        "reference": {
+          "resource": "2928",
+          "offset": 1537,
+          "text": "June's vote led to a dramatic rise in racist attacks on visible minorities and immigrants from EU countries"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:34:07.754Z",
+        "updated": "2024-02-09T18:34:07.754Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 102.00018285986924,
+            "y": 335.6
+          }
+        }
+      }
+    },
+    "cf4686a6-c779-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Hate crimes for the July to September quarter rose from 10,793 incidents in 2015 to 14,295 in 2016",
+        "reference": {
+          "resource": "2928",
+          "offset": 1646,
+          "text": "Hate crimes for the July to September quarter rose from 10,793 incidents in 2015 to 14,295 in 2016, according to a report published in February by the Press Association, which was derived from police statistics"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:34:07.754Z",
+        "updated": "2024-02-09T18:34:07.754Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0009681689425,
+            "y": 592
+          }
+        }
+      }
+    },
+    "cf4686a7-c779-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "\"[Political] rhetoric contributes to the toxic racist atmosphere that has led to attacks on EU citizens and on Muslims,\" said Karayianni; a view shared by many of the protesters in London",
+        "reference": {
+          "resource": "2928",
+          "text": "\"[Political] rhetoric contributes to the toxic racist atmosphere that has led to attacks on EU citizens and on Muslims,\" said Karayianni; a view shared by many of the protesters in London"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:34:07.754Z",
+        "updated": "2024-02-09T18:34:07.754Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0007877665836,
+            "y": 592
+          }
+        }
+      }
+    },
+    "cf4686a8-c779-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "\"Brexit) has given people an excuse to have racist views towards immigrants,\" he said, adding he held the political class responsible for the rise in xenophobic sentiment",
+        "reference": {
+          "resource": "2928",
+          "text": "\"Brexit) has given people an excuse to have racist views towards immigrants,\" he said, adding he held the political class responsible for the rise in xenophobic sentiment"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:34:07.754Z",
+        "updated": "2024-02-09T18:34:07.754Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.000652443361,
+            "y": 604
+          }
+        }
+      }
+    },
+    "cf4686a9-c779-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "\"I don't hold Theresa May singularly responsible, it was David Cameron (her predecessor) who instigated Brexit and I think him and the Conservative party have an awful lot to answer for.\"",
+        "reference": {
+          "resource": "2928",
+          "text": "\"I don't hold Theresa May singularly responsible, it was David Cameron (her predecessor) who instigated Brexit and I think him and the Conservative party have an awful lot to answer for.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:34:07.754Z",
+        "updated": "2024-02-09T18:34:07.754Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.0002465702676,
+            "y": 906
+          }
+        }
+      }
+    },
+    "cf4686aa-c779-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "The Conservative party government has condemned the rise in xenophobic violence, which it says has \"no place whatsoever\" in British society",
+        "reference": {
+          "resource": "2928",
+          "text": "The Conservative party government has condemned the rise in xenophobic violence, which it says has \"no place whatsoever\" in British society"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:34:07.754Z",
+        "updated": "2024-02-09T18:34:07.754Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000476853118299,
+            "y": 592
+          }
+        }
+      }
+    },
+    "f9dffb80-c779-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:35:19.224Z",
+        "updated": "2024-02-09T18:35:19.224Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 552.0007096700597,
+            "y": 178
+          }
+        }
+      }
+    },
+    "f9dffb83-c779-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:35:19.224Z",
+        "updated": "2024-02-09T18:35:19.224Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 902.0000059040553,
+            "y": 178
+          }
+        }
+      }
+    },
+    "f9e02291-c779-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:35:19.225Z",
+        "updated": "2024-02-09T18:35:19.225Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1512.000237232987,
+            "y": 178
+          }
+        }
+      }
+    },
+    "f9e02294-c779-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:35:19.225Z",
+        "updated": "2024-02-09T18:35:19.225Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1512.000684359261,
+            "y": 492
+          }
+        }
+      }
+    },
+    "f9e02297-c779-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:35:19.225Z",
+        "updated": "2024-02-09T18:35:19.225Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 202.0006279657126,
+            "y": 178
+          }
+        }
+      }
+    },
+    "f9e0229a-c779-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:35:19.225Z",
+        "updated": "2024-02-09T18:35:19.225Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.000573680474,
+            "y": 492
+          }
+        }
+      }
+    },
+    "f9e0229d-c779-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:35:19.225Z",
+        "updated": "2024-02-09T18:35:19.225Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.000440983565,
+            "y": 492
+          }
+        }
+      }
+    },
+    "f9e022a0-c779-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:35:19.225Z",
+        "updated": "2024-02-09T18:35:19.225Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0001344315708,
+            "y": 492
+          }
+        }
+      }
+    },
+    "f9e022a3-c779-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:35:19.225Z",
+        "updated": "2024-02-09T18:35:19.225Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0004668197805,
+            "y": 806
+          }
+        }
+      }
+    },
+    "f9e022a6-c779-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:35:19.225Z",
+        "updated": "2024-02-09T18:35:19.225Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00006056837478,
+            "y": 492
+          }
+        }
+      }
+    },
+    "6e625660-c77a-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "The Conservative party government has condemned the rise in xenophobic violence, which it says has \"no place whatsoever\"?in British society",
+        "reference": {
+          "resource": "2928",
+          "offset": 2604,
+          "text": "The Conservative party government has condemned the rise in xenophobic violence, which it says has \"no place whatsoever\"?in British society"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:38:34.695Z",
+        "updated": "2024-02-09T18:38:34.695Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.0009325886474,
+            "y": 1220
+          }
+        }
+      }
+    },
+    "6fc23480-c77a-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:38:37.001Z",
+        "updated": "2024-02-09T18:38:37.001Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0009901369942,
+            "y": 1120
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "f9dffb81-c779-11ee-a75d-3d21b0b510a2": {
+      "source": "cf4686a1-c779-11ee-a75d-3d21b0b510a2",
+      "target": "f9dffb80-c779-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:35:19.224Z",
+        "updated": "2024-02-09T18:35:19.224Z"
+      },
+      "userdata": {}
+    },
+    "f9dffb82-c779-11ee-a75d-3d21b0b510a2": {
+      "source": "f9dffb80-c779-11ee-a75d-3d21b0b510a2",
+      "target": "cf4686a0-c779-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:35:19.224Z",
+        "updated": "2024-02-09T18:35:19.224Z"
+      },
+      "userdata": {}
+    },
+    "f9dffb84-c779-11ee-a75d-3d21b0b510a2": {
+      "source": "cf4686a2-c779-11ee-a75d-3d21b0b510a2",
+      "target": "f9dffb83-c779-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:35:19.225Z",
+        "updated": "2024-02-09T18:35:19.225Z"
+      },
+      "userdata": {}
+    },
+    "f9e02290-c779-11ee-a75d-3d21b0b510a2": {
+      "source": "f9dffb83-c779-11ee-a75d-3d21b0b510a2",
+      "target": "cf4686a0-c779-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:35:19.225Z",
+        "updated": "2024-02-09T18:35:19.225Z"
+      },
+      "userdata": {}
+    },
+    "f9e02292-c779-11ee-a75d-3d21b0b510a2": {
+      "source": "cf4686a3-c779-11ee-a75d-3d21b0b510a2",
+      "target": "f9e02291-c779-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:35:19.225Z",
+        "updated": "2024-02-09T18:35:19.225Z"
+      },
+      "userdata": {}
+    },
+    "f9e02293-c779-11ee-a75d-3d21b0b510a2": {
+      "source": "f9e02291-c779-11ee-a75d-3d21b0b510a2",
+      "target": "cf4686a0-c779-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:35:19.225Z",
+        "updated": "2024-02-09T18:35:19.225Z"
+      },
+      "userdata": {}
+    },
+    "f9e02295-c779-11ee-a75d-3d21b0b510a2": {
+      "source": "cf4686a4-c779-11ee-a75d-3d21b0b510a2",
+      "target": "f9e02294-c779-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:35:19.225Z",
+        "updated": "2024-02-09T18:35:19.225Z"
+      },
+      "userdata": {}
+    },
+    "f9e02296-c779-11ee-a75d-3d21b0b510a2": {
+      "source": "f9e02294-c779-11ee-a75d-3d21b0b510a2",
+      "target": "cf4686a3-c779-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:35:19.225Z",
+        "updated": "2024-02-09T18:35:19.225Z"
+      },
+      "userdata": {}
+    },
+    "f9e02298-c779-11ee-a75d-3d21b0b510a2": {
+      "source": "cf4686a5-c779-11ee-a75d-3d21b0b510a2",
+      "target": "f9e02297-c779-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:35:19.225Z",
+        "updated": "2024-02-09T18:35:19.225Z"
+      },
+      "userdata": {}
+    },
+    "f9e02299-c779-11ee-a75d-3d21b0b510a2": {
+      "source": "f9e02297-c779-11ee-a75d-3d21b0b510a2",
+      "target": "cf4686a0-c779-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:35:19.225Z",
+        "updated": "2024-02-09T18:35:19.225Z"
+      },
+      "userdata": {}
+    },
+    "f9e0229b-c779-11ee-a75d-3d21b0b510a2": {
+      "source": "cf4686a6-c779-11ee-a75d-3d21b0b510a2",
+      "target": "f9e0229a-c779-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:35:19.225Z",
+        "updated": "2024-02-09T18:35:19.225Z"
+      },
+      "userdata": {}
+    },
+    "f9e0229c-c779-11ee-a75d-3d21b0b510a2": {
+      "source": "f9e0229a-c779-11ee-a75d-3d21b0b510a2",
+      "target": "cf4686a5-c779-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:35:19.225Z",
+        "updated": "2024-02-09T18:35:19.225Z"
+      },
+      "userdata": {}
+    },
+    "f9e0229e-c779-11ee-a75d-3d21b0b510a2": {
+      "source": "cf4686a7-c779-11ee-a75d-3d21b0b510a2",
+      "target": "f9e0229d-c779-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:35:19.225Z",
+        "updated": "2024-02-09T18:35:19.225Z"
+      },
+      "userdata": {}
+    },
+    "f9e0229f-c779-11ee-a75d-3d21b0b510a2": {
+      "source": "f9e0229d-c779-11ee-a75d-3d21b0b510a2",
+      "target": "cf4686a5-c779-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:35:19.225Z",
+        "updated": "2024-02-09T18:35:19.225Z"
+      },
+      "userdata": {}
+    },
+    "f9e022a1-c779-11ee-a75d-3d21b0b510a2": {
+      "source": "cf4686a8-c779-11ee-a75d-3d21b0b510a2",
+      "target": "f9e022a0-c779-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:35:19.225Z",
+        "updated": "2024-02-09T18:35:19.225Z"
+      },
+      "userdata": {}
+    },
+    "f9e022a2-c779-11ee-a75d-3d21b0b510a2": {
+      "source": "f9e022a0-c779-11ee-a75d-3d21b0b510a2",
+      "target": "cf4686a5-c779-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:35:19.225Z",
+        "updated": "2024-02-09T18:35:19.225Z"
+      },
+      "userdata": {}
+    },
+    "f9e022a4-c779-11ee-a75d-3d21b0b510a2": {
+      "source": "cf4686a9-c779-11ee-a75d-3d21b0b510a2",
+      "target": "f9e022a3-c779-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:35:19.225Z",
+        "updated": "2024-02-09T18:35:19.225Z"
+      },
+      "userdata": {}
+    },
+    "f9e022a5-c779-11ee-a75d-3d21b0b510a2": {
+      "source": "f9e022a3-c779-11ee-a75d-3d21b0b510a2",
+      "target": "cf4686a8-c779-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:35:19.225Z",
+        "updated": "2024-02-09T18:35:19.225Z"
+      },
+      "userdata": {}
+    },
+    "f9e022a7-c779-11ee-a75d-3d21b0b510a2": {
+      "source": "cf4686aa-c779-11ee-a75d-3d21b0b510a2",
+      "target": "f9e022a6-c779-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:35:19.225Z",
+        "updated": "2024-02-09T18:35:19.225Z"
+      },
+      "userdata": {}
+    },
+    "f9e022a8-c779-11ee-a75d-3d21b0b510a2": {
+      "source": "f9e022a6-c779-11ee-a75d-3d21b0b510a2",
+      "target": "cf4686a5-c779-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:35:19.225Z",
+        "updated": "2024-02-09T18:35:19.225Z"
+      },
+      "userdata": {}
+    },
+    "6fc25b90-c77a-11ee-a75d-3d21b0b510a2": {
+      "source": "6e625660-c77a-11ee-a75d-3d21b0b510a2",
+      "target": "6fc23480-c77a-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:38:37.001Z",
+        "updated": "2024-02-09T18:38:37.001Z"
+      },
+      "userdata": {}
+    },
+    "3eecc010-fc8f-11ee-bacf-6f44838a7611": {
+      "source": "6fc23480-c77a-11ee-a75d-3d21b0b510a2",
+      "target": "cf4686a9-c779-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-04-17T07:51:06.129Z",
+        "updated": "2024-04-17T07:51:06.129Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "2928": {
+      "text": "Protesters have voiced their anger at rising anti-immigration sentiment in the UK in a series of demonstrations across the country. Thousands of anti-racism activists at Saturday's rally in central London took aim at the increasing number of attacks on foreigners in the aftermath of the vote to leave the EU last year. Similar demonstrations, which were organised to mark the UN's International Day for the Elimination of Racial Discrimination, drew crowds in the Welsh capital Cardiff, and in the Scottish city of Glasgow. Many activists condemned the government's refusal to guarantee residency for EU nationals living in the UK after it leaves the bloc in just over two years time. Brexit: What is Article 50? Despina Karayianni, a Greek national living in London, told Al Jazeera that the British Prime Minister Theresa May was using EU nationals like her as \"bargaining chips\"? \"she wants to frighten EU citizens living, working and studying here,\"?she said, adding \"I don't think she will succeed because we are part of this society and the majority here don't want us kicked out.\"?The British government says it will not guarantee residency rights for EU nationals living in the UK until it receives reciprocal guarantees from the EU for Britons living in other member states.- May is expected to formally announce the UK's intent to leave the EU by invoking Article 50 of the Lisbon Treaty later this month, sparking negotiations on a wide array of issues, including the fate of nearly 3 million EU nationals living in Britain. June's vote led to a dramatic rise in racist attacks on visible minorities and immigrants from EU countries. Hate crimes for the July to September quarter rose from 10,793 incidents in 2015 to 14,295 in 2016, according to a report published in February by the Press Association, which was derived from police statistics. \"[Political] rhetoric contributes to the toxic racist atmosphere that has led to attacks on EU citizens and on Muslims,\"?said Karayianni; a view shared by many of the protesters in London. Tom Corbin, an activist from the western English county of Wiltshire, told Al Jazeera that the rhetoric attached to Brexit had encouraged people to \"speak in a way they hadn\"t spoken for years\"? \"?Brexit) has given people an excuse to have racist views towards immigrants,\"?he said, adding he held the political class responsible for the rise in xenophobic sentiment. \"I don\"t hold Theresa May singularly responsible, it was David Cameron (her predecessor) who instigated Brexit and I think him and the Conservative party have an awful lot to answer for.\"?The Conservative party government has condemned the rise in xenophobic violence, which it says has \"no place whatsoever\"?in British society.- Source:-Al Jazeera",
+      "title": "Protests in UK against post-Brexit racism",
+      "source": "http://www.aljazeera.com/news/2017/03/protests-uk-post-brexit-racism-170318140636538.html",
+      "timestamp": "2017-03-18T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.139Z",
+        "updated": "2024-02-09T13:09:16.139Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "69ca24d0-c5b2-11ee-bbb2-f78c6e9d2422": {
+      "name": "Martin Hoppe",
+      "email": "mogramming@gmail.com",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "cf4686a0-c779-11ee-a75d-3d21b0b510a2",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.139Z",
+    "updated": "2024-04-17T07:52:26.240Z"
+  },
+  "userdata": {}
+}

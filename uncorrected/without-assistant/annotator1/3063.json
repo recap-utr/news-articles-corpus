@@ -1,0 +1,595 @@
+{
+  "nodes": {
+    "1e1db710-c619-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "Phillipines bishops urge for a fight against reinstating of the death penalty"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:29:27.682Z",
+        "updated": "2024-02-08T00:29:27.682Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -13.666383745661108,
+            "y": 12.000000000000014
+          }
+        }
+      }
+    },
+    "508af4b0-c619-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": " \"[...]Let us uphold the sanctity of life and make a stand against death penalty\"",
+        "reference": {
+          "resource": "3063",
+          "offset": 176,
+          "text": " Let us uphold the sanctity of life and make a stand against death penalty"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:30:52.283Z",
+        "updated": "2024-02-08T00:30:52.283Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -326.5375306525414,
+            "y": 314.1965836898795
+          }
+        }
+      }
+    },
+    "5d8f79b0-c619-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:31:14.123Z",
+        "updated": "2024-02-08T00:31:14.123Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -85.6756667311173,
+            "y": 139.24837215696135
+          }
+        }
+      }
+    },
+    "733a80c0-c619-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "Duterte launched a bid to restore it as part of his brutal crackdown on crime",
+        "reference": {
+          "resource": "3063",
+          "offset": 392,
+          "text": "Duterte launched a bid to restore it as part of his brutal crackdown on crime"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:31:50.476Z",
+        "updated": "2024-02-08T00:31:50.476Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 480.47018851828807,
+            "y": 229.4084602200104
+          }
+        }
+      }
+    },
+    "81cea670-c619-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:32:14.935Z",
+        "updated": "2024-02-08T00:32:14.935Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 160.83436795631155,
+            "y": 124.7042301100052
+          }
+        }
+      }
+    },
+    "955ac520-c619-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "Lawmakers already backed the bill in the country's House of Representatives",
+        "reference": {
+          "resource": "3063",
+          "offset": 471,
+          "text": "Lawmakers already backed the bill in the country's House of Representatives"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:32:47.730Z",
+        "updated": "2024-02-08T00:32:47.730Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 252.212501705279,
+            "y": 464.258488273154
+          }
+        }
+      }
+    },
+    "9ad841d0-c619-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:32:56.941Z",
+        "updated": "2024-02-08T00:32:56.941Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 350.3413451117834,
+            "y": 349.5001409132489
+          }
+        }
+      }
+    },
+    "a00af9e0-c619-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "it is expected to pass the Filipino senate as well",
+        "reference": {
+          "resource": "3063",
+          "offset": 551,
+          "text": "it is expected to pass the Filipino senate as well"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:33:05.662Z",
+        "updated": "2024-02-08T00:33:05.662Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 625.7693587599761,
+            "y": 468.48157841442804
+          }
+        }
+      }
+    },
+    "a37cc810-c619-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:33:11.441Z",
+        "updated": "2024-02-08T00:33:11.441Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 739.7864403057987,
+            "y": 355.6116859838859
+          }
+        }
+      }
+    },
+    "d50b6580-c619-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "Jesus was not 'an advocate' of killing On Sunday",
+        "reference": {
+          "resource": "3063",
+          "offset": 961,
+          "text": "Jesus was not 'an advocate' of killing On Sunday"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:34:34.584Z",
+        "updated": "2024-02-08T00:34:34.584Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -408.3639745733579,
+            "y": 681.8149117477614
+          }
+        }
+      }
+    },
+    "d96b3d30-c619-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:34:41.923Z",
+        "updated": "2024-02-08T00:34:41.923Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -296.1174192796163,
+            "y": 489.3390810521538
+          }
+        }
+      }
+    },
+    "f1eae810-c619-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "the bishops said that the death penalty would be biased against the poor, who would not be able to afford a good lawyer",
+        "reference": {
+          "resource": "3063",
+          "offset": 1011,
+          "text": "the bishops said that the death penalty would be biased against the poor, who would not be able to afford a good lawyer"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:35:23.025Z",
+        "updated": "2024-02-08T00:35:23.025Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -741.6973079066913,
+            "y": 564.481578414428
+          }
+        }
+      }
+    },
+    "f46c14b0-c619-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:35:27.227Z",
+        "updated": "2024-02-08T00:35:27.227Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -534.1174192796163,
+            "y": 439.33908105215374
+          }
+        }
+      }
+    },
+    "fb2593d0-c619-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "argued there was no evidence that it deterred crime",
+        "reference": {
+          "resource": "3063",
+          "offset": 1136,
+          "text": "argued there was no evidence that it deterred crime"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:35:38.509Z",
+        "updated": "2024-02-08T00:35:38.509Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -89.69730790669121,
+            "y": 673.8149117477615
+          }
+        }
+      }
+    },
+    "fe86c030-c619-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:35:44.179Z",
+        "updated": "2024-02-08T00:35:44.179Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -132.11741927961629,
+            "y": 470.0057477188205
+          }
+        }
+      }
+    },
+    "51c88850-c61a-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": " He defended the adulterous woman against those who demanded her blood,",
+        "reference": {
+          "resource": "3063",
+          "offset": 1355,
+          "text": " He defended the adulterous woman against those who demanded her blood,"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:38:03.861Z",
+        "updated": "2024-02-08T00:38:03.861Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -443.3181342267387,
+            "y": 893.9760135078247
+          }
+        }
+      }
+    },
+    "542033f0-c61a-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:38:07.791Z",
+        "updated": "2024-02-08T00:38:07.791Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -425.8410544000483,
+            "y": 787.895462627793
+          }
+        }
+      }
+    },
+    "67aa7de0-c61a-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "The pro-death penalty camp hopes to reinstate capital punishment by May this year",
+        "reference": {
+          "resource": "3063",
+          "offset": 1825,
+          "text": "The pro-death penalty camp hopes to reinstate capital punishment by May this year"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:38:40.574Z",
+        "updated": "2024-02-08T00:38:40.574Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1028.681865773262,
+            "y": 408.64268017449115
+          }
+        }
+      }
+    },
+    "6a800c10-c61a-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:38:45.329Z",
+        "updated": "2024-02-08T00:38:45.329Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 961.2426938124415,
+            "y": 304.35890353058414
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "5d8f79b1-c619-11ee-bbb2-f78c6e9d2422": {
+      "source": "508af4b0-c619-11ee-bbb2-f78c6e9d2422",
+      "target": "5d8f79b0-c619-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:31:14.123Z",
+        "updated": "2024-02-08T00:31:14.123Z"
+      },
+      "userdata": {}
+    },
+    "5d8f79b2-c619-11ee-bbb2-f78c6e9d2422": {
+      "source": "5d8f79b0-c619-11ee-bbb2-f78c6e9d2422",
+      "target": "1e1db710-c619-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:31:14.123Z",
+        "updated": "2024-02-08T00:31:14.123Z"
+      },
+      "userdata": {}
+    },
+    "81cea671-c619-11ee-bbb2-f78c6e9d2422": {
+      "source": "733a80c0-c619-11ee-bbb2-f78c6e9d2422",
+      "target": "81cea670-c619-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:32:14.935Z",
+        "updated": "2024-02-08T00:32:14.935Z"
+      },
+      "userdata": {}
+    },
+    "81cea672-c619-11ee-bbb2-f78c6e9d2422": {
+      "source": "81cea670-c619-11ee-bbb2-f78c6e9d2422",
+      "target": "1e1db710-c619-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:32:14.935Z",
+        "updated": "2024-02-08T00:32:14.935Z"
+      },
+      "userdata": {}
+    },
+    "9ad841d1-c619-11ee-bbb2-f78c6e9d2422": {
+      "source": "955ac520-c619-11ee-bbb2-f78c6e9d2422",
+      "target": "9ad841d0-c619-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:32:56.941Z",
+        "updated": "2024-02-08T00:32:56.941Z"
+      },
+      "userdata": {}
+    },
+    "9ad841d2-c619-11ee-bbb2-f78c6e9d2422": {
+      "source": "9ad841d0-c619-11ee-bbb2-f78c6e9d2422",
+      "target": "733a80c0-c619-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:32:56.941Z",
+        "updated": "2024-02-08T00:32:56.941Z"
+      },
+      "userdata": {}
+    },
+    "a37cc811-c619-11ee-bbb2-f78c6e9d2422": {
+      "source": "a00af9e0-c619-11ee-bbb2-f78c6e9d2422",
+      "target": "a37cc810-c619-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:33:11.441Z",
+        "updated": "2024-02-08T00:33:11.441Z"
+      },
+      "userdata": {}
+    },
+    "a37cc812-c619-11ee-bbb2-f78c6e9d2422": {
+      "source": "a37cc810-c619-11ee-bbb2-f78c6e9d2422",
+      "target": "733a80c0-c619-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:33:11.441Z",
+        "updated": "2024-02-08T00:33:11.441Z"
+      },
+      "userdata": {}
+    },
+    "c1459931-c619-11ee-bbb2-f78c6e9d2422": {
+      "source": "bbc0a270-c619-11ee-bbb2-f78c6e9d2422",
+      "target": "c1459930-c619-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:34:01.411Z",
+        "updated": "2024-02-08T00:34:01.411Z"
+      },
+      "userdata": {}
+    },
+    "c1459932-c619-11ee-bbb2-f78c6e9d2422": {
+      "source": "c1459930-c619-11ee-bbb2-f78c6e9d2422",
+      "target": "64db4dc0-c619-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:34:01.411Z",
+        "updated": "2024-02-08T00:34:01.411Z"
+      },
+      "userdata": {}
+    },
+    "cc94cd11-c619-11ee-bbb2-f78c6e9d2422": {
+      "source": "ca86fbb0-c619-11ee-bbb2-f78c6e9d2422",
+      "target": "cc94cd10-c619-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:34:20.385Z",
+        "updated": "2024-02-08T00:34:20.385Z"
+      },
+      "userdata": {}
+    },
+    "cc94cd12-c619-11ee-bbb2-f78c6e9d2422": {
+      "source": "cc94cd10-c619-11ee-bbb2-f78c6e9d2422",
+      "target": "64db4dc0-c619-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:34:20.386Z",
+        "updated": "2024-02-08T00:34:20.386Z"
+      },
+      "userdata": {}
+    },
+    "d96b3d31-c619-11ee-bbb2-f78c6e9d2422": {
+      "source": "d50b6580-c619-11ee-bbb2-f78c6e9d2422",
+      "target": "d96b3d30-c619-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:34:41.923Z",
+        "updated": "2024-02-08T00:34:41.923Z"
+      },
+      "userdata": {}
+    },
+    "d96b3d32-c619-11ee-bbb2-f78c6e9d2422": {
+      "source": "d96b3d30-c619-11ee-bbb2-f78c6e9d2422",
+      "target": "508af4b0-c619-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:34:41.923Z",
+        "updated": "2024-02-08T00:34:41.923Z"
+      },
+      "userdata": {}
+    },
+    "f46c14b1-c619-11ee-bbb2-f78c6e9d2422": {
+      "source": "f1eae810-c619-11ee-bbb2-f78c6e9d2422",
+      "target": "f46c14b0-c619-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:35:27.227Z",
+        "updated": "2024-02-08T00:35:27.227Z"
+      },
+      "userdata": {}
+    },
+    "f46c14b2-c619-11ee-bbb2-f78c6e9d2422": {
+      "source": "f46c14b0-c619-11ee-bbb2-f78c6e9d2422",
+      "target": "508af4b0-c619-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:35:27.227Z",
+        "updated": "2024-02-08T00:35:27.227Z"
+      },
+      "userdata": {}
+    },
+    "fe86c031-c619-11ee-bbb2-f78c6e9d2422": {
+      "source": "fb2593d0-c619-11ee-bbb2-f78c6e9d2422",
+      "target": "fe86c030-c619-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:35:44.179Z",
+        "updated": "2024-02-08T00:35:44.179Z"
+      },
+      "userdata": {}
+    },
+    "fe86c032-c619-11ee-bbb2-f78c6e9d2422": {
+      "source": "fe86c030-c619-11ee-bbb2-f78c6e9d2422",
+      "target": "508af4b0-c619-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:35:44.179Z",
+        "updated": "2024-02-08T00:35:44.179Z"
+      },
+      "userdata": {}
+    },
+    "542033f1-c61a-11ee-bbb2-f78c6e9d2422": {
+      "source": "51c88850-c61a-11ee-bbb2-f78c6e9d2422",
+      "target": "542033f0-c61a-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:38:07.791Z",
+        "updated": "2024-02-08T00:38:07.791Z"
+      },
+      "userdata": {}
+    },
+    "542033f2-c61a-11ee-bbb2-f78c6e9d2422": {
+      "source": "542033f0-c61a-11ee-bbb2-f78c6e9d2422",
+      "target": "d50b6580-c619-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:38:07.791Z",
+        "updated": "2024-02-08T00:38:07.791Z"
+      },
+      "userdata": {}
+    },
+    "6a800c11-c61a-11ee-bbb2-f78c6e9d2422": {
+      "source": "67aa7de0-c61a-11ee-bbb2-f78c6e9d2422",
+      "target": "6a800c10-c61a-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:38:45.329Z",
+        "updated": "2024-02-08T00:38:45.329Z"
+      },
+      "userdata": {}
+    },
+    "6a800c12-c61a-11ee-bbb2-f78c6e9d2422": {
+      "source": "6a800c10-c61a-11ee-bbb2-f78c6e9d2422",
+      "target": "733a80c0-c619-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:38:45.329Z",
+        "updated": "2024-02-08T00:38:45.329Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "3063": {
+      "text": "The clerics read out the homily at all masses across the Philippines on Sunday. \"Dear sisters and brothers in Christ, let us not allow our wells to be poisoned by bitter water. Let us uphold the sanctity of life and make a stand against death penalty,\" the Catholic bishops said in pre-written prayer. The Philippines abolished the death penalty in 2006. However, firebrand President Rodrigo Duterte launched a bid to restore it as part of his brutal crackdown on crime. Lawmakers already backed the bill in the country's House of Representatives and it is expected to pass the Filipino senate as well. Read: Looking inside the mind of the Philippines' Duterte Send Facebook Twitter Google+ Whatsapp Tumblr linkedin stumble Digg reddit Newsvine Permalink http://dw.com/p/2Z3WM Despite the death penalty being illegal, Duterte has repeatedly supported extrajudicial killings and police has reportedly executed thousands of suspects since he took office in June. Jesus was not 'an advocate' of killing On Sunday, the bishops said that the death penalty would be biased against the poor, who would not be able to afford a good lawyer, and argued there was no evidence that it deterred crime. Referring on the upcoming Senate vote, they called on worshipers to \"pray fervently for the legislators.\" \"Jesus was never an advocate of any form of 'legal killing.' He defended the adulterous woman against those who demanded her blood,\" they said, citing the New Testament story about Jesus opposing a stoning. Around 80 percent of all Filipinos are Catholic and the Church wields a significant influence- in the country. At the same time, Duterte and his crusade against drugs are also immensely popular. When confronted by the Catholic Church earlier this year, Duterte accused it of greed, hypocrisy, and sexual abuse of children. The pro-death penalty camp hopes to reinstate capital punishment by May this year. dj/rc-(AFP, dpa) -",
+      "title": "Philippine bishops urge flock to fight the death penalty",
+      "source": "http://www.dw.com/en/philippine-bishops-urge-flock-to-fight-the-death-penalty/a-38014170?maca=en-rss-en-all-1573-rdf",
+      "timestamp": "2024-02-08T00:26:20.036Z",
+      "metadata": {
+        "created": "2024-02-05T09:49:22.058Z",
+        "updated": "2024-02-05T09:49:22.058Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {
+    "notes": "12min"
+  },
+  "majorClaim": "1e1db710-c619-11ee-bbb2-f78c6e9d2422",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-05T09:49:22.058Z",
+    "updated": "2024-02-08T00:39:13.269Z"
+  }
+}

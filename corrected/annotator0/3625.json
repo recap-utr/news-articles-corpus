@@ -1,0 +1,692 @@
+{
+  "nodes": {
+    "a0cb84a0-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "The mother of a 13-month-old boy who drowned in a bath has told jurors she was \"stupid\" to leave him unsupervised for 15 minutes",
+        "reference": {
+          "resource": "3625",
+          "offset": 0,
+          "text": "The mother of a 13-month-old boy who drowned in a bath has told jurors she was \"stupid\" to leave him unsupervised for 15 minutes"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:45:31.882Z",
+        "updated": "2024-02-13T09:45:31.882Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1412.0008343629347,
+            "y": 12
+          }
+        }
+      }
+    },
+    "a0cb84a1-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Lisa Passey, 28, and her former partner Wayne Dale, 45, left Kian and another two-year-old child alone while the pair entertained a friend",
+        "reference": {
+          "resource": "3625",
+          "offset": 130,
+          "text": "Lisa Passey, 28, and her former partner Wayne Dale, 45, left Kian and another two-year-old child alone while the pair entertained a friend"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:45:31.882Z",
+        "updated": "2024-02-13T09:45:31.882Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.0004496434383,
+            "y": 290
+          }
+        }
+      }
+    },
+    "a0cb84a2-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Giving evidence at Worcester Crown Court, Ms Passey said it \"was down to me and Wayne.. it's our fault\"",
+        "reference": {
+          "resource": "3625",
+          "offset": 270,
+          "text": "Giving evidence at Worcester Crown Court, Ms Passey said it \"was down to me and Wayne.. it's our fault\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:45:31.882Z",
+        "updated": "2024-02-13T09:45:31.882Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1412.0001375770291,
+            "y": 302
+          }
+        }
+      }
+    },
+    "a0cb84a3-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Both deny gross negligence manslaughter",
+        "reference": {
+          "resource": "3625",
+          "offset": 375,
+          "text": "Both deny gross negligence manslaughter"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:45:31.882Z",
+        "updated": "2024-02-13T09:45:31.882Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1412.0001686060045,
+            "y": 568
+          }
+        }
+      }
+    },
+    "a0cb84a4-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Ms Passey said: \"I don't want any pity. I was stupid for not going upstairs.\"",
+        "reference": {
+          "resource": "3625",
+          "offset": 602,
+          "text": "Ms Passey said: \"I don't want any pity. I was stupid for not going upstairs.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:45:31.882Z",
+        "updated": "2024-02-13T09:45:31.882Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1762.0007989021285,
+            "y": 314
+          }
+        }
+      }
+    },
+    "a0cb84a5-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "While Kian was in the bath, the court has heard, Ms Passey was in her garden with a friend drinking coffee and smoking. Mr Dale joined them to also smoke and then \"burn\" a CD for the friend",
+        "reference": {
+          "resource": "3625",
+          "offset": 680,
+          "text": "While Kian was in the bath, the court has heard, Ms Passey was in her garden with a friend drinking coffee and smoking. Mr Dale joined them to also smoke and then \"burn\" a CD for the friend"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:45:31.882Z",
+        "updated": "2024-02-13T09:45:31.882Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.0007949043734,
+            "y": 568
+          }
+        }
+      }
+    },
+    "a0cb84a6-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Kian was later discovered motionless in an overflowing bath by Mr Dale. His death was consistent with drowning, including what was believed to be soap bubbles in his lungs",
+        "reference": {
+          "resource": "3625",
+          "offset": 871,
+          "text": "Kian was later discovered motionless in an overflowing bath by Mr Dale. His death was consistent with drowning, including what was believed to be soap bubbles in his lungs"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:45:31.882Z",
+        "updated": "2024-02-13T09:45:31.882Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2112.0007842790887,
+            "y": 278
+          }
+        }
+      }
+    },
+    "a0cb84a7-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "It was suggested to the court that the two-year-old had turned the taps on while the pair were downstairs",
+        "reference": {
+          "resource": "3625",
+          "offset": 1044,
+          "text": "It was suggested to the court that the two-year-old had turned the taps on while the pair were downstairs"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:45:31.882Z",
+        "updated": "2024-02-13T09:45:31.882Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000670579384312,
+            "y": 568
+          }
+        }
+      }
+    },
+    "a0cb84a8-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Ms Passey was questioned about giving differing accounts of what happened to doctors, police and social services, including telling a doctor the children had been in a dry, empty bath",
+        "reference": {
+          "resource": "3625",
+          "offset": 1151,
+          "text": "Ms Passey was questioned about giving differing accounts of what happened to doctors, police and social services, including telling a doctor the children had been in a dry, empty bath"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:45:31.882Z",
+        "updated": "2024-02-13T09:45:31.882Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.00042025953337,
+            "y": 278
+          }
+        }
+      }
+    },
+    "a0cb84a9-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "\"I was all over the place,\" she told prosecution barrister, Jonas Hankin QC",
+        "reference": {
+          "resource": "3625",
+          "offset": 1336,
+          "text": "\"I was all over the place,\" she told prosecution barrister, Jonas Hankin QC"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:45:31.882Z",
+        "updated": "2024-02-13T09:45:31.882Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0000327318927,
+            "y": 568
+          }
+        }
+      }
+    },
+    "a0cb84aa-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "\"If you'd gone through it yourself, losing a child, you'd realise you're still trying to grieve,\"",
+        "reference": {
+          "resource": "3625",
+          "offset": 1413,
+          "text": "\"If you'd gone through it yourself, losing a child, you'd realise you're still trying to grieve,\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:45:31.882Z",
+        "updated": "2024-02-13T09:45:31.882Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.00006539179657,
+            "y": 568
+          }
+        }
+      }
+    },
+    "a0cb84ab-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "She told the court it was a regular occurrence for Mr Dale to leave Kian in the bath, but only \"for a few minutes\"",
+        "reference": {
+          "resource": "3625",
+          "offset": 1511,
+          "text": "She told the court it was a regular occurrence for Mr Dale to leave Kian in the bath, but only \"for a few minutes\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:45:31.882Z",
+        "updated": "2024-02-13T09:45:31.882Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1762.0000243401998,
+            "y": 568
+          }
+        }
+      }
+    },
+    "cee398f0-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0007336950648,
+            "y": 178
+          }
+        }
+      }
+    },
+    "cee398f3-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1512.0008172240855,
+            "y": 178
+          }
+        }
+      }
+    },
+    "cee398f6-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1512.0009167901576,
+            "y": 468
+          }
+        }
+      }
+    },
+    "cee398f9-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1862.0005932596403,
+            "y": 178
+          }
+        }
+      }
+    },
+    "cee398fc-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0004366115527,
+            "y": 468
+          }
+        }
+      }
+    },
+    "cee398ff-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2212.0004082179194,
+            "y": 178
+          }
+        }
+      }
+    },
+    "cee39902-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00012025920907,
+            "y": 468
+          }
+        }
+      }
+    },
+    "cee39905-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.0008755923801,
+            "y": 178
+          }
+        }
+      }
+    },
+    "cee39908-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0001384682412,
+            "y": 468
+          }
+        }
+      }
+    },
+    "cee3990b-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.00000517873394,
+            "y": 468
+          }
+        }
+      }
+    },
+    "cee3990e-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1862.0001018178887,
+            "y": 468
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "cee398f1-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "a0cb84a1-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "cee398f0-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee398f2-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "cee398f0-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "a0cb84a0-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee398f4-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "a0cb84a2-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "cee398f3-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee398f5-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "cee398f3-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "a0cb84a0-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee398f7-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "a0cb84a3-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "cee398f6-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee398fa-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "a0cb84a4-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "cee398f9-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee398fb-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "cee398f9-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "a0cb84a0-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee398fd-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "a0cb84a5-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "cee398fc-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee39900-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "a0cb84a6-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "cee398ff-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee39901-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "cee398ff-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "a0cb84a0-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee39903-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "a0cb84a7-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "cee39902-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee39906-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "a0cb84a8-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "cee39905-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee39907-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "cee39905-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "a0cb84a0-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee39909-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "a0cb84a9-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "cee39908-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee3990a-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "cee39908-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "a0cb84a8-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee3990c-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "a0cb84aa-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "cee3990b-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee3990d-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "cee3990b-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "a0cb84a8-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee3990f-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "a0cb84ab-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "cee3990e-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee39912-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "a0cb84ac-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "cee39911-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "ed2fcae0-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "cee398f6-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "a0cb84a2-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:47:40.046Z",
+        "updated": "2024-02-13T09:47:40.046Z"
+      },
+      "userdata": {}
+    },
+    "03998e10-ca55-11ee-b5b8-bbee0a74ec6f": {
+      "source": "cee398fc-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "a0cb84a1-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:48:17.649Z",
+        "updated": "2024-02-13T09:48:17.649Z"
+      },
+      "userdata": {}
+    },
+    "3bfad7f0-ca55-11ee-b5b8-bbee0a74ec6f": {
+      "source": "cee39902-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "a0cb84a8-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:49:52.239Z",
+        "updated": "2024-02-13T09:49:52.239Z"
+      },
+      "userdata": {}
+    },
+    "62264450-ca55-11ee-b5b8-bbee0a74ec6f": {
+      "source": "cee3990e-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "a0cb84a4-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:50:56.277Z",
+        "updated": "2024-02-13T09:50:56.277Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "3625": {
+      "text": "The mother of a 13-month-old boy who drowned in a bath has told jurors she was \"stupid\" to leave him unsupervised for 15 minutes. Lisa Passey, 28, and her former partner Wayne Dale, 45, left Kian and another two-year-old child alone while the pair entertained a friend. Giving evidence at Worcester Crown Court, Ms Passey said it \"was down to me and Wayne.. it's our fault\". Both deny gross negligence manslaughter. More updates on this and other stories in Hereford and Worcester Breaking down at times while recounting what happened the day Kian died at the couple's home in Kyreside, Tenbury Wells, Ms Passey said: \"I don't want any pity. I was stupid for not going upstairs.\" While Kian was in the bath, the court has heard, Ms Passey was in her garden with a friend drinking coffee and smoking. Mr Dale joined them to also smoke and then \"burn\" a CD for the friend. Kian was later discovered motionless in an overflowing bath by Mr Dale. His death was consistent with drowning, including what was believed to be soap bubbles in his lungs. It was suggested to the court that the two-year-old had turned the taps on while the pair were downstairs. Ms Passey was questioned about giving differing accounts of what happened to doctors, police and social services, including telling a doctor the children had been in a dry, empty bath. \"I was all over the place,\" she told prosecution barrister, Jonas Hankin QC. \"If you'd gone through it yourself, losing a child, you'd realise you're still trying to grieve,\" She told the court it was a regular occurrence for Mr Dale to leave Kian in the bath, but only \"for a few minutes\". The trial continues.",
+      "title": "Mum of drowned boy Kian Dale 'stupid' to leave him alone in bath",
+      "source": "http://www.bbc.co.uk/news/uk-england-hereford-worcester-39436078",
+      "timestamp": "2017-03-29T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.182Z",
+        "updated": "2024-02-09T13:09:16.182Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "6fda64d0-fbda-11ee-88a6-a31b3673e116": {
+      "name": "annotator0",
+      "email": "s4kibart@uni-trier.de",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "a0cb84a0-ca54-11ee-b5b8-bbee0a74ec6f",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.182Z",
+    "updated": "2024-04-16T11:24:55.211Z"
+  },
+  "userdata": {}
+}

@@ -1,0 +1,826 @@
+{
+  "nodes": {
+    "ea0e3780-c41d-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Thailand's prisons fail to meet international standards with inmates routinely shackled, beaten, and stuffed into overcrowded cells",
+        "reference": {
+          "resource": "1594",
+          "offset": 0,
+          "text": "Thailand's prisons fail to meet international standards with inmates routinely shackled, beaten, and stuffed into overcrowded cells"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T11:58:45.496Z",
+        "updated": "2024-02-05T11:58:45.496Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 37.06316581936244,
+            "y": -1.1175071887817296
+          }
+        }
+      }
+    },
+    "f1f0f460-c41d-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Thailand also has the highest incarceration rate in Southeast Asia, jailing 425 out of every 100,000 people",
+        "reference": {
+          "resource": "1594",
+          "offset": 175,
+          "text": "Thailand also has the highest incarceration rate in Southeast Asia, jailing 425 out of every 100,000 people"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T11:58:58.726Z",
+        "updated": "2024-02-05T11:58:58.726Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -443.1112202909069,
+            "y": 507.16862015048025
+          }
+        }
+      }
+    },
+    "f437fe30-c41d-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T11:59:02.547Z",
+        "updated": "2024-02-05T11:59:02.547Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -267.9492953058636,
+            "y": 365.2090396495918
+          }
+        }
+      }
+    },
+    "2d33da60-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "More than 260,000 inmates are incarcerated in 148 prisons with an originally estimated capacity of less than 120,000, with the massive overcrowding forcing inmates to live in harsh conditions",
+        "reference": {
+          "resource": "1594",
+          "offset": 389,
+          "text": "More than 260,000 inmates are incarcerated in 148 prisons with an originally estimated capacity of less than 120,000, the report said, with the massive overcrowding forcing inmates to live in harsh conditions"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:00:38.150Z",
+        "updated": "2024-02-05T12:00:38.150Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -56.364761835979266,
+            "y": 482.27530047527233
+          }
+        }
+      }
+    },
+    "308b42c0-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:00:43.756Z",
+        "updated": "2024-02-05T12:00:43.756Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -36.92908031176057,
+            "y": 363.980649920766
+          }
+        }
+      }
+    },
+    "51382100-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Most prisoners were convicted on drug-related charges, the legacy of a war on drugs launched by former prime minister Thaksin Shinawatra in 2003. Under Thai law, possession of heroin or methamphetamine is punishable by up to 10 years in prison",
+        "reference": {
+          "resource": "1594",
+          "offset": 599,
+          "text": "Most prisoners were convicted on drug-related charges, the legacy of a war on drugs launched by former prime minister Thaksin Shinawatra in 2003. Under Thai law, possession of heroin or methamphetamine is punishable by up to 10 years in prison"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:01:38.576Z",
+        "updated": "2024-02-05T12:01:38.576Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -65.45752260379663,
+            "y": 866.7691843715472
+          }
+        }
+      }
+    },
+    "5a477700-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:01:53.776Z",
+        "updated": "2024-02-05T12:01:53.776Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 43.006123698024226,
+            "y": 710.2438025826922
+          }
+        }
+      }
+    },
+    "6c8829f0-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "The overcrowded conditions are made worse by high turnover among guards, forcing prisons to rely on skeleton staffs",
+        "reference": {
+          "resource": "1594",
+          "offset": 845,
+          "text": "The overcrowded conditions are made worse by high turnover among guards, forcing prisons to rely on skeleton staffs"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:02:24.399Z",
+        "updated": "2024-02-05T12:02:24.399Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 283.63084890658274,
+            "y": 908.4967657283346
+          }
+        }
+      }
+    },
+    "6e25ad50-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:02:27.109Z",
+        "updated": "2024-02-05T12:02:27.109Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 289.43274565214097,
+            "y": 708.3124817868651
+          }
+        }
+      }
+    },
+    "7fd320f0-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "overworked guards would beat them with clubs, throw them in solitary confinement, or keep them chained and shackled for weeks",
+        "reference": {
+          "resource": "1594",
+          "offset": 1058,
+          "text": "overworked guards would beat them with clubs, throw them in solitary confinement, or keep them chained and shackled for weeks"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:02:56.767Z",
+        "updated": "2024-02-05T12:02:56.767Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 301.94057631912597,
+            "y": 1154.0081975688183
+          }
+        }
+      }
+    },
+    "845833e0-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:03:04.350Z",
+        "updated": "2024-02-05T12:03:04.350Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 385.5539988019751,
+            "y": 1065.6665232993794
+          }
+        }
+      }
+    },
+    "a71861c0-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "With too many prisoners, inmates can find themselves stuffed into packed cells with no beds and squat toilets with no enclosures for privacy. At night, they lie pressed against each other on mats on bare linoleum floors",
+        "reference": {
+          "resource": "1594",
+          "offset": 1245,
+          "text": "With too many prisoners, inmates can find themselves stuffed into packed cells with no beds and squat toilets with no enclosures for privacy. At night, they lie pressed against each other on mats on bare linoleum floors"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:04:02.652Z",
+        "updated": "2024-02-05T12:04:02.652Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 655.0585689099726,
+            "y": 923.5837447764861
+          }
+        }
+      }
+    },
+    "a957f180-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:04:06.424Z",
+        "updated": "2024-02-05T12:04:06.424Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 583.6368128262379,
+            "y": 646.0715407680311
+          }
+        }
+      }
+    },
+    "b4b77910-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "The prisons have medical clinics, but at one Bangkok prison inmates say they are treated by \"two-minute doctors\" because they rush through the medical checks",
+        "reference": {
+          "resource": "1594",
+          "offset": 1466,
+          "text": "The prisons have medical clinics, but at one Bangkok prison inmates say they are treated by \"two-minute doctors\" because they rush through the medical checks"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:04:25.505Z",
+        "updated": "2024-02-05T12:04:25.505Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 307.57420588390937,
+            "y": 464.24220566650445
+          }
+        }
+      }
+    },
+    "b6d68880-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:04:29.064Z",
+        "updated": "2024-02-05T12:04:29.064Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 294.1086103472694,
+            "y": 210.1363440035184
+          }
+        }
+      }
+    },
+    "c54042d0-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Inmates work seven days a week, sewing, folding paper, and fixing shoes, earning as little as 23 US cents a day",
+        "reference": {
+          "resource": "1594",
+          "offset": 1625,
+          "text": "Inmates work seven days a week, sewing, folding paper, and fixing shoes, earning as little as 23 US cents a day"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:04:53.245Z",
+        "updated": "2024-02-05T12:04:53.245Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 737.3424605351081,
+            "y": 505.18192866476403
+          }
+        }
+      }
+    },
+    "c917fec0-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:04:59.692Z",
+        "updated": "2024-02-05T12:04:59.692Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0589106377871,
+            "y": 261.9587550711816
+          }
+        }
+      }
+    },
+    "f9ee6fc0-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "country's prison conditions conform with international standards",
+        "reference": {
+          "resource": "1594",
+          "offset": 1811,
+          "text": "country's prison conditions conform with international standards"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:06:21.628Z",
+        "updated": "2024-02-05T12:06:21.628Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1001.1971360981768,
+            "y": 245.46389305873606
+          }
+        }
+      }
+    },
+    "fc590720-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:06:25.683Z",
+        "updated": "2024-02-05T12:06:25.683Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1102.2776021391617,
+            "y": 117.59948743552297
+          }
+        }
+      }
+    },
+    "044d5030-c41f-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Prison conditions violate various UN treaties barring torture and stipulating minimum prisoner rights that Thailand ratified decades ago",
+        "reference": {
+          "resource": "1594",
+          "offset": 1980,
+          "text": "Prison conditions violate various UN treaties barring torture and stipulating minimum prisoner rights that Thailand ratified decades ago"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:06:39.027Z",
+        "updated": "2024-02-05T12:06:39.027Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1090.3843933375308,
+            "y": 529.0336340248873
+          }
+        }
+      }
+    },
+    "08d7ba50-c41f-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:06:46.645Z",
+        "updated": "2024-02-05T12:06:46.645Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1114.3963472096643,
+            "y": 382.67505804235765
+          }
+        }
+      }
+    },
+    "23fa2390-c41f-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "they are working to ease the problems",
+        "reference": {
+          "resource": "1594",
+          "offset": 2199,
+          "text": "they are working to ease the problems"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:07:32.169Z",
+        "updated": "2024-02-05T12:07:32.169Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1380.5633639840548,
+            "y": 178.16097997927653
+          }
+        }
+      }
+    },
+    "29027040-c41f-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:07:40.612Z",
+        "updated": "2024-02-05T12:07:40.612Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1477.195788809991,
+            "y": 47.35838690016078
+          }
+        }
+      }
+    },
+    "32ce5f80-c41f-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "They're in the process of fixing drug laws to have milder punishments and push people towards rehab more, instead of throwing them in prison.\" Thailand amended its regulations on prisons this month",
+        "reference": {
+          "resource": "1594",
+          "offset": 2329,
+          "text": "They're in the process of fixing drug laws to have milder punishments and push people towards rehab more, instead of throwing them in prison.\" Thailand amended its regulations on prisons this month"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:07:57.048Z",
+        "updated": "2024-02-05T12:07:57.048Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1456.7161719066403,
+            "y": 414.6875873772749
+          }
+        }
+      }
+    },
+    "3a2cd130-c41f-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:08:09.411Z",
+        "updated": "2024-02-05T12:08:09.411Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1480.7346691848395,
+            "y": 270.98781811029085
+          }
+        }
+      }
+    },
+    "54e33230-c41f-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "the laws still allow shackling, solitary confinement for more than 15 days, and liability exemptions for prison officials in certain situations",
+        "reference": {
+          "resource": "1594",
+          "offset": 2532,
+          "text": "the laws still allow shackling, solitary confinement for more than 15 days, and liability exemptions for prison officials in certain situations"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:08:54.228Z",
+        "updated": "2024-02-05T12:08:54.228Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1460.2033626210825,
+            "y": 787.8016968693856
+          }
+        }
+      }
+    },
+    "5885fb70-c41f-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:09:00.327Z",
+        "updated": "2024-02-05T12:09:00.327Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1554.2205788139217,
+            "y": 664.0876747030575
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "f437fe31-c41d-11ee-a06c-cb1cbb90ffa4": {
+      "source": "f1f0f460-c41d-11ee-a06c-cb1cbb90ffa4",
+      "target": "f437fe30-c41d-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:59:02.547Z",
+        "updated": "2024-02-05T11:59:02.547Z"
+      },
+      "userdata": {}
+    },
+    "f437fe32-c41d-11ee-a06c-cb1cbb90ffa4": {
+      "source": "f437fe30-c41d-11ee-a06c-cb1cbb90ffa4",
+      "target": "ea0e3780-c41d-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:59:02.547Z",
+        "updated": "2024-02-05T11:59:02.547Z"
+      },
+      "userdata": {}
+    },
+    "0bbf8d71-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "source": "06434940-c41e-11ee-a06c-cb1cbb90ffa4",
+      "target": "0bbf8d70-c41e-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:59:42.023Z",
+        "updated": "2024-02-05T11:59:42.023Z"
+      },
+      "userdata": {}
+    },
+    "0bbf8d72-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "source": "0bbf8d70-c41e-11ee-a06c-cb1cbb90ffa4",
+      "target": "f1f0f460-c41d-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:59:42.023Z",
+        "updated": "2024-02-05T11:59:42.023Z"
+      },
+      "userdata": {}
+    },
+    "308b42c1-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "source": "2d33da60-c41e-11ee-a06c-cb1cbb90ffa4",
+      "target": "308b42c0-c41e-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:00:43.756Z",
+        "updated": "2024-02-05T12:00:43.756Z"
+      },
+      "userdata": {}
+    },
+    "308b42c2-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "source": "308b42c0-c41e-11ee-a06c-cb1cbb90ffa4",
+      "target": "ea0e3780-c41d-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:00:43.756Z",
+        "updated": "2024-02-05T12:00:43.756Z"
+      },
+      "userdata": {}
+    },
+    "5a477701-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "source": "51382100-c41e-11ee-a06c-cb1cbb90ffa4",
+      "target": "5a477700-c41e-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:01:53.776Z",
+        "updated": "2024-02-05T12:01:53.776Z"
+      },
+      "userdata": {}
+    },
+    "5a479e10-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "source": "5a477700-c41e-11ee-a06c-cb1cbb90ffa4",
+      "target": "2d33da60-c41e-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:01:53.777Z",
+        "updated": "2024-02-05T12:01:53.777Z"
+      },
+      "userdata": {}
+    },
+    "6e25ad51-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "source": "6c8829f0-c41e-11ee-a06c-cb1cbb90ffa4",
+      "target": "6e25ad50-c41e-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:02:27.109Z",
+        "updated": "2024-02-05T12:02:27.109Z"
+      },
+      "userdata": {}
+    },
+    "6e25ad52-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "source": "6e25ad50-c41e-11ee-a06c-cb1cbb90ffa4",
+      "target": "2d33da60-c41e-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:02:27.109Z",
+        "updated": "2024-02-05T12:02:27.109Z"
+      },
+      "userdata": {}
+    },
+    "845833e1-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "source": "7fd320f0-c41e-11ee-a06c-cb1cbb90ffa4",
+      "target": "845833e0-c41e-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:03:04.350Z",
+        "updated": "2024-02-05T12:03:04.350Z"
+      },
+      "userdata": {}
+    },
+    "845833e2-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "source": "845833e0-c41e-11ee-a06c-cb1cbb90ffa4",
+      "target": "6c8829f0-c41e-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:03:04.350Z",
+        "updated": "2024-02-05T12:03:04.350Z"
+      },
+      "userdata": {}
+    },
+    "a957f181-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "source": "a71861c0-c41e-11ee-a06c-cb1cbb90ffa4",
+      "target": "a957f180-c41e-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:04:06.424Z",
+        "updated": "2024-02-05T12:04:06.424Z"
+      },
+      "userdata": {}
+    },
+    "a957f182-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "source": "a957f180-c41e-11ee-a06c-cb1cbb90ffa4",
+      "target": "2d33da60-c41e-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:04:06.424Z",
+        "updated": "2024-02-05T12:04:06.424Z"
+      },
+      "userdata": {}
+    },
+    "b6d68881-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "source": "b4b77910-c41e-11ee-a06c-cb1cbb90ffa4",
+      "target": "b6d68880-c41e-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:04:29.064Z",
+        "updated": "2024-02-05T12:04:29.064Z"
+      },
+      "userdata": {}
+    },
+    "b6d68882-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "source": "b6d68880-c41e-11ee-a06c-cb1cbb90ffa4",
+      "target": "ea0e3780-c41d-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:04:29.064Z",
+        "updated": "2024-02-05T12:04:29.064Z"
+      },
+      "userdata": {}
+    },
+    "c91825d0-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "source": "c54042d0-c41e-11ee-a06c-cb1cbb90ffa4",
+      "target": "c917fec0-c41e-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:04:59.693Z",
+        "updated": "2024-02-05T12:04:59.693Z"
+      },
+      "userdata": {}
+    },
+    "c91825d1-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "source": "c917fec0-c41e-11ee-a06c-cb1cbb90ffa4",
+      "target": "ea0e3780-c41d-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:04:59.693Z",
+        "updated": "2024-02-05T12:04:59.693Z"
+      },
+      "userdata": {}
+    },
+    "dab286a1-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "source": "d8d0a740-c41e-11ee-a06c-cb1cbb90ffa4",
+      "target": "dab286a0-c41e-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:05:29.226Z",
+        "updated": "2024-02-05T12:05:29.226Z"
+      },
+      "userdata": {}
+    },
+    "dab286a2-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "source": "dab286a0-c41e-11ee-a06c-cb1cbb90ffa4",
+      "target": "ea0e3780-c41d-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:05:29.226Z",
+        "updated": "2024-02-05T12:05:29.226Z"
+      },
+      "userdata": {}
+    },
+    "fc592e30-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "source": "f9ee6fc0-c41e-11ee-a06c-cb1cbb90ffa4",
+      "target": "fc590720-c41e-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:06:25.683Z",
+        "updated": "2024-02-05T12:06:25.683Z"
+      },
+      "userdata": {}
+    },
+    "fc592e31-c41e-11ee-a06c-cb1cbb90ffa4": {
+      "source": "fc590720-c41e-11ee-a06c-cb1cbb90ffa4",
+      "target": "ea0e3780-c41d-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:06:25.683Z",
+        "updated": "2024-02-05T12:06:25.683Z"
+      },
+      "userdata": {}
+    },
+    "08d7ba51-c41f-11ee-a06c-cb1cbb90ffa4": {
+      "source": "044d5030-c41f-11ee-a06c-cb1cbb90ffa4",
+      "target": "08d7ba50-c41f-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:06:46.645Z",
+        "updated": "2024-02-05T12:06:46.645Z"
+      },
+      "userdata": {}
+    },
+    "08d7ba52-c41f-11ee-a06c-cb1cbb90ffa4": {
+      "source": "08d7ba50-c41f-11ee-a06c-cb1cbb90ffa4",
+      "target": "f9ee6fc0-c41e-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:06:46.645Z",
+        "updated": "2024-02-05T12:06:46.645Z"
+      },
+      "userdata": {}
+    },
+    "29027041-c41f-11ee-a06c-cb1cbb90ffa4": {
+      "source": "23fa2390-c41f-11ee-a06c-cb1cbb90ffa4",
+      "target": "29027040-c41f-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:07:40.612Z",
+        "updated": "2024-02-05T12:07:40.612Z"
+      },
+      "userdata": {}
+    },
+    "29027042-c41f-11ee-a06c-cb1cbb90ffa4": {
+      "source": "29027040-c41f-11ee-a06c-cb1cbb90ffa4",
+      "target": "ea0e3780-c41d-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:07:40.612Z",
+        "updated": "2024-02-05T12:07:40.612Z"
+      },
+      "userdata": {}
+    },
+    "3a2cd131-c41f-11ee-a06c-cb1cbb90ffa4": {
+      "source": "32ce5f80-c41f-11ee-a06c-cb1cbb90ffa4",
+      "target": "3a2cd130-c41f-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:08:09.411Z",
+        "updated": "2024-02-05T12:08:09.411Z"
+      },
+      "userdata": {}
+    },
+    "3a2cd132-c41f-11ee-a06c-cb1cbb90ffa4": {
+      "source": "3a2cd130-c41f-11ee-a06c-cb1cbb90ffa4",
+      "target": "23fa2390-c41f-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:08:09.411Z",
+        "updated": "2024-02-05T12:08:09.411Z"
+      },
+      "userdata": {}
+    },
+    "5885fb71-c41f-11ee-a06c-cb1cbb90ffa4": {
+      "source": "54e33230-c41f-11ee-a06c-cb1cbb90ffa4",
+      "target": "5885fb70-c41f-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:09:00.327Z",
+        "updated": "2024-02-05T12:09:00.327Z"
+      },
+      "userdata": {}
+    },
+    "5885fb72-c41f-11ee-a06c-cb1cbb90ffa4": {
+      "source": "5885fb70-c41f-11ee-a06c-cb1cbb90ffa4",
+      "target": "32ce5f80-c41f-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:09:00.327Z",
+        "updated": "2024-02-05T12:09:00.327Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "1594": {
+      "text": "Thailand's prisons fail to meet international standards with inmates routinely shackled, beaten, and stuffed into overcrowded cells, an international human rights group said. Thailand also has the highest incarceration rate in Southeast Asia, jailing 425 out of every 100,000 people, according to the report by the International Federation for Human Rights, which was released on Tuesday. More than 260,000 inmates are incarcerated in 148 prisons with an originally estimated capacity of less than 120,000, the report said, with the massive overcrowding forcing inmates to live in harsh conditions. Most prisoners were convicted on drug-related charges, the legacy of a war on drugs launched by former prime minister Thaksin Shinawatra in 2003. Under Thai law, possession of heroin or methamphetamine is punishable by up to 10 years in prison.  The overcrowded conditions are made worse by high turnover among guards, forcing prisons to rely on skeleton staffs, said the Paris-based human rights group. Prisoners told interviewers from the rights group that overworked guards would beat them with clubs, throw them in solitary confinement, or keep them chained and shackled for weeks, despite government initiatives in 2013 to end the practice. With too many prisoners, inmates can find themselves stuffed into packed cells with no beds and squat toilets with no enclosures for privacy. At night, they lie pressed against each other on mats on bare linoleum floors. The prisons have medical clinics, but at one Bangkok prison inmates say they are treated by \"two-minute doctors\" because they rush through the medical checks. Inmates work seven days a week, sewing, folding paper, and fixing shoes, earning as little as 23 US cents a day, according to the report. \"The claim made by the Thai government that the country's prison conditions conform with international standards is ludicrous,\" said Dimitris Christopoulos, president of the International Federation for Human Rights. Prison conditions violate various UN treaties barring torture and stipulating minimum prisoner rights that Thailand ratified decades ago, the group said. Government agencies involved in justice and narcotics issues say they are working to ease the problems. \"We're trying to fix it,\" said Kobkiat Kasiwiwat, director of the Corrections Department. \"They're in the process of fixing drug laws to have milder punishments and push people towards rehab more, instead of throwing them in prison.\" Thailand amended its regulations on prisons this month, but the laws still allow shackling, solitary confinement for more than 15 days, and liability exemptions for prison officials in certain situations - all breaches of international standards, the report said.  Source:-AP news agency",
+      "title": "Thai prisons violate human rights, report says",
+      "source": "http://www.aljazeera.com/news/2017/02/thai-prisons-violate-human-rights-report-170228063213721.html",
+      "timestamp": "2024-02-05T11:58:30.764Z",
+      "metadata": {
+        "created": "2024-02-05T09:49:22.021Z",
+        "updated": "2024-02-05T09:49:22.021Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "ea0e3780-c41d-11ee-a06c-cb1cbb90ffa4",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-05T09:49:22.021Z",
+    "updated": "2024-02-05T12:09:27.736Z"
+  }
+}

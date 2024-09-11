@@ -1,0 +1,580 @@
+{
+  "nodes": {
+    "95e58711-c8d9-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": " growth in pensioner incomes has been coupled with weak income growth for working-age people",
+        "reference": {
+          "resource": "1012",
+          "offset": 260,
+          "text": "growth in pensioner incomes has been coupled with weak income growth for working-age people"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:32:14.337Z",
+        "updated": "2024-02-11T12:32:14.337Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0008698155241,
+            "y": 640
+          }
+        }
+      }
+    },
+    "95e58713-c8d9-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "This strong growth is not the result of a boom time for all pensioners, with most finding that their personal situation changes little from year to year",
+        "reference": {
+          "resource": "1012",
+          "offset": 544,
+          "text": "This strong growth is not the result of a boom time for all pensioners, with most finding that their personal situation changes little from year to year"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:32:14.337Z",
+        "updated": "2024-02-11T12:32:14.337Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.00056004424687,
+            "y": 640
+          }
+        }
+      }
+    },
+    "95e58715-c8d9-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "The main driver of pensioner income growth has been the arrival of successive new waves of pensioners, who are more likely to work, own their home and have generous private pension wealth than any previous generation",
+        "reference": {
+          "resource": "1012",
+          "offset": 955,
+          "text": "The main driver of pensioner income growth has been the arrival of successive new waves of pensioners, who are more likely to work, own their home and have generous private pension wealth than any previous generation"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:32:14.337Z",
+        "updated": "2024-02-11T12:32:14.337Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000092284474196,
+            "y": 640
+          }
+        }
+      }
+    },
+    "95e58718-c8d9-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "The report identifies four key drivers of growth in typical pensioner incomes since the 2000s: the possession of occupational pensions, a growth in the numbers in employment, increased state benefits, and a move towards home ownership from renting",
+        "reference": {
+          "resource": "1012",
+          "text": "The report identifies four key drivers of growth in typical pensioner incomes since the 2000s: the possession of occupational pensions, a growth in the numbers in employment, increased state benefits, and a move towards home ownership from renting"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:32:14.337Z",
+        "updated": "2024-02-11T12:32:14.337Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0001937229303,
+            "y": 278
+          }
+        }
+      }
+    },
+    "95e58719-c8d9-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "The triple-lock guarantees pensions rise by the same as average earnings, the consumer price index, or 2.5%, whichever is the highest",
+        "reference": {
+          "resource": "1012",
+          "offset": 2180,
+          "text": "The triple-lock guarantees pensions rise by the same as average earnings, the consumer price index, or 2.5%, whichever is the highest"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:32:14.337Z",
+        "updated": "2024-02-11T12:32:14.337Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.000314097846,
+            "y": 640
+          }
+        }
+      }
+    },
+    "95e5871a-c8d9-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "The triple-lock is a very powerful ratchet pushing up pensions at a time when incomes of the less affluent half of working households are barely rising at all",
+        "reference": {
+          "resource": "1012",
+          "text": "The triple-lock is a very powerful ratchet pushing up pensions at a time when incomes of the less affluent half of working households are barely rising at all"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:32:14.337Z",
+        "updated": "2024-02-11T12:32:14.337Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.0007798481695,
+            "y": 314
+          }
+        }
+      }
+    },
+    "95e5871b-c8d9-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Pensioners worry about their kids and grandchildren living in a society where all the big increases in incomes are accruing to pensioners and other groups are being left behind",
+        "reference": {
+          "resource": "1012",
+          "text": "Pensioners worry about their kids and grandchildren living in a society where all the big increases in incomes are accruing to pensioners and other groups are being left behind"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:32:14.337Z",
+        "updated": "2024-02-11T12:32:14.337Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1412.0001483603269,
+            "y": 314
+          }
+        }
+      }
+    },
+    "95e5871c-c8d9-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "The government needed to look at ways of improving younger people's \"pension rights\" and chances of owning their own homes",
+        "reference": {
+          "resource": "1012",
+          "offset": 2840,
+          "text": "The government needed to look at ways of improving younger people's \"pension rights\" and chances of owning their own homes"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:32:14.337Z",
+        "updated": "2024-02-11T12:32:14.337Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.0002176848327,
+            "y": 12
+          }
+        }
+      }
+    },
+    "3b486516-c8da-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:36:51.809Z",
+        "updated": "2024-02-11T12:36:51.809Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0009371177593,
+            "y": 540
+          }
+        }
+      }
+    },
+    "3b486519-c8da-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:36:51.809Z",
+        "updated": "2024-02-11T12:36:51.809Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.0003748527232,
+            "y": 540
+          }
+        }
+      }
+    },
+    "3b48651f-c8da-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:36:51.809Z",
+        "updated": "2024-02-11T12:36:51.809Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.0009113435693,
+            "y": 540
+          }
+        }
+      }
+    },
+    "3b488c24-c8da-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:36:51.810Z",
+        "updated": "2024-02-11T12:36:51.810Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.000106028857,
+            "y": 540
+          }
+        }
+      }
+    },
+    "3b488c27-c8da-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:36:51.810Z",
+        "updated": "2024-02-11T12:36:51.810Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1512.0001512787333,
+            "y": 178
+          }
+        }
+      }
+    },
+    "6b11abd0-c8da-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:38:11.981Z",
+        "updated": "2024-02-11T12:38:11.981Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0005847480256,
+            "y": 178
+          }
+        }
+      }
+    },
+    "74a7e510-c8da-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:38:28.065Z",
+        "updated": "2024-02-11T12:38:28.065Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.0004484134329,
+            "y": 178
+          }
+        }
+      }
+    },
+    "28bf0ab0-fafe-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "We can't assume either that young people today will be able to draw upon the kind of wealth that recent pensioners have accumulated",
+        "reference": {
+          "text": "We can't assume either that young people today will be able to draw upon the kind of wealth that recent pensioners have accumulated"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T08:00:00.731Z",
+        "updated": "2024-04-15T08:00:00.731Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1412.0009951019367,
+            "y": 676
+          }
+        }
+      }
+    },
+    "2aff36b0-fafe-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T08:00:04.507Z",
+        "updated": "2024-04-15T08:00:04.507Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1512.0000486224392,
+            "y": 540
+          }
+        }
+      }
+    },
+    "363b30b0-fafe-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "recent fall in home ownership and decline in generous defined benefit schemes",
+        "reference": {
+          "text": "recent fall in home ownership and decline in generous defined benefit schemes"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T08:00:23.355Z",
+        "updated": "2024-04-15T08:00:23.355Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1412.0008616274756,
+            "y": 978
+          }
+        }
+      }
+    },
+    "38909260-fafe-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T08:00:27.270Z",
+        "updated": "2024-04-15T08:00:27.270Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1512.000444224872,
+            "y": 878
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "3b486514-c8da-11ee-a7b6-0184e7d3dd10": {
+      "source": "95e58710-c8d9-11ee-a7b6-0184e7d3dd10",
+      "target": "3b486513-c8da-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:36:51.809Z",
+        "updated": "2024-02-11T12:36:51.809Z"
+      },
+      "userdata": {}
+    },
+    "3b486515-c8da-11ee-a7b6-0184e7d3dd10": {
+      "source": "3b486513-c8da-11ee-a7b6-0184e7d3dd10",
+      "target": "95e5871c-c8d9-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:36:51.809Z",
+        "updated": "2024-02-11T12:36:51.809Z"
+      },
+      "userdata": {}
+    },
+    "3b486517-c8da-11ee-a7b6-0184e7d3dd10": {
+      "source": "95e58711-c8d9-11ee-a7b6-0184e7d3dd10",
+      "target": "3b486516-c8da-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:36:51.809Z",
+        "updated": "2024-02-11T12:36:51.809Z"
+      },
+      "userdata": {}
+    },
+    "3b486518-c8da-11ee-a7b6-0184e7d3dd10": {
+      "source": "3b486516-c8da-11ee-a7b6-0184e7d3dd10",
+      "target": "95e58718-c8d9-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:36:51.809Z",
+        "updated": "2024-02-11T12:36:51.809Z"
+      },
+      "userdata": {}
+    },
+    "3b48651a-c8da-11ee-a7b6-0184e7d3dd10": {
+      "source": "95e58713-c8d9-11ee-a7b6-0184e7d3dd10",
+      "target": "3b486519-c8da-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:36:51.809Z",
+        "updated": "2024-02-11T12:36:51.809Z"
+      },
+      "userdata": {}
+    },
+    "3b48651b-c8da-11ee-a7b6-0184e7d3dd10": {
+      "source": "3b486519-c8da-11ee-a7b6-0184e7d3dd10",
+      "target": "95e58718-c8d9-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:36:51.809Z",
+        "updated": "2024-02-11T12:36:51.809Z"
+      },
+      "userdata": {}
+    },
+    "3b486520-c8da-11ee-a7b6-0184e7d3dd10": {
+      "source": "95e58715-c8d9-11ee-a7b6-0184e7d3dd10",
+      "target": "3b48651f-c8da-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:36:51.810Z",
+        "updated": "2024-02-11T12:36:51.810Z"
+      },
+      "userdata": {}
+    },
+    "3b488c20-c8da-11ee-a7b6-0184e7d3dd10": {
+      "source": "3b48651f-c8da-11ee-a7b6-0184e7d3dd10",
+      "target": "95e58718-c8d9-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:36:51.810Z",
+        "updated": "2024-02-11T12:36:51.810Z"
+      },
+      "userdata": {}
+    },
+    "3b488c25-c8da-11ee-a7b6-0184e7d3dd10": {
+      "source": "95e58719-c8d9-11ee-a7b6-0184e7d3dd10",
+      "target": "3b488c24-c8da-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:36:51.810Z",
+        "updated": "2024-02-11T12:36:51.810Z"
+      },
+      "userdata": {}
+    },
+    "3b488c26-c8da-11ee-a7b6-0184e7d3dd10": {
+      "source": "3b488c24-c8da-11ee-a7b6-0184e7d3dd10",
+      "target": "95e5871a-c8d9-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:36:51.810Z",
+        "updated": "2024-02-11T12:36:51.810Z"
+      },
+      "userdata": {}
+    },
+    "3b488c28-c8da-11ee-a7b6-0184e7d3dd10": {
+      "source": "95e5871b-c8d9-11ee-a7b6-0184e7d3dd10",
+      "target": "3b488c27-c8da-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:36:51.810Z",
+        "updated": "2024-02-11T12:36:51.810Z"
+      },
+      "userdata": {}
+    },
+    "3b488c29-c8da-11ee-a7b6-0184e7d3dd10": {
+      "source": "3b488c27-c8da-11ee-a7b6-0184e7d3dd10",
+      "target": "95e5871c-c8d9-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:36:51.810Z",
+        "updated": "2024-02-11T12:36:51.810Z"
+      },
+      "userdata": {}
+    },
+    "6b11abd1-c8da-11ee-a7b6-0184e7d3dd10": {
+      "source": "95e5871a-c8d9-11ee-a7b6-0184e7d3dd10",
+      "target": "6b11abd0-c8da-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:38:11.981Z",
+        "updated": "2024-02-11T12:38:11.981Z"
+      },
+      "userdata": {}
+    },
+    "6b11abd2-c8da-11ee-a7b6-0184e7d3dd10": {
+      "source": "6b11abd0-c8da-11ee-a7b6-0184e7d3dd10",
+      "target": "95e5871c-c8d9-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:38:11.981Z",
+        "updated": "2024-02-11T12:38:11.981Z"
+      },
+      "userdata": {}
+    },
+    "74a7e511-c8da-11ee-a7b6-0184e7d3dd10": {
+      "source": "95e58718-c8d9-11ee-a7b6-0184e7d3dd10",
+      "target": "74a7e510-c8da-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:38:28.065Z",
+        "updated": "2024-02-11T12:38:28.065Z"
+      },
+      "userdata": {}
+    },
+    "74a7e512-c8da-11ee-a7b6-0184e7d3dd10": {
+      "source": "74a7e510-c8da-11ee-a7b6-0184e7d3dd10",
+      "target": "95e5871c-c8d9-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:38:28.065Z",
+        "updated": "2024-02-11T12:38:28.065Z"
+      },
+      "userdata": {}
+    },
+    "2aff36b1-fafe-11ee-aa26-a11ecda1a83c": {
+      "source": "28bf0ab0-fafe-11ee-aa26-a11ecda1a83c",
+      "target": "2aff36b0-fafe-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T08:00:04.507Z",
+        "updated": "2024-04-15T08:00:04.507Z"
+      },
+      "userdata": {}
+    },
+    "2aff36b2-fafe-11ee-aa26-a11ecda1a83c": {
+      "source": "2aff36b0-fafe-11ee-aa26-a11ecda1a83c",
+      "target": "95e5871b-c8d9-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-04-15T08:00:04.507Z",
+        "updated": "2024-04-15T08:00:04.507Z"
+      },
+      "userdata": {}
+    },
+    "38909261-fafe-11ee-aa26-a11ecda1a83c": {
+      "source": "363b30b0-fafe-11ee-aa26-a11ecda1a83c",
+      "target": "38909260-fafe-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T08:00:27.270Z",
+        "updated": "2024-04-15T08:00:27.270Z"
+      },
+      "userdata": {}
+    },
+    "38909262-fafe-11ee-aa26-a11ecda1a83c": {
+      "source": "38909260-fafe-11ee-aa26-a11ecda1a83c",
+      "target": "28bf0ab0-fafe-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T08:00:27.270Z",
+        "updated": "2024-04-15T08:00:27.270Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "1012": {
+      "text": "Typical pensioner incomes after housing costs now outstrip those of working-age people, a new report suggests. The Resolution Foundation also says pensioners are more likely than their predecessors to be working, own a home and have generous private pensions. The think tank says growth in pensioner incomes has been coupled with weak income growth for working-age people. Pensioner households are now ?20 a week better off than working age households, but were ?70 a week worse off in 2001. However, the report, called As Time Goes By, adds: \"This strong growth is not the result of a boom time for all pensioners, with most finding that their personal situation changes little from year to year. \" It says while typical incomes across the pensioner population have grown by more than 30% since 2001, the typical income of someone who turned 65 in that year was only 7% higher by 2014. Adam Corlett, Economic Analyst at the Resolution Foundation, said: \"The main driver of pensioner income growth has been the arrival of successive new waves of pensioners, who are more likely to work, own their home and have generous private pension wealth than any previous generation. \"Of course, not all pensioners can draw on these income sources, which is why the state pension will always be the main income for many pensioners. \"We can't assume either that young people today will be able to draw upon the kind of wealth that recent pensioners have accumulated, given the recent fall in home ownership and decline in generous defined benefit schemes.\" The report identifies four key drivers of growth in typical pensioner incomes since the 2000s. These are: the possession of occupational pensions, a growth in the numbers in employment, increased state benefits, and a move towards home ownership from renting. But the Resolution Foundation warns that future generations of pensioners cannot assume that they will benefit from further gains from these income sources. Other findings include: Lord David Willetts - an executive chair of the Resolution Foundation and former Conservative minister - said that the \"triple-lock\" pension policy of successive governments should be reviewed. The triple-lock guarantees pensions rise by the same as average earnings, the consumer price index, or 2.5%, whichever is the highest. \"Of course there has to be some kind of framework for increasing the state pension,\" he told BBC Radio 4's Today Programme. \"But the [triple-lock] is a very powerful ratchet pushing up pensions at a time when incomes of the less affluent half of working households are barely rising at all.\" He added: \"I actually think pensioners worry about their kids and grandchildren. They don't want to live in a society where all the big increases in incomes are accruing to pensioners and other groups are being left behind.\" He said the government needed to look at ways of improving younger people's \"pension rights\" and chances of owning their own homes. \"These are all things that have enabled today's pensioners to be so prosperous,\" he said. Are you seeing a gap in earnings in your family? Are your parents comfortable on a pension or are your children struggling with money worries? Let us know about your experiences. Email haveyoursay@bbc.co.uk with your stories. Please include a contact number if you are willing to speak to a BBC journalist. You can also contact us in the following ways: WhatsApp: +44 7555 173285 Tweet: @BBC_HaveYourSay Send an SMS or MMS to 61124",
+      "title": "Pensioner incomes 'outstrip those of working families'",
+      "source": "http://www.bbc.co.uk/news/business-38948369",
+      "timestamp": "2017-02-13T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.226Z",
+        "updated": "2024-02-09T13:09:16.226Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "2c603380-c41a-11ee-a06c-cb1cbb90ffa4": {
+      "name": "annotator0",
+      "email": "s4kibart@uni-trier.de",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "95e5871c-c8d9-11ee-a7b6-0184e7d3dd10",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.225Z",
+    "updated": "2024-04-15T08:05:21.368Z"
+  },
+  "userdata": {}
+}

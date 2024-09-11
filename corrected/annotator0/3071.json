@@ -1,0 +1,1301 @@
+{
+  "nodes": {
+    "74237bb0-c9ff-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "Brexit-was the first significant victory in foreign policy for the radical right \"?and it clearly has inspired Marine Le Pen, Geert Wilders and others",
+        "reference": {
+          "resource": "3071",
+          "offset": 578,
+          "text": "Brexit-was the first significant victory in foreign policy for the radical right \"?and it clearly has inspired Marine Le Pen, Geert Wilders and others"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:35:49.739Z",
+        "updated": "2024-02-12T23:35:49.739Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2142.0001744673114,
+            "y": 12
+          }
+        }
+      }
+    },
+    "81814440-c9ff-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "Britain voted \"Leave\"",
+        "reference": {
+          "resource": "3071",
+          "offset": 170,
+          "text": "Britain voted \"Leave\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:36:12.164Z",
+        "updated": "2024-02-12T23:36:12.164Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2208.000622234122,
+            "y": 278
+          }
+        }
+      }
+    },
+    "83370a90-c9ff-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:36:15.033Z",
+        "updated": "2024-02-12T23:36:15.033Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2242.00033179636,
+            "y": 178
+          }
+        }
+      }
+    },
+    "92adef20-c9ff-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": " It was the culmination of four months of bitter campaigning that exposed deep rifts in British society, and in the continent too.",
+        "reference": {
+          "resource": "3071",
+          "offset": 446,
+          "text": " It was the culmination of four months of bitter campaigning that exposed deep rifts in British society, and in the continent too."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:36:40.978Z",
+        "updated": "2024-02-12T23:36:40.978Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2142.00036135295,
+            "y": 478
+          }
+        }
+      }
+    },
+    "94fb3a80-c9ff-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:36:44.840Z",
+        "updated": "2024-02-12T23:36:44.840Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2242.000128390447,
+            "y": 378
+          }
+        }
+      }
+    },
+    "d2859f80-c9ff-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "The capital, London, voted to stay a part of the EU; however, parts of the rest of southern England, along with Wales, voted to leave. In the north, cities voted to remain while rural areas wanted out",
+        "reference": {
+          "resource": "3071",
+          "offset": 1244,
+          "text": "The capital, London, voted to stay a part of the EU; however, parts of the rest of southern England, along with Wales, voted to leave. In the north, cities voted to remain while rural areas wanted out"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:38:28.088Z",
+        "updated": "2024-02-12T23:38:28.088Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0000131011281,
+            "y": 744
+          }
+        }
+      }
+    },
+    "d4e4c530-c9ff-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:38:32.067Z",
+        "updated": "2024-02-12T23:38:32.067Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.00078072813716,
+            "y": 644
+          }
+        }
+      }
+    },
+    "db85da50-c9ff-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "across the country, the young voted overwhelmingly to remain, while the over-65s voted to break away",
+        "reference": {
+          "resource": "3071",
+          "offset": 1450,
+          "text": "across the country, the young voted overwhelmingly to remain, while the over-65s voted to break away"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:38:43.189Z",
+        "updated": "2024-02-12T23:38:43.189Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.000961168444,
+            "y": 744
+          }
+        }
+      }
+    },
+    "dfbf3e40-c9ff-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:38:50.276Z",
+        "updated": "2024-02-12T23:38:50.276Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.000822529611,
+            "y": 644
+          }
+        }
+      }
+    },
+    "051c8530-ca00-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "Jo Cox, a 41-year-old British Member of Parliament and pro-EU campaigner, was stabbed to death",
+        "reference": {
+          "resource": "3071",
+          "offset": 1605,
+          "text": "Jo Cox, a 41-year-old British Member of Parliament and pro-EU campaigner, was stabbed to death"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:39:52.963Z",
+        "updated": "2024-02-12T23:39:52.963Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.0002900331476,
+            "y": 816
+          }
+        }
+      }
+    },
+    "08b51540-ca00-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:39:58.996Z",
+        "updated": "2024-02-12T23:39:58.996Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0009078724272,
+            "y": 644
+          }
+        }
+      }
+    },
+    "13e80e90-ca00-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "During the fatal knife and gun attack the executor was heard to be shouting: \"Britain first, this is for Britain.\" ",
+        "reference": {
+          "resource": "3071",
+          "offset": 1809,
+          "text": "During the fatal knife and gun attack the executor was heard to be shouting: \"Britain first, this is for Britain.\" "
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:40:17.785Z",
+        "updated": "2024-02-12T23:40:17.785Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1412.0004723042452,
+            "y": 1082
+          }
+        }
+      }
+    },
+    "17b913c0-ca00-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:40:24.188Z",
+        "updated": "2024-02-12T23:40:24.188Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1512.0006719026276,
+            "y": 982
+          }
+        }
+      }
+    },
+    "2690f930-ca00-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "This was the first assassination of an MP in the UK in 25 years",
+        "reference": {
+          "resource": "3071",
+          "offset": 2276,
+          "text": "This was the first assassination of an MP in the UK in 25 years"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:40:49.091Z",
+        "updated": "2024-02-12T23:40:49.091Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.0001219589578,
+            "y": 1082
+          }
+        }
+      }
+    },
+    "2a236ec0-ca00-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:40:55.084Z",
+        "updated": "2024-02-12T23:40:55.084Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0001984092335,
+            "y": 982
+          }
+        }
+      }
+    },
+    "409a0330-ca00-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "\"The perpetrator of the attack argued that the white race is quickly becoming extinct. This is a common idea that runs through the European far-right,\" ",
+        "reference": {
+          "resource": "3071",
+          "offset": 2341,
+          "text": "\"The perpetrator of the attack argued that the white race is quickly becoming extinct. This is a common idea that runs through the European far-right,\" "
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:41:32.771Z",
+        "updated": "2024-02-12T23:41:32.771Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.000936014984,
+            "y": 1082
+          }
+        }
+      }
+    },
+    "43459b30-ca00-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:41:37.251Z",
+        "updated": "2024-02-12T23:41:37.251Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0005790967017,
+            "y": 982
+          }
+        }
+      }
+    },
+    "5121e290-ca00-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "Britain's vote to exit the EU was aided by a populist, anti-establishment xenophobia now coursing through the continent",
+        "reference": {
+          "resource": "3071",
+          "offset": 2598,
+          "text": "Britain's vote to exit the EU was aided by a populist, anti-establishment xenophobia now coursing through the continent"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:42:00.505Z",
+        "updated": "2024-02-12T23:42:00.505Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2142.0009372245445,
+            "y": 801.6
+          }
+        }
+      }
+    },
+    "537d85d0-ca00-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:42:04.461Z",
+        "updated": "2024-02-12T23:42:04.461Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2242.00061795945,
+            "y": 644
+          }
+        }
+      }
+    },
+    "5fb25ec0-ca00-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "Angela Merkel's Christian Democrats were beaten into third place by the far-right AfD party in local elections, while Germany endured a year of violent attacks that spotlighted its refugee policy",
+        "reference": {
+          "resource": "3071",
+          "offset": 2737,
+          "text": "Angela Merkel's Christian Democrats were beaten into third place by the far-right AfD party in local elections, while Germany endured a year of violent attacks that spotlighted its refugee policy"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:42:24.940Z",
+        "updated": "2024-02-12T23:42:24.940Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2112.0006305631937,
+            "y": 1082
+          }
+        }
+      }
+    },
+    "623957c0-ca00-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:42:29.180Z",
+        "updated": "2024-02-12T23:42:29.180Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2212.000677358245,
+            "y": 982
+          }
+        }
+      }
+    },
+    "68fe6fa0-ca00-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "France's Front National leader Marine Le Pen made significant gains in presidential election polls",
+        "reference": {
+          "resource": "3071",
+          "offset": 2934,
+          "text": "France's Front National leader Marine Le Pen made significant gains in presidential election polls"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:42:40.538Z",
+        "updated": "2024-02-12T23:42:40.538Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2462.0004914840033,
+            "y": 1082
+          }
+        }
+      }
+    },
+    "6bf827a0-ca00-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:42:45.531Z",
+        "updated": "2024-02-12T23:42:45.531Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2562.000977571708,
+            "y": 982
+          }
+        }
+      }
+    },
+    "7c74bc60-ca00-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "Austria came close to electing a far-right head of state",
+        "reference": {
+          "resource": "3071",
+          "offset": 3034,
+          "text": "Austria came close to electing a far-right head of state"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:43:13.190Z",
+        "updated": "2024-02-12T23:43:13.190Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2812.0007886401413,
+            "y": 1082
+          }
+        }
+      }
+    },
+    "7f18da50-ca00-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:43:17.621Z",
+        "updated": "2024-02-12T23:43:17.621Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2912.0004561689107,
+            "y": 982
+          }
+        }
+      }
+    },
+    "84eefe50-ca00-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "Italy rejected constitutional reforms for not being radical enough",
+        "reference": {
+          "resource": "3071",
+          "offset": 3095,
+          "text": "Italy rejected constitutional reforms for not being radical enough"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:43:27.413Z",
+        "updated": "2024-02-12T23:43:27.413Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1762.0006691013896,
+            "y": 1082
+          }
+        }
+      }
+    },
+    "88b52e10-ca00-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:43:33.745Z",
+        "updated": "2024-02-12T23:43:33.745Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1862.0005104247095,
+            "y": 982
+          }
+        }
+      }
+    },
+    "98b9d3b0-ca00-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "UK- Hate crime 'at record levels' after Brexit vote",
+        "reference": {
+          "resource": "3071",
+          "offset": 3224,
+          "text": "UK- Hate crime 'at record levels' after Brexit vote"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:44:00.619Z",
+        "updated": "2024-02-12T23:44:00.619Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2492.000603476505,
+            "y": 744
+          }
+        }
+      }
+    },
+    "9bd23740-ca00-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:44:05.812Z",
+        "updated": "2024-02-12T23:44:05.812Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2592.000391961951,
+            "y": 644
+          }
+        }
+      }
+    },
+    "b5bf7be0-ca00-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "Populist, anti-immigration parties are on the rise as high unemployment and austerity, the arrival of record numbers of refugees, and violent attacks deepen voter disillusionment with traditional parties",
+        "reference": {
+          "resource": "3071",
+          "offset": 3581,
+          "text": "Populist, anti-immigration parties are on the rise as high unemployment and austerity, the arrival of record numbers of refugees, and violent attacks deepen voter disillusionment with traditional parties"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:44:49.310Z",
+        "updated": "2024-02-12T23:44:49.310Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2842.0007367067683,
+            "y": 744
+          }
+        }
+      }
+    },
+    "b8ad9b20-ca00-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:44:54.226Z",
+        "updated": "2024-02-12T23:44:54.226Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2942.0000060159873,
+            "y": 644
+          }
+        }
+      }
+    },
+    "c06cca70-ca00-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "These are very dangerous moments for Europe",
+        "reference": {
+          "resource": "3071",
+          "offset": 3787,
+          "text": "These are very dangerous moments for Europe"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:45:07.223Z",
+        "updated": "2024-02-12T23:45:07.223Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 3512.0009792625997,
+            "y": 834
+          }
+        }
+      }
+    },
+    "c966eac0-ca00-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:45:22.284Z",
+        "updated": "2024-02-12T23:45:22.284Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 3612.000265351035,
+            "y": 644
+          }
+        }
+      }
+    },
+    "d3edeca0-ca00-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "We see the rise of so-called populist movements, not just across Europe but in the US and elsewhere",
+        "reference": {
+          "resource": "3071",
+          "offset": 3999,
+          "text": "We see the rise of so-called populist movements, not just across Europe but in the US and elsewhere"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:45:39.946Z",
+        "updated": "2024-02-12T23:45:39.946Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 3862.0001852215546,
+            "y": 1082
+          }
+        }
+      }
+    },
+    "d61e6130-ca00-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:45:43.619Z",
+        "updated": "2024-02-12T23:45:43.619Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 3962.000729135365,
+            "y": 982
+          }
+        }
+      }
+    },
+    "dfab4ba0-ca00-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "\"The catastrophe of World War II was what brought about the integration of Europe and it was an imperfect process but if it's abandoned altogether, then what will the consequences of that be?\"",
+        "reference": {
+          "resource": "3071",
+          "offset": 4081,
+          "text": "\"The catastrophe of World War II was what brought about the integration of Europe and it was an imperfect process but if it's abandoned altogether, then what will the consequences of that be?\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:45:59.642Z",
+        "updated": "2024-02-12T23:45:59.642Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 3512.000552698348,
+            "y": 1082
+          }
+        }
+      }
+    },
+    "e2f630e0-ca00-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:46:05.166Z",
+        "updated": "2024-02-12T23:46:05.166Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 3612.0000615711724,
+            "y": 982
+          }
+        }
+      }
+    },
+    "f1844930-fb2e-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "After the results were announced, Prime Minister David Cameron submitted his resignation, heeding calls by his rivals that his position was untenable after having failed to convince Britons to remain in the union with Europe",
+        "reference": {
+          "text": "After the results were announced, Prime Minister David Cameron submitted his resignation, heeding calls by his rivals that his position was untenable after having failed to convince Britons to remain in the union with Europe"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T13:49:13.411Z",
+        "updated": "2024-04-15T13:49:13.411Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 3862.0008260159993,
+            "y": 744
+          }
+        }
+      }
+    },
+    "f3662890-fb2e-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T13:49:16.569Z",
+        "updated": "2024-04-15T13:49:16.569Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 3962.0004445276936,
+            "y": 644
+          }
+        }
+      }
+    },
+    "3b65dc30-fb2f-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "In the north, cities voted to remain while rural areas wanted out",
+        "reference": {
+          "text": "In the north, cities voted to remain while rural areas wanted out"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T13:51:17.363Z",
+        "updated": "2024-04-15T13:51:17.363Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000038940992912,
+            "y": 744
+          }
+        }
+      }
+    },
+    "3d8fe820-fb2f-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T13:51:20.994Z",
+        "updated": "2024-04-15T13:51:20.994Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00014582328616,
+            "y": 644
+          }
+        }
+      }
+    },
+    "a0f3a1e0-fb2f-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "If Le Pen wins the elections, it would clearly mean the end of the EU as we know it, as a Frexit vote would leave Germany as the only major global economic and political actor.",
+        "reference": {
+          "text": "If Le Pen wins the elections, it would clearly mean the end of the EU as we know it, as a Frexit vote would leave Germany as the only major global economic and political actor."
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T13:54:07.742Z",
+        "updated": "2024-04-15T13:54:07.742Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 3162.0008162839904,
+            "y": 1082
+          }
+        }
+      }
+    },
+    "a4e8f7f0-fb2f-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T13:54:14.383Z",
+        "updated": "2024-04-15T13:54:14.383Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 3262.000785239396,
+            "y": 982
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "83370a91-c9ff-11ee-b733-854bb707c32b": {
+      "source": "81814440-c9ff-11ee-b733-854bb707c32b",
+      "target": "83370a90-c9ff-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:36:15.033Z",
+        "updated": "2024-02-12T23:36:15.033Z"
+      },
+      "userdata": {}
+    },
+    "83370a92-c9ff-11ee-b733-854bb707c32b": {
+      "source": "83370a90-c9ff-11ee-b733-854bb707c32b",
+      "target": "74237bb0-c9ff-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:36:15.033Z",
+        "updated": "2024-02-12T23:36:15.033Z"
+      },
+      "userdata": {}
+    },
+    "94fb3a81-c9ff-11ee-b733-854bb707c32b": {
+      "source": "92adef20-c9ff-11ee-b733-854bb707c32b",
+      "target": "94fb3a80-c9ff-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:36:44.840Z",
+        "updated": "2024-02-12T23:36:44.840Z"
+      },
+      "userdata": {}
+    },
+    "94fb3a82-c9ff-11ee-b733-854bb707c32b": {
+      "source": "94fb3a80-c9ff-11ee-b733-854bb707c32b",
+      "target": "81814440-c9ff-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:36:44.840Z",
+        "updated": "2024-02-12T23:36:44.840Z"
+      },
+      "userdata": {}
+    },
+    "a8a393c1-c9ff-11ee-b733-854bb707c32b": {
+      "source": "a64c0f30-c9ff-11ee-b733-854bb707c32b",
+      "target": "a8a393c0-c9ff-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:37:17.820Z",
+        "updated": "2024-02-12T23:37:17.820Z"
+      },
+      "userdata": {}
+    },
+    "a8a393c2-c9ff-11ee-b733-854bb707c32b": {
+      "source": "a8a393c0-c9ff-11ee-b733-854bb707c32b",
+      "target": "92adef20-c9ff-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:37:17.820Z",
+        "updated": "2024-02-12T23:37:17.820Z"
+      },
+      "userdata": {}
+    },
+    "b645df61-c9ff-11ee-b733-854bb707c32b": {
+      "source": "b3107df0-c9ff-11ee-b733-854bb707c32b",
+      "target": "b645df60-c9ff-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:37:40.694Z",
+        "updated": "2024-02-12T23:37:40.694Z"
+      },
+      "userdata": {}
+    },
+    "b645df62-c9ff-11ee-b733-854bb707c32b": {
+      "source": "b645df60-c9ff-11ee-b733-854bb707c32b",
+      "target": "92adef20-c9ff-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:37:40.694Z",
+        "updated": "2024-02-12T23:37:40.694Z"
+      },
+      "userdata": {}
+    },
+    "c135b531-c9ff-11ee-b733-854bb707c32b": {
+      "source": "bda33fa0-c9ff-11ee-b733-854bb707c32b",
+      "target": "c135b530-c9ff-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:37:59.043Z",
+        "updated": "2024-02-12T23:37:59.043Z"
+      },
+      "userdata": {}
+    },
+    "c135b532-c9ff-11ee-b733-854bb707c32b": {
+      "source": "c135b530-c9ff-11ee-b733-854bb707c32b",
+      "target": "92adef20-c9ff-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:37:59.043Z",
+        "updated": "2024-02-12T23:37:59.043Z"
+      },
+      "userdata": {}
+    },
+    "d4e4c531-c9ff-11ee-b733-854bb707c32b": {
+      "source": "d2859f80-c9ff-11ee-b733-854bb707c32b",
+      "target": "d4e4c530-c9ff-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:38:32.067Z",
+        "updated": "2024-02-12T23:38:32.067Z"
+      },
+      "userdata": {}
+    },
+    "d4e4c532-c9ff-11ee-b733-854bb707c32b": {
+      "source": "d4e4c530-c9ff-11ee-b733-854bb707c32b",
+      "target": "92adef20-c9ff-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:38:32.067Z",
+        "updated": "2024-02-12T23:38:32.067Z"
+      },
+      "userdata": {}
+    },
+    "dfbf3e41-c9ff-11ee-b733-854bb707c32b": {
+      "source": "db85da50-c9ff-11ee-b733-854bb707c32b",
+      "target": "dfbf3e40-c9ff-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:38:50.276Z",
+        "updated": "2024-02-12T23:38:50.276Z"
+      },
+      "userdata": {}
+    },
+    "dfbf3e42-c9ff-11ee-b733-854bb707c32b": {
+      "source": "dfbf3e40-c9ff-11ee-b733-854bb707c32b",
+      "target": "92adef20-c9ff-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:38:50.276Z",
+        "updated": "2024-02-12T23:38:50.276Z"
+      },
+      "userdata": {}
+    },
+    "08b51541-ca00-11ee-b733-854bb707c32b": {
+      "source": "051c8530-ca00-11ee-b733-854bb707c32b",
+      "target": "08b51540-ca00-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:39:58.996Z",
+        "updated": "2024-02-12T23:39:58.996Z"
+      },
+      "userdata": {}
+    },
+    "08b51542-ca00-11ee-b733-854bb707c32b": {
+      "source": "08b51540-ca00-11ee-b733-854bb707c32b",
+      "target": "92adef20-c9ff-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:39:58.996Z",
+        "updated": "2024-02-12T23:39:58.996Z"
+      },
+      "userdata": {}
+    },
+    "17b913c1-ca00-11ee-b733-854bb707c32b": {
+      "source": "13e80e90-ca00-11ee-b733-854bb707c32b",
+      "target": "17b913c0-ca00-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:40:24.188Z",
+        "updated": "2024-02-12T23:40:24.188Z"
+      },
+      "userdata": {}
+    },
+    "17b913c2-ca00-11ee-b733-854bb707c32b": {
+      "source": "17b913c0-ca00-11ee-b733-854bb707c32b",
+      "target": "051c8530-ca00-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:40:24.188Z",
+        "updated": "2024-02-12T23:40:24.188Z"
+      },
+      "userdata": {}
+    },
+    "2a236ec1-ca00-11ee-b733-854bb707c32b": {
+      "source": "2690f930-ca00-11ee-b733-854bb707c32b",
+      "target": "2a236ec0-ca00-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:40:55.084Z",
+        "updated": "2024-02-12T23:40:55.084Z"
+      },
+      "userdata": {}
+    },
+    "2a236ec2-ca00-11ee-b733-854bb707c32b": {
+      "source": "2a236ec0-ca00-11ee-b733-854bb707c32b",
+      "target": "051c8530-ca00-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:40:55.084Z",
+        "updated": "2024-02-12T23:40:55.084Z"
+      },
+      "userdata": {}
+    },
+    "43459b31-ca00-11ee-b733-854bb707c32b": {
+      "source": "409a0330-ca00-11ee-b733-854bb707c32b",
+      "target": "43459b30-ca00-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:41:37.251Z",
+        "updated": "2024-02-12T23:41:37.251Z"
+      },
+      "userdata": {}
+    },
+    "43459b32-ca00-11ee-b733-854bb707c32b": {
+      "source": "43459b30-ca00-11ee-b733-854bb707c32b",
+      "target": "051c8530-ca00-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:41:37.251Z",
+        "updated": "2024-02-12T23:41:37.251Z"
+      },
+      "userdata": {}
+    },
+    "537d85d1-ca00-11ee-b733-854bb707c32b": {
+      "source": "5121e290-ca00-11ee-b733-854bb707c32b",
+      "target": "537d85d0-ca00-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:42:04.461Z",
+        "updated": "2024-02-12T23:42:04.461Z"
+      },
+      "userdata": {}
+    },
+    "537d85d2-ca00-11ee-b733-854bb707c32b": {
+      "source": "537d85d0-ca00-11ee-b733-854bb707c32b",
+      "target": "92adef20-c9ff-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:42:04.461Z",
+        "updated": "2024-02-12T23:42:04.461Z"
+      },
+      "userdata": {}
+    },
+    "62397ed0-ca00-11ee-b733-854bb707c32b": {
+      "source": "5fb25ec0-ca00-11ee-b733-854bb707c32b",
+      "target": "623957c0-ca00-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:42:29.181Z",
+        "updated": "2024-02-12T23:42:29.181Z"
+      },
+      "userdata": {}
+    },
+    "62397ed1-ca00-11ee-b733-854bb707c32b": {
+      "source": "623957c0-ca00-11ee-b733-854bb707c32b",
+      "target": "5121e290-ca00-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:42:29.181Z",
+        "updated": "2024-02-12T23:42:29.181Z"
+      },
+      "userdata": {}
+    },
+    "6bf84eb0-ca00-11ee-b733-854bb707c32b": {
+      "source": "68fe6fa0-ca00-11ee-b733-854bb707c32b",
+      "target": "6bf827a0-ca00-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:42:45.531Z",
+        "updated": "2024-02-12T23:42:45.531Z"
+      },
+      "userdata": {}
+    },
+    "6bf84eb1-ca00-11ee-b733-854bb707c32b": {
+      "source": "6bf827a0-ca00-11ee-b733-854bb707c32b",
+      "target": "5121e290-ca00-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:42:45.531Z",
+        "updated": "2024-02-12T23:42:45.531Z"
+      },
+      "userdata": {}
+    },
+    "7f18da51-ca00-11ee-b733-854bb707c32b": {
+      "source": "7c74bc60-ca00-11ee-b733-854bb707c32b",
+      "target": "7f18da50-ca00-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:43:17.621Z",
+        "updated": "2024-02-12T23:43:17.621Z"
+      },
+      "userdata": {}
+    },
+    "7f18da52-ca00-11ee-b733-854bb707c32b": {
+      "source": "7f18da50-ca00-11ee-b733-854bb707c32b",
+      "target": "5121e290-ca00-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:43:17.621Z",
+        "updated": "2024-02-12T23:43:17.621Z"
+      },
+      "userdata": {}
+    },
+    "88b52e11-ca00-11ee-b733-854bb707c32b": {
+      "source": "84eefe50-ca00-11ee-b733-854bb707c32b",
+      "target": "88b52e10-ca00-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:43:33.745Z",
+        "updated": "2024-02-12T23:43:33.745Z"
+      },
+      "userdata": {}
+    },
+    "88b52e12-ca00-11ee-b733-854bb707c32b": {
+      "source": "88b52e10-ca00-11ee-b733-854bb707c32b",
+      "target": "5121e290-ca00-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:43:33.745Z",
+        "updated": "2024-02-12T23:43:33.745Z"
+      },
+      "userdata": {}
+    },
+    "9bd23741-ca00-11ee-b733-854bb707c32b": {
+      "source": "98b9d3b0-ca00-11ee-b733-854bb707c32b",
+      "target": "9bd23740-ca00-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:44:05.812Z",
+        "updated": "2024-02-12T23:44:05.812Z"
+      },
+      "userdata": {}
+    },
+    "9bd25e50-ca00-11ee-b733-854bb707c32b": {
+      "source": "9bd23740-ca00-11ee-b733-854bb707c32b",
+      "target": "92adef20-c9ff-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:44:05.813Z",
+        "updated": "2024-02-12T23:44:05.813Z"
+      },
+      "userdata": {}
+    },
+    "b8ad9b21-ca00-11ee-b733-854bb707c32b": {
+      "source": "b5bf7be0-ca00-11ee-b733-854bb707c32b",
+      "target": "b8ad9b20-ca00-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:44:54.226Z",
+        "updated": "2024-02-12T23:44:54.226Z"
+      },
+      "userdata": {}
+    },
+    "b8ad9b22-ca00-11ee-b733-854bb707c32b": {
+      "source": "b8ad9b20-ca00-11ee-b733-854bb707c32b",
+      "target": "92adef20-c9ff-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:44:54.226Z",
+        "updated": "2024-02-12T23:44:54.226Z"
+      },
+      "userdata": {}
+    },
+    "c966eac1-ca00-11ee-b733-854bb707c32b": {
+      "source": "c06cca70-ca00-11ee-b733-854bb707c32b",
+      "target": "c966eac0-ca00-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:45:22.284Z",
+        "updated": "2024-02-12T23:45:22.284Z"
+      },
+      "userdata": {}
+    },
+    "c966eac2-ca00-11ee-b733-854bb707c32b": {
+      "source": "c966eac0-ca00-11ee-b733-854bb707c32b",
+      "target": "92adef20-c9ff-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:45:22.284Z",
+        "updated": "2024-02-12T23:45:22.284Z"
+      },
+      "userdata": {}
+    },
+    "d61e6131-ca00-11ee-b733-854bb707c32b": {
+      "source": "d3edeca0-ca00-11ee-b733-854bb707c32b",
+      "target": "d61e6130-ca00-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:45:43.619Z",
+        "updated": "2024-02-12T23:45:43.619Z"
+      },
+      "userdata": {}
+    },
+    "d61e6132-ca00-11ee-b733-854bb707c32b": {
+      "source": "d61e6130-ca00-11ee-b733-854bb707c32b",
+      "target": "c06cca70-ca00-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:45:43.619Z",
+        "updated": "2024-02-12T23:45:43.619Z"
+      },
+      "userdata": {}
+    },
+    "e2f630e1-ca00-11ee-b733-854bb707c32b": {
+      "source": "dfab4ba0-ca00-11ee-b733-854bb707c32b",
+      "target": "e2f630e0-ca00-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:46:05.166Z",
+        "updated": "2024-02-12T23:46:05.166Z"
+      },
+      "userdata": {}
+    },
+    "e2f630e2-ca00-11ee-b733-854bb707c32b": {
+      "source": "e2f630e0-ca00-11ee-b733-854bb707c32b",
+      "target": "c06cca70-ca00-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:46:05.166Z",
+        "updated": "2024-02-12T23:46:05.166Z"
+      },
+      "userdata": {}
+    },
+    "f3662891-fb2e-11ee-aa26-a11ecda1a83c": {
+      "source": "f1844930-fb2e-11ee-aa26-a11ecda1a83c",
+      "target": "f3662890-fb2e-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T13:49:16.569Z",
+        "updated": "2024-04-15T13:49:16.569Z"
+      },
+      "userdata": {}
+    },
+    "f3662892-fb2e-11ee-aa26-a11ecda1a83c": {
+      "source": "f3662890-fb2e-11ee-aa26-a11ecda1a83c",
+      "target": "92adef20-c9ff-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-04-15T13:49:16.569Z",
+        "updated": "2024-04-15T13:49:16.569Z"
+      },
+      "userdata": {}
+    },
+    "3d8fe821-fb2f-11ee-aa26-a11ecda1a83c": {
+      "source": "3b65dc30-fb2f-11ee-aa26-a11ecda1a83c",
+      "target": "3d8fe820-fb2f-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T13:51:20.994Z",
+        "updated": "2024-04-15T13:51:20.994Z"
+      },
+      "userdata": {}
+    },
+    "3d8fe822-fb2f-11ee-aa26-a11ecda1a83c": {
+      "source": "3d8fe820-fb2f-11ee-aa26-a11ecda1a83c",
+      "target": "92adef20-c9ff-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-04-15T13:51:20.994Z",
+        "updated": "2024-04-15T13:51:20.994Z"
+      },
+      "userdata": {}
+    },
+    "a4e91f00-fb2f-11ee-aa26-a11ecda1a83c": {
+      "source": "a0f3a1e0-fb2f-11ee-aa26-a11ecda1a83c",
+      "target": "a4e8f7f0-fb2f-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T13:54:14.384Z",
+        "updated": "2024-04-15T13:54:14.384Z"
+      },
+      "userdata": {}
+    },
+    "a4e91f01-fb2f-11ee-aa26-a11ecda1a83c": {
+      "source": "a4e8f7f0-fb2f-11ee-aa26-a11ecda1a83c",
+      "target": "c06cca70-ca00-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-04-15T13:54:14.384Z",
+        "updated": "2024-04-15T13:54:14.384Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "3071": {
+      "text": "Whether Britain should withdraw from an economic and political union with Europe was the question put to the British people in a referendum in 2016. In an historic move, Britain voted \"Leave\", opting to quit the European Union and end a 43-year relationship with the continent. It was a decision that remained too close to call right up until the very last moment, dividing the nation down the middle with 52 percent of Britons choosing to leave. It was the culmination of four months of bitter campaigning that exposed deep rifts in British society, and in the continent too. \"Brexit-was the first significant victory in foreign policy for the radical right \"?and it clearly has inspired Marine Le Pen, Geert Wilders and others,\" explains Cas Mudde, the author of The Ideology of the Extreme Right. INTERACTIVE: The making and breaking of Europe  After the results were announced, Prime Minister David Cameron submitted his resignation, heeding calls by his rivals that his position was untenable after having failed to convince Britons to remain in the union with Europe. \"I will do everything I can as prime minister to steady the ship in [the] coming months, but I do not think it would be right for me to captain that ship,\" Cameron said. The capital, London, voted to stay a part of the EU; however, parts of the rest of southern England, along with Wales, voted to leave. In the north, cities voted to remain while rural areas wanted out. And across the country, the young voted overwhelmingly to remain, while the over-65s voted to break away. In the week before the referendum was to take place, Jo Cox, a 41-year-old British Member of Parliament and pro-EU campaigner, was stabbed to death outside a library where she regularly met constituents in her home village of Birstall, in northern England. During the fatal knife and gun attack the executor was heard to be shouting: \"Britain first, this is for Britain.\" In her political life, Cox campaigned for diversity; victims of the Syrian conflict; child refugees; Palestinians affected by the blockade of the Gaza Strip; and for the rights and welfare of the victims of Islamophobia. She also worked with anti-slavery charity Freedom Fund and Oxfam. OPINION: Brexit - A wake-up call for the EU, but will it listen? This was the first assassination of an MP in the UK in 25 years. \"The perpetrator of the attack argued that the white race is quickly becoming extinct. This is a common idea that runs through the European far-right,\" explains Matthew Goodwin, a professor of politics and international relations at the University of Kent. Britain's vote to exit the EU was aided by a populist, anti-establishment xenophobia now coursing through the continent. In the same year, Angela Merkel's Christian Democrats were beaten into third place by the far-right AfD party in local elections, while Germany endured a year of violent attacks that spotlighted its refugee policy.-France's Front National leader Marine Le Pen made significant gains in presidential election polls; Austria came close to electing a far-right head of state and Italy rejected constitutional reforms for not being radical enough, prompting the resignation of its centrist leader. READ MORE: UK- Hate crime 'at record levels' after Brexit vote According to Rami Peit, a research associate on political economy and foreign policy at the Florida International University, \"If Le Pen wins the elections, it would clearly mean the end of the EU as we know it, as a Frexit vote would leave Germany as the only major global economic and political actor.\" Populist, anti-immigration parties are on the rise as high unemployment and austerity, the arrival of record numbers of refugees, and violent attacks deepen voter disillusionment with traditional parties. \"These are very dangerous moments for Europe,\" says Dan Stone, the author of Goodbye to All That: The Story of Europe Since 1945. \"We see important elections coming in Germany and in France in the wake of Brexit. We see the rise of so-called populist movements, not just across Europe but in the US and elsewhere.\" Stone adds: \"The catastrophe of World War II was what brought about the integration of Europe and it was an imperfect process but if it's abandoned altogether, then what will the consequences of that be?\" Source:-Al Jazeera News",
+      "title": "How will Brexit affect the European Union?",
+      "source": "http://www.aljazeera.com/indepth/features/2017/03/brexit-affect-european-union-170310121554584.html",
+      "timestamp": "2017-03-19T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-08T09:23:32.588Z",
+        "updated": "2024-02-08T09:23:32.588Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "2c603380-c41a-11ee-a06c-cb1cbb90ffa4": {
+      "name": "annotator0",
+      "email": "s4kibart@uni-trier.de",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "74237bb0-c9ff-11ee-b733-854bb707c32b",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-08T09:23:32.588Z",
+    "updated": "2024-04-15T13:56:11.386Z"
+  },
+  "userdata": {}
+}

@@ -1,0 +1,534 @@
+{
+  "nodes": {
+    "4568e270-c765-11ee-9cc2-154172df10e6": {
+      "atom": {
+        "text": "White House press secretary Sean Spicer told ABC News' Jonathan Karl that the White House \"did [its] job\" by pointing reporters to sources who could dispute The New York Times' reporting on the Trump campaign contacting Russians prior to the election",
+        "reference": {
+          "resource": "1528",
+          "offset": 0,
+          "text": "White House press secretary Sean Spicer told ABC News' Jonathan Karl that the White House \"did [its] job\" by pointing reporters to sources who could dispute The New York Times' reporting on the Trump campaign contacting Russians prior to the election"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:07:06.519Z",
+        "updated": "2024-02-09T16:07:06.519Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0007068440877,
+            "y": 278
+          }
+        }
+      }
+    },
+    "4568e271-c765-11ee-9cc2-154172df10e6": {
+      "atom": {
+        "text": "\"I will say I think we did our job very effectively by making sure that reporters who had questions about the accuracy and claims in The New York Times, we were pointing them to experts who understood whether or not that story was accurate or not,\" Spicer told Karl",
+        "reference": {
+          "resource": "1528",
+          "offset": 252,
+          "text": "\"I will say I think we did our job very effectively by making sure that reporters who had questions about the accuracy and claims in The New York Times, we were pointing them to experts who understood whether or not that story was accurate or not,\" Spicer told Karl"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:07:06.519Z",
+        "updated": "2024-02-09T16:07:06.519Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 762.0004487705808,
+            "y": 652
+          }
+        }
+      }
+    },
+    "4568e272-c765-11ee-9cc2-154172df10e6": {
+      "atom": {
+        "text": "Spicer would not say whether he reached out to CIA Director Mike Pompeo directly to dispute the Russia reports",
+        "reference": {
+          "resource": "1528",
+          "offset": 680,
+          "text": "Spicer would not say whether he reached out to CIA Director Mike Pompeo directly to dispute the Russia reports"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:07:06.519Z",
+        "updated": "2024-02-09T16:07:06.519Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 762.0006290675882,
+            "y": 1026
+          }
+        }
+      }
+    },
+    "45690980-c765-11ee-9cc2-154172df10e6": {
+      "atom": {
+        "text": "When pressed by Karl over whether or not a special prosecutor was necessary to restore public trust that an investigation would be independent, Spicer disputed that there's any existing evidence that an investigation is appropriate in the first place",
+        "reference": {
+          "resource": "1528",
+          "offset": 792,
+          "text": "When pressed by Karl over whether or not a special prosecutor was necessary to restore public trust that an investigation would be independent, Spicer disputed that there's any existing evidence that an investigation is appropriate in the first place"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:07:06.520Z",
+        "updated": "2024-02-09T16:07:06.520Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0000980560533,
+            "y": 656
+          }
+        }
+      }
+    },
+    "45690981-c765-11ee-9cc2-154172df10e6": {
+      "atom": {
+        "text": "\"It's the same stuff over and over again that we've heard for literally six months. And so the question becomes at some point, what do you need to further investigate if there is nothing that has come out?\"?said Spicer",
+        "reference": {
+          "resource": "1528",
+          "offset": 1044,
+          "text": "\"It's the same stuff over and over again that we've heard for literally six months. And so the question becomes at some point, what do you need to further investigate if there is nothing that has come out?\"?said Spicer"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:07:06.520Z",
+        "updated": "2024-02-09T16:07:06.520Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 412.000812067803,
+            "y": 1026
+          }
+        }
+      }
+    },
+    "45690982-c765-11ee-9cc2-154172df10e6": {
+      "atom": {
+        "text": "Spicer asserted that the intelligence community, House and Senate have already looked into any possible connections between the Trump campaign and Russians",
+        "reference": {
+          "resource": "1528",
+          "offset": 1264,
+          "text": "Spicer asserted that the intelligence community, House and Senate have already looked into any possible connections between the Trump campaign and Russians"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:07:06.520Z",
+        "updated": "2024-02-09T16:07:06.520Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 62.000279307671576,
+            "y": 1026
+          }
+        }
+      }
+    },
+    "45690983-c765-11ee-9cc2-154172df10e6": {
+      "atom": {
+        "text": "\"At some point, you do have to ask yourself, what are you actually looking for? How many times do you have to come to the same conclusion before you take the answer?\"?said Spicer",
+        "reference": {
+          "resource": "1528",
+          "offset": 1421,
+          "text": "\"At some point, you do have to ask yourself, what are you actually looking for? How many times do you have to come to the same conclusion before you take the answer?\"?said Spicer"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:07:06.520Z",
+        "updated": "2024-02-09T16:07:06.520Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 412.00081740764955,
+            "y": 1340
+          }
+        }
+      }
+    },
+    "45690984-c765-11ee-9cc2-154172df10e6": {
+      "atom": {
+        "text": "On Monday at the White House, reporters asked President Trump as he left a meeting with health-care executives if he would support an independent investigation into possible ties between Trump presidential campaign advisers and Russians. \"I haven\"t called Russia in 10 years,\"?said Trump",
+        "reference": {
+          "resource": "1528",
+          "offset": 1601,
+          "text": "On Monday at the White House, reporters asked President Trump as he left a meeting with health-care executives if he would support an independent investigation into possible ties between Trump presidential campaign advisers and Russians. \"I haven\"t called Russia in 10 years,\"?said Trump"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:07:06.520Z",
+        "updated": "2024-02-09T16:07:06.520Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000323149176534,
+            "y": 640
+          }
+        }
+      }
+    },
+    "919c0690-c765-11ee-9cc2-154172df10e6": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:09:14.361Z",
+        "updated": "2024-02-09T16:09:14.361Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 862.000846127195,
+            "y": 540
+          }
+        }
+      }
+    },
+    "9673a650-c765-11ee-9cc2-154172df10e6": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:09:22.485Z",
+        "updated": "2024-02-09T16:09:22.485Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 862.0006149464954,
+            "y": 926
+          }
+        }
+      }
+    },
+    "cbb5aed0-c765-11ee-9cc2-154172df10e6": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:10:51.837Z",
+        "updated": "2024-02-09T16:10:51.837Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 512.000876742917,
+            "y": 926
+          }
+        }
+      }
+    },
+    "e1a93090-c765-11ee-9cc2-154172df10e6": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:11:28.665Z",
+        "updated": "2024-02-09T16:11:28.665Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 162.00087469001252,
+            "y": 926
+          }
+        }
+      }
+    },
+    "ef4a91d0-c765-11ee-9cc2-154172df10e6": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:11:51.533Z",
+        "updated": "2024-02-09T16:11:51.533Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 512.0002762981026,
+            "y": 1240
+          }
+        }
+      }
+    },
+    "fdb81cb0-c765-11ee-9cc2-154172df10e6": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:12:15.739Z",
+        "updated": "2024-02-09T16:12:15.739Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00056474757649,
+            "y": 540
+          }
+        }
+      }
+    },
+    "30cfcb20-c766-11ee-9b00-4fc0ad6780df": {
+      "atom": {
+        "text": "Trump's campaign did not contact the Russians prior to the election and this circumstance should not be further investigated"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:13:41.458Z",
+        "updated": "2024-02-09T16:13:41.458Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0007966902395,
+            "y": 12
+          }
+        }
+      }
+    },
+    "4574faf0-c766-11ee-9b00-4fc0ad6780df": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:14:16.095Z",
+        "updated": "2024-02-09T16:14:16.095Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.00090468212824,
+            "y": 178
+          }
+        }
+      }
+    },
+    "47de80e0-c766-11ee-9b00-4fc0ad6780df": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:14:20.142Z",
+        "updated": "2024-02-09T16:14:20.142Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.00022087431927,
+            "y": 540
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "88629351-c765-11ee-9cc2-154172df10e6": {
+      "source": "4568e272-c765-11ee-9cc2-154172df10e6",
+      "target": "88629350-c765-11ee-9cc2-154172df10e6",
+      "metadata": {
+        "created": "2024-02-09T16:08:58.885Z",
+        "updated": "2024-02-09T16:08:58.885Z"
+      },
+      "userdata": {}
+    },
+    "88629352-c765-11ee-9cc2-154172df10e6": {
+      "source": "88629350-c765-11ee-9cc2-154172df10e6",
+      "target": "4568e270-c765-11ee-9cc2-154172df10e6",
+      "metadata": {
+        "created": "2024-02-09T16:08:58.885Z",
+        "updated": "2024-02-09T16:08:58.885Z"
+      },
+      "userdata": {}
+    },
+    "919c0691-c765-11ee-9cc2-154172df10e6": {
+      "source": "4568e271-c765-11ee-9cc2-154172df10e6",
+      "target": "919c0690-c765-11ee-9cc2-154172df10e6",
+      "metadata": {
+        "created": "2024-02-09T16:09:14.361Z",
+        "updated": "2024-02-09T16:09:14.361Z"
+      },
+      "userdata": {}
+    },
+    "919c0692-c765-11ee-9cc2-154172df10e6": {
+      "source": "919c0690-c765-11ee-9cc2-154172df10e6",
+      "target": "4568e270-c765-11ee-9cc2-154172df10e6",
+      "metadata": {
+        "created": "2024-02-09T16:09:14.361Z",
+        "updated": "2024-02-09T16:09:14.361Z"
+      },
+      "userdata": {}
+    },
+    "9673a651-c765-11ee-9cc2-154172df10e6": {
+      "source": "4568e272-c765-11ee-9cc2-154172df10e6",
+      "target": "9673a650-c765-11ee-9cc2-154172df10e6",
+      "metadata": {
+        "created": "2024-02-09T16:09:22.485Z",
+        "updated": "2024-02-09T16:09:22.485Z"
+      },
+      "userdata": {}
+    },
+    "9673a652-c765-11ee-9cc2-154172df10e6": {
+      "source": "9673a650-c765-11ee-9cc2-154172df10e6",
+      "target": "4568e271-c765-11ee-9cc2-154172df10e6",
+      "metadata": {
+        "created": "2024-02-09T16:09:22.485Z",
+        "updated": "2024-02-09T16:09:22.485Z"
+      },
+      "userdata": {}
+    },
+    "bebf81b0-c765-11ee-9cc2-154172df10e6": {
+      "source": "bebf5aa0-c765-11ee-9cc2-154172df10e6",
+      "target": "4568e270-c765-11ee-9cc2-154172df10e6",
+      "metadata": {
+        "created": "2024-02-09T16:10:30.091Z",
+        "updated": "2024-02-09T16:10:30.091Z"
+      },
+      "userdata": {}
+    },
+    "cbb5aed1-c765-11ee-9cc2-154172df10e6": {
+      "source": "45690981-c765-11ee-9cc2-154172df10e6",
+      "target": "cbb5aed0-c765-11ee-9cc2-154172df10e6",
+      "metadata": {
+        "created": "2024-02-09T16:10:51.837Z",
+        "updated": "2024-02-09T16:10:51.837Z"
+      },
+      "userdata": {}
+    },
+    "cbb5aed2-c765-11ee-9cc2-154172df10e6": {
+      "source": "cbb5aed0-c765-11ee-9cc2-154172df10e6",
+      "target": "45690980-c765-11ee-9cc2-154172df10e6",
+      "metadata": {
+        "created": "2024-02-09T16:10:51.837Z",
+        "updated": "2024-02-09T16:10:51.837Z"
+      },
+      "userdata": {}
+    },
+    "e1a93091-c765-11ee-9cc2-154172df10e6": {
+      "source": "45690982-c765-11ee-9cc2-154172df10e6",
+      "target": "e1a93090-c765-11ee-9cc2-154172df10e6",
+      "metadata": {
+        "created": "2024-02-09T16:11:28.665Z",
+        "updated": "2024-02-09T16:11:28.665Z"
+      },
+      "userdata": {}
+    },
+    "e1a93092-c765-11ee-9cc2-154172df10e6": {
+      "source": "e1a93090-c765-11ee-9cc2-154172df10e6",
+      "target": "45690980-c765-11ee-9cc2-154172df10e6",
+      "metadata": {
+        "created": "2024-02-09T16:11:28.665Z",
+        "updated": "2024-02-09T16:11:28.665Z"
+      },
+      "userdata": {}
+    },
+    "ef4ab8e0-c765-11ee-9cc2-154172df10e6": {
+      "source": "45690983-c765-11ee-9cc2-154172df10e6",
+      "target": "ef4a91d0-c765-11ee-9cc2-154172df10e6",
+      "metadata": {
+        "created": "2024-02-09T16:11:51.534Z",
+        "updated": "2024-02-09T16:11:51.534Z"
+      },
+      "userdata": {}
+    },
+    "ef4ab8e1-c765-11ee-9cc2-154172df10e6": {
+      "source": "ef4a91d0-c765-11ee-9cc2-154172df10e6",
+      "target": "45690981-c765-11ee-9cc2-154172df10e6",
+      "metadata": {
+        "created": "2024-02-09T16:11:51.534Z",
+        "updated": "2024-02-09T16:11:51.534Z"
+      },
+      "userdata": {}
+    },
+    "fdb81cb1-c765-11ee-9cc2-154172df10e6": {
+      "source": "45690984-c765-11ee-9cc2-154172df10e6",
+      "target": "fdb81cb0-c765-11ee-9cc2-154172df10e6",
+      "metadata": {
+        "created": "2024-02-09T16:12:15.739Z",
+        "updated": "2024-02-09T16:12:15.739Z"
+      },
+      "userdata": {}
+    },
+    "4574faf1-c766-11ee-9b00-4fc0ad6780df": {
+      "source": "4568e270-c765-11ee-9cc2-154172df10e6",
+      "target": "4574faf0-c766-11ee-9b00-4fc0ad6780df",
+      "metadata": {
+        "created": "2024-02-09T16:14:16.095Z",
+        "updated": "2024-02-09T16:14:16.095Z"
+      },
+      "userdata": {}
+    },
+    "4574faf2-c766-11ee-9b00-4fc0ad6780df": {
+      "source": "4574faf0-c766-11ee-9b00-4fc0ad6780df",
+      "target": "30cfcb20-c766-11ee-9b00-4fc0ad6780df",
+      "metadata": {
+        "created": "2024-02-09T16:14:16.095Z",
+        "updated": "2024-02-09T16:14:16.095Z"
+      },
+      "userdata": {}
+    },
+    "47de80e1-c766-11ee-9b00-4fc0ad6780df": {
+      "source": "45690980-c765-11ee-9cc2-154172df10e6",
+      "target": "47de80e0-c766-11ee-9b00-4fc0ad6780df",
+      "metadata": {
+        "created": "2024-02-09T16:14:20.142Z",
+        "updated": "2024-02-09T16:14:20.142Z"
+      },
+      "userdata": {}
+    },
+    "91257640-fc87-11ee-bacf-6f44838a7611": {
+      "source": "47de80e0-c766-11ee-9b00-4fc0ad6780df",
+      "target": "4568e270-c765-11ee-9cc2-154172df10e6",
+      "metadata": {
+        "created": "2024-04-17T06:56:08.100Z",
+        "updated": "2024-04-17T06:56:08.100Z"
+      },
+      "userdata": {}
+    },
+    "9e6b22f0-fc87-11ee-bacf-6f44838a7611": {
+      "source": "fdb81cb0-c765-11ee-9cc2-154172df10e6",
+      "target": "4568e270-c765-11ee-9cc2-154172df10e6",
+      "metadata": {
+        "created": "2024-04-17T06:56:30.367Z",
+        "updated": "2024-04-17T06:56:30.367Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "1528": {
+      "text": "White House press secretary Sean Spicer told ABC News' Jonathan Karl that the White House \"did [its] job\" by pointing reporters to sources who could dispute The New York Times' reporting on the Trump campaign contacting Russians prior to the election. \"I will say I think we did our job very effectively by making sure that reporters who had questions about the accuracy and claims in The New York Times, we were pointing them to experts who understood whether or not that story was accurate or not,\" Spicer told Karl. \"So, the answer is, you know, we have continued to give reporters information and sources that went to the accuracy or lack thereof of a report in a newspaper.\" Spicer would not say whether he reached out to CIA Director Mike Pompeo directly to dispute the Russia reports. When pressed by Karl over whether or not a special prosecutor was necessary to restore public trust that an investigation would be independent, Spicer disputed that there's any existing evidence that an investigation is appropriate in the first place. \"It's the same stuff over and over again that we've heard for literally six months. And so the question becomes at some point, what do you need to further investigate if there is nothing that has come out?\"?said Spicer. Spicer asserted that the intelligence community, House and Senate have already looked into any possible connections between the Trump campaign and Russians. \"At some point, you do have to ask yourself, what are you actually looking for? How many times do you have to come to the same conclusion before you take the answer?\"?said Spicer. On Monday at the White House, reporters asked President Trump as he left a meeting with health-care executives if he would support an independent investigation into possible ties between Trump presidential campaign advisers and Russians. \"I haven\"t called Russia in 10 years,\"?said Trump. ",
+      "title": "Spicer: 'We did our job' by arranging pushback against Russia reports",
+      "source": "http://abcnews.go.com/Politics/spicer-job-arranging-pushback-russia-reports/story?id=45784545",
+      "timestamp": "2017-02-27T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.166Z",
+        "updated": "2024-02-09T13:09:16.166Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "69ca24d0-c5b2-11ee-bbb2-f78c6e9d2422": {
+      "name": "Martin Hoppe",
+      "email": "mogramming@gmail.com",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "30cfcb20-c766-11ee-9b00-4fc0ad6780df",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.166Z",
+    "updated": "2024-04-17T06:56:52.410Z"
+  },
+  "userdata": {}
+}

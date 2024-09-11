@@ -1,0 +1,963 @@
+{
+  "nodes": {
+    "bd05e5f0-c614-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": " 21 girls were killed in a fire, apparently started in protest against abuse at a crowded children's care home",
+        "reference": {
+          "resource": "2077",
+          "offset": 70,
+          "text": " 21 girls were killed in a fire, apparently started in protest against abuse at a crowded children's care home"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:58:06.799Z",
+        "updated": "2024-02-07T23:58:06.799Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 275.0392163639385,
+            "y": -134.25084831454643
+          }
+        }
+      }
+    },
+    "cebd92c0-c614-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "at least 21 children and teenagers perished",
+        "reference": {
+          "resource": "2077",
+          "offset": 1191,
+          "text": "at least 21 children and teenagers perished"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:58:36.524Z",
+        "updated": "2024-02-07T23:58:36.524Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -237.93299645093327,
+            "y": 47.38938376572662
+          }
+        }
+      }
+    },
+    "d3389390-c614-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T23:58:44.041Z",
+        "updated": "2024-02-07T23:58:44.041Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 170.1247666075426,
+            "y": -12.105923233195
+          }
+        }
+      }
+    },
+    "db8c88d0-c614-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "Two hospitals said they received 41 injured girls between the ages of 13 and 17, many with second- and third-degree burns. Some of the injured had life-threatening burns",
+        "reference": {
+          "resource": "2077",
+          "offset": 1236,
+          "text": "Two hospitals said they received 41 injured girls between the ages of 13 and 17, many with second- and third-degree burns. Some of the injured had life-threatening burns"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:58:58.013Z",
+        "updated": "2024-02-07T23:58:58.013Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -345.3836000662574,
+            "y": 208.01657858348375
+          }
+        }
+      }
+    },
+    "e0c8b6c0-c614-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T23:59:06.796Z",
+        "updated": "2024-02-07T23:59:06.796Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -240.1239349972417,
+            "y": 126.69250346359829
+          }
+        }
+      }
+    },
+    "ec34e880-c614-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "This is a painful situation",
+        "reference": {
+          "resource": "2077",
+          "offset": 1408,
+          "text": "This is a painful situation"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:59:25.960Z",
+        "updated": "2024-02-07T23:59:25.960Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -451.1532145081571,
+            "y": 535.4008588216692
+          }
+        }
+      }
+    },
+    "ee858f40-c614-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T23:59:29.844Z",
+        "updated": "2024-02-07T23:59:29.844Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -285.06556345684714,
+            "y": 390.0020259763765
+          }
+        }
+      }
+    },
+    "042858f0-c615-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "an investigation is under way, to determine what caused the fire",
+        "reference": {
+          "resource": "2077",
+          "offset": 479,
+          "text": "an investigation is under way, to determine what caused the fire"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:00:06.143Z",
+        "updated": "2024-02-08T00:00:06.143Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 682.3053396975193,
+            "y": 64.30048459962572
+          }
+        }
+      }
+    },
+    "05d3bf00-c615-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:00:08.944Z",
+        "updated": "2024-02-08T00:00:08.944Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 518.1803681716443,
+            "y": 2.0613564784351013
+          }
+        }
+      }
+    },
+    "1aaf8f30-c615-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "Carlos Rodas, said youths at the shelter started rioting on Tuesday in an effort to escape",
+        "reference": {
+          "resource": "2077",
+          "offset": 766,
+          "text": "Carlos Rodas, said youths at the shelter started rioting on Tuesday in an effort to escape"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:00:43.940Z",
+        "updated": "2024-02-08T00:00:43.940Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 505.5446862666769,
+            "y": 316.80470574762285
+          }
+        }
+      }
+    },
+    "1e3d22c0-c615-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:00:49.900Z",
+        "updated": "2024-02-08T00:00:49.900Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 508.2249824283367,
+            "y": 228.73783186451678
+          }
+        }
+      }
+    },
+    "2838d490-c615-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "Complaints about abuse and living conditions at the overcrowded shelter have been frequent",
+        "reference": {
+          "resource": "2077",
+          "offset": 858,
+          "text": "Complaints about abuse and living conditions at the overcrowded shelter have been frequent"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:01:06.649Z",
+        "updated": "2024-02-08T00:01:06.649Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 358.5112968270565,
+            "y": 522.8046107437578
+          }
+        }
+      }
+    },
+    "2c7c4aa0-c615-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:01:13.802Z",
+        "updated": "2024-02-08T00:01:13.802Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 527.7528544632863,
+            "y": 430.5258428923293
+          }
+        }
+      }
+    },
+    "37161130-c615-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "Some of the adolescents lit their mattresses on fire",
+        "reference": {
+          "resource": "2077",
+          "offset": 981,
+          "text": "Some of the adolescents lit their mattresses on fire"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:01:31.587Z",
+        "updated": "2024-02-08T00:01:31.587Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 716.9051835861316,
+            "y": 546.5443767470299
+          }
+        }
+      }
+    },
+    "3ba8b8b0-c615-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:01:39.259Z",
+        "updated": "2024-02-08T00:01:39.259Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 683.2100318395517,
+            "y": 431.6745412473264
+          }
+        }
+      }
+    },
+    "4be36270-c615-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "Riot police had been sent in to quell unrest over the crowded living conditions at the home",
+        "reference": {
+          "resource": "2077",
+          "offset": 1522,
+          "text": "Riot police had been sent in to quell unrest over the crowded living conditions at the home"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:02:06.487Z",
+        "updated": "2024-02-08T00:02:06.487Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 321.9437623970547,
+            "y": 919.7041574133013
+          }
+        }
+      }
+    },
+    "4e1d4ce0-c615-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:02:10.222Z",
+        "updated": "2024-02-08T00:02:10.222Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 440.50757105534353,
+            "y": 741.6062987684961
+          }
+        }
+      }
+    },
+    "57669ea0-c615-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "Some 40 residents escaped but were recaptured and isolated",
+        "reference": {
+          "resource": "2077",
+          "offset": 1777,
+          "text": "Some 40 residents escaped but were recaptured and isolated"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:02:25.802Z",
+        "updated": "2024-02-08T00:02:25.802Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 226.6277843304274,
+            "y": 1124.8911970695588
+          }
+        }
+      }
+    },
+    "5ae4a1d0-c615-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:02:31.661Z",
+        "updated": "2024-02-08T00:02:31.661Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 288.09741261369163,
+            "y": 1029.7400465347082
+          }
+        }
+      }
+    },
+    "6659d440-c615-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "UNICEF and the prosecutor for human rights called for the home's closure last year after complaints of overcrowding along with physical and sexual abuse",
+        "reference": {
+          "resource": "2077",
+          "offset": 1849,
+          "text": "UNICEF and the prosecutor for human rights called for the home's closure last year after complaints of overcrowding along with physical and sexual abuse"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:02:50.884Z",
+        "updated": "2024-02-08T00:02:50.884Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 663.2992603529366,
+            "y": 847.5033457562531
+          }
+        }
+      }
+    },
+    "695fc140-c615-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:02:55.956Z",
+        "updated": "2024-02-08T00:02:55.956Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 696.2286131961848,
+            "y": 705.8305486399521
+          }
+        }
+      }
+    },
+    "6ffda210-c615-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "UNICEF representatives were present as the police started the investigation",
+        "reference": {
+          "resource": "2077",
+          "offset": 2017,
+          "text": "UNICEF representatives were present as the police started the investigation"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:03:07.057Z",
+        "updated": "2024-02-08T00:03:07.057Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 934.3920721322369,
+            "y": 268.0998954957484
+          }
+        }
+      }
+    },
+    "75a53c00-c615-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:03:16.544Z",
+        "updated": "2024-02-08T00:03:16.544Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 947.5276097806162,
+            "y": 189.32354851438947
+          }
+        }
+      }
+    },
+    "84530430-c615-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "more than 500 people were crammed into the shelter designed to house 400",
+        "reference": {
+          "resource": "2077",
+          "offset": 2158,
+          "text": "more than 500 people were crammed into the shelter designed to house 400"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:03:41.171Z",
+        "updated": "2024-02-08T00:03:41.171Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 29.217768394573,
+            "y": 760.508590337811
+          }
+        }
+      }
+    },
+    "86b58540-c615-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:03:45.172Z",
+        "updated": "2024-02-08T00:03:45.172Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 154.04298963758424,
+            "y": 691.050629805657
+          }
+        }
+      }
+    },
+    "a12e4100-c615-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "the Inter-American Commission on Human Rights had found in favour of several adolescents who had alleged maltreatment and sexual abuse in the shelter",
+        "reference": {
+          "resource": "2077",
+          "offset": 2759,
+          "text": "the Inter-American Commission on Human Rights had found in favour of several adolescents who had alleged maltreatment and sexual abuse in the shelter"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:04:29.584Z",
+        "updated": "2024-02-08T00:04:29.584Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -261.0200159680112,
+            "y": 794.2037420843907
+          }
+        }
+      }
+    },
+    "a5c1abd0-c615-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:04:37.261Z",
+        "updated": "2024-02-08T00:04:37.261Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -177.93083495655895,
+            "y": 715.939094163926
+          }
+        }
+      }
+    },
+    "b5f8d320-c615-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "complaints had surged against the shelter over minors running away to escape alleged sexual abuse there",
+        "reference": {
+          "resource": "2077",
+          "offset": 3159,
+          "text": "complaints had surged against the shelter over minors running away to escape alleged sexual abuse there"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:05:04.466Z",
+        "updated": "2024-02-08T00:05:04.466Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 987.2826995345691,
+            "y": 926.6424331078881
+          }
+        }
+      }
+    },
+    "bcc34230-c615-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:05:15.859Z",
+        "updated": "2024-02-08T00:05:15.859Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 940.8969981808131,
+            "y": 716.723521925823
+          }
+        }
+      }
+    },
+    "cc7cae00-c615-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "an investigation had been started to find the reasons and those responsible for Wednesday's tragedy",
+        "reference": {
+          "resource": "2077",
+          "offset": 3272,
+          "text": "an investigation had been started to find the reasons and those responsible for Wednesday's tragedy"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:05:42.240Z",
+        "updated": "2024-02-08T00:05:42.240Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1326.606924291033,
+            "y": 260.87166780625535
+          }
+        }
+      }
+    },
+    "d47b3040-c615-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:05:55.652Z",
+        "updated": "2024-02-08T00:05:55.652Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1268.3769277605625,
+            "y": 180.94231837717624
+          }
+        }
+      }
+    },
+    "e079de00-c615-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "critics are accusing the government of not doing enough to address the complain of the residents of the care home",
+        "reference": {
+          "resource": "2077",
+          "offset": 3418,
+          "text": "critics are accusing the government of not doing enough to address the complain of the residents of the care home"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:06:15.776Z",
+        "updated": "2024-02-08T00:06:15.776Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1326.1891152304538,
+            "y": 927.0193391468265
+          }
+        }
+      }
+    },
+    "e659c600-c615-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:06:25.632Z",
+        "updated": "2024-02-08T00:06:25.632Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1143.6835393620886,
+            "y": 738.2453082786255
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "d3389391-c614-11ee-bbb2-f78c6e9d2422": {
+      "source": "cebd92c0-c614-11ee-bbb2-f78c6e9d2422",
+      "target": "d3389390-c614-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:58:44.041Z",
+        "updated": "2024-02-07T23:58:44.041Z"
+      },
+      "userdata": {}
+    },
+    "d3389392-c614-11ee-bbb2-f78c6e9d2422": {
+      "source": "d3389390-c614-11ee-bbb2-f78c6e9d2422",
+      "target": "bd05e5f0-c614-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:58:44.041Z",
+        "updated": "2024-02-07T23:58:44.041Z"
+      },
+      "userdata": {}
+    },
+    "e0c8b6c1-c614-11ee-bbb2-f78c6e9d2422": {
+      "source": "db8c88d0-c614-11ee-bbb2-f78c6e9d2422",
+      "target": "e0c8b6c0-c614-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:59:06.796Z",
+        "updated": "2024-02-07T23:59:06.796Z"
+      },
+      "userdata": {}
+    },
+    "e0c8b6c2-c614-11ee-bbb2-f78c6e9d2422": {
+      "source": "e0c8b6c0-c614-11ee-bbb2-f78c6e9d2422",
+      "target": "cebd92c0-c614-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:59:06.796Z",
+        "updated": "2024-02-07T23:59:06.796Z"
+      },
+      "userdata": {}
+    },
+    "ee858f41-c614-11ee-bbb2-f78c6e9d2422": {
+      "source": "ec34e880-c614-11ee-bbb2-f78c6e9d2422",
+      "target": "ee858f40-c614-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:59:29.844Z",
+        "updated": "2024-02-07T23:59:29.844Z"
+      },
+      "userdata": {}
+    },
+    "ee858f42-c614-11ee-bbb2-f78c6e9d2422": {
+      "source": "ee858f40-c614-11ee-bbb2-f78c6e9d2422",
+      "target": "db8c88d0-c614-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:59:29.844Z",
+        "updated": "2024-02-07T23:59:29.844Z"
+      },
+      "userdata": {}
+    },
+    "05d3bf01-c615-11ee-bbb2-f78c6e9d2422": {
+      "source": "042858f0-c615-11ee-bbb2-f78c6e9d2422",
+      "target": "05d3bf00-c615-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:00:08.944Z",
+        "updated": "2024-02-08T00:00:08.944Z"
+      },
+      "userdata": {}
+    },
+    "05d3bf02-c615-11ee-bbb2-f78c6e9d2422": {
+      "source": "05d3bf00-c615-11ee-bbb2-f78c6e9d2422",
+      "target": "bd05e5f0-c614-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:00:08.944Z",
+        "updated": "2024-02-08T00:00:08.944Z"
+      },
+      "userdata": {}
+    },
+    "1e3d22c1-c615-11ee-bbb2-f78c6e9d2422": {
+      "source": "1aaf8f30-c615-11ee-bbb2-f78c6e9d2422",
+      "target": "1e3d22c0-c615-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:00:49.900Z",
+        "updated": "2024-02-08T00:00:49.900Z"
+      },
+      "userdata": {}
+    },
+    "1e3d22c2-c615-11ee-bbb2-f78c6e9d2422": {
+      "source": "1e3d22c0-c615-11ee-bbb2-f78c6e9d2422",
+      "target": "042858f0-c615-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:00:49.900Z",
+        "updated": "2024-02-08T00:00:49.900Z"
+      },
+      "userdata": {}
+    },
+    "2c7c4aa1-c615-11ee-bbb2-f78c6e9d2422": {
+      "source": "2838d490-c615-11ee-bbb2-f78c6e9d2422",
+      "target": "2c7c4aa0-c615-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:01:13.802Z",
+        "updated": "2024-02-08T00:01:13.802Z"
+      },
+      "userdata": {}
+    },
+    "2c7c4aa2-c615-11ee-bbb2-f78c6e9d2422": {
+      "source": "2c7c4aa0-c615-11ee-bbb2-f78c6e9d2422",
+      "target": "1aaf8f30-c615-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:01:13.802Z",
+        "updated": "2024-02-08T00:01:13.802Z"
+      },
+      "userdata": {}
+    },
+    "3ba8dfc0-c615-11ee-bbb2-f78c6e9d2422": {
+      "source": "37161130-c615-11ee-bbb2-f78c6e9d2422",
+      "target": "3ba8b8b0-c615-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:01:39.260Z",
+        "updated": "2024-02-08T00:01:39.260Z"
+      },
+      "userdata": {}
+    },
+    "3ba8dfc1-c615-11ee-bbb2-f78c6e9d2422": {
+      "source": "3ba8b8b0-c615-11ee-bbb2-f78c6e9d2422",
+      "target": "1aaf8f30-c615-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:01:39.260Z",
+        "updated": "2024-02-08T00:01:39.260Z"
+      },
+      "userdata": {}
+    },
+    "4e1d4ce1-c615-11ee-bbb2-f78c6e9d2422": {
+      "source": "4be36270-c615-11ee-bbb2-f78c6e9d2422",
+      "target": "4e1d4ce0-c615-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:02:10.222Z",
+        "updated": "2024-02-08T00:02:10.222Z"
+      },
+      "userdata": {}
+    },
+    "4e1d4ce2-c615-11ee-bbb2-f78c6e9d2422": {
+      "source": "4e1d4ce0-c615-11ee-bbb2-f78c6e9d2422",
+      "target": "2838d490-c615-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:02:10.222Z",
+        "updated": "2024-02-08T00:02:10.222Z"
+      },
+      "userdata": {}
+    },
+    "5ae4a1d1-c615-11ee-bbb2-f78c6e9d2422": {
+      "source": "57669ea0-c615-11ee-bbb2-f78c6e9d2422",
+      "target": "5ae4a1d0-c615-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:02:31.661Z",
+        "updated": "2024-02-08T00:02:31.661Z"
+      },
+      "userdata": {}
+    },
+    "5ae4a1d2-c615-11ee-bbb2-f78c6e9d2422": {
+      "source": "5ae4a1d0-c615-11ee-bbb2-f78c6e9d2422",
+      "target": "4be36270-c615-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:02:31.661Z",
+        "updated": "2024-02-08T00:02:31.661Z"
+      },
+      "userdata": {}
+    },
+    "695fc141-c615-11ee-bbb2-f78c6e9d2422": {
+      "source": "6659d440-c615-11ee-bbb2-f78c6e9d2422",
+      "target": "695fc140-c615-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:02:55.956Z",
+        "updated": "2024-02-08T00:02:55.956Z"
+      },
+      "userdata": {}
+    },
+    "695fc142-c615-11ee-bbb2-f78c6e9d2422": {
+      "source": "695fc140-c615-11ee-bbb2-f78c6e9d2422",
+      "target": "2838d490-c615-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:02:55.956Z",
+        "updated": "2024-02-08T00:02:55.956Z"
+      },
+      "userdata": {}
+    },
+    "75a53c01-c615-11ee-bbb2-f78c6e9d2422": {
+      "source": "6ffda210-c615-11ee-bbb2-f78c6e9d2422",
+      "target": "75a53c00-c615-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:03:16.545Z",
+        "updated": "2024-02-08T00:03:16.545Z"
+      },
+      "userdata": {}
+    },
+    "75a56310-c615-11ee-bbb2-f78c6e9d2422": {
+      "source": "75a53c00-c615-11ee-bbb2-f78c6e9d2422",
+      "target": "042858f0-c615-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:03:16.545Z",
+        "updated": "2024-02-08T00:03:16.545Z"
+      },
+      "userdata": {}
+    },
+    "86b58541-c615-11ee-bbb2-f78c6e9d2422": {
+      "source": "84530430-c615-11ee-bbb2-f78c6e9d2422",
+      "target": "86b58540-c615-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:03:45.172Z",
+        "updated": "2024-02-08T00:03:45.172Z"
+      },
+      "userdata": {}
+    },
+    "86b58542-c615-11ee-bbb2-f78c6e9d2422": {
+      "source": "86b58540-c615-11ee-bbb2-f78c6e9d2422",
+      "target": "2838d490-c615-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:03:45.172Z",
+        "updated": "2024-02-08T00:03:45.172Z"
+      },
+      "userdata": {}
+    },
+    "a5c1abd1-c615-11ee-bbb2-f78c6e9d2422": {
+      "source": "a12e4100-c615-11ee-bbb2-f78c6e9d2422",
+      "target": "a5c1abd0-c615-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:04:37.261Z",
+        "updated": "2024-02-08T00:04:37.261Z"
+      },
+      "userdata": {}
+    },
+    "a5c1abd2-c615-11ee-bbb2-f78c6e9d2422": {
+      "source": "a5c1abd0-c615-11ee-bbb2-f78c6e9d2422",
+      "target": "2838d490-c615-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:04:37.261Z",
+        "updated": "2024-02-08T00:04:37.261Z"
+      },
+      "userdata": {}
+    },
+    "bcc34231-c615-11ee-bbb2-f78c6e9d2422": {
+      "source": "b5f8d320-c615-11ee-bbb2-f78c6e9d2422",
+      "target": "bcc34230-c615-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:05:15.859Z",
+        "updated": "2024-02-08T00:05:15.859Z"
+      },
+      "userdata": {}
+    },
+    "bcc34232-c615-11ee-bbb2-f78c6e9d2422": {
+      "source": "bcc34230-c615-11ee-bbb2-f78c6e9d2422",
+      "target": "2838d490-c615-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:05:15.859Z",
+        "updated": "2024-02-08T00:05:15.859Z"
+      },
+      "userdata": {}
+    },
+    "d47b3041-c615-11ee-bbb2-f78c6e9d2422": {
+      "source": "cc7cae00-c615-11ee-bbb2-f78c6e9d2422",
+      "target": "d47b3040-c615-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:05:55.652Z",
+        "updated": "2024-02-08T00:05:55.652Z"
+      },
+      "userdata": {}
+    },
+    "d47b3042-c615-11ee-bbb2-f78c6e9d2422": {
+      "source": "d47b3040-c615-11ee-bbb2-f78c6e9d2422",
+      "target": "042858f0-c615-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:05:55.652Z",
+        "updated": "2024-02-08T00:05:55.652Z"
+      },
+      "userdata": {}
+    },
+    "e659c601-c615-11ee-bbb2-f78c6e9d2422": {
+      "source": "e079de00-c615-11ee-bbb2-f78c6e9d2422",
+      "target": "e659c600-c615-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:06:25.632Z",
+        "updated": "2024-02-08T00:06:25.632Z"
+      },
+      "userdata": {}
+    },
+    "e659c602-c615-11ee-bbb2-f78c6e9d2422": {
+      "source": "e659c600-c615-11ee-bbb2-f78c6e9d2422",
+      "target": "2838d490-c615-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:06:25.632Z",
+        "updated": "2024-02-08T00:06:25.632Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "2077": {
+      "text": "Three days of national mourning have been declared in Guatemala, after 21 girls were killed in a fire, apparently started in protest against abuse at a crowded children's care home. A crowd of relatives, many of them wailing with grief, continue to gather late on Wednesday (local time) outside the Virgen de Asuncion home, in the municipality of San Jose Pinula, some 25km southwest of the capital Guatemala City. Al Jazeera's David Mercer, reporting from San Jose Pinula, said an investigation is under way, to determine what caused the fire. Our correspondent also reported that the surviving children were being transferred to other care centres and orphanages.- READ MORE: People-power and the 'Guatemalan Spring' The head of Guatemala's social welfare agency, Carlos Rodas, said youths at the shelter started rioting on Tuesday in an effort to escape. Complaints about abuse and living conditions at the overcrowded shelter have been frequent. Then on Wednesday, about 9am, \"Some of the adolescents lit their mattresses on fire,\" Rodas said. \"We don't shirk responsibility, we accept it, but we can't get those lives back.\" Julia Barrera, spokeswoman for the prosecutor's office, said at least 21 children and teenagers perished. Two hospitals said they received 41 injured girls between the ages of 13 and 17, many with second- and third-degree burns. Some of the injured had life-threatening burns. \"This is a painful situation,\" Nery Ramos, the head of Guatemala's national police, said at the scene of the fire. Riot police had been sent in to quell unrest over the crowded living conditions at the home, which was created to house children who were victims of abuse, homelessness or who had completed sentences at youth detention centres and had nowhere else to go. Some 40 residents escaped but were recaptured and isolated, Ramos said. UNICEF and the prosecutor for human rights called for the home's closure last year after complaints of overcrowding along with physical and sexual abuse. On Wednesday, UNICEF representatives were present as the police started the investigation, Al Jazeera's correspondent said. Guatemalan media reported that more than 500 people were crammed into the shelter designed to house 400. The facility has previously been the target of multiple complaints alleging abuse, and several children have run away. Guatemala's prosecutor for upholding children's rights, Hilda Morales, told reporters she was requesting that the shelter be closed due to welfare authorities' inability to manage it. \"We are going to ask for the immediate closure of the centre, and attribute administrative and criminal responsibility against those in charge of the centre for not fulfilling their duty,\" she said. She noted that last year the Inter-American Commission on Human Rights had found in favour of several adolescents who had alleged maltreatment and sexual abuse in the shelter. She stressed that those sent to the centre should receive \"better protection\" than in their families where they were abused. Another prosecutor tasked with protecting children in the country, Harold Flores, told Emisoras Unidas that since last year complaints had surged against the shelter over minors running away to escape alleged sexual abuse there. He said an investigation had been started to find the reasons and those responsible for Wednesday's tragedy. Meanwhile, Al Jazeera's Mercer reported that critics are accusing the government of not doing enough to address the complain of the residents of the care home. Source:-Al Jazeera and news agencies",
+      "title": "Girls killed in fire at San Jose Pinula child centre",
+      "source": "http://www.aljazeera.com/news/2017/03/guatemala-fire-deadly-blaze-rips-child-centre-170308172956284.html",
+      "timestamp": "2024-02-07T23:54:52.116Z",
+      "metadata": {
+        "created": "2024-02-05T09:49:22.052Z",
+        "updated": "2024-02-05T09:49:22.052Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {
+    "notes": "12min"
+  },
+  "majorClaim": "bd05e5f0-c614-11ee-bbb2-f78c6e9d2422",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-05T09:49:22.051Z",
+    "updated": "2024-02-08T00:07:08.298Z"
+  }
+}

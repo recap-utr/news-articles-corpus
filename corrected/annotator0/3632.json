@@ -1,0 +1,395 @@
+{
+  "nodes": {
+    "29a0cec1-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "\"I don't think that the Trump administration is thinking in the same terms as the slogans during the campaign, that Iran is the number one terrorist state; we don't have a single fact to substantiate this claim,\"",
+        "reference": {
+          "resource": "3632",
+          "text": "\"I don't think that the Trump administration is thinking in the same terms as the slogans during the campaign, that Iran is the number one terrorist state; we don't have a single fact to substantiate this claim,\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.00052249711433,
+            "y": 230
+          }
+        }
+      }
+    },
+    "29a0cec0-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "There is not a single fact of Iran's collaboration with terrorists",
+        "reference": {
+          "resource": "3632",
+          "offset": 26,
+          "text": "There is not a single fact of Iran's collaboration with terrorists"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 392.00090474540235,
+            "y": 12
+          }
+        }
+      }
+    },
+    "29a0cec7-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.00072205236705,
+            "y": 130
+          }
+        }
+      }
+    },
+    "29a0cec2-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "At least when we were facing a huge terrorist threat, when we were under terrorist attack in the 1990s in the northern Caucasus, we detected and discovered dozens and hundreds of foreign terrorist fighters from very close neighborship to Iran, but not from Iran at all",
+        "reference": {
+          "resource": "3632",
+          "offset": 420,
+          "text": "At least when we were facing a huge terrorist threat, when we were under terrorist attack in the 1990s in the northern Caucasus, we detected and discovered dozens and hundreds of foreign terrorist fighters from very close neighborship to Iran, but not from Iran at all"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0002936630806,
+            "y": 230
+          }
+        }
+      }
+    },
+    "29a0ceca-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0003238098005,
+            "y": 130
+          }
+        }
+      }
+    },
+    "29a0cec3-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Iran had never challenged the sovereignty of the Russian Federation, never used its own links with Muslim groups to provoke radicalism and to cause trouble",
+        "reference": {
+          "resource": "3632",
+          "offset": 854,
+          "text": "Iran had never challenged the sovereignty of the Russian Federation, never used its own links with Muslim groups to provoke radicalism and to cause trouble"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.0003531817244,
+            "y": 230
+          }
+        }
+      }
+    },
+    "29a0cecd-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0003080066997,
+            "y": 130
+          }
+        }
+      }
+    },
+    "29a0cec4-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Russia, Iran and those that cooperate with the Syrian army, \"are fighting terrorists in Syria,\"",
+        "reference": {
+          "resource": "3632",
+          "offset": 1022,
+          "text": "Russia, Iran and those that cooperate with the Syrian army, \"are fighting terrorists in Syria,\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000923798744628,
+            "y": 290
+          }
+        }
+      }
+    },
+    "29a0ced0-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00007441514366,
+            "y": 130
+          }
+        }
+      }
+    },
+    "29a0cec6-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "\"And if we all want, you know, to topple, to defeat terrorists in Syria, there should be some coordination.\"",
+        "reference": {
+          "resource": "3632",
+          "offset": 1330,
+          "text": "\"And if we all want, you know, to topple, to defeat terrorists in Syria, there should be some coordination.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000638232733357,
+            "y": 592
+          }
+        }
+      }
+    },
+    "29a0ced6-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00034721318072,
+            "y": 492
+          }
+        }
+      }
+    },
+    "d8dc8530-fbe4-11ee-88a6-a31b3673e116": {
+      "atom": {
+        "text": "And we know that the political circles in quite a number of countries were really encouraging these terrorist groups to go into the northern Caucasus.",
+        "reference": {
+          "text": "And we know that the political circles in quite a number of countries were really encouraging these terrorist groups to go into the northern Caucasus."
+        }
+      },
+      "metadata": {
+        "created": "2024-04-16T11:31:20.451Z",
+        "updated": "2024-04-16T11:31:20.451Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0008122773663,
+            "y": 592
+          }
+        }
+      }
+    },
+    "e0614390-fbe4-11ee-88a6-a31b3673e116": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-16T11:31:33.065Z",
+        "updated": "2024-04-16T11:31:33.065Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0007049765309,
+            "y": 492
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "29a0cec8-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "source": "29a0cec1-c8e3-11ee-a7b6-0184e7d3dd10",
+      "target": "29a0cec7-c8e3-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {}
+    },
+    "29a0cec9-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "source": "29a0cec7-c8e3-11ee-a7b6-0184e7d3dd10",
+      "target": "29a0cec0-c8e3-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {}
+    },
+    "29a0cecb-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "source": "29a0cec2-c8e3-11ee-a7b6-0184e7d3dd10",
+      "target": "29a0ceca-c8e3-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {}
+    },
+    "29a0cecc-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "source": "29a0ceca-c8e3-11ee-a7b6-0184e7d3dd10",
+      "target": "29a0cec0-c8e3-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {}
+    },
+    "29a0cece-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "source": "29a0cec3-c8e3-11ee-a7b6-0184e7d3dd10",
+      "target": "29a0cecd-c8e3-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {}
+    },
+    "29a0cecf-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "source": "29a0cecd-c8e3-11ee-a7b6-0184e7d3dd10",
+      "target": "29a0cec0-c8e3-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {}
+    },
+    "29a0ced1-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "source": "29a0cec4-c8e3-11ee-a7b6-0184e7d3dd10",
+      "target": "29a0ced0-c8e3-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {}
+    },
+    "29a0ced2-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "source": "29a0ced0-c8e3-11ee-a7b6-0184e7d3dd10",
+      "target": "29a0cec0-c8e3-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {}
+    },
+    "29a0ced7-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "source": "29a0cec6-c8e3-11ee-a7b6-0184e7d3dd10",
+      "target": "29a0ced6-c8e3-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {}
+    },
+    "29a0ced8-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "source": "29a0ced6-c8e3-11ee-a7b6-0184e7d3dd10",
+      "target": "29a0cec4-c8e3-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {}
+    },
+    "e0614391-fbe4-11ee-88a6-a31b3673e116": {
+      "source": "d8dc8530-fbe4-11ee-88a6-a31b3673e116",
+      "target": "e0614390-fbe4-11ee-88a6-a31b3673e116",
+      "metadata": {
+        "created": "2024-04-16T11:31:33.066Z",
+        "updated": "2024-04-16T11:31:33.066Z"
+      },
+      "userdata": {}
+    },
+    "e0616aa0-fbe4-11ee-88a6-a31b3673e116": {
+      "source": "e0614390-fbe4-11ee-88a6-a31b3673e116",
+      "target": "29a0cec2-c8e3-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-04-16T11:31:33.066Z",
+        "updated": "2024-04-16T11:31:33.066Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "3632": {
+      "text": "MOSCOW, March 29. /TASS/. There is not a single fact of Iran's collaboration with terrorists, Russian Foreign Minister Sergey-Lavrov said in an interview with the-National Interest magazine.   \"I don\"t think that the Trump administration is thinking in the same terms as the slogans during the campaign, that Iran is the number one terrorist state; we don\"t have a single fact to substantiate this claim,\" Lavrov said. \"At least when we were facing a huge terrorist threat, when we were under terrorist attack in the 1990s in the northern Caucasus, we detected and discovered dozens and hundreds of foreign terrorist fighters from very close neighborship to Iran, but not from Iran at all,\" he said. \"And we know that the political circles in quite a number of countries were really encouraging these terrorist groups to go into the northern Caucasus.\" \"Iran had never challenged the sovereignty of the Russian Federation, never used its own links with Muslim groups to provoke radicalism and to cause trouble,\" he added. Russia, Iran and those that cooperate with the Syrian army, \"are fighting terrorists in Syria,\" he said. \"Iran is a powerful player on the ground, legally-invited by the government. Iran has influence over the Lebanese Hezbollah, which is also legitimately on the ground,\" the Russian foreign minister said. \"And if we all want, you know, to topple, to defeat terrorists in Syria, there should be some coordination.\"-  ",
+      "title": "Lavrov reiterates there are no facts substantiating Iran's links to terrorists",
+      "source": "http://tass.com/politics/938313",
+      "timestamp": "2017-03-29T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.208Z",
+        "updated": "2024-02-09T13:09:16.208Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "6fda64d0-fbda-11ee-88a6-a31b3673e116": {
+      "name": "annotator0",
+      "email": "s4kibart@uni-trier.de",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "29a0cec0-c8e3-11ee-a7b6-0184e7d3dd10",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.208Z",
+    "updated": "2024-04-16T11:33:10.400Z"
+  },
+  "userdata": {}
+}

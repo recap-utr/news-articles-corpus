@@ -1,0 +1,1109 @@
+{
+  "nodes": {
+    "a4c756c0-c427-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "it's time for President Donald Trump to apologize for the false claims he made about wiretapping",
+        "reference": {
+          "resource": "3096",
+          "offset": 120,
+          "text": "it's time for President Donald Trump to apologize for the false claims he made about wiretapping"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:08:24.236Z",
+        "updated": "2024-02-05T13:08:24.236Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 90.14426594983911,
+            "y": -33.091322291334706
+          }
+        }
+      }
+    },
+    "b298efc0-c427-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "it never hurts to say you'r sorry",
+        "reference": {
+          "resource": "3096",
+          "offset": 331,
+          "text": "it never hurts to say you'r sorry"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:08:47.420Z",
+        "updated": "2024-02-05T13:08:47.420Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -65.42007797893962,
+            "y": 270.5789441700856
+          }
+        }
+      }
+    },
+    "b514ec40-c427-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:08:51.588Z",
+        "updated": "2024-02-05T13:08:51.588Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.362093985449746,
+            "y": 118.74381093937545
+          }
+        }
+      }
+    },
+    "cf17dbc0-c427-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Hurd is the second Republican to say Trump \"?a man loath to admit any errors \"?should apologize to former President Barack Obama over his unsubstantiated claim he tapped the phones in Trump Tower",
+        "reference": {
+          "resource": "3096",
+          "offset": 451,
+          "text": "Hurd is the second Republican to say Trump \"?a man loath to admit any errors \"?should apologize to former President Barack Obama over his unsubstantiated claim he tapped the phones in Trump Tower"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:09:35.228Z",
+        "updated": "2024-02-05T13:09:35.228Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 227.95709518044987,
+            "y": 246.40472651633286
+          }
+        }
+      }
+    },
+    "d1ed9100-c427-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:09:39.984Z",
+        "updated": "2024-02-05T13:09:39.984Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 258.83283194460176,
+            "y": 112.3695677162939
+          }
+        }
+      }
+    },
+    "22789d90-c428-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Republicans have struggled to defend Trump after he insisted repeatedly that Obama wiretapped him during the campaign, which he later amended to claiming general surveillance",
+        "reference": {
+          "resource": "3096",
+          "offset": 697,
+          "text": "Republicans have struggled to defend Trump after he insisted repeatedly that Obama wiretapped him during the campaign, which he later amended to claiming general surveillance"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:11:55.113Z",
+        "updated": "2024-02-05T13:11:55.113Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 214.7334082022678,
+            "y": 580.8278978377953
+          }
+        }
+      }
+    },
+    "2bd10a80-c428-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Trump has produced no evidence that this is true, either to the public or to Congress, according to members",
+        "reference": {
+          "resource": "3096",
+          "offset": 873,
+          "text": "Trump has produced no evidence that this is true, either to the public or to Congress, according to members"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:12:10.792Z",
+        "updated": "2024-02-05T13:12:10.792Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 201.20119436941957,
+            "y": 869.5151262718895
+          }
+        }
+      }
+    },
+    "32cce9d0-c428-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:12:22.509Z",
+        "updated": "2024-02-05T13:12:22.509Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 368.50807712358255,
+            "y": 470.56437872363335
+          }
+        }
+      }
+    },
+    "38277530-c428-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:12:31.491Z",
+        "updated": "2024-02-05T13:12:31.491Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 259.8407876450949,
+            "y": 773.6619449558816
+          }
+        }
+      }
+    },
+    "56ab58f0-c428-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:13:22.687Z",
+        "updated": "2024-02-05T13:13:22.687Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 499.1000286469367,
+            "y": 140.82848035600318
+          }
+        }
+      }
+    },
+    "72e96b60-c428-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "We're got to make sure that we'r all working together,\"?Hurd said. \"We live in a dangerous world and we can\"t do this alone",
+        "reference": {
+          "resource": "3096",
+          "offset": 1323,
+          "text": "We're got to make sure that we'r all working together,\"?Hurd said. \"We live in a dangerous world and we can\"t do this alone"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:14:10.070Z",
+        "updated": "2024-02-05T13:14:10.070Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 989.8178118506542,
+            "y": 402.0816104427094
+          }
+        }
+      }
+    },
+    "78457d60-c428-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:14:19.062Z",
+        "updated": "2024-02-05T13:14:19.062Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 842.8025189071859,
+            "y": 115.48381786854026
+          }
+        }
+      }
+    },
+    "9c9d6240-c428-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Sen. Collins wants Trump to explain his comments before she will say whether she thinks he should apologize to Obama",
+        "reference": {
+          "resource": "3096",
+          "offset": 1685,
+          "text": "she wants Trump to explain his comments before she will say whether she thinks he should apologize to Obama"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:15:20.037Z",
+        "updated": "2024-02-05T13:15:20.037Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1084.9677960883569,
+            "y": 102.01151347767089
+          }
+        }
+      }
+    },
+    "aa339ff0-c428-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:15:42.831Z",
+        "updated": "2024-02-05T13:15:42.831Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 966.7500245469738,
+            "y": 14.607006926787136
+          }
+        }
+      }
+    },
+    "c4c86f30-c428-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "he owes us that explanation",
+        "reference": {
+          "resource": "3096",
+          "offset": 2052,
+          "text": "I do believe he owes us that explanation"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:16:27.427Z",
+        "updated": "2024-02-05T13:16:27.427Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1335.5488941439887,
+            "y": 447.4253314950632
+          }
+        }
+      }
+    },
+    "c7901ab0-c428-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:16:32.092Z",
+        "updated": "2024-02-05T13:16:32.092Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1286.955273980872,
+            "y": 284.1978181887457
+          }
+        }
+      }
+    },
+    "d7748e20-c428-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "It doesn\"t appear likely that Trump will take the advice of Hurd and Cole anytime soon",
+        "reference": {
+          "resource": "3096",
+          "offset": 2097,
+          "text": "It doesn\"t appear likely that Trump will take the advice of Hurd and Cole anytime soon"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:16:58.754Z",
+        "updated": "2024-02-05T13:16:58.754Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -470.70686878196886,
+            "y": 137.1905630535819
+          }
+        }
+      }
+    },
+    "da24e110-c428-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:17:03.266Z",
+        "updated": "2024-02-05T13:17:03.266Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -190.28130141606488,
+            "y": 52.0496203811236
+          }
+        }
+      }
+    },
+    "e0d81ea0-c428-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "He spent years accusing Obama of faking his U.S. citizenship and has never publicly said he was sorry for doing so",
+        "reference": {
+          "resource": "3096",
+          "offset": 2185,
+          "text": "He spent years accusing Obama of faking his U.S. citizenship and has never publicly said he was sorry for doing so"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:17:14.506Z",
+        "updated": "2024-02-05T13:17:14.506Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -479.32450123867676,
+            "y": 378.48427184140075
+          }
+        }
+      }
+    },
+    "e38e6500-c428-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:17:19.056Z",
+        "updated": "2024-02-05T13:17:19.056Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -456.0568936055657,
+            "y": 271.6256293782239
+          }
+        }
+      }
+    },
+    "edb62fe0-c428-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "he finally said last year he thinks the former president is a citizen after all",
+        "reference": {
+          "resource": "3096",
+          "offset": 2310,
+          "text": "he finally said last year he thinks the former president is a citizen after all"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:17:36.094Z",
+        "updated": "2024-02-05T13:17:36.094Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -674.0829947602734,
+            "y": 761.1071529192277
+          }
+        }
+      }
+    },
+    "f0dceb50-c428-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:17:41.381Z",
+        "updated": "2024-02-05T13:17:41.381Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -576.7037479994751,
+            "y": 569.7957123803142
+          }
+        }
+      }
+    },
+    "32b1f250-c429-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "It's not just Obama who deserves an apology, but also United Kingdom officials",
+        "reference": {
+          "resource": "3096",
+          "offset": 982,
+          "text": "It's not just Obama who deserves an apology, but also United Kingdom officials"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:19:31.829Z",
+        "updated": "2024-02-05T13:19:31.829Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 582.3678174277261,
+            "y": 290.584420782981
+          }
+        }
+      }
+    },
+    "4094a250-c429-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "They were dragged into the controversy-when White House press secretary Sean Spicer, seeking to back up Trump's remarks, quoted a Fox News analyst's claim that their intelligence agency assisted in Obama's surveillance effort",
+        "reference": {
+          "resource": "3096",
+          "offset": 1073,
+          "text": "They were dragged into the controversy-when White House press secretary Sean Spicer, seeking to back up Trump's remarks, quoted a Fox News analyst's claim that their intelligence agency assisted in Obama's surveillance effort"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:19:55.125Z",
+        "updated": "2024-02-05T13:19:55.125Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 546.1737611095534,
+            "y": 797.3012092374005
+          }
+        }
+      }
+    },
+    "433787c0-c429-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:19:59.548Z",
+        "updated": "2024-02-05T13:19:59.548Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 645.2765343616932,
+            "y": 541.3575252731785
+          }
+        }
+      }
+    },
+    "7d4262f0-c429-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "His administration's efforts to smooth over the tension with the United Kingdom were spotty",
+        "reference": {
+          "resource": "3096",
+          "offset": 2391,
+          "text": "His administration's efforts to smooth over the tension with the United Kingdom were spotty"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:21:36.927Z",
+        "updated": "2024-02-05T13:21:36.927Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 792.6380493713966,
+            "y": 566.3486593976311
+          }
+        }
+      }
+    },
+    "7fee2200-c429-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:21:41.408Z",
+        "updated": "2024-02-05T13:21:41.408Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 768.5086784926149,
+            "y": 433.63711956433065
+          }
+        }
+      }
+    },
+    "9a151440-c429-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:22:25.284Z",
+        "updated": "2024-02-05T13:22:25.284Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 908.9760875369523,
+            "y": 704.230778704956
+          }
+        }
+      }
+    },
+    "d3886a60-c429-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "publicly, White House officials and the president himself have not expressed regret ",
+        "reference": {
+          "resource": "3096",
+          "offset": 2734,
+          "text": "publicly, White House officials and the president himself have not expressed regret "
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:24:01.670Z",
+        "updated": "2024-02-05T13:24:01.670Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 912.9165189613016,
+            "y": 850.5768984182018
+          }
+        }
+      }
+    },
+    "21a38860-c42a-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "I don\"t think we regret anything,\"?Spicer told reporters on Friday. \"As the president said, I was just reading off media reports",
+        "reference": {
+          "resource": "3096",
+          "offset": 3222,
+          "text": "I don\"t think we regret anything,\"?Spicer told reporters on Friday. \"As the president said, I was just reading off media reports"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:26:12.710Z",
+        "updated": "2024-02-05T13:26:12.710Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1231.5013554749116,
+            "y": 1112.7943604389293
+          }
+        }
+      }
+    },
+    "3b35b4b0-c42a-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "instead, they're said they were simply quoting the Fox News commentator, Andrew Napolitano, a former New Jersey judge. Trump insisted on Friday that he and his top aides-\"said nothing.\"?\"All we did was quote a certain very talented legal mind who was the one responsible for saying that on television. I didn\"t make an opinion on it. ... You shouldn\"t be talking to me. You should be talking to Fox",
+        "reference": {
+          "resource": "3096",
+          "offset": 2820,
+          "text": "instead, they're said they were simply quoting the Fox News commentator, Andrew Napolitano, a former New Jersey judge. Trump insisted on Friday that he and his top aides-\"said nothing.\"?\"All we did was quote a certain very talented legal mind who was the one responsible for saying that on television. I didn\"t make an opinion on it. ... You shouldn\"t be talking to me. You should be talking to Fox"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:26:55.611Z",
+        "updated": "2024-02-05T13:26:55.611Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 851.2435873437555,
+            "y": 1099.7288507335775
+          }
+        }
+      }
+    },
+    "3d3ef230-c42a-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:26:59.027Z",
+        "updated": "2024-02-05T13:26:59.027Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 882.0800531525285,
+            "y": 975.1528745758897
+          }
+        }
+      }
+    },
+    "4044df30-c42a-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:27:04.099Z",
+        "updated": "2024-02-05T13:27:04.099Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1072.2089372181067,
+            "y": 981.6856294285656
+          }
+        }
+      }
+    },
+    "ccccabe0-c42a-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Napolitano stood by his comments. Again, with no evidence",
+        "reference": {
+          "resource": "3096",
+          "offset": 3424,
+          "text": "Napolitano stood by his comments. Again, with no evidence"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:30:59.870Z",
+        "updated": "2024-02-05T13:30:59.870Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 852.8197099570543,
+            "y": 1559.8903723585531
+          }
+        }
+      }
+    },
+    "d0352b40-c42a-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:31:05.588Z",
+        "updated": "2024-02-05T13:31:05.588Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 959.7203579543576,
+            "y": 1460.9940392436076
+          }
+        }
+      }
+    },
+    "e0e57a30-c42a-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Fox News cannot confirm the judge's commentary,\"?Smith said. \"Fox News knows of no evidence of any kind that the President of the United States was surveilled at any time in any way \"?full stop.",
+        "reference": {
+          "resource": "3096",
+          "offset": 3540,
+          "text": "Fox News cannot confirm the judge's commentary,\"?Smith said. \"Fox News knows of no evidence of any kind that the President of the United States was surveilled at any time in any way \"?full stop."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:31:33.587Z",
+        "updated": "2024-02-05T13:31:33.587Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1353.3851497800838,
+            "y": 1550.5010915205328
+          }
+        }
+      }
+    },
+    "e3e832e0-c42a-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:31:38.638Z",
+        "updated": "2024-02-05T13:31:38.638Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1259.1552792740026,
+            "y": 1462.9970904343807
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "b514ec41-c427-11ee-a06c-cb1cbb90ffa4": {
+      "source": "b298efc0-c427-11ee-a06c-cb1cbb90ffa4",
+      "target": "b514ec40-c427-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:08:51.588Z",
+        "updated": "2024-02-05T13:08:51.588Z"
+      },
+      "userdata": {}
+    },
+    "b514ec42-c427-11ee-a06c-cb1cbb90ffa4": {
+      "source": "b514ec40-c427-11ee-a06c-cb1cbb90ffa4",
+      "target": "a4c756c0-c427-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:08:51.588Z",
+        "updated": "2024-02-05T13:08:51.588Z"
+      },
+      "userdata": {}
+    },
+    "d1ed9101-c427-11ee-a06c-cb1cbb90ffa4": {
+      "source": "cf17dbc0-c427-11ee-a06c-cb1cbb90ffa4",
+      "target": "d1ed9100-c427-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:09:39.984Z",
+        "updated": "2024-02-05T13:09:39.984Z"
+      },
+      "userdata": {}
+    },
+    "d1ed9102-c427-11ee-a06c-cb1cbb90ffa4": {
+      "source": "d1ed9100-c427-11ee-a06c-cb1cbb90ffa4",
+      "target": "a4c756c0-c427-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:09:39.984Z",
+        "updated": "2024-02-05T13:09:39.984Z"
+      },
+      "userdata": {}
+    },
+    "32cce9d1-c428-11ee-a06c-cb1cbb90ffa4": {
+      "source": "22789d90-c428-11ee-a06c-cb1cbb90ffa4",
+      "target": "32cce9d0-c428-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:12:22.509Z",
+        "updated": "2024-02-05T13:12:22.509Z"
+      },
+      "userdata": {}
+    },
+    "32cd10e0-c428-11ee-a06c-cb1cbb90ffa4": {
+      "source": "32cce9d0-c428-11ee-a06c-cb1cbb90ffa4",
+      "target": "cf17dbc0-c427-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:12:22.510Z",
+        "updated": "2024-02-05T13:12:22.510Z"
+      },
+      "userdata": {}
+    },
+    "38277531-c428-11ee-a06c-cb1cbb90ffa4": {
+      "source": "2bd10a80-c428-11ee-a06c-cb1cbb90ffa4",
+      "target": "38277530-c428-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:12:31.491Z",
+        "updated": "2024-02-05T13:12:31.491Z"
+      },
+      "userdata": {}
+    },
+    "38277532-c428-11ee-a06c-cb1cbb90ffa4": {
+      "source": "38277530-c428-11ee-a06c-cb1cbb90ffa4",
+      "target": "22789d90-c428-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:12:31.491Z",
+        "updated": "2024-02-05T13:12:31.491Z"
+      },
+      "userdata": {}
+    },
+    "56ab58f1-c428-11ee-a06c-cb1cbb90ffa4": {
+      "source": "52bd7cf0-c428-11ee-a06c-cb1cbb90ffa4",
+      "target": "56ab58f0-c428-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:13:22.687Z",
+        "updated": "2024-02-05T13:13:22.687Z"
+      },
+      "userdata": {}
+    },
+    "56ab58f2-c428-11ee-a06c-cb1cbb90ffa4": {
+      "source": "56ab58f0-c428-11ee-a06c-cb1cbb90ffa4",
+      "target": "a4c756c0-c427-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:13:22.687Z",
+        "updated": "2024-02-05T13:13:22.687Z"
+      },
+      "userdata": {}
+    },
+    "78457d61-c428-11ee-a06c-cb1cbb90ffa4": {
+      "source": "72e96b60-c428-11ee-a06c-cb1cbb90ffa4",
+      "target": "78457d60-c428-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:14:19.062Z",
+        "updated": "2024-02-05T13:14:19.062Z"
+      },
+      "userdata": {}
+    },
+    "78457d62-c428-11ee-a06c-cb1cbb90ffa4": {
+      "source": "78457d60-c428-11ee-a06c-cb1cbb90ffa4",
+      "target": "a4c756c0-c427-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:14:19.062Z",
+        "updated": "2024-02-05T13:14:19.062Z"
+      },
+      "userdata": {}
+    },
+    "aa339ff1-c428-11ee-a06c-cb1cbb90ffa4": {
+      "source": "9c9d6240-c428-11ee-a06c-cb1cbb90ffa4",
+      "target": "aa339ff0-c428-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:15:42.831Z",
+        "updated": "2024-02-05T13:15:42.831Z"
+      },
+      "userdata": {}
+    },
+    "aa339ff2-c428-11ee-a06c-cb1cbb90ffa4": {
+      "source": "aa339ff0-c428-11ee-a06c-cb1cbb90ffa4",
+      "target": "a4c756c0-c427-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:15:42.831Z",
+        "updated": "2024-02-05T13:15:42.831Z"
+      },
+      "userdata": {}
+    },
+    "c79041c0-c428-11ee-a06c-cb1cbb90ffa4": {
+      "source": "c4c86f30-c428-11ee-a06c-cb1cbb90ffa4",
+      "target": "c7901ab0-c428-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:16:32.092Z",
+        "updated": "2024-02-05T13:16:32.092Z"
+      },
+      "userdata": {}
+    },
+    "c79041c1-c428-11ee-a06c-cb1cbb90ffa4": {
+      "source": "c7901ab0-c428-11ee-a06c-cb1cbb90ffa4",
+      "target": "9c9d6240-c428-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:16:32.092Z",
+        "updated": "2024-02-05T13:16:32.092Z"
+      },
+      "userdata": {}
+    },
+    "da250820-c428-11ee-a06c-cb1cbb90ffa4": {
+      "source": "d7748e20-c428-11ee-a06c-cb1cbb90ffa4",
+      "target": "da24e110-c428-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:17:03.266Z",
+        "updated": "2024-02-05T13:17:03.266Z"
+      },
+      "userdata": {}
+    },
+    "da250821-c428-11ee-a06c-cb1cbb90ffa4": {
+      "source": "da24e110-c428-11ee-a06c-cb1cbb90ffa4",
+      "target": "a4c756c0-c427-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:17:03.266Z",
+        "updated": "2024-02-05T13:17:03.266Z"
+      },
+      "userdata": {}
+    },
+    "e38e6501-c428-11ee-a06c-cb1cbb90ffa4": {
+      "source": "e0d81ea0-c428-11ee-a06c-cb1cbb90ffa4",
+      "target": "e38e6500-c428-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:17:19.056Z",
+        "updated": "2024-02-05T13:17:19.056Z"
+      },
+      "userdata": {}
+    },
+    "e38e6502-c428-11ee-a06c-cb1cbb90ffa4": {
+      "source": "e38e6500-c428-11ee-a06c-cb1cbb90ffa4",
+      "target": "d7748e20-c428-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:17:19.056Z",
+        "updated": "2024-02-05T13:17:19.056Z"
+      },
+      "userdata": {}
+    },
+    "f0dd1260-c428-11ee-a06c-cb1cbb90ffa4": {
+      "source": "edb62fe0-c428-11ee-a06c-cb1cbb90ffa4",
+      "target": "f0dceb50-c428-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:17:41.382Z",
+        "updated": "2024-02-05T13:17:41.382Z"
+      },
+      "userdata": {}
+    },
+    "f0dd1261-c428-11ee-a06c-cb1cbb90ffa4": {
+      "source": "f0dceb50-c428-11ee-a06c-cb1cbb90ffa4",
+      "target": "e0d81ea0-c428-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:17:41.382Z",
+        "updated": "2024-02-05T13:17:41.382Z"
+      },
+      "userdata": {}
+    },
+    "345fc960-c429-11ee-a06c-cb1cbb90ffa4": {
+      "source": "32b1f250-c429-11ee-a06c-cb1cbb90ffa4",
+      "target": "56ab58f0-c428-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:19:34.646Z",
+        "updated": "2024-02-05T13:19:34.646Z"
+      },
+      "userdata": {}
+    },
+    "433787c1-c429-11ee-a06c-cb1cbb90ffa4": {
+      "source": "4094a250-c429-11ee-a06c-cb1cbb90ffa4",
+      "target": "433787c0-c429-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:19:59.548Z",
+        "updated": "2024-02-05T13:19:59.548Z"
+      },
+      "userdata": {}
+    },
+    "433787c2-c429-11ee-a06c-cb1cbb90ffa4": {
+      "source": "433787c0-c429-11ee-a06c-cb1cbb90ffa4",
+      "target": "32b1f250-c429-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:19:59.548Z",
+        "updated": "2024-02-05T13:19:59.548Z"
+      },
+      "userdata": {}
+    },
+    "7fee2201-c429-11ee-a06c-cb1cbb90ffa4": {
+      "source": "7d4262f0-c429-11ee-a06c-cb1cbb90ffa4",
+      "target": "7fee2200-c429-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:21:41.408Z",
+        "updated": "2024-02-05T13:21:41.408Z"
+      },
+      "userdata": {}
+    },
+    "7fee2202-c429-11ee-a06c-cb1cbb90ffa4": {
+      "source": "7fee2200-c429-11ee-a06c-cb1cbb90ffa4",
+      "target": "32b1f250-c429-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:21:41.408Z",
+        "updated": "2024-02-05T13:21:41.408Z"
+      },
+      "userdata": {}
+    },
+    "9a151441-c429-11ee-a06c-cb1cbb90ffa4": {
+      "source": "98213380-c429-11ee-a06c-cb1cbb90ffa4",
+      "target": "9a151440-c429-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:22:25.284Z",
+        "updated": "2024-02-05T13:22:25.284Z"
+      },
+      "userdata": {}
+    },
+    "9a151442-c429-11ee-a06c-cb1cbb90ffa4": {
+      "source": "9a151440-c429-11ee-a06c-cb1cbb90ffa4",
+      "target": "7d4262f0-c429-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:22:25.284Z",
+        "updated": "2024-02-05T13:22:25.284Z"
+      },
+      "userdata": {}
+    },
+    "b96c9bb0-c429-11ee-a06c-cb1cbb90ffa4": {
+      "source": "b84d7010-c429-11ee-a06c-cb1cbb90ffa4",
+      "target": "9a151440-c429-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:23:17.867Z",
+        "updated": "2024-02-05T13:23:17.867Z"
+      },
+      "userdata": {}
+    },
+    "d4ecdc60-c429-11ee-a06c-cb1cbb90ffa4": {
+      "source": "d3886a60-c429-11ee-a06c-cb1cbb90ffa4",
+      "target": "9a151440-c429-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:24:04.006Z",
+        "updated": "2024-02-05T13:24:04.006Z"
+      },
+      "userdata": {}
+    },
+    "3d3ef231-c42a-11ee-a06c-cb1cbb90ffa4": {
+      "source": "3b35b4b0-c42a-11ee-a06c-cb1cbb90ffa4",
+      "target": "3d3ef230-c42a-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:26:59.027Z",
+        "updated": "2024-02-05T13:26:59.027Z"
+      },
+      "userdata": {}
+    },
+    "3d3ef232-c42a-11ee-a06c-cb1cbb90ffa4": {
+      "source": "3d3ef230-c42a-11ee-a06c-cb1cbb90ffa4",
+      "target": "d3886a60-c429-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:26:59.027Z",
+        "updated": "2024-02-05T13:26:59.027Z"
+      },
+      "userdata": {}
+    },
+    "4044df31-c42a-11ee-a06c-cb1cbb90ffa4": {
+      "source": "21a38860-c42a-11ee-a06c-cb1cbb90ffa4",
+      "target": "4044df30-c42a-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:27:04.099Z",
+        "updated": "2024-02-05T13:27:04.099Z"
+      },
+      "userdata": {}
+    },
+    "4044df32-c42a-11ee-a06c-cb1cbb90ffa4": {
+      "source": "4044df30-c42a-11ee-a06c-cb1cbb90ffa4",
+      "target": "d3886a60-c429-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:27:04.099Z",
+        "updated": "2024-02-05T13:27:04.099Z"
+      },
+      "userdata": {}
+    },
+    "d0352b41-c42a-11ee-a06c-cb1cbb90ffa4": {
+      "source": "ccccabe0-c42a-11ee-a06c-cb1cbb90ffa4",
+      "target": "d0352b40-c42a-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:31:05.588Z",
+        "updated": "2024-02-05T13:31:05.588Z"
+      },
+      "userdata": {}
+    },
+    "d0352b42-c42a-11ee-a06c-cb1cbb90ffa4": {
+      "source": "d0352b40-c42a-11ee-a06c-cb1cbb90ffa4",
+      "target": "3b35b4b0-c42a-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:31:05.588Z",
+        "updated": "2024-02-05T13:31:05.588Z"
+      },
+      "userdata": {}
+    },
+    "e3e832e1-c42a-11ee-a06c-cb1cbb90ffa4": {
+      "source": "e0e57a30-c42a-11ee-a06c-cb1cbb90ffa4",
+      "target": "e3e832e0-c42a-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:31:38.638Z",
+        "updated": "2024-02-05T13:31:38.638Z"
+      },
+      "userdata": {}
+    },
+    "e3e832e2-c42a-11ee-a06c-cb1cbb90ffa4": {
+      "source": "e3e832e0-c42a-11ee-a06c-cb1cbb90ffa4",
+      "target": "3b35b4b0-c42a-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:31:38.638Z",
+        "updated": "2024-02-05T13:31:38.638Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "3096": {
+      "text": "Rep. Will Hurd (R-Texas), a member of the House Intelligence Committee and former CIA agent, said Sunday that he thinks it's time for President Donald Trump to apologize for the false claims he made about wiretapping. \"to quote my 85-year-old father, Bob Hurd, who has given this advice to all of my friends when they got married, it never hurts to say you'r sorry,\"?Hurd said on ABC's \"This Week,\"?echoing a similar comment he made to CNN on Friday. Hurd is the second Republican to say Trump \"?a man loath to admit any errors \"?should apologize to former President Barack Obama over his unsubstantiated claim he tapped the phones in Trump Tower. Rep. Tom Cole (R-Okla.) said the same on Friday. Republicans have struggled to defend Trump after he insisted repeatedly that Obama wiretapped him during the campaign, which he later amended to claiming general surveillance. Trump has produced no evidence that this is true, either to the public or to Congress, according to members. It's not just Obama who deserves an apology, but also United Kingdom officials, Hurd said. They were dragged into the controversy-when White House press secretary Sean Spicer, seeking to back up Trump's remarks, quoted a Fox News analyst's claim that their intelligence agency assisted in Obama's surveillance effort. The U.K. denied this. \"We're got to make sure that we'r all working together,\"?Hurd said. \"We live in a dangerous world and we can\"t do this alone. ... It's not just sorry to the president, but also to the U.K. for the claims or intimation that the U.K. was involved in this as well,\"?he said. \"It doesn\"t hurt.\"?Sen. Susan Collins (R-Maine) said Sunday on NBC's \"Teet the Press\"?that she wants Trump to explain his comments before she will say whether she thinks he should apologize to Obama. \"I'd like to first get to the bottom of this before saying what should be done,\"?Collins said. \"I don\"t know of the basis for President Trump's assertion and that's what I wish he would explain to us on the Intelligence Committee and to the American people. I do believe he owes us that explanation.\"?- It doesn\"t appear likely that Trump will take the advice of Hurd and Cole anytime soon. He spent years accusing Obama of faking his U.S. citizenship and has never publicly said he was sorry for doing so, although he finally said last year he thinks the former president is a citizen after all. His administration's efforts to smooth over the tension with the United Kingdom were spotty. British Prime Minister Theresa May's official spokesman said last week that White House officials assured them they would not repeat the claim, and several news outlets reported that Spicer and national security adviser H.R. McMaster apologized. But publicly, White House officials and the president himself have not expressed regret \"?instead, they're said they were simply quoting the Fox News commentator, Andrew Napolitano, a former New Jersey judge. Trump insisted on Friday that he and his top aides-\"said nothing.\"?\"All we did was quote a certain very talented legal mind who was the one responsible for saying that on television. I didn\"t make an opinion on it. ... You shouldn\"t be talking to me. You should be talking to Fox.\"?\"I don\"t think we regret anything,\"?Spicer told reporters on Friday. \"As the president said, I was just reading off media reports.\"?Afterward, people did talk to Fox News, which said in a statement that Napolitano stood by his comments. Again, with no evidence. Fox News anchor Shep Smith said they couldn\"t find any. \"Fox News cannot confirm the judge's commentary,\"?Smith said. \"Fox News knows of no evidence of any kind that the President of the United States was surveilled at any time in any way \"?full stop.\"?- - Do you have information you want to share with the Huffington Post? Here's how. Share this slide: How will Trump's first 100 days impact you? Learn more",
+      "title": "Republican Congressman Says Trump Should Apologize To Obama And The UK",
+      "source": "http://www.huffingtonpost.com/2017/03/19/will-hurd-trump-apologize_n_15470482.html",
+      "timestamp": "2024-02-05T13:07:58.343Z",
+      "metadata": {
+        "created": "2024-02-05T09:49:22.026Z",
+        "updated": "2024-02-05T09:49:22.026Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "69ca24d0-c5b2-11ee-bbb2-f78c6e9d2422": {
+      "name": "Martin Hoppe",
+      "email": "mogramming@gmail.com",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "a4c756c0-c427-11ee-a06c-cb1cbb90ffa4",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-05T09:49:22.026Z",
+    "updated": "2024-04-17T08:03:44.502Z"
+  },
+  "userdata": {}
+}

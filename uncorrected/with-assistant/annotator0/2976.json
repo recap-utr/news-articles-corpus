@@ -1,0 +1,514 @@
+{
+  "nodes": {
+    "a1d19ab0-c77a-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Yulia Samoilova, who will represent Russia at the Eurovision-2017 song contest in Ukraine dismissed as \"laughable\" the Ukrainian authorities' threats not to allow her cross the country's border",
+        "reference": {
+          "resource": "2976",
+          "text": "Yulia Samoilova, who will represent Russia at the Eurovision-2017 song contest in Ukraine dismissed as \"laughable\" the Ukrainian authorities' threats not to allow her cross the country's border"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:40:00.987Z",
+        "updated": "2024-02-09T18:40:00.987Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Claims about the absurdity of the Ukrainian authorities' threats."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 392.0000201005732,
+            "y": 12
+          }
+        }
+      }
+    },
+    "a1d19ab1-c77a-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "\"It's all laughable, and I don't understand why they made such a big fuss of it,\"",
+        "reference": {
+          "resource": "2976",
+          "text": "\"It's all laughable, and I don't understand why they made such a big fuss of it,\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:40:00.987Z",
+        "updated": "2024-02-09T18:40:00.987Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Reflects on the exaggerated reaction of the Ukrainian authorities."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 362.000323132492,
+            "y": 326
+          }
+        }
+      }
+    },
+    "a1d19ab3-c77a-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "\"Opinions differ,\" she said, adding that the aim of her participation was \"to show that any person is capable of anything and that if you have a dream, you can always achieve it.\"",
+        "reference": {
+          "resource": "2976",
+          "text": "\"Opinions differ,\" she said, adding that the aim of her participation was \"to show that any person is capable of anything and that if you have a dream, you can always achieve it.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:40:00.987Z",
+        "updated": "2024-02-09T18:40:00.987Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Describes the positive intention behind her participation in Eurovision.",
+          "mcConfig": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "mcExplanation": "This ADU represents the major claim of the argument because it encapsulates the core essence of Yulia Samoilova's perspective on her participation in Eurovision-2017. The primary aim of her participation, as cited in the ADU, is to demonstrate that anyone is capable of achieving significant feats regardless of their circumstances. This ADU operates as a central point around which other ADUs provide context, support, or opposition but keeps the focus on the underlying message of perseverance and achieving dreams, which is the argument's linchpin."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 844.710065630712,
+            "y": 713.5612832007195
+          }
+        }
+      }
+    },
+    "a1d19ab4-c77a-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Ukraine's security service SBU said earlier that Samoilova performed at a festival dubbed \"A World of Sports and Kindness\" held in Russia's Crimea on June 27, 2015 and thus violated the Ukrainian government's regulation which stipulates that foreign citizens should receive a special permission in order to enter Crimea",
+        "reference": {
+          "resource": "2976",
+          "offset": 969,
+          "text": "Ukraine's security service SBU said earlier that Samoilova performed at a festival dubbed \"A World of Sports and Kindness\" held in Russia's Crimea on June 27, 2015 and thus violated the Ukrainian government's regulation which stipulates that foreign citizens should receive a special permission in order to enter Crimea"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:40:00.987Z",
+        "updated": "2024-02-09T18:40:00.987Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Details the reason cited by Ukrainian authorities for the potential entry ban."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1260.2833739262292,
+            "y": 697.5854017712136
+          }
+        }
+      }
+    },
+    "a1d19ab6-c77a-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Meanwhile, the contest's Executive Supervisor Jon Ola Sand said that the European Broadcasting Union had no objection against Samoilova's participation",
+        "reference": {
+          "resource": "2976",
+          "offset": 1414,
+          "text": "Meanwhile, the contest's Executive Supervisor Jon Ola Sand said that the European Broadcasting Union had no objection against Samoilova's participation"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:40:00.987Z",
+        "updated": "2024-02-09T18:40:00.987Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "States the European Broadcasting Union's stance on Samoilova's participation."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 12.000218818681224,
+            "y": 326
+          }
+        }
+      }
+    },
+    "e7f191d0-c77a-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:41:58.637Z",
+        "updated": "2024-02-09T18:41:58.637Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Samoilova's direct response characterized the Ukrainian authorities' threats as insignificant, thereby supporting her own initial dismissal of the situation."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 462.00051462949375,
+            "y": 226
+          }
+        }
+      }
+    },
+    "e7f191df-c77a-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:41:58.637Z",
+        "updated": "2024-02-09T18:41:58.637Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Sand's neutral or supportive stance on Samoilova's participation counters the Ukrainian authorities' objections, indirectly supporting Samoilova's own view."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 112.00009527676644,
+            "y": 226
+          }
+        }
+      }
+    },
+    "ff29a180-c77a-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "her Eurovision entry was a PR move and a provocation by the Russian authorities",
+        "reference": {
+          "resource": "2976",
+          "offset": 445,
+          "text": "her Eurovision entry was a PR move and a provocation by the Russian authorities"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:42:37.592Z",
+        "updated": "2024-02-09T18:42:37.592Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 710.3898462046303,
+            "y": 327.0665221433632
+          }
+        }
+      }
+    },
+    "01885200-c77b-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:42:41.568Z",
+        "updated": "2024-02-09T18:42:41.568Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 663.6073236043975,
+            "y": 227.30073949829884
+          }
+        }
+      }
+    },
+    "108c0260-c77b-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "she had to face other people's prejudices her entire life",
+        "reference": {
+          "resource": "2976",
+          "offset": 546,
+          "text": "she had to face other people's prejudices her entire life"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:43:06.758Z",
+        "updated": "2024-02-09T18:43:06.758Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 448.0942684837736,
+            "y": 709.5809063196125
+          }
+        }
+      }
+    },
+    "1248cd90-c77b-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:43:09.673Z",
+        "updated": "2024-02-09T18:43:09.673Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 733.0284526150613,
+            "y": 516.7624310307685
+          }
+        }
+      }
+    },
+    "17b84080-c77b-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:43:18.792Z",
+        "updated": "2024-02-09T18:43:18.792Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 912.6009527798979,
+            "y": 514.8494114695234
+          }
+        }
+      }
+    },
+    "3d7cd4c0-c77b-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:44:22.156Z",
+        "updated": "2024-02-09T18:44:22.156Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1321.7931398204573,
+            "y": 517.0098115594466
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "e7f191d1-c77a-11ee-a75d-3d21b0b510a2": {
+      "source": "a1d19ab1-c77a-11ee-a75d-3d21b0b510a2",
+      "target": "e7f191d0-c77a-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:41:58.637Z",
+        "updated": "2024-02-09T18:41:58.637Z"
+      },
+      "userdata": {}
+    },
+    "e7f191d2-c77a-11ee-a75d-3d21b0b510a2": {
+      "source": "e7f191d0-c77a-11ee-a75d-3d21b0b510a2",
+      "target": "a1d19ab0-c77a-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:41:58.637Z",
+        "updated": "2024-02-09T18:41:58.637Z"
+      },
+      "userdata": {}
+    },
+    "e7f191d4-c77a-11ee-a75d-3d21b0b510a2": {
+      "source": "a1d19ab2-c77a-11ee-a75d-3d21b0b510a2",
+      "target": "e7f191d3-c77a-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:41:58.637Z",
+        "updated": "2024-02-09T18:41:58.637Z"
+      },
+      "userdata": {}
+    },
+    "e7f191d5-c77a-11ee-a75d-3d21b0b510a2": {
+      "source": "e7f191d3-c77a-11ee-a75d-3d21b0b510a2",
+      "target": "a1d19ab0-c77a-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:41:58.637Z",
+        "updated": "2024-02-09T18:41:58.637Z"
+      },
+      "userdata": {}
+    },
+    "e7f191d7-c77a-11ee-a75d-3d21b0b510a2": {
+      "source": "a1d19ab3-c77a-11ee-a75d-3d21b0b510a2",
+      "target": "e7f191d6-c77a-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:41:58.637Z",
+        "updated": "2024-02-09T18:41:58.637Z"
+      },
+      "userdata": {}
+    },
+    "e7f191d8-c77a-11ee-a75d-3d21b0b510a2": {
+      "source": "e7f191d6-c77a-11ee-a75d-3d21b0b510a2",
+      "target": "a1d19ab2-c77a-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:41:58.637Z",
+        "updated": "2024-02-09T18:41:58.637Z"
+      },
+      "userdata": {}
+    },
+    "e7f191da-c77a-11ee-a75d-3d21b0b510a2": {
+      "source": "a1d19ab4-c77a-11ee-a75d-3d21b0b510a2",
+      "target": "e7f191d9-c77a-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:41:58.637Z",
+        "updated": "2024-02-09T18:41:58.637Z"
+      },
+      "userdata": {}
+    },
+    "e7f191db-c77a-11ee-a75d-3d21b0b510a2": {
+      "source": "e7f191d9-c77a-11ee-a75d-3d21b0b510a2",
+      "target": "a1d19ab0-c77a-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:41:58.637Z",
+        "updated": "2024-02-09T18:41:58.637Z"
+      },
+      "userdata": {}
+    },
+    "e7f191dd-c77a-11ee-a75d-3d21b0b510a2": {
+      "source": "a1d19ab5-c77a-11ee-a75d-3d21b0b510a2",
+      "target": "e7f191dc-c77a-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:41:58.637Z",
+        "updated": "2024-02-09T18:41:58.637Z"
+      },
+      "userdata": {}
+    },
+    "e7f191de-c77a-11ee-a75d-3d21b0b510a2": {
+      "source": "e7f191dc-c77a-11ee-a75d-3d21b0b510a2",
+      "target": "a1d19ab4-c77a-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:41:58.637Z",
+        "updated": "2024-02-09T18:41:58.637Z"
+      },
+      "userdata": {}
+    },
+    "e7f191e0-c77a-11ee-a75d-3d21b0b510a2": {
+      "source": "a1d19ab6-c77a-11ee-a75d-3d21b0b510a2",
+      "target": "e7f191df-c77a-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:41:58.637Z",
+        "updated": "2024-02-09T18:41:58.637Z"
+      },
+      "userdata": {}
+    },
+    "e7f191e1-c77a-11ee-a75d-3d21b0b510a2": {
+      "source": "e7f191df-c77a-11ee-a75d-3d21b0b510a2",
+      "target": "a1d19ab0-c77a-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:41:58.637Z",
+        "updated": "2024-02-09T18:41:58.637Z"
+      },
+      "userdata": {}
+    },
+    "01885201-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "ff29a180-c77a-11ee-a75d-3d21b0b510a2",
+      "target": "01885200-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:42:41.568Z",
+        "updated": "2024-02-09T18:42:41.568Z"
+      },
+      "userdata": {}
+    },
+    "01885202-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "01885200-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "a1d19ab0-c77a-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:42:41.568Z",
+        "updated": "2024-02-09T18:42:41.568Z"
+      },
+      "userdata": {}
+    },
+    "1248cd91-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "108c0260-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "1248cd90-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:43:09.673Z",
+        "updated": "2024-02-09T18:43:09.673Z"
+      },
+      "userdata": {}
+    },
+    "1248cd92-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "1248cd90-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "ff29a180-c77a-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:43:09.673Z",
+        "updated": "2024-02-09T18:43:09.673Z"
+      },
+      "userdata": {}
+    },
+    "17b84081-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "a1d19ab3-c77a-11ee-a75d-3d21b0b510a2",
+      "target": "17b84080-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:43:18.792Z",
+        "updated": "2024-02-09T18:43:18.792Z"
+      },
+      "userdata": {}
+    },
+    "17b84082-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "17b84080-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "ff29a180-c77a-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:43:18.792Z",
+        "updated": "2024-02-09T18:43:18.792Z"
+      },
+      "userdata": {}
+    },
+    "3d7cd4c1-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "a1d19ab4-c77a-11ee-a75d-3d21b0b510a2",
+      "target": "3d7cd4c0-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:44:22.156Z",
+        "updated": "2024-02-09T18:44:22.156Z"
+      },
+      "userdata": {}
+    },
+    "3d7cd4c2-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "3d7cd4c0-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "ff29a180-c77a-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:44:22.156Z",
+        "updated": "2024-02-09T18:44:22.156Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "2976": {
+      "text": "VLADIVOSTOK, March 19. /TASS/. Yulia Samoilova, who will represent Russia at the Eurovision-2017 song contest in Ukraine dismissed as \"laughable\" the Ukrainian authorities\"?threats not to allow her cross the country's border. \"It's all laughable, and I don\"t understand why they made such a big fuss of it,\" the wheelchair-bound singer said in a Rossiya 1 TV channel broadcast, Saturday News with Sergei Brilev.   Commenting on allegations that her Eurovision entry was a PR move and a provocation by the Russian authorities, Samoilova said that she had to face other people's prejudices her entire life. \"Opinions differ,\" she said, adding that the aim of her participation was \"to show that any person is capable of anything\"?and that if you have a dream, you can always achieve it.\" On March 12, it was announced that wheelchair-bound singer Yulia Samoilova will represent Russia at the 2017 Eurovision Song Contest to be held in Ukraine's capital Kiev on May 9-13. Ukraine's security service SBU said earlier that Samoilova performed at a festival dubbed \"A World of Sports and Kindness\" held in Russia's Crimea on June 27, 2015 and thus violated the Ukrainian government's regulation which stipulates that foreign citizens should receive a special permission in order to enter Crimea. Ukrainian Foreign Minister Pavel Klimkin said that choosing Samoilova to represent Russia at the contest was a provocation. Meanwhile, the contest's Executive Supervisor Jon Ola Sand said that the European Broadcasting Union had no objection against Samoilova's participation.",
+      "title": "Russia's Eurovision-2017 contestant says Ukrainian entry ban threat \"ludicrous\"?,Commenting on allegations that her Eurovision entry was a provocation by the Russian authorities",
+      "source": "http://tass.com/society/936318",
+      "timestamp": "2017-03-19T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.147Z",
+        "updated": "2024-02-09T13:09:16.147Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "a1d19ab0-c77a-11ee-a75d-3d21b0b510a2",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.147Z",
+    "updated": "2024-02-09T18:45:06.962Z"
+  }
+}

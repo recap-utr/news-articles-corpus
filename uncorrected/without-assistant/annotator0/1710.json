@@ -1,0 +1,826 @@
+{
+  "nodes": {
+    "8eb63480-c41f-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "French conservative presidential hopeful Francois Fillon says he has been summoned by judges for questioning and a possible indictment over allegations he gave his wife a lucrative fake job, but vows to stay in the presidential race",
+        "reference": {
+          "resource": "1710",
+          "offset": 0,
+          "text": "French conservative presidential hopeful Francois Fillon says he has been summoned by judges for questioning and a possible indictment over allegations he gave his wife a lucrative fake job, but vows to stay in the presidential race"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:10:31.240Z",
+        "updated": "2024-02-05T12:10:31.240Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 217.21932619469032,
+            "y": -518.488586326659
+          }
+        }
+      }
+    },
+    "c0a05f70-c41f-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Fillon's campaign has been battered for weeks by allegations that he paid his wife Penelope hundreds of thousands of euros of public money to be his parliamentary assistant, but that she actually did very little work",
+        "reference": {
+          "resource": "1710",
+          "offset": 235,
+          "text": "Fillon's campaign has been battered for weeks by allegations that he paid his wife Penelope hundreds of thousands of euros of public money to be his parliamentary assistant, but that she actually did very little work"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:11:54.983Z",
+        "updated": "2024-02-05T12:11:54.983Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -127.10531548444385,
+            "y": 419.456607987191
+          }
+        }
+      }
+    },
+    "c246bc70-c41f-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:11:57.751Z",
+        "updated": "2024-02-05T12:11:57.751Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 22.651282627788305,
+            "y": 305.110400506362
+          }
+        }
+      }
+    },
+    "d641c990-c41f-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "He denied any wrongdoing and said it was a proper job",
+        "reference": {
+          "resource": "1710",
+          "offset": 453,
+          "text": "He denied any wrongdoing and said it was a proper job"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:12:31.273Z",
+        "updated": "2024-02-05T12:12:31.273Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 809.8257347674446,
+            "y": -220.46750277041946
+          }
+        }
+      }
+    },
+    "dcba4810-c41f-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "From the start, I have not been treated like anyone else facing the justice system",
+        "reference": {
+          "resource": "1710",
+          "offset": 509,
+          "text": "From the start, I have not been treated like anyone else facing the justice system"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:12:42.129Z",
+        "updated": "2024-02-05T12:12:42.129Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 486.6606855455011,
+            "y": 691.9959791865039
+          }
+        }
+      }
+    },
+    "e3f81260-c41f-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "he was the victim of a \"political assassination\"",
+        "reference": {
+          "resource": "1710",
+          "offset": 644,
+          "text": "he was the victim of a \"political assassination\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:12:54.278Z",
+        "updated": "2024-02-05T12:12:54.278Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 485.36171972152727,
+            "y": 451.6873017513318
+          }
+        }
+      }
+    },
+    "e7d573a0-c41f-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:13:00.762Z",
+        "updated": "2024-02-05T12:13:00.762Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 586.0315710795047,
+            "y": 596.5219911244219
+          }
+        }
+      }
+    },
+    "f3507270-c41f-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "It's not just me they are killing, but the French presidential election",
+        "reference": {
+          "resource": "1710",
+          "offset": 695,
+          "text": "It's not just me they are killing, but the French presidential election"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:13:20.023Z",
+        "updated": "2024-02-05T12:13:20.023Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 946.3353218651934,
+            "y": 667.3804697384588
+          }
+        }
+      }
+    },
+    "1507bbd0-c420-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "the candidate was \"extremely defiant\"",
+        "reference": {
+          "resource": "1710",
+          "offset": 876,
+          "text": "the candidate was \"extremely defiant\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:14:16.589Z",
+        "updated": "2024-02-05T12:14:16.589Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 677.6086616696648,
+            "y": -67.89902783822916
+          }
+        }
+      }
+    },
+    "7034f360-c420-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "he said \"I won't give in, I won't surrender, I won't pull out, I'll fight to the end\"",
+        "reference": {
+          "resource": "1710",
+          "offset": 1186,
+          "text": "I won't give in, I won't surrender, I won't pull out, I'll fight to the end"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:16:49.558Z",
+        "updated": "2024-02-05T12:16:49.558Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1191.733251483556,
+            "y": 126.01398448419579
+          }
+        }
+      }
+    },
+    "7f1ae290-c420-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Juppe has previously ruled out stepping in as the presidential candidate if Fillon, at one point the favourite, was forced to quit the race",
+        "reference": {
+          "resource": "1710",
+          "offset": 1302,
+          "text": "has previously ruled out stepping in as the presidential candidate if Fillon, at one point the favourite, was forced to quit the race"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:17:14.553Z",
+        "updated": "2024-02-05T12:17:14.553Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1006.4393784802965,
+            "y": 953.0692438007353
+          }
+        }
+      }
+    },
+    "202eb1c0-c421-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:21:44.796Z",
+        "updated": "2024-02-05T12:21:44.796Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1193.8606973707654,
+            "y": 34.13205851030139
+          }
+        }
+      }
+    },
+    "5f90e400-c421-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "it is actually his right not to go-to the investigative magistrates-because he has-parliamentary immunity",
+        "reference": {
+          "resource": "1710",
+          "offset": 933,
+          "text": "it is actually his right not to go-to the investigative magistrates-because he has-parliamentary immunity"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:23:31.136Z",
+        "updated": "2024-02-05T12:23:31.136Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 846.4496393312993,
+            "y": 212.85912927560926
+          }
+        }
+      }
+    },
+    "615d1880-c421-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:23:34.152Z",
+        "updated": "2024-02-05T12:23:34.152Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 885.1207297447121,
+            "y": 32.28982980045686
+          }
+        }
+      }
+    },
+    "67cbd300-c421-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "is going to go because he would like to be seen doing the right thing",
+        "reference": {
+          "resource": "1710",
+          "offset": 1074,
+          "text": "is going to go because he would like to be seen doing the right thing"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:23:44.944Z",
+        "updated": "2024-02-05T12:23:44.944Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 407.34449016464055,
+            "y": 98.06464578833996
+          }
+        }
+      }
+    },
+    "6a66a220-c421-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:23:49.314Z",
+        "updated": "2024-02-05T12:23:49.314Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 638.2373874672129,
+            "y": 13.586546294585702
+          }
+        }
+      }
+    },
+    "75a979f0-c421-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:24:08.207Z",
+        "updated": "2024-02-05T12:24:08.207Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 584.6614992441968,
+            "y": -154.26183006696124
+          }
+        }
+      }
+    },
+    "965bfd80-c421-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:25:03.065Z",
+        "updated": "2024-02-05T12:25:03.065Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 688.3438331587731,
+            "y": 291.8586734543622
+          }
+        }
+      }
+    },
+    "9e0e82a0-c421-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:25:15.978Z",
+        "updated": "2024-02-05T12:25:15.978Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.4071924090574,
+            "y": 568.6822004353722
+          }
+        }
+      }
+    },
+    "aacfbd10-c421-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:25:37.377Z",
+        "updated": "2024-02-05T12:25:37.377Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 692.3241806566173,
+            "y": -318.32180315597265
+          }
+        }
+      }
+    },
+    "caa96cd0-c421-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:26:30.813Z",
+        "updated": "2024-02-05T12:26:30.813Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1034.9401325000476,
+            "y": 808.3721709822825
+          }
+        }
+      }
+    },
+    "ea406e40-c421-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "market reaction was generally muted as the implications for the two-round April 23 and May 7 election remained unclear",
+        "reference": {
+          "resource": "1710",
+          "offset": 1605,
+          "text": "market reaction was generally muted as the implications for the two-round April 23 and May 7 election remained unclear"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:27:23.812Z",
+        "updated": "2024-02-05T12:27:23.812Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -44.42218980938816,
+            "y": -202.48356945990753
+          }
+        }
+      }
+    },
+    "f8c97060-c421-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "The investigation of Fillon and his wife has unnerved investors who fear Fillon's campaign woes have handed the anti-euro, anti-immigration Marine Le Pen of the National Front a higher chance of winning the presidency",
+        "reference": {
+          "resource": "1710",
+          "offset": 1725,
+          "text": "The investigation of Fillon and his wife has unnerved investors who fear Fillon's campaign woes have handed the anti-euro, anti-immigration Marine Le Pen of the National Front a higher chance of winning the presidency"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:27:48.198Z",
+        "updated": "2024-02-05T12:27:48.198Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -286.31466781122106,
+            "y": 114.63577879967858
+          }
+        }
+      }
+    },
+    "fce31750-c421-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:27:55.077Z",
+        "updated": "2024-02-05T12:27:55.077Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 146.11685244302498,
+            "y": -283.146004847717
+          }
+        }
+      }
+    },
+    "00971ea0-c422-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:28:01.290Z",
+        "updated": "2024-02-05T12:28:01.290Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -137.79200494883946,
+            "y": -18.070997959990876
+          }
+        }
+      }
+    },
+    "152c9700-c422-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "she would lose in the second round to centrist Emmanuel Macron",
+        "reference": {
+          "resource": "1710",
+          "offset": 1973,
+          "text": "she would lose in the second round to centrist Emmanuel Macron"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:28:35.824Z",
+        "updated": "2024-02-05T12:28:35.824Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -482.29867724828296,
+            "y": 418.9303062503104
+          }
+        }
+      }
+    },
+    "17cb5dc0-c422-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:28:40.220Z",
+        "updated": "2024-02-05T12:28:40.220Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -272.1562700903509,
+            "y": 319.9069173647108
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "c246bc71-c41f-11ee-a06c-cb1cbb90ffa4": {
+      "source": "c0a05f70-c41f-11ee-a06c-cb1cbb90ffa4",
+      "target": "c246bc70-c41f-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:11:57.751Z",
+        "updated": "2024-02-05T12:11:57.751Z"
+      },
+      "userdata": {}
+    },
+    "c246bc72-c41f-11ee-a06c-cb1cbb90ffa4": {
+      "source": "c246bc70-c41f-11ee-a06c-cb1cbb90ffa4",
+      "target": "8eb63480-c41f-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:11:57.751Z",
+        "updated": "2024-02-05T12:11:57.751Z"
+      },
+      "userdata": {}
+    },
+    "e7d573a1-c41f-11ee-a06c-cb1cbb90ffa4": {
+      "source": "dcba4810-c41f-11ee-a06c-cb1cbb90ffa4",
+      "target": "e7d573a0-c41f-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:13:00.762Z",
+        "updated": "2024-02-05T12:13:00.762Z"
+      },
+      "userdata": {}
+    },
+    "e7d573a2-c41f-11ee-a06c-cb1cbb90ffa4": {
+      "source": "e7d573a0-c41f-11ee-a06c-cb1cbb90ffa4",
+      "target": "e3f81260-c41f-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:13:00.762Z",
+        "updated": "2024-02-05T12:13:00.762Z"
+      },
+      "userdata": {}
+    },
+    "23708bc1-c420-11ee-a06c-cb1cbb90ffa4": {
+      "source": "1fe01200-c420-11ee-a06c-cb1cbb90ffa4",
+      "target": "23708bc0-c420-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:14:40.764Z",
+        "updated": "2024-02-05T12:14:40.764Z"
+      },
+      "userdata": {}
+    },
+    "23708bc2-c420-11ee-a06c-cb1cbb90ffa4": {
+      "source": "23708bc0-c420-11ee-a06c-cb1cbb90ffa4",
+      "target": "1507bbd0-c420-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:14:40.764Z",
+        "updated": "2024-02-05T12:14:40.764Z"
+      },
+      "userdata": {}
+    },
+    "4c63cab1-c420-11ee-a06c-cb1cbb90ffa4": {
+      "source": "49e424b0-c420-11ee-a06c-cb1cbb90ffa4",
+      "target": "4c63cab0-c420-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:15:49.467Z",
+        "updated": "2024-02-05T12:15:49.467Z"
+      },
+      "userdata": {}
+    },
+    "4c63cab2-c420-11ee-a06c-cb1cbb90ffa4": {
+      "source": "4c63cab0-c420-11ee-a06c-cb1cbb90ffa4",
+      "target": "1507bbd0-c420-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:15:49.467Z",
+        "updated": "2024-02-05T12:15:49.467Z"
+      },
+      "userdata": {}
+    },
+    "202eb1c1-c421-11ee-a06c-cb1cbb90ffa4": {
+      "source": "7034f360-c420-11ee-a06c-cb1cbb90ffa4",
+      "target": "202eb1c0-c421-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:21:44.796Z",
+        "updated": "2024-02-05T12:21:44.796Z"
+      },
+      "userdata": {}
+    },
+    "202eb1c2-c421-11ee-a06c-cb1cbb90ffa4": {
+      "source": "202eb1c0-c421-11ee-a06c-cb1cbb90ffa4",
+      "target": "1507bbd0-c420-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:21:44.796Z",
+        "updated": "2024-02-05T12:21:44.796Z"
+      },
+      "userdata": {}
+    },
+    "615d1881-c421-11ee-a06c-cb1cbb90ffa4": {
+      "source": "5f90e400-c421-11ee-a06c-cb1cbb90ffa4",
+      "target": "615d1880-c421-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:23:34.152Z",
+        "updated": "2024-02-05T12:23:34.152Z"
+      },
+      "userdata": {}
+    },
+    "615d1882-c421-11ee-a06c-cb1cbb90ffa4": {
+      "source": "615d1880-c421-11ee-a06c-cb1cbb90ffa4",
+      "target": "1507bbd0-c420-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:23:34.152Z",
+        "updated": "2024-02-05T12:23:34.152Z"
+      },
+      "userdata": {}
+    },
+    "6a66a221-c421-11ee-a06c-cb1cbb90ffa4": {
+      "source": "67cbd300-c421-11ee-a06c-cb1cbb90ffa4",
+      "target": "6a66a220-c421-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:23:49.314Z",
+        "updated": "2024-02-05T12:23:49.314Z"
+      },
+      "userdata": {}
+    },
+    "6a66a222-c421-11ee-a06c-cb1cbb90ffa4": {
+      "source": "6a66a220-c421-11ee-a06c-cb1cbb90ffa4",
+      "target": "1507bbd0-c420-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:23:49.314Z",
+        "updated": "2024-02-05T12:23:49.314Z"
+      },
+      "userdata": {}
+    },
+    "75a979f1-c421-11ee-a06c-cb1cbb90ffa4": {
+      "source": "1507bbd0-c420-11ee-a06c-cb1cbb90ffa4",
+      "target": "75a979f0-c421-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:24:08.207Z",
+        "updated": "2024-02-05T12:24:08.207Z"
+      },
+      "userdata": {}
+    },
+    "75a979f2-c421-11ee-a06c-cb1cbb90ffa4": {
+      "source": "75a979f0-c421-11ee-a06c-cb1cbb90ffa4",
+      "target": "d641c990-c41f-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:24:08.207Z",
+        "updated": "2024-02-05T12:24:08.207Z"
+      },
+      "userdata": {}
+    },
+    "965c2490-c421-11ee-a06c-cb1cbb90ffa4": {
+      "source": "e3f81260-c41f-11ee-a06c-cb1cbb90ffa4",
+      "target": "965bfd80-c421-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:25:03.065Z",
+        "updated": "2024-02-05T12:25:03.065Z"
+      },
+      "userdata": {}
+    },
+    "965c2491-c421-11ee-a06c-cb1cbb90ffa4": {
+      "source": "965bfd80-c421-11ee-a06c-cb1cbb90ffa4",
+      "target": "1507bbd0-c420-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:25:03.065Z",
+        "updated": "2024-02-05T12:25:03.065Z"
+      },
+      "userdata": {}
+    },
+    "9e0e82a1-c421-11ee-a06c-cb1cbb90ffa4": {
+      "source": "f3507270-c41f-11ee-a06c-cb1cbb90ffa4",
+      "target": "9e0e82a0-c421-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:25:15.978Z",
+        "updated": "2024-02-05T12:25:15.978Z"
+      },
+      "userdata": {}
+    },
+    "9e0e82a2-c421-11ee-a06c-cb1cbb90ffa4": {
+      "source": "9e0e82a0-c421-11ee-a06c-cb1cbb90ffa4",
+      "target": "e3f81260-c41f-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:25:15.978Z",
+        "updated": "2024-02-05T12:25:15.978Z"
+      },
+      "userdata": {}
+    },
+    "aacfbd11-c421-11ee-a06c-cb1cbb90ffa4": {
+      "source": "d641c990-c41f-11ee-a06c-cb1cbb90ffa4",
+      "target": "aacfbd10-c421-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:25:37.377Z",
+        "updated": "2024-02-05T12:25:37.377Z"
+      },
+      "userdata": {}
+    },
+    "aacfbd12-c421-11ee-a06c-cb1cbb90ffa4": {
+      "source": "aacfbd10-c421-11ee-a06c-cb1cbb90ffa4",
+      "target": "8eb63480-c41f-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:25:37.377Z",
+        "updated": "2024-02-05T12:25:37.377Z"
+      },
+      "userdata": {}
+    },
+    "caa96cd1-c421-11ee-a06c-cb1cbb90ffa4": {
+      "source": "7f1ae290-c420-11ee-a06c-cb1cbb90ffa4",
+      "target": "caa96cd0-c421-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:26:30.813Z",
+        "updated": "2024-02-05T12:26:30.813Z"
+      },
+      "userdata": {}
+    },
+    "caa96cd2-c421-11ee-a06c-cb1cbb90ffa4": {
+      "source": "caa96cd0-c421-11ee-a06c-cb1cbb90ffa4",
+      "target": "f3507270-c41f-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:26:30.813Z",
+        "updated": "2024-02-05T12:26:30.813Z"
+      },
+      "userdata": {}
+    },
+    "fce31751-c421-11ee-a06c-cb1cbb90ffa4": {
+      "source": "ea406e40-c421-11ee-a06c-cb1cbb90ffa4",
+      "target": "fce31750-c421-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:27:55.077Z",
+        "updated": "2024-02-05T12:27:55.077Z"
+      },
+      "userdata": {}
+    },
+    "fce31752-c421-11ee-a06c-cb1cbb90ffa4": {
+      "source": "fce31750-c421-11ee-a06c-cb1cbb90ffa4",
+      "target": "8eb63480-c41f-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:27:55.077Z",
+        "updated": "2024-02-05T12:27:55.077Z"
+      },
+      "userdata": {}
+    },
+    "00971ea1-c422-11ee-a06c-cb1cbb90ffa4": {
+      "source": "f8c97060-c421-11ee-a06c-cb1cbb90ffa4",
+      "target": "00971ea0-c422-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:28:01.290Z",
+        "updated": "2024-02-05T12:28:01.290Z"
+      },
+      "userdata": {}
+    },
+    "00971ea2-c422-11ee-a06c-cb1cbb90ffa4": {
+      "source": "00971ea0-c422-11ee-a06c-cb1cbb90ffa4",
+      "target": "ea406e40-c421-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:28:01.290Z",
+        "updated": "2024-02-05T12:28:01.290Z"
+      },
+      "userdata": {}
+    },
+    "17cb5dc1-c422-11ee-a06c-cb1cbb90ffa4": {
+      "source": "152c9700-c422-11ee-a06c-cb1cbb90ffa4",
+      "target": "17cb5dc0-c422-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:28:40.220Z",
+        "updated": "2024-02-05T12:28:40.220Z"
+      },
+      "userdata": {}
+    },
+    "17cb5dc2-c422-11ee-a06c-cb1cbb90ffa4": {
+      "source": "17cb5dc0-c422-11ee-a06c-cb1cbb90ffa4",
+      "target": "f8c97060-c421-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:28:40.220Z",
+        "updated": "2024-02-05T12:28:40.220Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "1710": {
+      "text": "French conservative presidential hopeful Francois Fillon says he has been summoned by judges for questioning and a possible indictment over allegations he gave his wife a lucrative fake job, but vows to stay in the presidential race.- Fillon's campaign has been battered for weeks by allegations that he paid his wife Penelope hundreds of thousands of euros of public money to be his parliamentary assistant, but that she actually did very little work. He denied any wrongdoing and said it was a proper job. \"From the start, I have not been treated like anyone else facing the justice system,\" Fillon said in a statement to reporters, claiming he was the victim of a \"political assassination\". \"It's not just me they are killing, but the French presidential election,\" he said. Al Jazeera's Natasha Butler, reporting from outside Fillon's campaing headquarters in Paris, said the candidate was \"extremely defiant\". \"Fillon said that it is actually his right not to go-to the investigative magistrates-because he has-parliamentary immunity,\" she said. \"But he explained that is going to go because he would like to be seen doing the right thing.\" 62-year-old former prime minister said \"I won't give in, I won't surrender, I won't pull out, I'll fight to the end.\" Juppe, another former prime minister, has previously ruled out stepping in as the presidential candidate if Fillon, at one point the favourite, was forced to quit the race. OPINION: Fillon's victory - A political earthquake in France The gap between French and German bond yields briefly tightened to around 66 basis points on Wednesday but market reaction was generally muted as the implications for the two-round April 23 and May 7 election remained unclear. The investigation of Fillon and his wife has unnerved investors who fear Fillon's campaign woes have handed the anti-euro, anti-immigration Marine Le Pen of the National Front a higher chance of winning the presidency. Polls suggest, however, that she would lose in the second round to centrist Emmanuel Macron. Source:-Al Jazeera and news agencies",
+      "title": "Francois Fillon to be summoned over 'fake work' scandal",
+      "source": "http://www.aljazeera.com/news/2017/03/francois-fillon-statement-fake-work-row-170301104558128.html",
+      "timestamp": "2024-02-05T12:09:53.143Z",
+      "metadata": {
+        "created": "2024-02-05T09:49:22.015Z",
+        "updated": "2024-02-05T09:49:22.015Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "8eb63480-c41f-11ee-a06c-cb1cbb90ffa4",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-05T09:49:22.014Z",
+    "updated": "2024-02-07T09:45:37.077Z"
+  }
+}

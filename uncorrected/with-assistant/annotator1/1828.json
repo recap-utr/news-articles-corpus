@@ -1,0 +1,1020 @@
+{
+  "nodes": {
+    "06ea2430-ca4b-11ee-a4d8-23b63abe8329": {
+      "atom": {
+        "text": "A human rights watchdog has accused police in the Philippines of falsifying evidence to justify unlawful killings in the government's bloody war on drugs and pointed the finger at President Rodrigo Duterte as being ultimately responsible",
+        "reference": {
+          "resource": "1828",
+          "offset": 0,
+          "text": "A human rights watchdog has accused police in the Philippines of falsifying evidence to justify unlawful killings in the government's bloody war on drugs and pointed the finger at President Rodrigo Duterte as being ultimately responsible"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:36:48.243Z",
+        "updated": "2024-02-13T08:36:48.243Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement presents an accusation against Philippine police and President Duterte regarding misconduct in the war on drugs."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 783.4291252718596,
+            "y": 12
+          }
+        }
+      }
+    },
+    "06ea2431-ca4b-11ee-a4d8-23b63abe8329": {
+      "atom": {
+        "text": "Human Rights Watch said on Thursday-in a report that Duterte and other senior officials instigated and incited the killings of drug suspects in a campaign that could amount to crimes against humanity",
+        "reference": {
+          "resource": "1828",
+          "offset": 239,
+          "text": "Human Rights Watch said on Thursday-in a report that Duterte and other senior officials instigated and incited the killings of drug suspects in a campaign that could amount to crimes against humanity"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:36:48.243Z",
+        "updated": "2024-02-13T08:36:48.243Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement provides an assertion made by Human Rights Watch about the involvement of Duterte and officials in the killings."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 362.0009021288074,
+            "y": 374
+          }
+        }
+      }
+    },
+    "06ea2432-ca4b-11ee-a4d8-23b63abe8329": {
+      "atom": {
+        "text": "Police have repeatedly carried out extrajudicial killings of drug suspects, then falsely claimed self-defence, and planted guns, spent bullets or drugs on the bodies",
+        "reference": {
+          "resource": "1828",
+          "offset": 440,
+          "text": "Police have repeatedly carried out extrajudicial killings of drug suspects, then falsely claimed self-defence, and planted guns, spent bullets or drugs on the bodies"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:36:48.243Z",
+        "updated": "2024-02-13T08:36:48.243Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement offers a specific criticism of police conduct in extrajudicial killings."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 763.2379630025913,
+            "y": 451.2125341141766
+          }
+        }
+      }
+    },
+    "06ea2433-ca4b-11ee-a4d8-23b63abe8329": {
+      "atom": {
+        "text": "\"Our investigations into the Philippine drug war found that police routinely kill drug suspects in cold blood and then cover up their crime by planting drugs and guns at the scene,\" said Peter Bouckaert, emergencies director at Human Rights Watch and author of the report",
+        "reference": {
+          "resource": "1828",
+          "offset": 607,
+          "text": "\"Our investigations into the Philippine drug war found that police routinely kill drug suspects in cold blood and then cover up their crime by planting drugs and guns at the scene,\" said Peter Bouckaert, emergencies director at Human Rights Watch and author of the report"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:36:48.243Z",
+        "updated": "2024-02-13T08:36:48.243Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This quote offers evidence and findings from Human Rights Watch's investigation into the drug war."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1062.0007612176325,
+            "y": 712
+          }
+        }
+      }
+    },
+    "06ea2434-ca4b-11ee-a4d8-23b63abe8329": {
+      "atom": {
+        "text": "\"President Duterte's role in these killings makes him ultimately responsible for the deaths of thousands.\"",
+        "reference": {
+          "resource": "1828",
+          "offset": 931,
+          "text": "\"President Duterte's role in these killings makes him ultimately responsible for the deaths of thousands.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:36:48.243Z",
+        "updated": "2024-02-13T08:36:48.243Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement assigns direct responsibility to President Duterte for the killings.",
+          "mcConfig": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "mcExplanation": "This ADU is chosen as the major claim because it directly encapsulates the central argument of the discourse, asserting President Duterte's ultimate responsibility for the wrongful deaths attributed to the Philippine drug war. It directly attributes the actions and outcomes of these operations to Duterte, establishing a clear conclusion that ties the various discourse elements together."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1062.0007542427134,
+            "y": 1074
+          }
+        }
+      }
+    },
+    "06ea2435-ca4b-11ee-a4d8-23b63abe8329": {
+      "atom": {
+        "text": "The report said masked gunmen taking part in killings appeared to be working closely with the police, casting doubt on government claims that vigilantes or rival gangs are behind majority of the killings",
+        "reference": {
+          "resource": "1828",
+          "offset": 1038,
+          "text": "The report said masked gunmen taking part in killings appeared to be working closely with the police, casting doubt on government claims that vigilantes or rival gangs are behind majority of the killings"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:36:48.243Z",
+        "updated": "2024-02-13T08:36:48.243Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This assertion casts doubt on the government's narrative and implicates the police in coordination with gunmen."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 712.0008946832301,
+            "y": 736
+          }
+        }
+      }
+    },
+    "06ea4b40-ca4b-11ee-a4d8-23b63abe8329": {
+      "atom": {
+        "text": "It said in several instances it investigated, suspects in police custody were later found dead and classified by police as \"found bodies\" or \"deaths under investigation\"",
+        "reference": {
+          "resource": "1828",
+          "offset": 1243,
+          "text": "It said in several instances it investigated, suspects in police custody were later found dead and classified by police as \"found bodies\" or \"deaths under investigation\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:36:48.244Z",
+        "updated": "2024-02-13T08:36:48.244Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement provides specific cases of suspects found dead under suspicious circumstances."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 712.0008518967619,
+            "y": 1074
+          }
+        }
+      }
+    },
+    "06ea4b41-ca4b-11ee-a4d8-23b63abe8329": {
+      "atom": {
+        "text": "The United Nations should create an independent investigation to determine responsibility and ensure accountability, the report said",
+        "reference": {
+          "resource": "1828",
+          "offset": 1414,
+          "text": "The United Nations should create an independent investigation to determine responsibility and ensure accountability, the report said"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:36:48.244Z",
+        "updated": "2024-02-13T08:36:48.244Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement calls for action from the United Nations for investigation and accountability."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1112.0009836625777,
+            "y": 350
+          }
+        }
+      }
+    },
+    "06ea4b42-ca4b-11ee-a4d8-23b63abe8329": {
+      "atom": {
+        "text": "Presidential spokesman Ernesto Abella said none of the accusations have been proven in court. Until that happens, \"such claims are mere hearsay\", he said",
+        "reference": {
+          "resource": "1828",
+          "offset": 1548,
+          "text": "Presidential spokesman Ernesto Abella said none of the accusations have been proven in court. Until that happens, \"such claims are mere hearsay\", he said"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:36:48.244Z",
+        "updated": "2024-02-13T08:36:48.244Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This is a counter-argument stating that the accusations have not been legally proven."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1462.0008723214858,
+            "y": 386
+          }
+        }
+      }
+    },
+    "06ea4b43-ca4b-11ee-a4d8-23b63abe8329": {
+      "atom": {
+        "text": "National police spokesman Dionardo Carlos said Human Rights Watch should share its information with the police so any perpetrators can be charged in court",
+        "reference": {
+          "resource": "1828",
+          "offset": 1703,
+          "text": "National police spokesman Dionardo Carlos said Human Rights Watch should share its information with the police so any perpetrators can be charged in court"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:36:48.244Z",
+        "updated": "2024-02-13T08:36:48.244Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement requests cooperation between Human Rights Watch and the police for legal action against potential perpetrators."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1462.0006818185495,
+            "y": 712
+          }
+        }
+      }
+    },
+    "06ea4b44-ca4b-11ee-a4d8-23b63abe8329": {
+      "atom": {
+        "text": "Carlos said police data showed 2,500 people had been killed in police operations, while another 4,000 plus deaths were still being investigated, of which 680 were drug related",
+        "reference": {
+          "resource": "1828",
+          "offset": 1859,
+          "text": "Carlos said police data showed 2,500 people had been killed in police operations, while another 4,000 plus deaths were still being investigated, of which 680 were drug related"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:36:48.244Z",
+        "updated": "2024-02-13T08:36:48.244Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement provides official police data on deaths related to the drug war."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1812.0002317594638,
+            "y": 386
+          }
+        }
+      }
+    },
+    "06ea4b45-ca4b-11ee-a4d8-23b63abe8329": {
+      "atom": {
+        "text": "Murder charges involving 1,330 victims have been filed with prosecutors or courts, but the details were not known",
+        "reference": {
+          "resource": "1828",
+          "offset": 2036,
+          "text": "Murder charges involving 1,330 victims have been filed with prosecutors or courts, but the details were not known"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:36:48.244Z",
+        "updated": "2024-02-13T08:36:48.244Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement outlines the number of murder charges filed in relation to the drug war incidents."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1812.0005897300257,
+            "y": 712
+          }
+        }
+      }
+    },
+    "06ea4b46-ca4b-11ee-a4d8-23b63abe8329": {
+      "atom": {
+        "text": "The Human Rights Watch report draws heavily on interviews in metropolitan Manila with 28 family members of victims, witnesses to police killings, journalists and human rights activists",
+        "reference": {
+          "resource": "1828",
+          "offset": 2206,
+          "text": "The Human Rights Watch report draws heavily on interviews in metropolitan Manila with 28 family members of victims, witnesses to police killings, journalists and human rights activists"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:36:48.244Z",
+        "updated": "2024-02-13T08:36:48.244Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement explains the methodology used in the Human Rights Watch report."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 172.66304512174315,
+            "y": 917.5376086893535
+          }
+        }
+      }
+    },
+    "06ea4b47-ca4b-11ee-a4d8-23b63abe8329": {
+      "atom": {
+        "text": "It also references initial police reports of killings, which Human Rights Watch said its field research consistently contradicted",
+        "reference": {
+          "resource": "1828",
+          "offset": 2392,
+          "text": "It also references initial police reports of killings, which Human Rights Watch said its field research consistently contradicted"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:36:48.244Z",
+        "updated": "2024-02-13T08:36:48.244Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement contrasts Human Rights Watch's findings with initial police reports, showing a discrepancy."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 11.875758747826467,
+            "y": 664.623335161533
+          }
+        }
+      }
+    },
+    "a72c99a0-ca4b-11ee-a4d8-23b63abe8329": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T08:41:17.114Z",
+        "updated": "2024-02-13T08:41:17.114Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The report by Human Rights Watch directly implicates President Duterte in the unlawful killings, thereby supporting the accusation of his ultimate responsibility."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 462.0005939743428,
+            "y": 250
+          }
+        }
+      }
+    },
+    "a72cc0b2-ca4b-11ee-a4d8-23b63abe8329": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Describes specific unlawful actions by the police that align with the accusation against Duterte."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 822.4003753808397,
+            "y": 368.80007616188277
+          }
+        }
+      }
+    },
+    "a72cc0b5-ca4b-11ee-a4d8-23b63abe8329": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Offers detailed insight into the actions of the police, reinforcing the accusation of falsifying evidence."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1162.0009312800248,
+            "y": 612
+          }
+        }
+      }
+    },
+    "a72cc0b8-ca4b-11ee-a4d8-23b63abe8329": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Further emphasizes Duterte's direct involvement and responsibility in the unlawful actions described previously."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1162.000165392236,
+            "y": 974
+          }
+        }
+      }
+    },
+    "a72cc0bb-ca4b-11ee-a4d8-23b63abe8329": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Casts doubt on government's denial of police involvement, supporting the notion of police-complicit killings."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 812.0008574111607,
+            "y": 612
+          }
+        }
+      }
+    },
+    "a72cc0be-ca4b-11ee-a4d8-23b63abe8329": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Provides examples of questionable police practices further implicating police involvement in unlawful acts."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 812.000061647057,
+            "y": 974
+          }
+        }
+      }
+    },
+    "a72cc0c1-ca4b-11ee-a4d8-23b63abe8329": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Suggests an action towards accountability, aligning with the context of accusations against Duterte and his administration."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1106.8127711045413,
+            "y": 297.025030147412
+          }
+        }
+      }
+    },
+    "a72cc0c4-ca4b-11ee-a4d8-23b63abe8329": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Attempts to discredit accusations by labeling them as unverified hearsay."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1562.000981930093,
+            "y": 250
+          }
+        }
+      }
+    },
+    "a72cc0c7-ca4b-11ee-a4d8-23b63abe8329": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Offers a pathway for validation of accusations, indirectly supporting the attack on the credibility of the accusations."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1562.0009806367564,
+            "y": 612
+          }
+        }
+      }
+    },
+    "a72cc0ca-ca4b-11ee-a4d8-23b63abe8329": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Provides police data on killings, which can be seen as an attempt to counteract accusations by showing police action on drug-related deaths."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1912.0009089122902,
+            "y": 250
+          }
+        }
+      }
+    },
+    "a72cc0cd-ca4b-11ee-a4d8-23b63abe8329": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Clarifies efforts towards accountability with murder charges, further supporting the police's counter-narrative."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1912.0003324919076,
+            "y": 612
+          }
+        }
+      }
+    },
+    "a72cc0d0-ca4b-11ee-a4d8-23b63abe8329": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Details the human element and basis of the Human Rights Watch report, strengthening the credibility of its accusations."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 386.51282234503617,
+            "y": 706.050060294824
+          }
+        }
+      }
+    },
+    "a72cc0d3-ca4b-11ee-a4d8-23b63abe8329": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Draws on police reports that contradict the official narrative, further supporting HRW's findings and credibility."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 237.9201540287728,
+            "y": 548.4637299705411
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "a72cc0b0-ca4b-11ee-a4d8-23b63abe8329": {
+      "source": "06ea2431-ca4b-11ee-a4d8-23b63abe8329",
+      "target": "a72c99a0-ca4b-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {}
+    },
+    "a72cc0b1-ca4b-11ee-a4d8-23b63abe8329": {
+      "source": "a72c99a0-ca4b-11ee-a4d8-23b63abe8329",
+      "target": "06ea2430-ca4b-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {}
+    },
+    "a72cc0b3-ca4b-11ee-a4d8-23b63abe8329": {
+      "source": "06ea2432-ca4b-11ee-a4d8-23b63abe8329",
+      "target": "a72cc0b2-ca4b-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {}
+    },
+    "a72cc0b6-ca4b-11ee-a4d8-23b63abe8329": {
+      "source": "06ea2433-ca4b-11ee-a4d8-23b63abe8329",
+      "target": "a72cc0b5-ca4b-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {}
+    },
+    "a72cc0b7-ca4b-11ee-a4d8-23b63abe8329": {
+      "source": "a72cc0b5-ca4b-11ee-a4d8-23b63abe8329",
+      "target": "06ea2432-ca4b-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {}
+    },
+    "a72cc0b9-ca4b-11ee-a4d8-23b63abe8329": {
+      "source": "06ea2434-ca4b-11ee-a4d8-23b63abe8329",
+      "target": "a72cc0b8-ca4b-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {}
+    },
+    "a72cc0ba-ca4b-11ee-a4d8-23b63abe8329": {
+      "source": "a72cc0b8-ca4b-11ee-a4d8-23b63abe8329",
+      "target": "06ea2433-ca4b-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {}
+    },
+    "a72cc0bc-ca4b-11ee-a4d8-23b63abe8329": {
+      "source": "06ea2435-ca4b-11ee-a4d8-23b63abe8329",
+      "target": "a72cc0bb-ca4b-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {}
+    },
+    "a72cc0bd-ca4b-11ee-a4d8-23b63abe8329": {
+      "source": "a72cc0bb-ca4b-11ee-a4d8-23b63abe8329",
+      "target": "06ea2432-ca4b-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {}
+    },
+    "a72cc0bf-ca4b-11ee-a4d8-23b63abe8329": {
+      "source": "06ea4b40-ca4b-11ee-a4d8-23b63abe8329",
+      "target": "a72cc0be-ca4b-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {}
+    },
+    "a72cc0c0-ca4b-11ee-a4d8-23b63abe8329": {
+      "source": "a72cc0be-ca4b-11ee-a4d8-23b63abe8329",
+      "target": "06ea2435-ca4b-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {}
+    },
+    "a72cc0c2-ca4b-11ee-a4d8-23b63abe8329": {
+      "source": "06ea4b41-ca4b-11ee-a4d8-23b63abe8329",
+      "target": "a72cc0c1-ca4b-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {}
+    },
+    "a72cc0c5-ca4b-11ee-a4d8-23b63abe8329": {
+      "source": "06ea4b42-ca4b-11ee-a4d8-23b63abe8329",
+      "target": "a72cc0c4-ca4b-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {}
+    },
+    "a72cc0c6-ca4b-11ee-a4d8-23b63abe8329": {
+      "source": "a72cc0c4-ca4b-11ee-a4d8-23b63abe8329",
+      "target": "06ea2430-ca4b-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {}
+    },
+    "a72cc0c8-ca4b-11ee-a4d8-23b63abe8329": {
+      "source": "06ea4b43-ca4b-11ee-a4d8-23b63abe8329",
+      "target": "a72cc0c7-ca4b-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {}
+    },
+    "a72cc0c9-ca4b-11ee-a4d8-23b63abe8329": {
+      "source": "a72cc0c7-ca4b-11ee-a4d8-23b63abe8329",
+      "target": "06ea4b42-ca4b-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {}
+    },
+    "a72cc0cb-ca4b-11ee-a4d8-23b63abe8329": {
+      "source": "06ea4b44-ca4b-11ee-a4d8-23b63abe8329",
+      "target": "a72cc0ca-ca4b-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {}
+    },
+    "a72cc0ce-ca4b-11ee-a4d8-23b63abe8329": {
+      "source": "06ea4b45-ca4b-11ee-a4d8-23b63abe8329",
+      "target": "a72cc0cd-ca4b-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {}
+    },
+    "a72cc0cf-ca4b-11ee-a4d8-23b63abe8329": {
+      "source": "a72cc0cd-ca4b-11ee-a4d8-23b63abe8329",
+      "target": "06ea4b44-ca4b-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {}
+    },
+    "a72cc0d1-ca4b-11ee-a4d8-23b63abe8329": {
+      "source": "06ea4b46-ca4b-11ee-a4d8-23b63abe8329",
+      "target": "a72cc0d0-ca4b-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {}
+    },
+    "a72cc0d2-ca4b-11ee-a4d8-23b63abe8329": {
+      "source": "a72cc0d0-ca4b-11ee-a4d8-23b63abe8329",
+      "target": "06ea2431-ca4b-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {}
+    },
+    "a72cc0d4-ca4b-11ee-a4d8-23b63abe8329": {
+      "source": "06ea4b47-ca4b-11ee-a4d8-23b63abe8329",
+      "target": "a72cc0d3-ca4b-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {}
+    },
+    "a72cc0d7-ca4b-11ee-a4d8-23b63abe8329": {
+      "source": "06ea4b48-ca4b-11ee-a4d8-23b63abe8329",
+      "target": "a72cc0d6-ca4b-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {}
+    },
+    "a72cc0d8-ca4b-11ee-a4d8-23b63abe8329": {
+      "source": "a72cc0d6-ca4b-11ee-a4d8-23b63abe8329",
+      "target": "06ea2430-ca4b-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {}
+    },
+    "a72cc0da-ca4b-11ee-a4d8-23b63abe8329": {
+      "source": "06ea4b49-ca4b-11ee-a4d8-23b63abe8329",
+      "target": "a72cc0d9-ca4b-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {}
+    },
+    "a72cc0db-ca4b-11ee-a4d8-23b63abe8329": {
+      "source": "a72cc0d9-ca4b-11ee-a4d8-23b63abe8329",
+      "target": "06ea4b48-ca4b-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:41:17.115Z",
+        "updated": "2024-02-13T08:41:17.115Z"
+      },
+      "userdata": {}
+    },
+    "c6bf0730-ca4b-11ee-a4d8-23b63abe8329": {
+      "source": "a72cc0d3-ca4b-11ee-a4d8-23b63abe8329",
+      "target": "06ea2431-ca4b-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:42:10.083Z",
+        "updated": "2024-02-13T08:42:10.083Z"
+      },
+      "userdata": {}
+    },
+    "e2a0efe0-ca4b-11ee-a4d8-23b63abe8329": {
+      "source": "a72cc0b2-ca4b-11ee-a4d8-23b63abe8329",
+      "target": "06ea2431-ca4b-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:42:56.862Z",
+        "updated": "2024-02-13T08:42:56.862Z"
+      },
+      "userdata": {}
+    },
+    "ec17e150-ca4b-11ee-a4d8-23b63abe8329": {
+      "source": "a72cc0c1-ca4b-11ee-a4d8-23b63abe8329",
+      "target": "06ea2431-ca4b-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:43:12.741Z",
+        "updated": "2024-02-13T08:43:12.741Z"
+      },
+      "userdata": {}
+    },
+    "2828ecc0-ca4c-11ee-a4d8-23b63abe8329": {
+      "source": "a72cc0ca-ca4b-11ee-a4d8-23b63abe8329",
+      "target": "06ea4b43-ca4b-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:44:53.516Z",
+        "updated": "2024-02-13T08:44:53.516Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "1828": {
+      "text": "A human rights watchdog has accused police in the Philippines of falsifying evidence to justify unlawful killings in the government's bloody war on drugs and pointed the finger at President Rodrigo Duterte as being ultimately responsible. Human Rights Watch said on Thursday-in a report that Duterte and other senior officials instigated and incited the killings of drug suspects in a campaign that could amount to crimes against humanity. Police have repeatedly carried out extrajudicial killings of drug suspects, then falsely claimed self-defence, and planted guns, spent bullets or drugs on the bodies. \"Our investigations into the Philippine drug war found that police routinely kill drug suspects in cold blood and then cover up their crime by planting drugs and guns at the scene,\" said Peter Bouckaert, emergencies director at Human Rights Watch and author of the report. Rodrigo Duterte accused of paying police to kill-  \"President Duterte's role in these killings makes him ultimately responsible for the deaths of thousands.\" The report said masked gunmen taking part in killings appeared to be working closely with the police, casting doubt on government claims that vigilantes or rival gangs are behind majority of the killings. It said in several instances it investigated, suspects in police custody were later found dead and classified by police as \"found bodies\" or \"deaths under investigation\". The United Nations should create an independent investigation to determine responsibility and ensure accountability, the report said. Presidential spokesman Ernesto Abella said none of the accusations have been proven in court. Until that happens, \"such claims are mere hearsay\", he said. National police spokesman Dionardo Carlos said Human Rights Watch should share its information with the police so any perpetrators can be charged in court. Carlos said police data showed 2,500 people had been killed in police operations, while another 4,000 plus deaths were still being investigated, of which 680 were drug related. Murder charges involving 1,330 victims have been filed with prosecutors or courts, but the details were not known. Rodrigo Duterte's death penalty campaign clears hurdle The Human Rights Watch report draws heavily on interviews in metropolitan Manila with 28 family members of victims, witnesses to police killings, journalists and human rights activists. It also references initial police reports of killings, which Human Rights Watch said its field research consistently contradicted. Duterte barred the 170,000-strong national police from his anti-drug crackdown a few weeks ago after two anti-narcotics officers were implicated in the killing of a South Korean businessman in an extortion scandal that allegedly used the crackdown as a cover. He announced Tuesday that selected policemen will return to the anti-drug campaign, but that the main anti-narcotics agency will continue to supervise operations.  Source:-AP news agency",
+      "title": "Philippines: Drug suspects 'routinely' killed by police",
+      "source": "http://www.aljazeera.com/news/2017/03/philippines-drug-suspects-routinely-killed-police-170302085344259.html",
+      "timestamp": "2017-03-02T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.193Z",
+        "updated": "2024-02-09T13:09:16.193Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "06ea2430-ca4b-11ee-a4d8-23b63abe8329",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.192Z",
+    "updated": "2024-02-13T08:45:07.122Z"
+  }
+}

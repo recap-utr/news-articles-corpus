@@ -1,0 +1,341 @@
+{
+  "nodes": {
+    "67743cf0-c8de-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "\"As for the participation of armed opposition representatives in the talks, representatives of the Southern and Northern fronts are expected to arrive tonight,\"",
+        "reference": {
+          "resource": "2358",
+          "offset": 263,
+          "text": "\"As for the participation of armed opposition representatives in the talks, representatives of the Southern and Northern fronts are expected to arrive tonight,\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:06:43.903Z",
+        "updated": "2024-02-11T13:06:43.903Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.00059592420996,
+            "y": 314
+          }
+        }
+      }
+    },
+    "677415e0-c8de-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "The Syrian armed opposition will hold a meeting with experts from the countries that act as the guarantors of the Syrian ceasefire (Russia, Iran and Turkey)",
+        "reference": {
+          "resource": "2358",
+          "offset": 26,
+          "text": "The Syrian armed opposition will hold a meeting with experts from the countries that act as the guarantors of the Syrian ceasefire (Russia, Iran and Turkey)"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:06:43.903Z",
+        "updated": "2024-02-11T13:06:43.903Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 733.4289012827073,
+            "y": 12
+          }
+        }
+      }
+    },
+    "67743cf7-c8de-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:06:43.903Z",
+        "updated": "2024-02-11T13:06:43.903Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.00015421353817,
+            "y": 202
+          }
+        }
+      }
+    },
+    "67743cf2-c8de-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "According to the diplomat, information on the composition of the opposition delegation will be available later",
+        "reference": {
+          "resource": "2358",
+          "offset": 600,
+          "text": "According to the diplomat, information on the composition of the opposition delegation will be available later"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:06:43.903Z",
+        "updated": "2024-02-11T13:06:43.903Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0004589966888,
+            "y": 302
+          }
+        }
+      }
+    },
+    "67743cfd-c8de-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:06:43.903Z",
+        "updated": "2024-02-11T13:06:43.903Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0000967073407,
+            "y": 202
+          }
+        }
+      }
+    },
+    "67743cf3-c8de-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "\"The talks will continue tomorrow,\" Zhainakov confirmed",
+        "reference": {
+          "resource": "2358",
+          "offset": 712,
+          "text": "\"The talks will continue tomorrow,\" Zhainakov confirmed"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:06:43.903Z",
+        "updated": "2024-02-11T13:06:43.903Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.0007937179387,
+            "y": 302
+          }
+        }
+      }
+    },
+    "67743d00-c8de-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:06:43.903Z",
+        "updated": "2024-02-11T13:06:43.903Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.000876484299,
+            "y": 202
+          }
+        }
+      }
+    },
+    "67743cf4-c8de-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "When asked whether the heads of the Russian, Iranian and Turkish delegations will stay in Astana on March 16, the spokesman said that he \"has no information on their participation.\"",
+        "reference": {
+          "resource": "2358",
+          "offset": 769,
+          "text": "When asked whether the heads of the Russian, Iranian and Turkish delegations will stay in Astana on March 16, the spokesman said that he \"has no information on their participation.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:06:43.903Z",
+        "updated": "2024-02-11T13:06:43.903Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1412.0006301133083,
+            "y": 302
+          }
+        }
+      }
+    },
+    "67743d03-c8de-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:06:43.903Z",
+        "updated": "2024-02-11T13:06:43.903Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1512.0009891106959,
+            "y": 202
+          }
+        }
+      }
+    },
+    "67743cf5-c8de-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "The three countries' representatives along with Kazakhstan's Foreign Minister, Kairat Abdrakhmanov, will address the media later in the day",
+        "reference": {
+          "resource": "2358",
+          "offset": 977,
+          "text": "The three countries' representatives along with Kazakhstan's Foreign Minister, Kairat Abdrakhmanov, will address the media later in the day"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:06:43.903Z",
+        "updated": "2024-02-11T13:06:43.903Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1762.0007356020521,
+            "y": 302
+          }
+        }
+      }
+    },
+    "67743d06-c8de-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:06:43.903Z",
+        "updated": "2024-02-11T13:06:43.903Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1862.000656599392,
+            "y": 202
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "67743cf8-c8de-11ee-a7b6-0184e7d3dd10": {
+      "source": "67743cf0-c8de-11ee-a7b6-0184e7d3dd10",
+      "target": "67743cf7-c8de-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:06:43.903Z",
+        "updated": "2024-02-11T13:06:43.903Z"
+      },
+      "userdata": {}
+    },
+    "67743cf9-c8de-11ee-a7b6-0184e7d3dd10": {
+      "source": "67743cf7-c8de-11ee-a7b6-0184e7d3dd10",
+      "target": "677415e0-c8de-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:06:43.903Z",
+        "updated": "2024-02-11T13:06:43.903Z"
+      },
+      "userdata": {}
+    },
+    "67743cfe-c8de-11ee-a7b6-0184e7d3dd10": {
+      "source": "67743cf2-c8de-11ee-a7b6-0184e7d3dd10",
+      "target": "67743cfd-c8de-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:06:43.903Z",
+        "updated": "2024-02-11T13:06:43.903Z"
+      },
+      "userdata": {}
+    },
+    "67743cff-c8de-11ee-a7b6-0184e7d3dd10": {
+      "source": "67743cfd-c8de-11ee-a7b6-0184e7d3dd10",
+      "target": "677415e0-c8de-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:06:43.903Z",
+        "updated": "2024-02-11T13:06:43.903Z"
+      },
+      "userdata": {}
+    },
+    "67743d01-c8de-11ee-a7b6-0184e7d3dd10": {
+      "source": "67743cf3-c8de-11ee-a7b6-0184e7d3dd10",
+      "target": "67743d00-c8de-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:06:43.903Z",
+        "updated": "2024-02-11T13:06:43.903Z"
+      },
+      "userdata": {}
+    },
+    "67743d02-c8de-11ee-a7b6-0184e7d3dd10": {
+      "source": "67743d00-c8de-11ee-a7b6-0184e7d3dd10",
+      "target": "677415e0-c8de-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:06:43.903Z",
+        "updated": "2024-02-11T13:06:43.903Z"
+      },
+      "userdata": {}
+    },
+    "67743d04-c8de-11ee-a7b6-0184e7d3dd10": {
+      "source": "67743cf4-c8de-11ee-a7b6-0184e7d3dd10",
+      "target": "67743d03-c8de-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:06:43.903Z",
+        "updated": "2024-02-11T13:06:43.903Z"
+      },
+      "userdata": {}
+    },
+    "67743d05-c8de-11ee-a7b6-0184e7d3dd10": {
+      "source": "67743d03-c8de-11ee-a7b6-0184e7d3dd10",
+      "target": "677415e0-c8de-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:06:43.903Z",
+        "updated": "2024-02-11T13:06:43.903Z"
+      },
+      "userdata": {}
+    },
+    "67743d07-c8de-11ee-a7b6-0184e7d3dd10": {
+      "source": "67743cf5-c8de-11ee-a7b6-0184e7d3dd10",
+      "target": "67743d06-c8de-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:06:43.903Z",
+        "updated": "2024-02-11T13:06:43.903Z"
+      },
+      "userdata": {}
+    },
+    "67743d08-c8de-11ee-a7b6-0184e7d3dd10": {
+      "source": "67743d06-c8de-11ee-a7b6-0184e7d3dd10",
+      "target": "677415e0-c8de-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:06:43.903Z",
+        "updated": "2024-02-11T13:06:43.903Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "2358": {
+      "text": "ASTANA, March 16. /TASS/. The Syrian armed opposition will hold a meeting with experts from the countries that act as the guarantors of the Syrian ceasefire (Russia, Iran and Turkey), Kazakhstan's Foreign Ministry Spokesman, Anuar Zhainakov, said on Wednesday.   \"As for the participation of armed opposition representatives in the talks, representatives of the Southern and Northern fronts are expected to arrive tonight,\" he said. \"Tomorrow they will hold consultations with experts from the ceasefire guarantor countries (Russia, Iran and Turkey) on compliance with the cessation of hostilities.\" According to the diplomat, information on the composition of the opposition delegation will be available later. \"The talks will continue tomorrow,\" Zhainakov confirmed. When asked whether the heads of the Russian, Iranian and Turkish delegations will stay in Astana on March 16, the spokesman said that he \"has no information on their participation.\" Zhainakov also noted that the three countries' representatives along with Kazakhstan's Foreign Minister, Kairat Abdrakhmanov, will address the media later in the day. The international meeting in Astana on the settlement in Syria began on March 14. Delegations from Russia, Iran and Turkey, as well as from the United Nations, the United States and Jordan are working in the capital of Kazakhstan.",
+      "title": "Syria opposition to meet Russia, Iran and Turkey on March 16",
+      "source": "http://tass.com/world/935558",
+      "timestamp": "2017-03-14T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.233Z",
+        "updated": "2024-02-09T13:09:16.233Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "69ca24d0-c5b2-11ee-bbb2-f78c6e9d2422": {
+      "name": "Martin Hoppe",
+      "email": "mogramming@gmail.com",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "677415e0-c8de-11ee-a7b6-0184e7d3dd10",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.233Z",
+    "updated": "2024-04-17T07:32:16.179Z"
+  },
+  "userdata": {}
+}

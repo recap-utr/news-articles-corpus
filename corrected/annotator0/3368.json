@@ -1,0 +1,910 @@
+{
+  "nodes": {
+    "cbc6d940-c61a-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "South-Sudanese Government is ignoring famine in their country"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:41:28.532Z",
+        "updated": "2024-02-08T00:41:28.532Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 762.0002417498021,
+            "y": 12
+          }
+        }
+      }
+    },
+    "efda8930-c61a-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "UN Secretary-General Antonio Guterres has accused South Sudan's government of ignoring the plight of 100,000 people suffering from famine, 7.5 million in need of humanitarian aid and thousands more fleeing fighting",
+        "reference": {
+          "resource": "3368",
+          "offset": 0,
+          "text": "UN Secretary-General Antonio Guterres has accused South Sudan's government of ignoring the plight of 100,000 people suffering from famine, 7.5 million in need of humanitarian aid and thousands more fleeing fighting"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:42:29.059Z",
+        "updated": "2024-02-08T00:42:29.059Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1762.0004649209682,
+            "y": 230
+          }
+        }
+      }
+    },
+    "f2e9c500-c61a-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:42:34.192Z",
+        "updated": "2024-02-08T00:42:34.192Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1862.000028970272,
+            "y": 130
+          }
+        }
+      }
+    },
+    "1353cde0-c61b-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "\"a refusal by the leadership to even acknowledge the crisis or to fulfil its responsibilities to end it\"",
+        "reference": {
+          "resource": "3368",
+          "offset": 311,
+          "text": "\"a refusal by the leadership to even acknowledge the crisis or to fulfil its responsibilities to end it\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:43:28.574Z",
+        "updated": "2024-02-08T00:43:28.574Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2112.0008170756732,
+            "y": 544
+          }
+        }
+      }
+    },
+    "17cc0f90-c61b-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:43:36.073Z",
+        "updated": "2024-02-08T00:43:36.073Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2212.000026109349,
+            "y": 444
+          }
+        }
+      }
+    },
+    "229bb330-c61b-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": " \"There is a strong consensus that South Sudanese leaders need to do more to demonstrate their commitment to the wellbeing of the country's people, who are among the poorest in the world",
+        "reference": {
+          "resource": "3368",
+          "offset": 416,
+          "text": " \"There is a strong consensus that South Sudanese leaders need to do more to demonstrate their commitment to the wellbeing of the country's people, who are among the poorest in the world"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:43:54.211Z",
+        "updated": "2024-02-08T00:43:54.211Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1762.0007414165411,
+            "y": 544
+          }
+        }
+      }
+    },
+    "25193650-c61b-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:43:58.389Z",
+        "updated": "2024-02-08T00:43:58.389Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1862.000606012339,
+            "y": 444
+          }
+        }
+      }
+    },
+    "40318d70-c61b-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "The UN chief was also sceptical of Kiir's intention to hold a national dialogue",
+        "reference": {
+          "resource": "3368",
+          "offset": 614,
+          "text": "The UN chief was also sceptical of Kiir's intention to hold a national dialogue"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:44:43.847Z",
+        "updated": "2024-02-08T00:44:43.847Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1412.0005920998594,
+            "y": 580
+          }
+        }
+      }
+    },
+    "43a94f10-c61b-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:44:49.665Z",
+        "updated": "2024-02-08T00:44:49.665Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1512.0009607080933,
+            "y": 444
+          }
+        }
+      }
+    },
+    "58f6ccd0-c61b-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:45:25.405Z",
+        "updated": "2024-02-08T00:45:25.405Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 862.0007441891751,
+            "y": 130
+          }
+        }
+      }
+    },
+    "6b6594a0-c61b-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "the government \"takes issue with the accusation\" that it is responsible for the famine in two counties",
+        "reference": {
+          "resource": "3368",
+          "offset": 875,
+          "text": "the government \"takes issue with the accusation\" that it is responsible for the famine in two counties"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:45:56.330Z",
+        "updated": "2024-02-08T00:45:56.330Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 762.0001749191196,
+            "y": 278
+          }
+        }
+      }
+    },
+    "74d07820-c61b-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "other parts of the country are affected by drought",
+        "reference": {
+          "resource": "3368",
+          "offset": 1051,
+          "text": "other parts of the country are affected by drought"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:46:12.130Z",
+        "updated": "2024-02-08T00:46:12.130Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.000692322405,
+            "y": 544
+          }
+        }
+      }
+    },
+    "76e9bb30-c61b-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:46:15.651Z",
+        "updated": "2024-02-08T00:46:15.651Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0003429478832,
+            "y": 444
+          }
+        }
+      }
+    },
+    "81ca00a0-c61b-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "the government \"will spare no efforts to help address the situation and calls upon the international community to help address this urgent matter\"",
+        "reference": {
+          "resource": "3368",
+          "offset": 1111,
+          "text": "the government \"will spare no efforts to help address the situation and calls upon the international community to help address this urgent matter\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:46:33.898Z",
+        "updated": "2024-02-08T00:46:33.898Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0003911767014,
+            "y": 544
+          }
+        }
+      }
+    },
+    "865a5e30-c61b-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:46:41.555Z",
+        "updated": "2024-02-08T00:46:41.555Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0006600946144,
+            "y": 444
+          }
+        }
+      }
+    },
+    "b4853730-c61b-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "greater pressure is needed if there is any hope of the leaders changing their approach",
+        "reference": {
+          "resource": "3368",
+          "offset": 1259,
+          "text": "greater pressure is needed if there is any hope of the leaders changing their approach"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:47:59.011Z",
+        "updated": "2024-02-08T00:47:59.011Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 62.00025330084979,
+            "y": 278
+          }
+        }
+      }
+    },
+    "b7caec50-c61b-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:48:04.501Z",
+        "updated": "2024-02-08T00:48:04.501Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 162.00062096628122,
+            "y": 130
+          }
+        }
+      }
+    },
+    "cf54ec90-c61b-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "The Security Council is divided over two ways to step up pressure on South Sudan's government-an arms embargo, or sanctions on additional people blocking peace",
+        "reference": {
+          "resource": "3368",
+          "offset": 1461,
+          "text": "The Security Council is divided over two ways to step up pressure on South Sudan's government-an arms embargo, or sanctions on additional people blocking peace"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:48:43.993Z",
+        "updated": "2024-02-08T00:48:43.993Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.00082968885107,
+            "y": 556
+          }
+        }
+      }
+    },
+    "d2385d70-c61b-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:48:48.839Z",
+        "updated": "2024-02-08T00:48:48.839Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.000010680416,
+            "y": 444
+          }
+        }
+      }
+    },
+    "e8f793a0-c61b-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "Malok warned that an arms embargo and additional sanctions \"would further aggravate the situation and would hit hard the vulnerable groups, as the previous experiences had proved",
+        "reference": {
+          "resource": "3368",
+          "offset": 1688,
+          "text": "Malok warned that an arms embargo and additional sanctions \"would further aggravate the situation and would hit hard the vulnerable groups, as the previous experiences had proved"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:49:27.002Z",
+        "updated": "2024-02-08T00:49:27.002Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000452133185112,
+            "y": 544
+          }
+        }
+      }
+    },
+    "ed281df0-c61b-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:49:34.031Z",
+        "updated": "2024-02-08T00:49:34.031Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00050973487471,
+            "y": 444
+          }
+        }
+      }
+    },
+    "151bc730-c61c-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "former Botswana President Festus Mogae, echoed Guterres' call for a unified approach that includes the African Union and the international community, saying the security, economic and humanitarian situation in the country \"has steadily deteriorated to an unacceptable level\"",
+        "reference": {
+          "resource": "3368",
+          "offset": 2246,
+          "text": "former Botswana President Festus Mogae, echoed Guterres' call for a unified approach that includes the African Union and the international community, saying the security, economic and humanitarian situation in the country \"has steadily deteriorated to an unacceptable level\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:50:41.059Z",
+        "updated": "2024-02-08T00:50:41.059Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0001224023736,
+            "y": 858
+          }
+        }
+      }
+    },
+    "18508c60-c61c-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:50:46.438Z",
+        "updated": "2024-02-08T00:50:46.438Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.0005395062463,
+            "y": 758
+          }
+        }
+      }
+    },
+    "26246f50-c61c-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "We must now stand together to do something about it",
+        "reference": {
+          "resource": "3368",
+          "offset": 2665,
+          "text": "We must now stand together to do something about it"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:51:09.637Z",
+        "updated": "2024-02-08T00:51:09.637Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 662.0008137679322,
+            "y": 1220
+          }
+        }
+      }
+    },
+    "295563f0-c61c-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:51:14.991Z",
+        "updated": "2024-02-08T00:51:14.991Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 762.0002448097237,
+            "y": 1120
+          }
+        }
+      }
+    },
+    "577885b0-fbdb-11ee-88a6-a31b3673e116": {
+      "atom": {
+        "text": "in light of the country's \"systematic curtailment of basic political freedoms, and restrictions on humanitarian access",
+        "reference": {
+          "text": "in light of the country's \"systematic curtailment of basic political freedoms, and restrictions on humanitarian access"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-16T10:23:17.899Z",
+        "updated": "2024-04-16T10:23:17.899Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1412.000235919283,
+            "y": 858
+          }
+        }
+      }
+    },
+    "5af3c9c0-fbdb-11ee-88a6-a31b3673e116": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-16T10:23:23.740Z",
+        "updated": "2024-04-16T10:23:23.740Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1512.00066858834,
+            "y": 758
+          }
+        }
+      }
+    },
+    "5ef18ed0-fbdc-11ee-88a6-a31b3673e116": {
+      "atom": {
+        "text": "Across the board, there is a heightened sense of alarm over the fact that the situation is slipping out of control",
+        "reference": {
+          "text": "Across the board, there is a heightened sense of alarm over the fact that the situation is slipping out of control"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-16T10:30:39.933Z",
+        "updated": "2024-04-16T10:30:39.933Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 312.00013143170173,
+            "y": 1220
+          }
+        }
+      }
+    },
+    "62f40440-fbdc-11ee-88a6-a31b3673e116": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-16T10:30:46.660Z",
+        "updated": "2024-04-16T10:30:46.660Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 412.0009683105157,
+            "y": 1120
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "f2e9c501-c61a-11ee-bbb2-f78c6e9d2422": {
+      "source": "efda8930-c61a-11ee-bbb2-f78c6e9d2422",
+      "target": "f2e9c500-c61a-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:42:34.192Z",
+        "updated": "2024-02-08T00:42:34.192Z"
+      },
+      "userdata": {}
+    },
+    "f2e9c502-c61a-11ee-bbb2-f78c6e9d2422": {
+      "source": "f2e9c500-c61a-11ee-bbb2-f78c6e9d2422",
+      "target": "cbc6d940-c61a-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:42:34.192Z",
+        "updated": "2024-02-08T00:42:34.192Z"
+      },
+      "userdata": {}
+    },
+    "17cc0f91-c61b-11ee-bbb2-f78c6e9d2422": {
+      "source": "1353cde0-c61b-11ee-bbb2-f78c6e9d2422",
+      "target": "17cc0f90-c61b-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:43:36.073Z",
+        "updated": "2024-02-08T00:43:36.073Z"
+      },
+      "userdata": {}
+    },
+    "17cc0f92-c61b-11ee-bbb2-f78c6e9d2422": {
+      "source": "17cc0f90-c61b-11ee-bbb2-f78c6e9d2422",
+      "target": "efda8930-c61a-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:43:36.073Z",
+        "updated": "2024-02-08T00:43:36.073Z"
+      },
+      "userdata": {}
+    },
+    "25193651-c61b-11ee-bbb2-f78c6e9d2422": {
+      "source": "229bb330-c61b-11ee-bbb2-f78c6e9d2422",
+      "target": "25193650-c61b-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:43:58.389Z",
+        "updated": "2024-02-08T00:43:58.389Z"
+      },
+      "userdata": {}
+    },
+    "25193652-c61b-11ee-bbb2-f78c6e9d2422": {
+      "source": "25193650-c61b-11ee-bbb2-f78c6e9d2422",
+      "target": "efda8930-c61a-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:43:58.389Z",
+        "updated": "2024-02-08T00:43:58.389Z"
+      },
+      "userdata": {}
+    },
+    "43a94f11-c61b-11ee-bbb2-f78c6e9d2422": {
+      "source": "40318d70-c61b-11ee-bbb2-f78c6e9d2422",
+      "target": "43a94f10-c61b-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:44:49.665Z",
+        "updated": "2024-02-08T00:44:49.665Z"
+      },
+      "userdata": {}
+    },
+    "43a94f12-c61b-11ee-bbb2-f78c6e9d2422": {
+      "source": "43a94f10-c61b-11ee-bbb2-f78c6e9d2422",
+      "target": "efda8930-c61a-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:44:49.665Z",
+        "updated": "2024-02-08T00:44:49.665Z"
+      },
+      "userdata": {}
+    },
+    "58f6ccd1-c61b-11ee-bbb2-f78c6e9d2422": {
+      "source": "54649a80-c61b-11ee-bbb2-f78c6e9d2422",
+      "target": "58f6ccd0-c61b-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:45:25.405Z",
+        "updated": "2024-02-08T00:45:25.405Z"
+      },
+      "userdata": {}
+    },
+    "58f6ccd2-c61b-11ee-bbb2-f78c6e9d2422": {
+      "source": "58f6ccd0-c61b-11ee-bbb2-f78c6e9d2422",
+      "target": "cbc6d940-c61a-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:45:25.405Z",
+        "updated": "2024-02-08T00:45:25.405Z"
+      },
+      "userdata": {}
+    },
+    "6d0c18b0-c61b-11ee-bbb2-f78c6e9d2422": {
+      "source": "6b6594a0-c61b-11ee-bbb2-f78c6e9d2422",
+      "target": "58f6ccd0-c61b-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:45:59.099Z",
+        "updated": "2024-02-08T00:45:59.099Z"
+      },
+      "userdata": {}
+    },
+    "76e9bb31-c61b-11ee-bbb2-f78c6e9d2422": {
+      "source": "74d07820-c61b-11ee-bbb2-f78c6e9d2422",
+      "target": "76e9bb30-c61b-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:46:15.651Z",
+        "updated": "2024-02-08T00:46:15.651Z"
+      },
+      "userdata": {}
+    },
+    "76e9bb32-c61b-11ee-bbb2-f78c6e9d2422": {
+      "source": "76e9bb30-c61b-11ee-bbb2-f78c6e9d2422",
+      "target": "6b6594a0-c61b-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:46:15.651Z",
+        "updated": "2024-02-08T00:46:15.651Z"
+      },
+      "userdata": {}
+    },
+    "865a5e31-c61b-11ee-bbb2-f78c6e9d2422": {
+      "source": "81ca00a0-c61b-11ee-bbb2-f78c6e9d2422",
+      "target": "865a5e30-c61b-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:46:41.555Z",
+        "updated": "2024-02-08T00:46:41.555Z"
+      },
+      "userdata": {}
+    },
+    "865a5e32-c61b-11ee-bbb2-f78c6e9d2422": {
+      "source": "865a5e30-c61b-11ee-bbb2-f78c6e9d2422",
+      "target": "6b6594a0-c61b-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:46:41.555Z",
+        "updated": "2024-02-08T00:46:41.555Z"
+      },
+      "userdata": {}
+    },
+    "b7caec51-c61b-11ee-bbb2-f78c6e9d2422": {
+      "source": "b4853730-c61b-11ee-bbb2-f78c6e9d2422",
+      "target": "b7caec50-c61b-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:48:04.501Z",
+        "updated": "2024-02-08T00:48:04.501Z"
+      },
+      "userdata": {}
+    },
+    "b7caec52-c61b-11ee-bbb2-f78c6e9d2422": {
+      "source": "b7caec50-c61b-11ee-bbb2-f78c6e9d2422",
+      "target": "cbc6d940-c61a-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:48:04.501Z",
+        "updated": "2024-02-08T00:48:04.501Z"
+      },
+      "userdata": {}
+    },
+    "d2385d71-c61b-11ee-bbb2-f78c6e9d2422": {
+      "source": "cf54ec90-c61b-11ee-bbb2-f78c6e9d2422",
+      "target": "d2385d70-c61b-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:48:48.839Z",
+        "updated": "2024-02-08T00:48:48.839Z"
+      },
+      "userdata": {}
+    },
+    "d2385d72-c61b-11ee-bbb2-f78c6e9d2422": {
+      "source": "d2385d70-c61b-11ee-bbb2-f78c6e9d2422",
+      "target": "b4853730-c61b-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:48:48.839Z",
+        "updated": "2024-02-08T00:48:48.839Z"
+      },
+      "userdata": {}
+    },
+    "ed281df1-c61b-11ee-bbb2-f78c6e9d2422": {
+      "source": "e8f793a0-c61b-11ee-bbb2-f78c6e9d2422",
+      "target": "ed281df0-c61b-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:49:34.031Z",
+        "updated": "2024-02-08T00:49:34.031Z"
+      },
+      "userdata": {}
+    },
+    "ed281df2-c61b-11ee-bbb2-f78c6e9d2422": {
+      "source": "ed281df0-c61b-11ee-bbb2-f78c6e9d2422",
+      "target": "b4853730-c61b-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:49:34.031Z",
+        "updated": "2024-02-08T00:49:34.031Z"
+      },
+      "userdata": {}
+    },
+    "18508c61-c61c-11ee-bbb2-f78c6e9d2422": {
+      "source": "151bc730-c61c-11ee-bbb2-f78c6e9d2422",
+      "target": "18508c60-c61c-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:50:46.438Z",
+        "updated": "2024-02-08T00:50:46.438Z"
+      },
+      "userdata": {}
+    },
+    "18508c62-c61c-11ee-bbb2-f78c6e9d2422": {
+      "source": "18508c60-c61c-11ee-bbb2-f78c6e9d2422",
+      "target": "cf54ec90-c61b-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:50:46.438Z",
+        "updated": "2024-02-08T00:50:46.438Z"
+      },
+      "userdata": {}
+    },
+    "295563f1-c61c-11ee-bbb2-f78c6e9d2422": {
+      "source": "26246f50-c61c-11ee-bbb2-f78c6e9d2422",
+      "target": "295563f0-c61c-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:51:14.991Z",
+        "updated": "2024-02-08T00:51:14.991Z"
+      },
+      "userdata": {}
+    },
+    "295563f2-c61c-11ee-bbb2-f78c6e9d2422": {
+      "source": "295563f0-c61c-11ee-bbb2-f78c6e9d2422",
+      "target": "151bc730-c61c-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:51:14.991Z",
+        "updated": "2024-02-08T00:51:14.991Z"
+      },
+      "userdata": {}
+    },
+    "5af3f0d0-fbdb-11ee-88a6-a31b3673e116": {
+      "source": "577885b0-fbdb-11ee-88a6-a31b3673e116",
+      "target": "5af3c9c0-fbdb-11ee-88a6-a31b3673e116",
+      "metadata": {
+        "created": "2024-04-16T10:23:23.741Z",
+        "updated": "2024-04-16T10:23:23.741Z"
+      },
+      "userdata": {}
+    },
+    "5af3f0d1-fbdb-11ee-88a6-a31b3673e116": {
+      "source": "5af3c9c0-fbdb-11ee-88a6-a31b3673e116",
+      "target": "40318d70-c61b-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-04-16T10:23:23.741Z",
+        "updated": "2024-04-16T10:23:23.741Z"
+      },
+      "userdata": {}
+    },
+    "f24c7291-fbdb-11ee-88a6-a31b3673e116": {
+      "source": "ed5cde00-fbdb-11ee-88a6-a31b3673e116",
+      "target": "f24c7290-fbdb-11ee-88a6-a31b3673e116",
+      "metadata": {
+        "created": "2024-04-16T10:27:37.657Z",
+        "updated": "2024-04-16T10:27:37.657Z"
+      },
+      "userdata": {}
+    },
+    "f24c7292-fbdb-11ee-88a6-a31b3673e116": {
+      "source": "f24c7290-fbdb-11ee-88a6-a31b3673e116",
+      "target": "e8f793a0-c61b-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-04-16T10:27:37.657Z",
+        "updated": "2024-04-16T10:27:37.657Z"
+      },
+      "userdata": {}
+    },
+    "fd09edc1-fbdb-11ee-88a6-a31b3673e116": {
+      "source": "f8576230-fbdb-11ee-88a6-a31b3673e116",
+      "target": "fd09edc0-fbdb-11ee-88a6-a31b3673e116",
+      "metadata": {
+        "created": "2024-04-16T10:27:55.676Z",
+        "updated": "2024-04-16T10:27:55.676Z"
+      },
+      "userdata": {}
+    },
+    "fd09edc2-fbdb-11ee-88a6-a31b3673e116": {
+      "source": "fd09edc0-fbdb-11ee-88a6-a31b3673e116",
+      "target": "ed5cde00-fbdb-11ee-88a6-a31b3673e116",
+      "metadata": {
+        "created": "2024-04-16T10:27:55.676Z",
+        "updated": "2024-04-16T10:27:55.676Z"
+      },
+      "userdata": {}
+    },
+    "0a74d5b1-fbdc-11ee-88a6-a31b3673e116": {
+      "source": "06c69ac0-fbdc-11ee-88a6-a31b3673e116",
+      "target": "0a74d5b0-fbdc-11ee-88a6-a31b3673e116",
+      "metadata": {
+        "created": "2024-04-16T10:28:18.187Z",
+        "updated": "2024-04-16T10:28:18.187Z"
+      },
+      "userdata": {}
+    },
+    "0a74d5b2-fbdc-11ee-88a6-a31b3673e116": {
+      "source": "0a74d5b0-fbdc-11ee-88a6-a31b3673e116",
+      "target": "ed5cde00-fbdb-11ee-88a6-a31b3673e116",
+      "metadata": {
+        "created": "2024-04-16T10:28:18.187Z",
+        "updated": "2024-04-16T10:28:18.187Z"
+      },
+      "userdata": {}
+    },
+    "62f40441-fbdc-11ee-88a6-a31b3673e116": {
+      "source": "5ef18ed0-fbdc-11ee-88a6-a31b3673e116",
+      "target": "62f40440-fbdc-11ee-88a6-a31b3673e116",
+      "metadata": {
+        "created": "2024-04-16T10:30:46.660Z",
+        "updated": "2024-04-16T10:30:46.660Z"
+      },
+      "userdata": {}
+    },
+    "62f40442-fbdc-11ee-88a6-a31b3673e116": {
+      "source": "62f40440-fbdc-11ee-88a6-a31b3673e116",
+      "target": "151bc730-c61c-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-04-16T10:30:46.660Z",
+        "updated": "2024-04-16T10:30:46.660Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "3368": {
+      "text": "UN Secretary-General Antonio Guterres has accused South Sudan's government of ignoring the plight of 100,000 people suffering from famine, 7.5 million in need of humanitarian aid and thousands more fleeing fighting. Guterres' rebuke was delivered to the country's president, Salva Kiir, on Thursday, mentioning \"a refusal by the leadership to even acknowledge the crisis or to fulfil its responsibilities to end it\". \"There is a strong consensus that South Sudanese leaders need to do more to demonstrate their commitment to the wellbeing of the country's people, who are among the poorest in the world,\"-he-said. The UN chief was also sceptical of Kiir's intention to hold a national dialogue, in light of the country's \"systematic curtailment of basic political freedoms, and restrictions on humanitarian access\". READ MORE: Dying of hunger: What is a famine? In response, South Sudan's deputy UN ambassador, Joseph Moum Malok, said the government \"takes issue with the accusation\" that it is responsible for the famine in two counties, adding that other parts of the country are affected by drought. He said the government \"will spare no efforts to help address the situation and calls upon the international community to help address this urgent matter\". Guterres said greater pressure is needed if there is any hope of the leaders changing their approach, which means \"first and foremost that the region and the Security Council must speak with one voice. The Security Council is divided over two ways to step up pressure on South Sudan's government-an arms embargo, or sanctions on additional people blocking peace. READ MORE: Uganda at 'breaking point' from S Sudan refugee crisis Malok warned that an arms embargo and additional sanctions \"would further aggravate the situation and would hit hard the vulnerable groups, as the previous experiences had proved.\" South Sudan's three-year civil war has devastated the country, killed tens of thousands, and contributed to a recently declared famine in two counties.  The war began after a struggle for power between President Kiir and former Vice President Riek Machar. The pair signed a shaky peace deal a year ago, but fighting has continued.- The top monitor of South Sudan's peace deal, former Botswana President Festus Mogae, echoed Guterres' call for a unified approach that includes the African Union and the international community, saying the security, economic and humanitarian situation in the country \"has steadily deteriorated to an unacceptable level\". \"Across the board, there is a heightened sense of alarm over the fact that the situation is slipping out of control,\" Mogae told the council. \"We must now stand together to do something about it.\" Source:-News agencies",
+      "title": "Antonio Guterres: Salva Kiir is ignoring famine",
+      "source": "http://www.aljazeera.com/news/2017/03/antonio-guterres-salva-kiir-ignoring-famine-170324045330275.html",
+      "timestamp": "2024-02-08T00:39:26.569Z",
+      "metadata": {
+        "created": "2024-02-05T09:49:22.040Z",
+        "updated": "2024-02-05T09:49:22.040Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "6fda64d0-fbda-11ee-88a6-a31b3673e116": {
+      "name": "annotator0",
+      "email": "s4kibart@uni-trier.de",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "cbc6d940-c61a-11ee-bbb2-f78c6e9d2422",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-05T09:49:22.040Z",
+    "updated": "2024-04-16T10:31:37.084Z"
+  },
+  "userdata": {
+    "notes": "11min"
+  }
+}

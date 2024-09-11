@@ -1,0 +1,502 @@
+{
+  "nodes": {
+    "d68f1421-c8de-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "The order is likely to spark accusations from Georgia and its Western allies that the Kremlin is absorbing the region into Russia by stealth",
+        "reference": {
+          "resource": "2386",
+          "text": "The order is likely to spark accusations from Georgia and its Western allies that the Kremlin is absorbing the region into Russia by stealth"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:09:50.306Z",
+        "updated": "2024-02-11T13:09:50.306Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.000333057799,
+            "y": 302
+          }
+        }
+      }
+    },
+    "d68f1420-c8de-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Russian President Vladimir Putin has approved the government's proposal to integrate some military units of Georgia's breakaway region of South Ossetia into the Russian army",
+        "reference": {
+          "resource": "2386",
+          "offset": 0,
+          "text": "Russian President Vladimir Putin has approved the government's proposal to integrate some military units of Georgia's breakaway region of South Ossetia into the Russian army"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:09:50.306Z",
+        "updated": "2024-02-11T13:09:50.306Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 392.00038480451,
+            "y": 12
+          }
+        }
+      }
+    },
+    "d68f1427-c8de-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:09:50.306Z",
+        "updated": "2024-02-11T13:09:50.306Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.0009784633385,
+            "y": 202
+          }
+        }
+      }
+    },
+    "d68f1422-c8de-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Under international law it is part of Georgia's sovereign territory",
+        "reference": {
+          "resource": "2386",
+          "offset": 350,
+          "text": "Under international law it is part of Georgia's sovereign territory"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:09:50.306Z",
+        "updated": "2024-02-11T13:09:50.306Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0005293516416,
+            "y": 302
+          }
+        }
+      }
+    },
+    "d68f142a-c8de-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:09:50.306Z",
+        "updated": "2024-02-11T13:09:50.306Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0001748806349,
+            "y": 202
+          }
+        }
+      }
+    },
+    "d68f1423-c8de-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Russia recognised South Ossetia as an independent state in 2008 after fighting a short war with Georgia",
+        "reference": {
+          "resource": "2386",
+          "text": "Russia recognised South Ossetia as an independent state in 2008 after fighting a short war with Georgia"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:09:50.306Z",
+        "updated": "2024-02-11T13:09:50.306Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0001236985701,
+            "y": 616
+          }
+        }
+      }
+    },
+    "d68f1425-c8de-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Transfer of some units of South Ossetian Armed Forces into the Russian army is at variance with the Russian legislation",
+        "reference": {
+          "resource": "2386",
+          "offset": 1338,
+          "text": "Transfer of some units of South Ossetian Armed Forces into the Russian army is at variance with the Russian legislation"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:09:50.306Z",
+        "updated": "2024-02-11T13:09:50.306Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.0001001173362,
+            "y": 302
+          }
+        }
+      }
+    },
+    "d68f3b36-c8de-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:09:50.307Z",
+        "updated": "2024-02-11T13:09:50.307Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0007807028032,
+            "y": 202
+          }
+        }
+      }
+    },
+    "8b3230c0-fbec-11ee-8d11-5d7b6a4e5d1b": {
+      "atom": {
+        "text": "Moscow has de facto controlled South Ossetia - a sliver of mainly mountainous land in the northeast of Georgia - for years",
+        "reference": {
+          "text": "Moscow has de facto controlled South Ossetia - a sliver of mainly mountainous land in the northeast of Georgia - for years"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-16T12:26:26.124Z",
+        "updated": "2024-04-16T12:26:26.124Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0006012716864,
+            "y": 882
+          }
+        }
+      }
+    },
+    "93976410-fbec-11ee-8d11-5d7b6a4e5d1b": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-16T12:26:40.209Z",
+        "updated": "2024-04-16T12:26:40.209Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0000417331171,
+            "y": 492
+          }
+        }
+      }
+    },
+    "9743f150-fbec-11ee-8d11-5d7b6a4e5d1b": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-16T12:26:46.373Z",
+        "updated": "2024-04-16T12:26:46.373Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0009186602891,
+            "y": 782
+          }
+        }
+      }
+    },
+    "ec487810-fbec-11ee-8d11-5d7b6a4e5d1b": {
+      "atom": {
+        "text": "Putin instructed the Russian defence ministry to sign a military agreement with South Ossetia on Moscow's behalf",
+        "reference": {
+          "text": "Putin instructed the Russian defence ministry to sign a military agreement with South Ossetia on Moscow's behalf"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-16T12:29:09.010Z",
+        "updated": "2024-04-16T12:29:09.010Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000076491437069,
+            "y": 302
+          }
+        }
+      }
+    },
+    "efacb1b0-fbec-11ee-8d11-5d7b6a4e5d1b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-16T12:29:14.699Z",
+        "updated": "2024-04-16T12:29:14.699Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00009428050163,
+            "y": 202
+          }
+        }
+      }
+    },
+    "1c3a0750-fbed-11ee-8d11-5d7b6a4e5d1b": {
+      "atom": {
+        "text": "The deal would allow the Russian military to recruit South Ossetian soldiers as contractors, but they would first have to be dismissed from active duty by South Ossetia",
+        "reference": {
+          "text": "The deal would allow the Russian military to recruit South Ossetian soldiers as contractors, but they would first have to be dismissed from active duty by South Ossetia"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-16T12:30:29.445Z",
+        "updated": "2024-04-16T12:30:29.445Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0005711102221,
+            "y": 592
+          }
+        }
+      }
+    },
+    "1f908550-fbed-11ee-8d11-5d7b6a4e5d1b": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-16T12:30:35.045Z",
+        "updated": "2024-04-16T12:30:35.045Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.00065087783753,
+            "y": 492
+          }
+        }
+      }
+    },
+    "83d13190-fbed-11ee-8d11-5d7b6a4e5d1b": {
+      "atom": {
+        "text": "the decision was \"one more obvious step towards de facto annexation of South Ossetia",
+        "reference": {
+          "text": "the decision was \"one more obvious step towards de facto annexation of South Ossetia"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-16T12:33:23.241Z",
+        "updated": "2024-04-16T12:33:23.241Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000726296227809,
+            "y": 592
+          }
+        }
+      }
+    },
+    "88607db0-fbed-11ee-8d11-5d7b6a4e5d1b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-16T12:33:30.891Z",
+        "updated": "2024-04-16T12:33:30.891Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00003356846334,
+            "y": 492
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "d68f1428-c8de-11ee-a7b6-0184e7d3dd10": {
+      "source": "d68f1421-c8de-11ee-a7b6-0184e7d3dd10",
+      "target": "d68f1427-c8de-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:09:50.306Z",
+        "updated": "2024-02-11T13:09:50.306Z"
+      },
+      "userdata": {}
+    },
+    "d68f1429-c8de-11ee-a7b6-0184e7d3dd10": {
+      "source": "d68f1427-c8de-11ee-a7b6-0184e7d3dd10",
+      "target": "d68f1420-c8de-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:09:50.306Z",
+        "updated": "2024-02-11T13:09:50.306Z"
+      },
+      "userdata": {}
+    },
+    "d68f142b-c8de-11ee-a7b6-0184e7d3dd10": {
+      "source": "d68f1422-c8de-11ee-a7b6-0184e7d3dd10",
+      "target": "d68f142a-c8de-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:09:50.306Z",
+        "updated": "2024-02-11T13:09:50.306Z"
+      },
+      "userdata": {}
+    },
+    "d68f142c-c8de-11ee-a7b6-0184e7d3dd10": {
+      "source": "d68f142a-c8de-11ee-a7b6-0184e7d3dd10",
+      "target": "d68f1420-c8de-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:09:50.307Z",
+        "updated": "2024-02-11T13:09:50.307Z"
+      },
+      "userdata": {}
+    },
+    "d68f3b37-c8de-11ee-a7b6-0184e7d3dd10": {
+      "source": "d68f1425-c8de-11ee-a7b6-0184e7d3dd10",
+      "target": "d68f3b36-c8de-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:09:50.307Z",
+        "updated": "2024-02-11T13:09:50.307Z"
+      },
+      "userdata": {}
+    },
+    "d68f3b38-c8de-11ee-a7b6-0184e7d3dd10": {
+      "source": "d68f3b36-c8de-11ee-a7b6-0184e7d3dd10",
+      "target": "d68f1420-c8de-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:09:50.307Z",
+        "updated": "2024-02-11T13:09:50.307Z"
+      },
+      "userdata": {}
+    },
+    "93976411-fbec-11ee-8d11-5d7b6a4e5d1b": {
+      "source": "d68f1423-c8de-11ee-a7b6-0184e7d3dd10",
+      "target": "93976410-fbec-11ee-8d11-5d7b6a4e5d1b",
+      "metadata": {
+        "created": "2024-04-16T12:26:40.209Z",
+        "updated": "2024-04-16T12:26:40.209Z"
+      },
+      "userdata": {}
+    },
+    "93976412-fbec-11ee-8d11-5d7b6a4e5d1b": {
+      "source": "93976410-fbec-11ee-8d11-5d7b6a4e5d1b",
+      "target": "d68f1421-c8de-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-04-16T12:26:40.209Z",
+        "updated": "2024-04-16T12:26:40.209Z"
+      },
+      "userdata": {}
+    },
+    "97441860-fbec-11ee-8d11-5d7b6a4e5d1b": {
+      "source": "8b3230c0-fbec-11ee-8d11-5d7b6a4e5d1b",
+      "target": "9743f150-fbec-11ee-8d11-5d7b6a4e5d1b",
+      "metadata": {
+        "created": "2024-04-16T12:26:46.374Z",
+        "updated": "2024-04-16T12:26:46.374Z"
+      },
+      "userdata": {}
+    },
+    "97441861-fbec-11ee-8d11-5d7b6a4e5d1b": {
+      "source": "9743f150-fbec-11ee-8d11-5d7b6a4e5d1b",
+      "target": "d68f1423-c8de-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-04-16T12:26:46.374Z",
+        "updated": "2024-04-16T12:26:46.374Z"
+      },
+      "userdata": {}
+    },
+    "efacd8c0-fbec-11ee-8d11-5d7b6a4e5d1b": {
+      "source": "ec487810-fbec-11ee-8d11-5d7b6a4e5d1b",
+      "target": "efacb1b0-fbec-11ee-8d11-5d7b6a4e5d1b",
+      "metadata": {
+        "created": "2024-04-16T12:29:14.700Z",
+        "updated": "2024-04-16T12:29:14.700Z"
+      },
+      "userdata": {}
+    },
+    "efacd8c1-fbec-11ee-8d11-5d7b6a4e5d1b": {
+      "source": "efacb1b0-fbec-11ee-8d11-5d7b6a4e5d1b",
+      "target": "d68f1420-c8de-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-04-16T12:29:14.700Z",
+        "updated": "2024-04-16T12:29:14.700Z"
+      },
+      "userdata": {}
+    },
+    "1f90ac60-fbed-11ee-8d11-5d7b6a4e5d1b": {
+      "source": "1c3a0750-fbed-11ee-8d11-5d7b6a4e5d1b",
+      "target": "1f908550-fbed-11ee-8d11-5d7b6a4e5d1b",
+      "metadata": {
+        "created": "2024-04-16T12:30:35.046Z",
+        "updated": "2024-04-16T12:30:35.046Z"
+      },
+      "userdata": {}
+    },
+    "1f90d370-fbed-11ee-8d11-5d7b6a4e5d1b": {
+      "source": "1f908550-fbed-11ee-8d11-5d7b6a4e5d1b",
+      "target": "d68f1421-c8de-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-04-16T12:30:35.047Z",
+        "updated": "2024-04-16T12:30:35.047Z"
+      },
+      "userdata": {}
+    },
+    "88607db1-fbed-11ee-8d11-5d7b6a4e5d1b": {
+      "source": "83d13190-fbed-11ee-8d11-5d7b6a4e5d1b",
+      "target": "88607db0-fbed-11ee-8d11-5d7b6a4e5d1b",
+      "metadata": {
+        "created": "2024-04-16T12:33:30.891Z",
+        "updated": "2024-04-16T12:33:30.891Z"
+      },
+      "userdata": {}
+    },
+    "88607db2-fbed-11ee-8d11-5d7b6a4e5d1b": {
+      "source": "88607db0-fbed-11ee-8d11-5d7b6a4e5d1b",
+      "target": "d68f1421-c8de-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-04-16T12:33:30.891Z",
+        "updated": "2024-04-16T12:33:30.891Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "2386": {
+      "text": "Russian President Vladimir Putin has approved the government's proposal to integrate some military units of Georgia's breakaway region of South Ossetia into the Russian army. The order announced on Tuesday is likely to spark accusations from Georgia and its Western allies that the Kremlin is absorbing the region into Russia by stealth, even though under international law it is part of Georgia's sovereign territory. Russia recognised South Ossetia as an independent state in 2008 after fighting a short war with Georgia. Moscow has de facto controlled South Ossetia - a sliver of mainly mountainous land in the northeast of Georgia - for years. But it has, on paper at least, treated it as a separate state, not part of Russia. Putin instructed the Russian defence ministry to sign a military agreement with South Ossetia on Moscow's behalf, according Ria Novosti and Tass news agencies, which cited information published on the government's website on Tuesday.  The deal would allow the Russian military to recruit South Ossetian soldiers as contractors, but they would first have to be dismissed from active duty by South Ossetia, reported Tass. Leonid Tibilov, the de-facto leader of South Ossetia, said last year the self-declared republic would retain its army while part of its military would serve in the Russian armed forces. \"Transfer of some units of South Ossetian Armed Forces into the Russian army is at variance with the Russian legislation,\" Tibilov-was quoted as saying by Tass. He also said it was not yet clear how many military servicemen would go into Russian units. The Georgian government issued a statement condemning Russia's move, saying the decision was \"one more obvious step towards de facto annexation of South Ossetia\". \"We call on the international community to assess in a proper way the so-called agreement and to demand that Russia fulfils international obligations,\" the statement said. Georgia says it wants South Ossetia and Abkhazia, another breakaway region, back. Source:-Al Jazeera and news agencies",
+      "title": "Putin approves army deal with Georgia's South Ossetia",
+      "source": "http://www.aljazeera.com/news/2017/03/putin-approves-army-deal-georgia-south-ossetia-170314154927196.html",
+      "timestamp": "2017-03-14T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.220Z",
+        "updated": "2024-02-09T13:09:16.220Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "6fda64d0-fbda-11ee-88a6-a31b3673e116": {
+      "name": "annotator0",
+      "email": "s4kibart@uni-trier.de",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "d68f1420-c8de-11ee-a7b6-0184e7d3dd10",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.220Z",
+    "updated": "2024-04-16T12:34:18.403Z"
+  },
+  "userdata": {}
+}

@@ -1,0 +1,514 @@
+{
+  "nodes": {
+    "1d5860b0-c618-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "Iraqi forces in Mosul have said they have captured two key neighbourhoods in its offensive to retake the western part of the city from-the Islamic State of Iraq and the Levant",
+        "reference": {
+          "resource": "2927",
+          "offset": 0,
+          "text": "Iraqi forces in Mosul have said they have captured two key neighbourhoods in its offensive to retake the western part of the city from-the Islamic State of Iraq and the Levant"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:22:16.891Z",
+        "updated": "2024-02-08T00:22:16.891Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 442.000781252389,
+            "y": 12
+          }
+        }
+      }
+    },
+    "27528be0-c618-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "the captain of the federal police, said control of the al-Kur and al-Tawafa will allow for a safe corridor for civilians to leave the city",
+        "reference": {
+          "resource": "2927",
+          "offset": 218,
+          "text": "the captain of the federal police, said control of the al-Kur and al-Tawafa will allow for a safe corridor for civilians to leave the city"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:22:33.630Z",
+        "updated": "2024-02-08T00:22:33.630Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1462.0008647770078,
+            "y": 326
+          }
+        }
+      }
+    },
+    "2b2e1860-c618-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:22:40.102Z",
+        "updated": "2024-02-08T00:22:40.102Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1562.0000542895928,
+            "y": 226
+          }
+        }
+      }
+    },
+    "3fe39be0-c618-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "Saturday's advance followed intense clashes between Iraqi forces and ISIL fighters",
+        "reference": {
+          "resource": "2927",
+          "offset": 510,
+          "text": "Saturday's advance followed intense clashes between Iraqi forces and ISIL fighters"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:23:14.846Z",
+        "updated": "2024-02-08T00:23:14.846Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 392.0005821308619,
+            "y": 345.2
+          }
+        }
+      }
+    },
+    "43ff3ea0-c618-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:23:21.738Z",
+        "updated": "2024-02-08T00:23:21.738Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 492.0006477960085,
+            "y": 226
+          }
+        }
+      }
+    },
+    "4cff2b50-c618-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "The Iraqi military launched the most recent offensive on western Mosul, the largest remaining ISIL stronghold in Iraq, on February 19",
+        "reference": {
+          "resource": "2927",
+          "offset": 594,
+          "text": "The Iraqi military launched the most recent offensive on western Mosul, the largest remaining ISIL stronghold in Iraq, on February 19"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:23:36.837Z",
+        "updated": "2024-02-08T00:23:36.837Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.00053152196404,
+            "y": 592
+          }
+        }
+      }
+    },
+    "4ed9dec0-c618-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:23:39.948Z",
+        "updated": "2024-02-08T00:23:39.948Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.00016775993765,
+            "y": 492
+          }
+        }
+      }
+    },
+    "60b20be0-c618-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "On Wednesday, Iraqi forces took control of a main bridge leading to the city and advanced towards the mosque where ISIL's leader declared a \"caliphate\" in 2014",
+        "reference": {
+          "resource": "2927",
+          "offset": 729,
+          "text": "On Wednesday, Iraqi forces took control of a main bridge leading to the city and advanced towards the mosque where ISIL's leader declared a \"caliphate\" in 2014"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:24:09.886Z",
+        "updated": "2024-02-08T00:24:09.886Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0000356912738,
+            "y": 592
+          }
+        }
+      }
+    },
+    "62cc6060-c618-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:24:13.414Z",
+        "updated": "2024-02-08T00:24:13.414Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.000573151275,
+            "y": 492
+          }
+        }
+      }
+    },
+    "6fee7f80-c618-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "Nearly 100,000 Iraqis have fled western Mosul over the past three weeks",
+        "reference": {
+          "resource": "2927",
+          "offset": 891,
+          "text": "Nearly 100,000 Iraqis have fled western Mosul over the past three weeks"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:24:35.448Z",
+        "updated": "2024-02-08T00:24:35.448Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1762.000658447943,
+            "y": 592
+          }
+        }
+      }
+    },
+    "7246a050-c618-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:24:39.381Z",
+        "updated": "2024-02-08T00:24:39.381Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1862.0004647122505,
+            "y": 492
+          }
+        }
+      }
+    },
+    "79079980-c618-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "The Iraqi Ministry of Displacement and Migration said that as many as 600,000 civilians remained trapped in neighbourhoods of west Mosul",
+        "reference": {
+          "resource": "2927",
+          "offset": 1035,
+          "text": "The Iraqi Ministry of Displacement and Migration said that as many as 600,000 civilians remained trapped in neighbourhoods of west Mosul"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:24:50.712Z",
+        "updated": "2024-02-08T00:24:50.712Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1412.0009902134466,
+            "y": 592
+          }
+        }
+      }
+    },
+    "7b714680-c618-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:24:54.760Z",
+        "updated": "2024-02-08T00:24:54.760Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1512.0006857541835,
+            "y": 492
+          }
+        }
+      }
+    },
+    "8917fef0-c618-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "The operation in the city officially began in October last year",
+        "reference": {
+          "resource": "2927",
+          "offset": 1216,
+          "text": "The operation in the city officially began in October last year"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:25:17.663Z",
+        "updated": "2024-02-08T00:25:17.663Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.0008900371442,
+            "y": 592
+          }
+        }
+      }
+    },
+    "8c4c27e0-c618-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:25:23.038Z",
+        "updated": "2024-02-08T00:25:23.038Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0001116719238,
+            "y": 492
+          }
+        }
+      }
+    },
+    "98ece200-c618-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "In January, its eastern half was declared \"fully liberated\"",
+        "reference": {
+          "resource": "2927",
+          "offset": 1281,
+          "text": "In January, its eastern half was declared \"fully liberated\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T00:25:44.224Z",
+        "updated": "2024-02-08T00:25:44.224Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000002048444426,
+            "y": 592
+          }
+        }
+      }
+    },
+    "9ba9df20-c618-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T00:25:48.818Z",
+        "updated": "2024-02-08T00:25:48.818Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.0008875679813,
+            "y": 492
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "2b2e1861-c618-11ee-bbb2-f78c6e9d2422": {
+      "source": "27528be0-c618-11ee-bbb2-f78c6e9d2422",
+      "target": "2b2e1860-c618-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:22:40.102Z",
+        "updated": "2024-02-08T00:22:40.102Z"
+      },
+      "userdata": {}
+    },
+    "2b2e1862-c618-11ee-bbb2-f78c6e9d2422": {
+      "source": "2b2e1860-c618-11ee-bbb2-f78c6e9d2422",
+      "target": "1d5860b0-c618-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:22:40.102Z",
+        "updated": "2024-02-08T00:22:40.102Z"
+      },
+      "userdata": {}
+    },
+    "43ff3ea1-c618-11ee-bbb2-f78c6e9d2422": {
+      "source": "3fe39be0-c618-11ee-bbb2-f78c6e9d2422",
+      "target": "43ff3ea0-c618-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:23:21.738Z",
+        "updated": "2024-02-08T00:23:21.738Z"
+      },
+      "userdata": {}
+    },
+    "43ff3ea2-c618-11ee-bbb2-f78c6e9d2422": {
+      "source": "43ff3ea0-c618-11ee-bbb2-f78c6e9d2422",
+      "target": "1d5860b0-c618-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:23:21.738Z",
+        "updated": "2024-02-08T00:23:21.738Z"
+      },
+      "userdata": {}
+    },
+    "4ed9dec1-c618-11ee-bbb2-f78c6e9d2422": {
+      "source": "4cff2b50-c618-11ee-bbb2-f78c6e9d2422",
+      "target": "4ed9dec0-c618-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:23:39.948Z",
+        "updated": "2024-02-08T00:23:39.948Z"
+      },
+      "userdata": {}
+    },
+    "4ed9dec2-c618-11ee-bbb2-f78c6e9d2422": {
+      "source": "4ed9dec0-c618-11ee-bbb2-f78c6e9d2422",
+      "target": "3fe39be0-c618-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:23:39.948Z",
+        "updated": "2024-02-08T00:23:39.948Z"
+      },
+      "userdata": {}
+    },
+    "62cc6061-c618-11ee-bbb2-f78c6e9d2422": {
+      "source": "60b20be0-c618-11ee-bbb2-f78c6e9d2422",
+      "target": "62cc6060-c618-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:24:13.414Z",
+        "updated": "2024-02-08T00:24:13.414Z"
+      },
+      "userdata": {}
+    },
+    "62cc6062-c618-11ee-bbb2-f78c6e9d2422": {
+      "source": "62cc6060-c618-11ee-bbb2-f78c6e9d2422",
+      "target": "3fe39be0-c618-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:24:13.414Z",
+        "updated": "2024-02-08T00:24:13.414Z"
+      },
+      "userdata": {}
+    },
+    "7246a051-c618-11ee-bbb2-f78c6e9d2422": {
+      "source": "6fee7f80-c618-11ee-bbb2-f78c6e9d2422",
+      "target": "7246a050-c618-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:24:39.381Z",
+        "updated": "2024-02-08T00:24:39.381Z"
+      },
+      "userdata": {}
+    },
+    "7246a052-c618-11ee-bbb2-f78c6e9d2422": {
+      "source": "7246a050-c618-11ee-bbb2-f78c6e9d2422",
+      "target": "27528be0-c618-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:24:39.381Z",
+        "updated": "2024-02-08T00:24:39.381Z"
+      },
+      "userdata": {}
+    },
+    "7b714681-c618-11ee-bbb2-f78c6e9d2422": {
+      "source": "79079980-c618-11ee-bbb2-f78c6e9d2422",
+      "target": "7b714680-c618-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:24:54.760Z",
+        "updated": "2024-02-08T00:24:54.760Z"
+      },
+      "userdata": {}
+    },
+    "7b714682-c618-11ee-bbb2-f78c6e9d2422": {
+      "source": "7b714680-c618-11ee-bbb2-f78c6e9d2422",
+      "target": "27528be0-c618-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:24:54.760Z",
+        "updated": "2024-02-08T00:24:54.760Z"
+      },
+      "userdata": {}
+    },
+    "8c4c27e1-c618-11ee-bbb2-f78c6e9d2422": {
+      "source": "8917fef0-c618-11ee-bbb2-f78c6e9d2422",
+      "target": "8c4c27e0-c618-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:25:23.038Z",
+        "updated": "2024-02-08T00:25:23.038Z"
+      },
+      "userdata": {}
+    },
+    "8c4c27e2-c618-11ee-bbb2-f78c6e9d2422": {
+      "source": "8c4c27e0-c618-11ee-bbb2-f78c6e9d2422",
+      "target": "3fe39be0-c618-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:25:23.038Z",
+        "updated": "2024-02-08T00:25:23.038Z"
+      },
+      "userdata": {}
+    },
+    "9ba9df21-c618-11ee-bbb2-f78c6e9d2422": {
+      "source": "98ece200-c618-11ee-bbb2-f78c6e9d2422",
+      "target": "9ba9df20-c618-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:25:48.818Z",
+        "updated": "2024-02-08T00:25:48.818Z"
+      },
+      "userdata": {}
+    },
+    "9ba9df22-c618-11ee-bbb2-f78c6e9d2422": {
+      "source": "9ba9df20-c618-11ee-bbb2-f78c6e9d2422",
+      "target": "3fe39be0-c618-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-08T00:25:48.818Z",
+        "updated": "2024-02-08T00:25:48.818Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "2927": {
+      "text": "Iraqi forces in Mosul have said they have captured two key neighbourhoods in its offensive to retake the western part of the city from-the Islamic State of Iraq and the Levant (ISIL, also known as ISIS).-  Adel Ahmed, the captain of the federal police, said control of the al-Kur and al-Tawafa will allow for a safe corridor for civilians to leave the city. \"Liberating both districts will allow opening secured corridors for the exit of civilians to safer areas,\"?he told the DPA news agency. Ahmed also said Saturday's advance followed intense clashes between Iraqi forces and ISIL fighters. The Iraqi military launched the most recent offensive on western Mosul, the largest remaining ISIL stronghold in Iraq, on February 19. On Wednesday, Iraqi forces took control of a main bridge leading to the city and advanced towards the mosque where ISIL's leader declared a \"caliphate\" in 2014.- Nearly 100,000 Iraqis have fled western Mosul over the past three weeks, the International Organization for Migration (IOM) said on Wednesday.- The Iraqi Ministry of Displacement and Migration said that as many as 600,000 civilians remained trapped in neighbourhoods of west Mosul.- IN PICTURES: The battle for western Mosul The operation in the city officially began in October last year. In January, its eastern half was declared \"fully liberated\". - Source:-Al Jazeera and news agencies",
+      "title": "Iraqi forces retake two key areas in west Mosul",
+      "source": "http://www.aljazeera.com/news/2017/03/iraqi-forces-retake-key-areas-west-mosul-170318135659547.html",
+      "timestamp": "2024-02-08T00:20:40.030Z",
+      "metadata": {
+        "created": "2024-02-05T09:49:22.038Z",
+        "updated": "2024-02-05T09:49:22.038Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "2c603380-c41a-11ee-a06c-cb1cbb90ffa4": {
+      "name": "annotator0",
+      "email": "s4kibart@uni-trier.de",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "1d5860b0-c618-11ee-bbb2-f78c6e9d2422",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-05T09:49:22.038Z",
+    "updated": "2024-04-15T13:38:10.636Z"
+  },
+  "userdata": {
+    "notes": "5"
+  }
+}

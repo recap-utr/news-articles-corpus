@@ -1,0 +1,518 @@
+{
+  "nodes": {
+    "5e904ea3-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Based on the timing and the extraordinary increase, not only in New York but around the nation, you have to conclude that the presidential campaign was the major factor",
+        "reference": {
+          "resource": "1910",
+          "text": "Based on the timing and the extraordinary increase, not only in New York but around the nation, you have to conclude that the presidential campaign was the major factor"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.00048590863673,
+            "y": 326
+          }
+        }
+      }
+    },
+    "5e904ea1-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Overall, NYPD statistics show a 55 percent rise in hate crimes since last year",
+        "reference": {
+          "resource": "1910",
+          "offset": 421,
+          "text": "Overall, NYPD statistics show a 55 percent rise in hate crimes since last year"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 387.0006608937327,
+            "y": 616
+          }
+        }
+      }
+    },
+    "5e904eaa-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 487.0007218983494,
+            "y": 516
+          }
+        }
+      }
+    },
+    "5e904ea2-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Hate crimes spiked in 2016 as well, and city and state officials blamed the surge on the hateful rhetoric used during the presidential campaign",
+        "reference": {
+          "resource": "1910",
+          "offset": 562,
+          "text": "Hate crimes spiked in 2016 as well, and city and state officials blamed the surge on the hateful rhetoric used during the presidential campaign"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 37.00060851943878,
+            "y": 616
+          }
+        }
+      }
+    },
+    "5e904ead-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 137.0001555123799,
+            "y": 516
+          }
+        }
+      }
+    },
+    "5e904ea6-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "As another wave of bomb threats hit Jewish community facilities across the country, police say anti-Semitic incidents in New York City have nearly doubled in the first two months of the year",
+        "reference": {
+          "resource": "1910",
+          "offset": 0,
+          "text": "As another wave of bomb threats hit Jewish community facilities across the country, police say anti-Semitic incidents in New York City have nearly doubled in the first two months of the year"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0004481892133,
+            "y": 12
+          }
+        }
+      }
+    },
+    "bc8c55f0-fb16-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T10:55:56.623Z",
+        "updated": "2024-04-15T10:55:56.623Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.0009903509899,
+            "y": 226
+          }
+        }
+      }
+    },
+    "d8ecbd70-fb16-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "From Jan. 1 through Feb. 26, there were 35 reported anti-Semitic incidents in the city,-compared to 18 reported incidents during the same time period last year",
+        "reference": {
+          "text": "From Jan. 1 through Feb. 26, there were 35 reported anti-Semitic incidents in the city,-compared to 18 reported incidents during the same time period last year"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T10:56:44.231Z",
+        "updated": "2024-04-15T10:56:44.231Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0009313893376,
+            "y": 326
+          }
+        }
+      }
+    },
+    "e3a24960-fb16-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T10:57:02.198Z",
+        "updated": "2024-04-15T10:57:02.198Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0007055293605,
+            "y": 226
+          }
+        }
+      }
+    },
+    "5379e0e0-fb17-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "Swastikas and other anti-Semitic markings have shown up across the city for the past several months, including on a children's playground, dorm room door and subway cars",
+        "reference": {
+          "text": "Swastikas and other anti-Semitic markings have shown up across the city for the past several months, including on a children's playground, dorm room door and subway cars"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T11:00:09.838Z",
+        "updated": "2024-04-15T11:00:09.838Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.000819392957,
+            "y": 326
+          }
+        }
+      }
+    },
+    "5a5789d0-fb17-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T11:00:21.357Z",
+        "updated": "2024-04-15T11:00:21.357Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0003828558542,
+            "y": 226
+          }
+        }
+      }
+    },
+    "8ce19e40-fb17-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "Jewish cemeteries have also been targeted in recent weeks, as headstones at burial grounds in St. Louis, Philadelphia and Rochester, New York,-have been destroyed",
+        "reference": {
+          "text": "Jewish cemeteries have also been targeted in recent weeks, as headstones at burial grounds in St. Louis, Philadelphia and Rochester, New York,-have been destroyed"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T11:01:46.148Z",
+        "updated": "2024-04-15T11:01:46.148Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1412.0000002979557,
+            "y": 326
+          }
+        }
+      }
+    },
+    "906064c0-fb17-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T11:01:52.012Z",
+        "updated": "2024-04-15T11:01:52.012Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1512.000954056042,
+            "y": 226
+          }
+        }
+      }
+    },
+    "acfa52d0-fb17-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "75 centers and eight Jewish schools across the country had received at least 100 bomb threats as of Feb. 28",
+        "reference": {
+          "text": "75 centers and eight Jewish schools across the country had received at least 100 bomb threats as of Feb. 28"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T11:02:39.997Z",
+        "updated": "2024-04-15T11:02:39.997Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000638059477758,
+            "y": 326
+          }
+        }
+      }
+    },
+    "afc5a7d0-fb17-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T11:02:44.685Z",
+        "updated": "2024-04-15T11:02:44.685Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00028414932254,
+            "y": 226
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "5e904ea8-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "source": "5e904ea0-c8dc-11ee-a7b6-0184e7d3dd10",
+      "target": "5e904ea7-c8dc-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {}
+    },
+    "5e904ea9-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "source": "5e904ea7-c8dc-11ee-a7b6-0184e7d3dd10",
+      "target": "5e904ea3-c8dc-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {}
+    },
+    "5e904eab-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "source": "5e904ea1-c8dc-11ee-a7b6-0184e7d3dd10",
+      "target": "5e904eaa-c8dc-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {}
+    },
+    "5e904eac-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "source": "5e904eaa-c8dc-11ee-a7b6-0184e7d3dd10",
+      "target": "5e904ea3-c8dc-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {}
+    },
+    "5e904eae-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "source": "5e904ea2-c8dc-11ee-a7b6-0184e7d3dd10",
+      "target": "5e904ead-c8dc-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {}
+    },
+    "5e904eaf-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "source": "5e904ead-c8dc-11ee-a7b6-0184e7d3dd10",
+      "target": "5e904ea3-c8dc-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {}
+    },
+    "5e904eb4-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "source": "5e904ea5-c8dc-11ee-a7b6-0184e7d3dd10",
+      "target": "5e904eb3-c8dc-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {}
+    },
+    "5e904eb5-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "source": "5e904eb3-c8dc-11ee-a7b6-0184e7d3dd10",
+      "target": "5e904ea3-c8dc-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {}
+    },
+    "5e904eb7-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "source": "5e904ea6-c8dc-11ee-a7b6-0184e7d3dd10",
+      "target": "5e904eb6-c8dc-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {}
+    },
+    "5e904eb8-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "source": "5e904eb6-c8dc-11ee-a7b6-0184e7d3dd10",
+      "target": "5e904ea3-c8dc-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {}
+    },
+    "bc8c55f1-fb16-11ee-aa26-a11ecda1a83c": {
+      "source": "5e904ea3-c8dc-11ee-a7b6-0184e7d3dd10",
+      "target": "bc8c55f0-fb16-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T10:55:56.623Z",
+        "updated": "2024-04-15T10:55:56.623Z"
+      },
+      "userdata": {}
+    },
+    "bc8c55f2-fb16-11ee-aa26-a11ecda1a83c": {
+      "source": "bc8c55f0-fb16-11ee-aa26-a11ecda1a83c",
+      "target": "5e904ea6-c8dc-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-04-15T10:55:56.623Z",
+        "updated": "2024-04-15T10:55:56.623Z"
+      },
+      "userdata": {}
+    },
+    "e3a27070-fb16-11ee-aa26-a11ecda1a83c": {
+      "source": "d8ecbd70-fb16-11ee-aa26-a11ecda1a83c",
+      "target": "e3a24960-fb16-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T10:57:02.199Z",
+        "updated": "2024-04-15T10:57:02.199Z"
+      },
+      "userdata": {}
+    },
+    "e3a27071-fb16-11ee-aa26-a11ecda1a83c": {
+      "source": "e3a24960-fb16-11ee-aa26-a11ecda1a83c",
+      "target": "5e904ea6-c8dc-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-04-15T10:57:02.199Z",
+        "updated": "2024-04-15T10:57:02.199Z"
+      },
+      "userdata": {}
+    },
+    "eea0c530-fb16-11ee-aa26-a11ecda1a83c": {
+      "source": "5e904eaa-c8dc-11ee-a7b6-0184e7d3dd10",
+      "target": "d8ecbd70-fb16-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T10:57:20.643Z",
+        "updated": "2024-04-15T10:57:20.643Z"
+      },
+      "userdata": {}
+    },
+    "f1f631c0-fb16-11ee-aa26-a11ecda1a83c": {
+      "source": "5e904eaa-c8dc-11ee-a7b6-0184e7d3dd10",
+      "target": "5e904ea3-c8dc-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-04-15T10:57:26.236Z",
+        "updated": "2024-04-15T10:57:26.236Z"
+      },
+      "userdata": {}
+    },
+    "5a5789d1-fb17-11ee-aa26-a11ecda1a83c": {
+      "source": "5379e0e0-fb17-11ee-aa26-a11ecda1a83c",
+      "target": "5a5789d0-fb17-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T11:00:21.357Z",
+        "updated": "2024-04-15T11:00:21.357Z"
+      },
+      "userdata": {}
+    },
+    "5a5789d2-fb17-11ee-aa26-a11ecda1a83c": {
+      "source": "5a5789d0-fb17-11ee-aa26-a11ecda1a83c",
+      "target": "5e904ea6-c8dc-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-04-15T11:00:21.357Z",
+        "updated": "2024-04-15T11:00:21.357Z"
+      },
+      "userdata": {}
+    },
+    "906064c1-fb17-11ee-aa26-a11ecda1a83c": {
+      "source": "8ce19e40-fb17-11ee-aa26-a11ecda1a83c",
+      "target": "906064c0-fb17-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T11:01:52.013Z",
+        "updated": "2024-04-15T11:01:52.013Z"
+      },
+      "userdata": {}
+    },
+    "90608bd0-fb17-11ee-aa26-a11ecda1a83c": {
+      "source": "906064c0-fb17-11ee-aa26-a11ecda1a83c",
+      "target": "5e904ea6-c8dc-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-04-15T11:01:52.013Z",
+        "updated": "2024-04-15T11:01:52.013Z"
+      },
+      "userdata": {}
+    },
+    "afc5a7d1-fb17-11ee-aa26-a11ecda1a83c": {
+      "source": "acfa52d0-fb17-11ee-aa26-a11ecda1a83c",
+      "target": "afc5a7d0-fb17-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T11:02:44.685Z",
+        "updated": "2024-04-15T11:02:44.685Z"
+      },
+      "userdata": {}
+    },
+    "afc5a7d2-fb17-11ee-aa26-a11ecda1a83c": {
+      "source": "afc5a7d0-fb17-11ee-aa26-a11ecda1a83c",
+      "target": "5e904ea6-c8dc-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-04-15T11:02:44.685Z",
+        "updated": "2024-04-15T11:02:44.685Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "1910": {
+      "text": "As another wave of bomb threats hit Jewish community facilities across the country, police say anti-Semitic incidents in New York City have nearly doubled in the first two months of the year. From Jan. 1 through Feb. 26, there were 35 reported anti-Semitic incidents in the city,-compared to 18 reported incidents during the same time period last year, the New York Police Department said. That's a 94 percent increase.- Overall, NYPD statistics show a 55 percent rise in hate crimes since last year, although the city said crime in general is down 9.7 percent. Hate crimes spiked in 2016 as well, and city and state officials blamed the surge on the hateful rhetoric used during the presidential campaign.- \"Based on the timing and the extraordinary increase We're been seeing, not only in New York but around the nation, you have to conclude that the presidential campaign was the major factor,\"?NYPD spokesman Stephen Davis told Bloomberg. Swastikas and other anti-Semitic markings have shown up across the city for the past several months, including on a children's playground, dorm room door and subway cars.-Last month, a group of subway riders banded together to remove the vandalism with hand sanitizer and tissues. New York Gov. Andrew Cuomo shared a photo of a swastika drawn on a B subway train that had been transformed into a box with the letters \"L-O-V-E.\"?This is what New Yorkers do - we turn hate into love. And we wont back down -not now, not ever. #TurnHateIntoLove pic.twitter.com/yVEsTY2aGc The governor created a special task force to investigate the surge in hate crimes in New York in November, including the launch of a state-wide hotline for residents to report incidents of bias and discrimination. Jewish cemeteries have also been targeted in recent weeks, as headstones at burial grounds in St. Louis, Philadelphia and Rochester, New York,-have been destroyed. The Huffington Post reported last Friday that 75 centers and eight Jewish schools across the country had received at least 100 bomb threats as of Feb. 28.- Do you have information you want to share with the Huffington Post? Here's how. How will Donald Trump's first 100 days impact YOU? Subscribe, choose the community that you most identify with or want to learn more about and we'll send you the news that matters most once a week throughout Trump's first 100 days in office. Learn more",
+      "title": "Anti-Semitic Crimes Up 94 Percent In NYC Since This Time Last Year, NYPD Says",
+      "source": "http://www.huffingtonpost.com/2017/03/02/nypd-says-anti-semitic-crimes-up-94-percent-since-this-time-last-year_n_15130410.html",
+      "timestamp": "2017-03-03T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.219Z",
+        "updated": "2024-02-09T13:09:16.219Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "2c603380-c41a-11ee-a06c-cb1cbb90ffa4": {
+      "name": "annotator0",
+      "email": "s4kibart@uni-trier.de",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "5e904ea6-c8dc-11ee-a7b6-0184e7d3dd10",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.219Z",
+    "updated": "2024-04-15T11:05:05.342Z"
+  },
+  "userdata": {}
+}

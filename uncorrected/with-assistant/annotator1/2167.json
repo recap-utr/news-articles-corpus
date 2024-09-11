@@ -1,0 +1,535 @@
+{
+  "nodes": {
+    "36350bd0-ca4e-11ee-b99b-f5363d8acf38": {
+      "atom": {
+        "text": "Ahead of his first television debate against Geert Wilders on Monday night, Dutch Prime Minister Mark Rutte called on Dutch voters to reject nationalist populism",
+        "reference": {
+          "resource": "2167",
+          "offset": 0,
+          "text": "Ahead of his first television debate against Geert Wilders on Monday night, Dutch Prime Minister Mark Rutte called on Dutch voters to reject nationalist populism"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:59:36.077Z",
+        "updated": "2024-02-13T08:59:36.077Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This is an ADU as it presents Rutte's direct call to action against nationalist populism."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 392.0003465686299,
+            "y": 486
+          }
+        }
+      }
+    },
+    "36350bd1-ca4e-11ee-b99b-f5363d8acf38": {
+      "atom": {
+        "text": "if the Dutch electorate were to embrace Wilders and the PVV, they could trigger a \"domino effect\" in favor of extreme nationalism",
+        "reference": {
+          "resource": "2167",
+          "offset": 234,
+          "text": "if the Dutch electorate were to embrace Wilders and the PVV, they could trigger a \"domino effect\" in favor of extreme nationalism"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:59:36.077Z",
+        "updated": "2024-02-13T08:59:36.077Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU represents Rutte's prediction of the consequences of embracing Wilders and the PVV."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 362.0000177638541,
+            "y": 776
+          }
+        }
+      }
+    },
+    "36350bd4-ca4e-11ee-b99b-f5363d8acf38": {
+      "atom": {
+        "text": "Rutte's centre-right People's Party for Freedom and Democracy (VVD) is thought to be the strongest contender in the parliamentary election, closely followed by Wilders' PVV",
+        "reference": {
+          "resource": "2167",
+          "offset": 917,
+          "text": "Rutte's centre-right People's Party for Freedom and Democracy (VVD) is thought to be the strongest contender in the parliamentary election, closely followed by Wilders' PVV"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:59:36.077Z",
+        "updated": "2024-02-13T08:59:36.077Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU presents an analysis of the electoral strength and positioning of Rutte's and Wilders' parties."
+        },
+        "arguemapper": {
+          "position": {
+            "x": -90.05990233027728,
+            "y": 692.4030967269633
+          }
+        }
+      }
+    },
+    "36350bd6-ca4e-11ee-b99b-f5363d8acf38": {
+      "atom": {
+        "text": "\"Remember Brexit. We all thought that could never happen. Remember the US elections,\" Rutte told reporters",
+        "reference": {
+          "resource": "2167",
+          "offset": 1565,
+          "text": "\"Remember Brexit. We all thought that could never happen. Remember the US elections,\" Rutte told reporters"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:59:36.077Z",
+        "updated": "2024-02-13T08:59:36.077Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU provides historical examples to support Rutte's warning about underestimating political outcomes."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1062.0000168201555,
+            "y": 776
+          }
+        }
+      }
+    },
+    "a3cc2930-ca4e-11ee-b99b-f5363d8acf38": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:02:39.939Z",
+        "updated": "2024-02-13T09:02:39.939Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "ADU 36350bd1 directly supports Rutte's call to reject nationalist populism by highlighting the potential negative outcomes of embracing Wilders' ideology."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 462.0007186303057,
+            "y": 676
+          }
+        }
+      }
+    },
+    "a3cc2939-ca4e-11ee-b99b-f5363d8acf38": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:02:39.939Z",
+        "updated": "2024-02-13T09:02:39.939Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "ADU 36350bd6 reinforces Rutte's call to action by referencing unexpected political outcomes elsewhere as a caution against complacency."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1162.0007196786985,
+            "y": 676
+          }
+        }
+      }
+    },
+    "bd4cf060-ca4e-11ee-b99b-f5363d8acf38": {
+      "atom": {
+        "text": "\"I want the Netherlands to be the first country which stops this trend of the wrong sort of populism,\"",
+        "reference": {
+          "resource": "2167",
+          "offset": 670,
+          "text": "\"I want the Netherlands to be the first country which stops this trend of the wrong sort of populism,\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:03:22.726Z",
+        "updated": "2024-02-13T09:03:22.726Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 372.56808980271774,
+            "y": 1019.4470013269506
+          }
+        }
+      }
+    },
+    "c04596f0-ca4e-11ee-b99b-f5363d8acf38": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:03:27.711Z",
+        "updated": "2024-02-13T09:03:27.711Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 455.56745186677017,
+            "y": 941.1170353146796
+          }
+        }
+      }
+    },
+    "e0870930-ca4e-11ee-b99b-f5363d8acf38": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:04:21.827Z",
+        "updated": "2024-02-13T09:04:21.827Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -13.460526256506455,
+            "y": 422.50278966537564
+          }
+        }
+      }
+    },
+    "feb18250-ca4e-11ee-b99b-f5363d8acf38": {
+      "atom": {
+        "text": "Rutte said there was a real chance that Wilders might emerge victorious",
+        "reference": {
+          "resource": "2167",
+          "offset": 1091,
+          "text": "Rutte said there was a real chance that Wilders might emerge victorious"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:05:12.437Z",
+        "updated": "2024-02-13T09:05:12.437Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 868.5622165426769,
+            "y": 983.6549353970839
+          }
+        }
+      }
+    },
+    "02590680-ca4f-11ee-b99b-f5363d8acf38": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:05:18.568Z",
+        "updated": "2024-02-13T09:05:18.568Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 615.2811171532655,
+            "y": 879.827467698542
+          }
+        }
+      }
+    },
+    "08eab250-ca4f-11ee-b99b-f5363d8acf38": {
+      "atom": {
+        "text": "Unless Wilders' party performs far beyond expectations, it is seen as highly unlikely that it will be involved in the next government",
+        "reference": {
+          "resource": "2167",
+          "offset": 1238,
+          "text": "Unless Wilders' party performs far beyond expectations, it is seen as highly unlikely that it will be involved in the next government"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:05:29.589Z",
+        "updated": "2024-02-13T09:05:29.589Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 804.1404152857182,
+            "y": 1187.9742012452086
+          }
+        }
+      }
+    },
+    "0c7deb30-ca4f-11ee-b99b-f5363d8acf38": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:05:35.587Z",
+        "updated": "2024-02-13T09:05:35.587Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 836.3513159141976,
+            "y": 1085.8145683211462
+          }
+        }
+      }
+    },
+    "12523a70-ca4f-11ee-b99b-f5363d8acf38": {
+      "atom": {
+        "text": " nearly all other parties have said they will not form a coalition with the PVV",
+        "reference": {
+          "resource": "2167",
+          "offset": 1373,
+          "text": " nearly all other parties have said they will not form a coalition with the PVV"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:05:45.367Z",
+        "updated": "2024-02-13T09:05:45.367Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1146.9013059438566,
+            "y": 1229.3895988464433
+          }
+        }
+      }
+    },
+    "151a0d00-ca4f-11ee-b99b-f5363d8acf38": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:05:50.032Z",
+        "updated": "2024-02-13T09:05:50.032Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1076.83637947441,
+            "y": 1346.414013267018
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "a3cc2931-ca4e-11ee-b99b-f5363d8acf38": {
+      "source": "36350bd1-ca4e-11ee-b99b-f5363d8acf38",
+      "target": "a3cc2930-ca4e-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T09:02:39.939Z",
+        "updated": "2024-02-13T09:02:39.939Z"
+      },
+      "userdata": {}
+    },
+    "a3cc2932-ca4e-11ee-b99b-f5363d8acf38": {
+      "source": "a3cc2930-ca4e-11ee-b99b-f5363d8acf38",
+      "target": "36350bd0-ca4e-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T09:02:39.939Z",
+        "updated": "2024-02-13T09:02:39.939Z"
+      },
+      "userdata": {}
+    },
+    "a3cc2934-ca4e-11ee-b99b-f5363d8acf38": {
+      "source": "36350bd2-ca4e-11ee-b99b-f5363d8acf38",
+      "target": "a3cc2933-ca4e-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T09:02:39.939Z",
+        "updated": "2024-02-13T09:02:39.939Z"
+      },
+      "userdata": {}
+    },
+    "a3cc2935-ca4e-11ee-b99b-f5363d8acf38": {
+      "source": "a3cc2933-ca4e-11ee-b99b-f5363d8acf38",
+      "target": "36350bd0-ca4e-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T09:02:39.939Z",
+        "updated": "2024-02-13T09:02:39.939Z"
+      },
+      "userdata": {}
+    },
+    "a3cc2937-ca4e-11ee-b99b-f5363d8acf38": {
+      "source": "36350bd5-ca4e-11ee-b99b-f5363d8acf38",
+      "target": "a3cc2936-ca4e-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T09:02:39.939Z",
+        "updated": "2024-02-13T09:02:39.939Z"
+      },
+      "userdata": {}
+    },
+    "a3cc2938-ca4e-11ee-b99b-f5363d8acf38": {
+      "source": "a3cc2936-ca4e-11ee-b99b-f5363d8acf38",
+      "target": "36350bd4-ca4e-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T09:02:39.939Z",
+        "updated": "2024-02-13T09:02:39.939Z"
+      },
+      "userdata": {}
+    },
+    "a3cc293a-ca4e-11ee-b99b-f5363d8acf38": {
+      "source": "36350bd6-ca4e-11ee-b99b-f5363d8acf38",
+      "target": "a3cc2939-ca4e-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T09:02:39.939Z",
+        "updated": "2024-02-13T09:02:39.939Z"
+      },
+      "userdata": {}
+    },
+    "a3cc293b-ca4e-11ee-b99b-f5363d8acf38": {
+      "source": "a3cc2939-ca4e-11ee-b99b-f5363d8acf38",
+      "target": "36350bd0-ca4e-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T09:02:39.939Z",
+        "updated": "2024-02-13T09:02:39.939Z"
+      },
+      "userdata": {}
+    },
+    "a3cc293d-ca4e-11ee-b99b-f5363d8acf38": {
+      "source": "36350bd7-ca4e-11ee-b99b-f5363d8acf38",
+      "target": "a3cc293c-ca4e-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T09:02:39.939Z",
+        "updated": "2024-02-13T09:02:39.939Z"
+      },
+      "userdata": {}
+    },
+    "c04596f1-ca4e-11ee-b99b-f5363d8acf38": {
+      "source": "bd4cf060-ca4e-11ee-b99b-f5363d8acf38",
+      "target": "c04596f0-ca4e-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T09:03:27.711Z",
+        "updated": "2024-02-13T09:03:27.711Z"
+      },
+      "userdata": {}
+    },
+    "c04596f2-ca4e-11ee-b99b-f5363d8acf38": {
+      "source": "c04596f0-ca4e-11ee-b99b-f5363d8acf38",
+      "target": "36350bd1-ca4e-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T09:03:27.711Z",
+        "updated": "2024-02-13T09:03:27.711Z"
+      },
+      "userdata": {}
+    },
+    "e0870931-ca4e-11ee-b99b-f5363d8acf38": {
+      "source": "36350bd4-ca4e-11ee-b99b-f5363d8acf38",
+      "target": "e0870930-ca4e-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T09:04:21.827Z",
+        "updated": "2024-02-13T09:04:21.827Z"
+      },
+      "userdata": {}
+    },
+    "e0870932-ca4e-11ee-b99b-f5363d8acf38": {
+      "source": "e0870930-ca4e-11ee-b99b-f5363d8acf38",
+      "target": "36350bd0-ca4e-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T09:04:21.827Z",
+        "updated": "2024-02-13T09:04:21.827Z"
+      },
+      "userdata": {}
+    },
+    "02590681-ca4f-11ee-b99b-f5363d8acf38": {
+      "source": "feb18250-ca4e-11ee-b99b-f5363d8acf38",
+      "target": "02590680-ca4f-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T09:05:18.568Z",
+        "updated": "2024-02-13T09:05:18.568Z"
+      },
+      "userdata": {}
+    },
+    "02590682-ca4f-11ee-b99b-f5363d8acf38": {
+      "source": "02590680-ca4f-11ee-b99b-f5363d8acf38",
+      "target": "36350bd1-ca4e-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T09:05:18.568Z",
+        "updated": "2024-02-13T09:05:18.568Z"
+      },
+      "userdata": {}
+    },
+    "0c7deb31-ca4f-11ee-b99b-f5363d8acf38": {
+      "source": "08eab250-ca4f-11ee-b99b-f5363d8acf38",
+      "target": "0c7deb30-ca4f-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T09:05:35.588Z",
+        "updated": "2024-02-13T09:05:35.588Z"
+      },
+      "userdata": {}
+    },
+    "0c7e1240-ca4f-11ee-b99b-f5363d8acf38": {
+      "source": "0c7deb30-ca4f-11ee-b99b-f5363d8acf38",
+      "target": "feb18250-ca4e-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T09:05:35.588Z",
+        "updated": "2024-02-13T09:05:35.588Z"
+      },
+      "userdata": {}
+    },
+    "151a0d01-ca4f-11ee-b99b-f5363d8acf38": {
+      "source": "12523a70-ca4f-11ee-b99b-f5363d8acf38",
+      "target": "151a0d00-ca4f-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T09:05:50.032Z",
+        "updated": "2024-02-13T09:05:50.032Z"
+      },
+      "userdata": {}
+    },
+    "1955e1f0-ca4f-11ee-b99b-f5363d8acf38": {
+      "source": "151a0d00-ca4f-11ee-b99b-f5363d8acf38",
+      "target": "08eab250-ca4f-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T09:05:57.135Z",
+        "updated": "2024-02-13T09:05:57.135Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "2167": {
+      "text": "Ahead of his first television debate against Geert Wilders on Monday night, Dutch Prime Minister Mark Rutte called on Dutch voters to reject nationalist populism. Two days ahead ofparliamentary elections, center-right Rutte said that if the Dutch electorate were to embrace Wilders and the PVV, they could trigger a \"domino effect\" in favor of extreme nationalism. Using sports metaphors, he said that the upcoming parliamentary election on Wednesday were the \"quarter finals\" in the battle of moderate forces against right-wing radicals, while the French presidential election in April and May were the \"half final\" and Germany's September election marked the \"final.\" \"I want the Netherlands to be the first country which stops this trend of the wrong sort of populism,\" he told reporters. Wilders, the head of the right wing radical Party for Freedom (PVV), had previously refused to take part in several debates. Rutte's centre-right People's Party for Freedom and Democracy (VVD) is thought to be the strongest contender in the parliamentary election, closely followed by Wilders' PVV. Rutte said there was a real chance that Wilders might emerge victorious The VVD is currently polling at roughly 16 percent, the PVV at 13 percent. Unless Wilders' party performs far beyond expectations, it is seen as highly unlikely that it will be involved in the next government - nearly all other parties have said they will not form a coalition with the PVV. The prime minister warned that the PVV could still win, even though their-poll numbers have-recently declined. \"Remember Brexit. We all thought that could never happen. Remember the US elections,\" Rutte told reporters. Ahead of the Wednesday election, a diplomatic row with Turkey has dominated the Dutch news cycle. Rutte's administration had refused to let the Turkish ministers campaign for the upcoming constitutional referendum in the Netherlands --a referendum that could significantly strengthen Turkish president Erdogan and his right-wing, nationalist Justice and Development party. mb/rc (AFP, AP, dpa)",
+      "title": "Rutte says Dutch voters can stop nationalist 'domino effect'",
+      "source": "http://www.dw.com/en/rutte-says-dutch-voters-can-stop-nationalist-domino-effect/a-37922088?maca=en-rss-en-all-1573-rdf",
+      "timestamp": "2017-03-13T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.187Z",
+        "updated": "2024-02-09T13:09:16.187Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "36350bd0-ca4e-11ee-b99b-f5363d8acf38",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.187Z",
+    "updated": "2024-02-13T09:06:16.265Z"
+  }
+}

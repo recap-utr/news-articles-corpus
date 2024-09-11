@@ -1,0 +1,334 @@
+{
+  "nodes": {
+    "e7cd57c0-c8c9-11ee-b0b9-17011e92baf6": {
+      "atom": {
+        "text": "Philippine Senator Leila de Lima, a major critic of President Rodrigo Duterte, was arrested Friday on drug trafficking charges after staying in her office through the night.",
+        "reference": {
+          "resource": "1476",
+          "offset": 0,
+          "text": "Philippine Senator Leila de Lima, a major critic of President Rodrigo Duterte, was arrested Friday on drug trafficking charges after staying in her office through the night."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T10:39:59.804Z",
+        "updated": "2024-02-11T10:39:59.804Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.00035638768,
+            "y": 12
+          }
+        }
+      }
+    },
+    "03c0a590-c8ca-11ee-b0b9-17011e92baf6": {
+      "atom": {
+        "text": " \"There is no truth to the charges I benefited from the drug trade, that I received money and that I coddled drug convicts.\"",
+        "reference": {
+          "resource": "1476",
+          "offset": 384,
+          "text": " \"There is no truth to the charges I benefited from the drug trade, that I received money and that I coddled drug convicts.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T10:40:46.698Z",
+        "updated": "2024-02-11T10:40:46.698Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.00017165352625,
+            "y": 302
+          }
+        }
+      }
+    },
+    "04dac820-c8ca-11ee-b0b9-17011e92baf6": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T10:40:48.546Z",
+        "updated": "2024-02-11T10:40:48.546Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.0005015370774,
+            "y": 202
+          }
+        }
+      }
+    },
+    "1c036e80-c8ca-11ee-b0b9-17011e92baf6": {
+      "atom": {
+        "text": "De Lima and her supporters say the charges were made by Duterte to intimidate any opposition to his actions cutting drug crime in the country.",
+        "reference": {
+          "resource": "1476",
+          "offset": 509,
+          "text": "De Lima and her supporters say the charges were made by Duterte to intimidate any opposition to his actions cutting drug crime in the country."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T10:41:27.400Z",
+        "updated": "2024-02-11T10:41:27.400Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0004591221651,
+            "y": 302
+          }
+        }
+      }
+    },
+    "1d7d1630-c8ca-11ee-b0b9-17011e92baf6": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T10:41:29.875Z",
+        "updated": "2024-02-11T10:41:29.875Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0006231093902,
+            "y": 202
+          }
+        }
+      }
+    },
+    "4f56c660-c8ca-11ee-b0b9-17011e92baf6": {
+      "atom": {
+        "text": "\"If the government can arrest a powerful person like her, what more of the little man? That is the implied message of her arrest.\"",
+        "reference": {
+          "resource": "1476",
+          "offset": 984,
+          "text": "\"If the government can arrest a powerful person like her, what more of the little man? That is the implied message of her arrest.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T10:42:53.510Z",
+        "updated": "2024-02-11T10:42:53.510Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.0007277212517,
+            "y": 302
+          }
+        }
+      }
+    },
+    "51889a80-c8ca-11ee-b0b9-17011e92baf6": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T10:42:57.192Z",
+        "updated": "2024-02-11T10:42:57.192Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0005742063183,
+            "y": 202
+          }
+        }
+      }
+    },
+    "a0cd9280-c8ca-11ee-b0b9-17011e92baf6": {
+      "atom": {
+        "text": "Duterte had faced allegations of running death squads in Davao that allegedly killed hundreds of drug addicts and petty criminals as a part of a ruthless anti-crime campaign.",
+        "reference": {
+          "resource": "1476",
+          "offset": 2709,
+          "text": "Duterte had faced allegations of running death squads in Davao that allegedly killed hundreds of drug addicts and petty criminals as a part of a ruthless anti-crime campaign."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T10:45:10.184Z",
+        "updated": "2024-02-11T10:45:10.184Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1412.0006158684143,
+            "y": 302
+          }
+        }
+      }
+    },
+    "a66aa520-c8ca-11ee-b0b9-17011e92baf6": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T10:45:19.603Z",
+        "updated": "2024-02-11T10:45:19.603Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1512.0005824378254,
+            "y": 202
+          }
+        }
+      }
+    },
+    "bf9e5dc0-c8ca-11ee-b0b9-17011e92baf6": {
+      "atom": {
+        "text": "Duterte made allegations De Lima was running a drug trafficking ring in the country's largest prison in August 2016 while she was justice secretary in the previous government.",
+        "reference": {
+          "resource": "1476",
+          "offset": 3232,
+          "text": "Duterte made allegations De Lima was running a drug trafficking ring in the country's largest prison in August 2016 while she was justice secretary in the previous government."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T10:46:01.884Z",
+        "updated": "2024-02-11T10:46:01.884Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000218734174643,
+            "y": 302
+          }
+        }
+      }
+    },
+    "c2ed88c0-c8ca-11ee-b0b9-17011e92baf6": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T10:46:07.436Z",
+        "updated": "2024-02-11T10:46:07.436Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00006384726741,
+            "y": 202
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "04dac821-c8ca-11ee-b0b9-17011e92baf6": {
+      "source": "03c0a590-c8ca-11ee-b0b9-17011e92baf6",
+      "target": "04dac820-c8ca-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T10:40:48.546Z",
+        "updated": "2024-02-11T10:40:48.546Z"
+      },
+      "userdata": {}
+    },
+    "04dac822-c8ca-11ee-b0b9-17011e92baf6": {
+      "source": "04dac820-c8ca-11ee-b0b9-17011e92baf6",
+      "target": "e7cd57c0-c8c9-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T10:40:48.546Z",
+        "updated": "2024-02-11T10:40:48.546Z"
+      },
+      "userdata": {}
+    },
+    "1d7d1631-c8ca-11ee-b0b9-17011e92baf6": {
+      "source": "1c036e80-c8ca-11ee-b0b9-17011e92baf6",
+      "target": "1d7d1630-c8ca-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T10:41:29.875Z",
+        "updated": "2024-02-11T10:41:29.875Z"
+      },
+      "userdata": {}
+    },
+    "1d7d3d40-c8ca-11ee-b0b9-17011e92baf6": {
+      "source": "1d7d1630-c8ca-11ee-b0b9-17011e92baf6",
+      "target": "e7cd57c0-c8c9-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T10:41:29.876Z",
+        "updated": "2024-02-11T10:41:29.876Z"
+      },
+      "userdata": {}
+    },
+    "51889a81-c8ca-11ee-b0b9-17011e92baf6": {
+      "source": "4f56c660-c8ca-11ee-b0b9-17011e92baf6",
+      "target": "51889a80-c8ca-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T10:42:57.192Z",
+        "updated": "2024-02-11T10:42:57.192Z"
+      },
+      "userdata": {}
+    },
+    "51889a82-c8ca-11ee-b0b9-17011e92baf6": {
+      "source": "51889a80-c8ca-11ee-b0b9-17011e92baf6",
+      "target": "e7cd57c0-c8c9-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T10:42:57.192Z",
+        "updated": "2024-02-11T10:42:57.192Z"
+      },
+      "userdata": {}
+    },
+    "a66acc30-c8ca-11ee-b0b9-17011e92baf6": {
+      "source": "a0cd9280-c8ca-11ee-b0b9-17011e92baf6",
+      "target": "a66aa520-c8ca-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T10:45:19.603Z",
+        "updated": "2024-02-11T10:45:19.603Z"
+      },
+      "userdata": {}
+    },
+    "a66acc31-c8ca-11ee-b0b9-17011e92baf6": {
+      "source": "a66aa520-c8ca-11ee-b0b9-17011e92baf6",
+      "target": "e7cd57c0-c8c9-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T10:45:19.603Z",
+        "updated": "2024-02-11T10:45:19.603Z"
+      },
+      "userdata": {}
+    },
+    "c2ed88c1-c8ca-11ee-b0b9-17011e92baf6": {
+      "source": "bf9e5dc0-c8ca-11ee-b0b9-17011e92baf6",
+      "target": "c2ed88c0-c8ca-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T10:46:07.436Z",
+        "updated": "2024-02-11T10:46:07.436Z"
+      },
+      "userdata": {}
+    },
+    "c2ed88c2-c8ca-11ee-b0b9-17011e92baf6": {
+      "source": "c2ed88c0-c8ca-11ee-b0b9-17011e92baf6",
+      "target": "e7cd57c0-c8c9-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T10:46:07.436Z",
+        "updated": "2024-02-11T10:46:07.436Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "1476": {
+      "text": "Philippine Senator Leila de Lima, a major critic of President Rodrigo Duterte, was arrested Friday on drug trafficking charges after staying in her office through the night. De Lima voluntarily gave herself over to arresting officers who were waiting for her at the Senate compound, one day after a warrant was put out for her arrest. \"I am innocent,\" said de Lima outside the Senate. \"There is no truth to the charges I benefited from the drug trade, that I received money and that I coddled drug convicts.\" De Lima and her supporters say the charges were made by Duterte to intimidate any opposition to his actions cutting drug crime in the country. De Lima faces three drug-related charges, including one that states she received money from drug dealers in the country's prisons of approximately 5 million Philippine pesos ($99,850, 94,380 euros) between 2010-2016. \"People are afraid,\" Father Robert Reyes, a priest who spent the night with de Lima, told French press agency AFP. \"If the government can arrest a powerful person like her, what more of the little man? That is the implied message of her arrest.\" While human rights organization Amnesty International also came to de Lima's side, Duterte's aides said Friday's arrest was necessary, saying powerful people can be brought to justice if they break-the law. \"The war on illegal drugs targets all who are involved and the arrest of an incumbent senator demonstrates the president's strong resolve to fight pushers, peddlers and their protectors,\" said Duterte spokesman Ernesto Abella. From human rights lawyer to senator De Lima started working after law school as a law clerk in the House of Representatives and as a legal aide to a Supreme Court associate justice. De Lima then assisted current Senate President Aquilino Pimentel Jr. earn a Senate seat and fellow future Senator Alan Peter Cayetano beat a lawsuit alleging he was not a Filipino citizen which would disqualify him from office. De Lima became the chairwoman of the government's Commission of Human Rights in 2008. During her two years on the job she investigated extrajudicial killings and abductions and human rights violations by the Philippines' security forces. In 2010 De Lima became justice secretary in the Benigno Aquino administration who pledged to fight corruption. She stayed in the position until 2015 to successfully run for a Senate position, earning the role-at the same time Duterte became president.  Philippine President Rodrigo Duterte has never gotten along with Philippine Senator Leila de Lima Long-time Duterte enemy While serving as chairwoman to the Commission of Human Rights, De Lima opened a probe on Duterte when he was mayor of the town of Davao. Duterte had faced allegations of running death squads in Davao that allegedly killed hundreds of drug addicts and petty criminals as a part of a ruthless anti-crime campaign. Duterte has both denied and acknowledged his role in the death squads in Davao. Duterte has brought similar tactics to Manila, resulting in the deaths of thousands of suspected drug dealers since taking office in June 2016. De Lima called Duterte a \"sociopathic serial killer\" on Tuesday, and demanded Duterte's cabinet consider him unfit to lead. Duterte made allegations De Lima was running a drug trafficking ring in the country's largest prison in August 2016 while she was justice secretary in the previous government. \"I will have to destroy her in public,\" said Duterte in August, as he mounted a campaign to ruin her reputation, which included allegations on de Lima's sex life. kbd/rc (AFP, AP, Reuters)",
+      "title": "Philippine Senator Leila de Lima arrested on illegal drug charges",
+      "source": "http://www.dw.com/en/philippine-senator-leila-de-lima-arrested-on-illegal-drug-charges/a-37696588?maca=en-rss-en-all-1573-rdf",
+      "timestamp": "2017-02-24T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-08T09:23:32.601Z",
+        "updated": "2024-02-08T09:23:32.601Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "e7cd57c0-c8c9-11ee-b0b9-17011e92baf6",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-08T09:23:32.600Z",
+    "updated": "2024-02-11T10:46:44.235Z"
+  }
+}

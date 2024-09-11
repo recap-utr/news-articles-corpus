@@ -1,0 +1,771 @@
+{
+  "nodes": {
+    "90af0fb0-c77f-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Russia's largest bank, Sberbank, has signed an agreement on selling 100% shares in its Ukrainian affiliation to a consortium that comprises a Latvian bank and a Belarusian company",
+        "reference": {
+          "resource": "3561",
+          "offset": 26,
+          "text": "Russia's largest bank, Sberbank, has signed an agreement on selling 100% shares in its Ukrainian affiliation to a consortium that comprises a Latvian bank and a Belarusian company"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T19:15:19.723Z",
+        "updated": "2024-02-09T19:15:19.723Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0006251712276,
+            "y": 414
+          }
+        }
+      }
+    },
+    "90af0fb1-c77f-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "The closure of the transaction is expected before July 2017 after its endorsement by financial and antitrust regulators",
+        "reference": {
+          "resource": "3561",
+          "offset": 528,
+          "text": "The closure of the transaction is expected before July 2017 after its endorsement by financial and antitrust regulators"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T19:15:19.723Z",
+        "updated": "2024-02-09T19:15:19.723Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.000699573157,
+            "y": 704
+          }
+        }
+      }
+    },
+    "90af0fb3-c77f-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "a decision to sell our filial bank will facilitate the unblocking of its offices and resumption of regular operations and will make it possible for the customers to use without hindrances the services of one of Ukraine's most stable and efficient banks and will lay down the groundwork for its further development",
+        "reference": {
+          "resource": "3561",
+          "text": "a decision to sell our filial bank will facilitate the unblocking of its offices and resumption of regular operations and will make it possible for the customers to use without hindrances the services of one of Ukraine's most stable and efficient banks and will lay down the groundwork for its further development"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T19:15:19.723Z",
+        "updated": "2024-02-09T19:15:19.723Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0004834398792,
+            "y": 704
+          }
+        }
+      }
+    },
+    "90af0fb6-c77f-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Norvik Banka, Latvia's bank number seven in terms of assets, has announced a range of steps to cut down its presence in the Russian banking sector",
+        "reference": {
+          "resource": "3561",
+          "offset": 1825,
+          "text": "Norvik Banka, Latvia's bank number seven in terms of assets, has announced a range of steps to cut down its presence in the Russian banking sector"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T19:15:19.723Z",
+        "updated": "2024-02-09T19:15:19.723Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2540.7757155619693,
+            "y": 2200.618921530936
+          }
+        }
+      }
+    },
+    "90af36c0-c77f-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Sberbank Ukraine had a perfect structure, as its previous owner, Sberbank of Russia, had invested hundreds of millions of dollars in the platform of the affiliation",
+        "reference": {
+          "resource": "3561",
+          "offset": 2141,
+          "text": "Said Gutseriyev as saying Sberbank Ukraine had a perfect structure, as its previous owner, Sberbank of Russia, had invested hundreds of millions of dollars in the platform of the affiliation"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T19:15:19.724Z",
+        "updated": "2024-02-09T19:15:19.724Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1055.1311234382003,
+            "y": 1582.8336153916503
+          }
+        }
+      }
+    },
+    "90af36c2-c77f-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Under the pressure of nationalists blocking the Ukrainian affiliations of several banks belonging to Russian lending institutions, President Pyotr Poroshenko imposed sanctions on five banks with Russian funding",
+        "reference": {
+          "resource": "3561",
+          "text": "Under the pressure of nationalists blocking the Ukrainian affiliations of several banks belonging to Russian lending institutions, President Pyotr Poroshenko imposed sanctions on five banks with Russian funding"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T19:15:19.724Z",
+        "updated": "2024-02-09T19:15:19.724Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1917.3286835899728,
+            "y": 1508.6830987619892
+          }
+        }
+      }
+    },
+    "90af36c4-c77f-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "The restrictions, however, did not embrace transactions between Ukrainian residents and their agents who have accounts in the parent companies",
+        "reference": {
+          "resource": "3561",
+          "offset": 3191,
+          "text": "The restrictions, however, did not embrace transactions between Ukrainian residents and their agents who have accounts in the parent companies"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T19:15:19.724Z",
+        "updated": "2024-02-09T19:15:19.724Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1848.218827148883,
+            "y": 2203.8955047324866
+          }
+        }
+      }
+    },
+    "ce315e60-c77f-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T19:17:02.918Z",
+        "updated": "2024-02-09T19:17:02.918Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0005055801432,
+            "y": 604
+          }
+        }
+      }
+    },
+    "ce315e63-c77f-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T19:17:02.918Z",
+        "updated": "2024-02-09T19:17:02.918Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.0005646159012,
+            "y": 604
+          }
+        }
+      }
+    },
+    "ce315e66-c77f-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T19:17:02.918Z",
+        "updated": "2024-02-09T19:17:02.918Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00044298427086,
+            "y": 604
+          }
+        }
+      }
+    },
+    "ce315e72-c77f-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T19:17:02.918Z",
+        "updated": "2024-02-09T19:17:02.918Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1983.553759238511,
+            "y": 1955.4921024887665
+          }
+        }
+      }
+    },
+    "ce315e78-c77f-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T19:17:02.918Z",
+        "updated": "2024-02-09T19:17:02.918Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2489.7669964029333,
+            "y": 1848.954087998747
+          }
+        }
+      }
+    },
+    "0ef73f50-c780-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Ukrainian affiliation had enough reserves to meet the obligations to private and corporate customers likewise",
+        "reference": {
+          "resource": "3561",
+          "offset": 676,
+          "text": "Ukrainian affiliation had enough reserves to meet the obligations to private and corporate customers likewise"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T19:18:51.589Z",
+        "updated": "2024-02-09T19:18:51.589Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 653.4899745862269,
+            "y": 1617.4933428963964
+          }
+        }
+      }
+    },
+    "282838d0-c780-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T19:19:33.853Z",
+        "updated": "2024-02-09T19:19:33.853Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 730.9439131510319,
+            "y": 1421.9175417043693
+          }
+        }
+      }
+    },
+    "4b8060f0-c780-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "The transaction will enable the Ukrainian customers to enjoy the services based on the European principles of quality, transparency and accessibility and to maintain the levels of technology created by the Sberank of Russia",
+        "reference": {
+          "resource": "3561",
+          "offset": 1566,
+          "text": "The transaction will enable the Ukrainian customers to enjoy the services based on the European principles of quality, transparency and accessibility and to maintain the levels of technology created by the Sberank of Russia"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T19:20:33.151Z",
+        "updated": "2024-02-09T19:20:33.151Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1447.3346213390696,
+            "y": 1568.9258457279104
+          }
+        }
+      }
+    },
+    "4f9cee10-c780-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T19:20:40.049Z",
+        "updated": "2024-02-09T19:20:40.049Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1531.746754844238,
+            "y": 1454.3698129308868
+          }
+        }
+      }
+    },
+    "61d42b20-c780-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "decision to participate in the consortium the constituent parties made farsighted and promising investment, while the bank as such would be able to make a great leap forward and to implement many advanced projects in Ukraine and in neighboring European countries",
+        "reference": {
+          "resource": "3561",
+          "offset": 2405,
+          "text": "decision to participate in the consortium the constituent parties made farsighted and promising investment, while the bank as such would be able to make a great leap forward and to implement many advanced projects in Ukraine and in neighboring European countries"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T19:21:10.610Z",
+        "updated": "2024-02-09T19:21:10.610Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 62.91452844248511,
+            "y": 1556.1576729485457
+          }
+        }
+      }
+    },
+    "63dc7e40-c780-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T19:21:14.020Z",
+        "updated": "2024-02-09T19:21:14.020Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 154.46846865027555,
+            "y": 1419.2508365457459
+          }
+        }
+      }
+    },
+    "941bdf60-c780-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T19:22:34.966Z",
+        "updated": "2024-02-09T19:22:34.966Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1883.7340771887343,
+            "y": 1392.1713621193944
+          }
+        }
+      }
+    },
+    "cc7b0660-c780-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T19:24:09.542Z",
+        "updated": "2024-02-09T19:24:09.542Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1175.9257066748564,
+            "y": 1490.9408383070734
+          }
+        }
+      }
+    },
+    "824ef9f0-fc93-11ee-bacf-6f44838a7611": {
+      "atom": {
+        "text": "\"The transaction will enable the Ukrainian customers to enjoy the services based on the European principles of quality, transparency and accessibility and to maintain the levels of technology created by the Sberank of Russia.\"",
+        "reference": {
+          "resource": "3561",
+          "offset": 1565,
+          "text": "\"The transaction will enable the Ukrainian customers to enjoy the services based on the European principles of quality, transparency and accessibility and to maintain the levels of technology created by the Sberank of Russia.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-04-17T08:21:37.167Z",
+        "updated": "2024-04-17T08:21:37.167Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -32.624745252019466,
+            "y": 732.1685033130149
+          }
+        }
+      }
+    },
+    "c90abbe0-fc93-11ee-bacf-6f44838a7611": {
+      "atom": {
+        "text": "\"We hope a decision to sell our filial bank will facilitate the unblocking of its offices and resumption of regular operations and will make it possible for the customers to use without hindrances the services of one of Ukraine's most stable and efficient banks and will lay down the groundwork for its further development,\"",
+        "reference": {
+          "resource": "3561",
+          "offset": 787,
+          "text": "\"We hope a decision to sell our filial bank will facilitate the unblocking of its offices and resumption of regular operations and will make it possible for the customers to use without hindrances the services of one of Ukraine's most stable and efficient banks and will lay down the groundwork for its further development,\""
+        }
+      },
+      "metadata": {
+        "created": "2024-04-17T08:23:35.838Z",
+        "updated": "2024-04-17T08:23:35.838Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 658.1917253525335,
+            "y": 1899.9120645273254
+          }
+        }
+      }
+    },
+    "cf417670-fc93-11ee-bacf-6f44838a7611": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-17T08:23:46.263Z",
+        "updated": "2024-04-17T08:23:46.263Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 655.8408499693802,
+            "y": 1758.702703711861
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "ce315e61-c77f-11ee-a75d-3d21b0b510a2": {
+      "source": "90af0fb1-c77f-11ee-a75d-3d21b0b510a2",
+      "target": "ce315e60-c77f-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:17:02.918Z",
+        "updated": "2024-02-09T19:17:02.918Z"
+      },
+      "userdata": {}
+    },
+    "ce315e62-c77f-11ee-a75d-3d21b0b510a2": {
+      "source": "ce315e60-c77f-11ee-a75d-3d21b0b510a2",
+      "target": "90af0fb0-c77f-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:17:02.918Z",
+        "updated": "2024-02-09T19:17:02.918Z"
+      },
+      "userdata": {}
+    },
+    "ce315e64-c77f-11ee-a75d-3d21b0b510a2": {
+      "source": "90af0fb3-c77f-11ee-a75d-3d21b0b510a2",
+      "target": "ce315e63-c77f-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:17:02.918Z",
+        "updated": "2024-02-09T19:17:02.918Z"
+      },
+      "userdata": {}
+    },
+    "ce315e65-c77f-11ee-a75d-3d21b0b510a2": {
+      "source": "ce315e63-c77f-11ee-a75d-3d21b0b510a2",
+      "target": "90af0fb0-c77f-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:17:02.918Z",
+        "updated": "2024-02-09T19:17:02.918Z"
+      },
+      "userdata": {}
+    },
+    "ce315e67-c77f-11ee-a75d-3d21b0b510a2": {
+      "source": "90af0fb5-c77f-11ee-a75d-3d21b0b510a2",
+      "target": "ce315e66-c77f-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:17:02.918Z",
+        "updated": "2024-02-09T19:17:02.918Z"
+      },
+      "userdata": {}
+    },
+    "ce315e68-c77f-11ee-a75d-3d21b0b510a2": {
+      "source": "ce315e66-c77f-11ee-a75d-3d21b0b510a2",
+      "target": "90af0fb0-c77f-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:17:02.918Z",
+        "updated": "2024-02-09T19:17:02.918Z"
+      },
+      "userdata": {}
+    },
+    "ce315e6a-c77f-11ee-a75d-3d21b0b510a2": {
+      "source": "90af36c0-c77f-11ee-a75d-3d21b0b510a2",
+      "target": "ce315e69-c77f-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:17:02.918Z",
+        "updated": "2024-02-09T19:17:02.918Z"
+      },
+      "userdata": {}
+    },
+    "ce315e6b-c77f-11ee-a75d-3d21b0b510a2": {
+      "source": "ce315e69-c77f-11ee-a75d-3d21b0b510a2",
+      "target": "90af0fb4-c77f-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:17:02.918Z",
+        "updated": "2024-02-09T19:17:02.918Z"
+      },
+      "userdata": {}
+    },
+    "ce315e6d-c77f-11ee-a75d-3d21b0b510a2": {
+      "source": "90af36c1-c77f-11ee-a75d-3d21b0b510a2",
+      "target": "ce315e6c-c77f-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:17:02.918Z",
+        "updated": "2024-02-09T19:17:02.918Z"
+      },
+      "userdata": {}
+    },
+    "ce315e6e-c77f-11ee-a75d-3d21b0b510a2": {
+      "source": "ce315e6c-c77f-11ee-a75d-3d21b0b510a2",
+      "target": "90af0fb4-c77f-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:17:02.918Z",
+        "updated": "2024-02-09T19:17:02.918Z"
+      },
+      "userdata": {}
+    },
+    "ce315e70-c77f-11ee-a75d-3d21b0b510a2": {
+      "source": "90af36c3-c77f-11ee-a75d-3d21b0b510a2",
+      "target": "ce315e6f-c77f-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:17:02.918Z",
+        "updated": "2024-02-09T19:17:02.918Z"
+      },
+      "userdata": {}
+    },
+    "ce315e71-c77f-11ee-a75d-3d21b0b510a2": {
+      "source": "ce315e6f-c77f-11ee-a75d-3d21b0b510a2",
+      "target": "90af36c2-c77f-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:17:02.918Z",
+        "updated": "2024-02-09T19:17:02.918Z"
+      },
+      "userdata": {}
+    },
+    "ce315e73-c77f-11ee-a75d-3d21b0b510a2": {
+      "source": "90af36c4-c77f-11ee-a75d-3d21b0b510a2",
+      "target": "ce315e72-c77f-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:17:02.918Z",
+        "updated": "2024-02-09T19:17:02.918Z"
+      },
+      "userdata": {}
+    },
+    "ce315e74-c77f-11ee-a75d-3d21b0b510a2": {
+      "source": "ce315e72-c77f-11ee-a75d-3d21b0b510a2",
+      "target": "90af36c2-c77f-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:17:02.918Z",
+        "updated": "2024-02-09T19:17:02.918Z"
+      },
+      "userdata": {}
+    },
+    "ce315e76-c77f-11ee-a75d-3d21b0b510a2": {
+      "source": "90af36c2-c77f-11ee-a75d-3d21b0b510a2",
+      "target": "ce315e75-c77f-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:17:02.918Z",
+        "updated": "2024-02-09T19:17:02.918Z"
+      },
+      "userdata": {}
+    },
+    "ce315e77-c77f-11ee-a75d-3d21b0b510a2": {
+      "source": "ce315e75-c77f-11ee-a75d-3d21b0b510a2",
+      "target": "90af0fb2-c77f-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:17:02.918Z",
+        "updated": "2024-02-09T19:17:02.918Z"
+      },
+      "userdata": {}
+    },
+    "ce315e79-c77f-11ee-a75d-3d21b0b510a2": {
+      "source": "90af0fb6-c77f-11ee-a75d-3d21b0b510a2",
+      "target": "ce315e78-c77f-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:17:02.918Z",
+        "updated": "2024-02-09T19:17:02.918Z"
+      },
+      "userdata": {}
+    },
+    "ce315e7a-c77f-11ee-a75d-3d21b0b510a2": {
+      "source": "ce315e78-c77f-11ee-a75d-3d21b0b510a2",
+      "target": "90af0fb4-c77f-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:17:02.918Z",
+        "updated": "2024-02-09T19:17:02.918Z"
+      },
+      "userdata": {}
+    },
+    "282838d1-c780-11ee-a75d-3d21b0b510a2": {
+      "source": "0ef73f50-c780-11ee-a75d-3d21b0b510a2",
+      "target": "282838d0-c780-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:19:33.853Z",
+        "updated": "2024-02-09T19:19:33.853Z"
+      },
+      "userdata": {}
+    },
+    "282838d2-c780-11ee-a75d-3d21b0b510a2": {
+      "source": "282838d0-c780-11ee-a75d-3d21b0b510a2",
+      "target": "90af0fb3-c77f-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:19:33.853Z",
+        "updated": "2024-02-09T19:19:33.853Z"
+      },
+      "userdata": {}
+    },
+    "4f9cee11-c780-11ee-a75d-3d21b0b510a2": {
+      "source": "4b8060f0-c780-11ee-a75d-3d21b0b510a2",
+      "target": "4f9cee10-c780-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:20:40.049Z",
+        "updated": "2024-02-09T19:20:40.049Z"
+      },
+      "userdata": {}
+    },
+    "4f9cee12-c780-11ee-a75d-3d21b0b510a2": {
+      "source": "4f9cee10-c780-11ee-a75d-3d21b0b510a2",
+      "target": "90af0fb3-c77f-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:20:40.049Z",
+        "updated": "2024-02-09T19:20:40.049Z"
+      },
+      "userdata": {}
+    },
+    "63dc7e41-c780-11ee-a75d-3d21b0b510a2": {
+      "source": "61d42b20-c780-11ee-a75d-3d21b0b510a2",
+      "target": "63dc7e40-c780-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:21:14.020Z",
+        "updated": "2024-02-09T19:21:14.020Z"
+      },
+      "userdata": {}
+    },
+    "63dc7e42-c780-11ee-a75d-3d21b0b510a2": {
+      "source": "63dc7e40-c780-11ee-a75d-3d21b0b510a2",
+      "target": "90af0fb3-c77f-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:21:14.020Z",
+        "updated": "2024-02-09T19:21:14.020Z"
+      },
+      "userdata": {}
+    },
+    "941bdf61-c780-11ee-a75d-3d21b0b510a2": {
+      "source": "90af36c2-c77f-11ee-a75d-3d21b0b510a2",
+      "target": "941bdf60-c780-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:22:34.966Z",
+        "updated": "2024-02-09T19:22:34.966Z"
+      },
+      "userdata": {}
+    },
+    "941bdf62-c780-11ee-a75d-3d21b0b510a2": {
+      "source": "941bdf60-c780-11ee-a75d-3d21b0b510a2",
+      "target": "90af0fb3-c77f-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:22:34.966Z",
+        "updated": "2024-02-09T19:22:34.966Z"
+      },
+      "userdata": {}
+    },
+    "be60a490-c780-11ee-a75d-3d21b0b510a2": {
+      "source": "ce315e78-c77f-11ee-a75d-3d21b0b510a2",
+      "target": "90af36c2-c77f-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:23:45.881Z",
+        "updated": "2024-02-09T19:23:45.881Z"
+      },
+      "userdata": {}
+    },
+    "cc7b0661-c780-11ee-a75d-3d21b0b510a2": {
+      "source": "90af36c0-c77f-11ee-a75d-3d21b0b510a2",
+      "target": "cc7b0660-c780-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:24:09.542Z",
+        "updated": "2024-02-09T19:24:09.542Z"
+      },
+      "userdata": {}
+    },
+    "cc7b0662-c780-11ee-a75d-3d21b0b510a2": {
+      "source": "cc7b0660-c780-11ee-a75d-3d21b0b510a2",
+      "target": "90af0fb3-c77f-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:24:09.542Z",
+        "updated": "2024-02-09T19:24:09.542Z"
+      },
+      "userdata": {}
+    },
+    "869cf750-fc93-11ee-bacf-6f44838a7611": {
+      "source": "824ef9f0-fc93-11ee-bacf-6f44838a7611",
+      "target": "ce315e66-c77f-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-04-17T08:21:44.389Z",
+        "updated": "2024-04-17T08:21:44.389Z"
+      },
+      "userdata": {}
+    },
+    "cf417671-fc93-11ee-bacf-6f44838a7611": {
+      "source": "c90abbe0-fc93-11ee-bacf-6f44838a7611",
+      "target": "cf417670-fc93-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T08:23:46.263Z",
+        "updated": "2024-04-17T08:23:46.263Z"
+      },
+      "userdata": {}
+    },
+    "cf417672-fc93-11ee-bacf-6f44838a7611": {
+      "source": "cf417670-fc93-11ee-bacf-6f44838a7611",
+      "target": "0ef73f50-c780-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-04-17T08:23:46.263Z",
+        "updated": "2024-04-17T08:23:46.263Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "3561": {
+      "text": "MOSCOW, March 28. /TASS/. Russia's largest bank, Sberbank, has signed an agreement on selling 100% shares in its Ukrainian affiliation to a consortium that comprises a Latvian bank and a Belarusian company, the bank said in a press release on Monday. \"A consortium of investors is purchasing 100% stake PAO Sberbank Ukraine, which is a filial company of PAO Sberbank. The consortium will include Norvik Banka of Latvia and a Belarusian private company,\" it said. \"An appropriate legally binding agreement was signed on Monday.\" The closure of the transaction is expected before July 2017 after its endorsement by financial and antitrust regulators. The press release said the Ukrainian affiliation had enough reserves to meet the obligations to private and corporate customers likewise. \"We hope a decision to sell our filial bank will facilitate the unblocking of its offices and resumption of regular operations and will make it possible for the customers to use without hindrances the services of one of Ukraine's most stable and efficient banks and will lay down the groundwork for its further development,\" the press release said. British national Said Gutseriyev has become the majority shareholder of the Latvian-Belarusian consortium, which has purchased the Ukrainian affiliation of Sberbank, through a Belarusian company he owns, Latvia's Norvik Banka, the other party to the consortium said in a report. \"Said Gutseriyev, a national of the UK, and the Belarusian company he owns has become the majority shareholder of the new consortium,\" the bank said. \"The transaction will enable the Ukrainian customers to enjoy the services based on the European principles of quality, transparency and accessibility and to maintain the levels of technology created by the Sberank of Russia.\" Along with the main transaction, Norvik Banka, Latvia's bank number seven in terms of assets, has announced a range of steps to cut down its presence in the Russian banking sector - a measure it hopes will help raise the efficiency of investment and eliminate a number political risks arising from the geography of its operations. The report quoted Said Gutseriyev as saying Sberbank Ukraine had a perfect structure, as its previous owner, Sberbank of Russia, had invested hundreds of millions of dollars in the platform of the affiliation. Gutseriyev also said his own experience prompted him that by taking the decision to participate in the consortium the constituent parties made farsighted and promising investment, while the bank as such would be able to make a great leap forward and to implement many advanced projects in Ukraine and in neighboring European countries. Under the pressure of nationalists blocking the Ukrainian affiliations of several banks belonging to Russian lending institutions, President Pyotr Poroshenko imposed sanctions on five banks with Russian funding - Sberbank, Prominvestbank, VTB, BM Bank, and VS Bank - for a period of twelve months as of March 16. The sanctions ban the withdrawal of assets outside of Ukraine, the payment of dividends, as well as the return of interbank deposits and loans and monies from the correspondent accounts of subordinated debts. The restrictions, however, did not embrace transactions between Ukrainian residents and their agents who have accounts in the parent companies.",
+      "title": "Russia's Sberbank selling its Ukrainian affiliation to Latvian-Belarusian consortium",
+      "source": "http://tass.com/economy/937848",
+      "timestamp": "2017-03-28T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.156Z",
+        "updated": "2024-02-09T13:09:16.156Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "69ca24d0-c5b2-11ee-bbb2-f78c6e9d2422": {
+      "name": "Martin Hoppe",
+      "email": "mogramming@gmail.com",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "90af0fb0-c77f-11ee-a75d-3d21b0b510a2",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.156Z",
+    "updated": "2024-04-17T08:24:16.254Z"
+  },
+  "userdata": {}
+}

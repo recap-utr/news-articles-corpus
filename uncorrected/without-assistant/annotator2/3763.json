@@ -1,0 +1,277 @@
+{
+  "nodes": {
+    "55420b20-c67c-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "Building confidence is not possible until NATO abandons its military domination policy",
+        "reference": {
+          "resource": "3763",
+          "offset": 28,
+          "text": "Building confidence is not possible until NATO abandons its military domination policy"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:19:40.370Z",
+        "updated": "2024-02-08T12:19:40.370Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0003000684374,
+            "y": 12
+          }
+        }
+      }
+    },
+    "64eea5b0-c67c-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "it is not possible to build confidence until NATO abandons its military domination policy.",
+        "reference": {
+          "resource": "3763",
+          "offset": 313,
+          "text": "it is not possible to build confidence until NATO abandons its military domination policy."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:20:06.668Z",
+        "updated": "2024-02-08T12:20:06.668Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0009509665306,
+            "y": 253
+          }
+        }
+      }
+    },
+    "69f8ee30-c67c-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T12:20:15.123Z",
+        "updated": "2024-02-08T12:20:15.123Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0004789415324,
+            "y": 153
+          }
+        }
+      }
+    },
+    "8a6fa140-c67c-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "Representatives of NATO countries have emphasized the importance of the Vienna document on confidence-and security-building measures as well as other arms control mechanisms. But they were unable to answer the question how to combine that with their policy aimed at restraining Russia and demonstrating their military capabilities near our borders.",
+        "reference": {
+          "resource": "3763",
+          "offset": 406,
+          "text": "Representatives of NATO countries have emphasized the importance of the Vienna document on confidence-and security-building measures as well as other arms control mechanisms. But they were unable to answer the question how to combine that with their policy aimed at restraining Russia and demonstrating their military capabilities near our borders."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:21:09.588Z",
+        "updated": "2024-02-08T12:21:09.588Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0008447018051,
+            "y": 253
+          }
+        }
+      }
+    },
+    "8c63d020-c67c-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T12:21:12.866Z",
+        "updated": "2024-02-08T12:21:12.866Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.0005211250967,
+            "y": 153
+          }
+        }
+      }
+    },
+    "b65aea80-c67c-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "The exchange of briefings between Russia and NATO is not enough to improve security situation: Earlier on Thursday, Russia briefed NATO on deploying two divisions in the Western Military District and a motor rifle division in the Southern Military District while NATO countries provided information on the implementation of the plan concerning the forward deployment on NATO's eastern flank.",
+        "reference": {
+          "resource": "3763",
+          "offset": 756,
+          "text": "The exchange of briefings between Russia and NATO is not enough to improve security situation: Earlier on Thursday, Russia briefed NATO on deploying two divisions in the Western Military District and a motor rifle division in the Southern Military District while NATO countries provided information on the implementation of the plan concerning the forward deployment on NATO's eastern flank."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:22:23.272Z",
+        "updated": "2024-02-08T12:22:23.272Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000528750886877,
+            "y": 253
+          }
+        }
+      }
+    },
+    "ba2a9020-c67c-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T12:22:29.666Z",
+        "updated": "2024-02-08T12:22:29.666Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00042030092213,
+            "y": 153
+          }
+        }
+      }
+    },
+    "df025360-c67c-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "Dialogue for the sake of dialogue will not produce any results if no specific decisions are made and no steps are taken,",
+        "reference": {
+          "resource": "3763",
+          "offset": 1283,
+          "text": "Dialogue for the sake of dialogue will not produce any results if no specific decisions are made and no steps are taken,"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:23:31.478Z",
+        "updated": "2024-02-08T12:23:31.478Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000903262978406,
+            "y": 686
+          }
+        }
+      }
+    },
+    "e184df90-c67c-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T12:23:35.689Z",
+        "updated": "2024-02-08T12:23:35.689Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00096596497107,
+            "y": 586
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "69f8ee31-c67c-11ee-bb24-29eae2ae94d0": {
+      "source": "64eea5b0-c67c-11ee-bb24-29eae2ae94d0",
+      "target": "69f8ee30-c67c-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:20:15.123Z",
+        "updated": "2024-02-08T12:20:15.123Z"
+      },
+      "userdata": {}
+    },
+    "69f8ee32-c67c-11ee-bb24-29eae2ae94d0": {
+      "source": "69f8ee30-c67c-11ee-bb24-29eae2ae94d0",
+      "target": "55420b20-c67c-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:20:15.123Z",
+        "updated": "2024-02-08T12:20:15.123Z"
+      },
+      "userdata": {}
+    },
+    "8c63d021-c67c-11ee-bb24-29eae2ae94d0": {
+      "source": "8a6fa140-c67c-11ee-bb24-29eae2ae94d0",
+      "target": "8c63d020-c67c-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:21:12.866Z",
+        "updated": "2024-02-08T12:21:12.866Z"
+      },
+      "userdata": {}
+    },
+    "8c63d022-c67c-11ee-bb24-29eae2ae94d0": {
+      "source": "8c63d020-c67c-11ee-bb24-29eae2ae94d0",
+      "target": "55420b20-c67c-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:21:12.866Z",
+        "updated": "2024-02-08T12:21:12.866Z"
+      },
+      "userdata": {}
+    },
+    "ba2a9021-c67c-11ee-bb24-29eae2ae94d0": {
+      "source": "b65aea80-c67c-11ee-bb24-29eae2ae94d0",
+      "target": "ba2a9020-c67c-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:22:29.666Z",
+        "updated": "2024-02-08T12:22:29.666Z"
+      },
+      "userdata": {}
+    },
+    "ba2ab730-c67c-11ee-bb24-29eae2ae94d0": {
+      "source": "ba2a9020-c67c-11ee-bb24-29eae2ae94d0",
+      "target": "55420b20-c67c-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:22:29.667Z",
+        "updated": "2024-02-08T12:22:29.667Z"
+      },
+      "userdata": {}
+    },
+    "e184df91-c67c-11ee-bb24-29eae2ae94d0": {
+      "source": "df025360-c67c-11ee-bb24-29eae2ae94d0",
+      "target": "e184df90-c67c-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:23:35.689Z",
+        "updated": "2024-02-08T12:23:35.689Z"
+      },
+      "userdata": {}
+    },
+    "e184df92-c67c-11ee-bb24-29eae2ae94d0": {
+      "source": "e184df90-c67c-11ee-bb24-29eae2ae94d0",
+      "target": "b65aea80-c67c-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:23:35.689Z",
+        "updated": "2024-02-08T12:23:35.689Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "3763": {
+      "text": "BRUSSELS, March 30. /TASS/. Building confidence is not possible until NATO abandons its military domination policy, Russia's Permanent Representative to NATO Alexander Grushko said on Thursday.   While commenting on the results of this year's first ambassadorial meeting of the Russia-NATO Council, he said that \"it is not possible to build confidence until NATO abandons its military domination policy.\" \"Representatives of NATO countries have emphasized the importance of the Vienna document on confidence-and security-building measures as well as other arms control mechanisms. But they were unable to answer the question how to combine that with their policy aimed at restraining Russia and demonstrating their military capabilities near our borders.\" The exchange of briefings between Russia and NATO is not enough to improve security situation: Earlier on Thursday, Russia briefed NATO on deploying two divisions in the Western Military District and a motor rifle division in the Southern Military District while NATO countries provided information on the implementation of the plan concerning the forward deployment on NATO's eastern flank. \"I don\"t want to diminish the importance of such briefings, but they are not enough to improve the security situation,\" Grushko said. \"Dialogue for the sake of dialogue will not produce any results if no specific decisions are made and no steps are taken,\" he added.  ",
+      "title": "Russian ambassador urges NATO to abandon military domination policy",
+      "source": "http://tass.com/politics/938574",
+      "timestamp": "2024-02-08T12:18:52.539Z",
+      "metadata": {
+        "created": "2024-02-05T09:49:22.066Z",
+        "updated": "2024-02-05T09:49:22.066Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "55420b20-c67c-11ee-bb24-29eae2ae94d0",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-05T09:49:22.065Z",
+    "updated": "2024-02-08T12:24:20.019Z"
+  }
+}

@@ -1,0 +1,509 @@
+{
+  "nodes": {
+    "3b767e20-c8d3-11ee-b4a2-756af494682b": {
+      "atom": {
+        "text": "Russia still expects Belarus to repay its gas debt",
+        "reference": {
+          "resource": "187",
+          "offset": 28,
+          "text": "Russia still expects Belarus to repay its gas debt"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T11:46:45.634Z",
+        "updated": "2024-02-11T11:46:45.634Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 92.00004167212826,
+            "y": 12
+          }
+        }
+      }
+    },
+    "3b767e21-c8d3-11ee-b4a2-756af494682b": {
+      "atom": {
+        "text": "there is no progress in the talks on issues related to gas and oil between the two countries",
+        "reference": {
+          "resource": "187",
+          "offset": 87,
+          "text": "there is no progress in the talks on issues related to gas and oil between the two countries"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T11:46:45.634Z",
+        "updated": "2024-02-11T11:46:45.634Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 742.0001345649544,
+            "y": 230
+          }
+        }
+      }
+    },
+    "3b767e22-c8d3-11ee-b4a2-756af494682b": {
+      "atom": {
+        "text": "We're expecting our colleagues to make suggestions",
+        "reference": {
+          "resource": "187",
+          "text": "We're expecting our colleagues to make suggestions"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T11:46:45.634Z",
+        "updated": "2024-02-11T11:46:45.634Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1092.0004381784615,
+            "y": 472
+          }
+        }
+      }
+    },
+    "3b767e24-c8d3-11ee-b4a2-756af494682b": {
+      "atom": {
+        "text": "But in any case we're expecting repayment for 2016",
+        "reference": {
+          "resource": "187",
+          "text": "But in any case we're expecting repayment for 2016"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T11:46:45.634Z",
+        "updated": "2024-02-11T11:46:45.634Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 42.00014498072221,
+            "y": 242
+          }
+        }
+      }
+    },
+    "3b767e25-c8d3-11ee-b4a2-756af494682b": {
+      "atom": {
+        "text": "Belarus' debt for Russian gas supplies had reached around $550 mln as of January 28",
+        "reference": {
+          "resource": "187",
+          "offset": 481,
+          "text": "Belarus' debt for Russian gas supplies had reached around $550 mln as of January 28"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T11:46:45.634Z",
+        "updated": "2024-02-11T11:46:45.634Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -324.8947866267715,
+            "y": 394.70150857884323
+          }
+        }
+      }
+    },
+    "3b76a530-c8d3-11ee-b4a2-756af494682b": {
+      "atom": {
+        "text": "Belarus and Russia have been negotiating a reduction in gas prices since early 2016",
+        "reference": {
+          "resource": "187",
+          "offset": 566,
+          "text": "Belarus and Russia have been negotiating a reduction in gas prices since early 2016"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T11:46:45.635Z",
+        "updated": "2024-02-11T11:46:45.635Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 392.0000572251031,
+            "y": 472
+          }
+        }
+      }
+    },
+    "3b76a531-c8d3-11ee-b4a2-756af494682b": {
+      "atom": {
+        "text": "Minsk insisted on lowering the price of Russian natural gas from $132 to $73 per 1,000 cubic meters",
+        "reference": {
+          "resource": "187",
+          "offset": 651,
+          "text": "Minsk insisted on lowering the price of Russian natural gas from $132 to $73 per 1,000 cubic meters"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T11:46:45.635Z",
+        "updated": "2024-02-11T11:46:45.635Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0004557036928,
+            "y": 714
+          }
+        }
+      }
+    },
+    "3b76a532-c8d3-11ee-b4a2-756af494682b": {
+      "atom": {
+        "text": "Minsk demanded that Russia switch to equal netback pricing",
+        "reference": {
+          "resource": "187",
+          "text": "Minsk demanded that Russia switch to equal netback pricing"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T11:46:45.635Z",
+        "updated": "2024-02-11T11:46:45.635Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0003147182663,
+            "y": 714
+          }
+        }
+      }
+    },
+    "3b76a535-c8d3-11ee-b4a2-756af494682b": {
+      "atom": {
+        "text": "Russia had returned the advance payment and insisted on full execution of the gas contract",
+        "reference": {
+          "resource": "187",
+          "offset": 1160,
+          "text": "Russia had returned the advance payment and insisted on full execution of the gas contract"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T11:46:45.635Z",
+        "updated": "2024-02-11T11:46:45.635Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000020348201438,
+            "y": 714
+          }
+        }
+      }
+    },
+    "36730180-c8d5-11ee-b4a2-756af494682b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:00:56.216Z",
+        "updated": "2024-02-11T12:00:56.216Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 842.0006628392846,
+            "y": 130
+          }
+        }
+      }
+    },
+    "36730183-c8d5-11ee-b4a2-756af494682b": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:00:56.216Z",
+        "updated": "2024-02-11T12:00:56.216Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1192.0002428670612,
+            "y": 372
+          }
+        }
+      }
+    },
+    "36732890-c8d5-11ee-b4a2-756af494682b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:00:56.217Z",
+        "updated": "2024-02-11T12:00:56.217Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 142.00075195403468,
+            "y": 130
+          }
+        }
+      }
+    },
+    "36732893-c8d5-11ee-b4a2-756af494682b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:00:56.217Z",
+        "updated": "2024-02-11T12:00:56.217Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -198.7665278081813,
+            "y": 209.7820391302484
+          }
+        }
+      }
+    },
+    "36732896-c8d5-11ee-b4a2-756af494682b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:00:56.217Z",
+        "updated": "2024-02-11T12:00:56.217Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 492.00037959190365,
+            "y": 372
+          }
+        }
+      }
+    },
+    "36732899-c8d5-11ee-b4a2-756af494682b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:00:56.217Z",
+        "updated": "2024-02-11T12:00:56.217Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.00045445479213,
+            "y": 614
+          }
+        }
+      }
+    },
+    "3673289c-c8d5-11ee-b4a2-756af494682b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:00:56.217Z",
+        "updated": "2024-02-11T12:00:56.217Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0003925769855,
+            "y": 614
+          }
+        }
+      }
+    },
+    "36734fa3-c8d5-11ee-b4a2-756af494682b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:00:56.218Z",
+        "updated": "2024-02-11T12:00:56.218Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00044594918351,
+            "y": 614
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "36730181-c8d5-11ee-b4a2-756af494682b": {
+      "source": "3b767e21-c8d3-11ee-b4a2-756af494682b",
+      "target": "36730180-c8d5-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:00:56.216Z",
+        "updated": "2024-02-11T12:00:56.216Z"
+      },
+      "userdata": {}
+    },
+    "36730182-c8d5-11ee-b4a2-756af494682b": {
+      "source": "36730180-c8d5-11ee-b4a2-756af494682b",
+      "target": "3b767e20-c8d3-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:00:56.216Z",
+        "updated": "2024-02-11T12:00:56.216Z"
+      },
+      "userdata": {}
+    },
+    "36730184-c8d5-11ee-b4a2-756af494682b": {
+      "source": "3b767e22-c8d3-11ee-b4a2-756af494682b",
+      "target": "36730183-c8d5-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:00:56.216Z",
+        "updated": "2024-02-11T12:00:56.216Z"
+      },
+      "userdata": {}
+    },
+    "36730185-c8d5-11ee-b4a2-756af494682b": {
+      "source": "36730183-c8d5-11ee-b4a2-756af494682b",
+      "target": "3b767e21-c8d3-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:00:56.216Z",
+        "updated": "2024-02-11T12:00:56.216Z"
+      },
+      "userdata": {}
+    },
+    "36732891-c8d5-11ee-b4a2-756af494682b": {
+      "source": "3b767e24-c8d3-11ee-b4a2-756af494682b",
+      "target": "36732890-c8d5-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:00:56.217Z",
+        "updated": "2024-02-11T12:00:56.217Z"
+      },
+      "userdata": {}
+    },
+    "36732892-c8d5-11ee-b4a2-756af494682b": {
+      "source": "36732890-c8d5-11ee-b4a2-756af494682b",
+      "target": "3b767e20-c8d3-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:00:56.217Z",
+        "updated": "2024-02-11T12:00:56.217Z"
+      },
+      "userdata": {}
+    },
+    "36732894-c8d5-11ee-b4a2-756af494682b": {
+      "source": "3b767e25-c8d3-11ee-b4a2-756af494682b",
+      "target": "36732893-c8d5-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:00:56.217Z",
+        "updated": "2024-02-11T12:00:56.217Z"
+      },
+      "userdata": {}
+    },
+    "36732897-c8d5-11ee-b4a2-756af494682b": {
+      "source": "3b76a530-c8d3-11ee-b4a2-756af494682b",
+      "target": "36732896-c8d5-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:00:56.217Z",
+        "updated": "2024-02-11T12:00:56.217Z"
+      },
+      "userdata": {}
+    },
+    "36732898-c8d5-11ee-b4a2-756af494682b": {
+      "source": "36732896-c8d5-11ee-b4a2-756af494682b",
+      "target": "3b767e21-c8d3-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:00:56.217Z",
+        "updated": "2024-02-11T12:00:56.217Z"
+      },
+      "userdata": {}
+    },
+    "3673289a-c8d5-11ee-b4a2-756af494682b": {
+      "source": "3b76a531-c8d3-11ee-b4a2-756af494682b",
+      "target": "36732899-c8d5-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:00:56.217Z",
+        "updated": "2024-02-11T12:00:56.217Z"
+      },
+      "userdata": {}
+    },
+    "3673289b-c8d5-11ee-b4a2-756af494682b": {
+      "source": "36732899-c8d5-11ee-b4a2-756af494682b",
+      "target": "3b76a530-c8d3-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:00:56.217Z",
+        "updated": "2024-02-11T12:00:56.217Z"
+      },
+      "userdata": {}
+    },
+    "3673289d-c8d5-11ee-b4a2-756af494682b": {
+      "source": "3b76a532-c8d3-11ee-b4a2-756af494682b",
+      "target": "3673289c-c8d5-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:00:56.217Z",
+        "updated": "2024-02-11T12:00:56.217Z"
+      },
+      "userdata": {}
+    },
+    "3673289e-c8d5-11ee-b4a2-756af494682b": {
+      "source": "3673289c-c8d5-11ee-b4a2-756af494682b",
+      "target": "3b76a530-c8d3-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:00:56.217Z",
+        "updated": "2024-02-11T12:00:56.217Z"
+      },
+      "userdata": {}
+    },
+    "36734fa4-c8d5-11ee-b4a2-756af494682b": {
+      "source": "3b76a535-c8d3-11ee-b4a2-756af494682b",
+      "target": "36734fa3-c8d5-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:00:56.218Z",
+        "updated": "2024-02-11T12:00:56.218Z"
+      },
+      "userdata": {}
+    },
+    "36734fa5-c8d5-11ee-b4a2-756af494682b": {
+      "source": "36734fa3-c8d5-11ee-b4a2-756af494682b",
+      "target": "3b76a530-c8d3-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:00:56.218Z",
+        "updated": "2024-02-11T12:00:56.218Z"
+      },
+      "userdata": {}
+    },
+    "f0206660-fc81-11ee-bacf-6f44838a7611": {
+      "source": "36732893-c8d5-11ee-b4a2-756af494682b",
+      "target": "3b767e20-c8d3-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-04-17T06:15:50.470Z",
+        "updated": "2024-04-17T06:15:50.470Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "187": {
+      "text": "MOSCOW, February 7. /TASS/. Russia still expects Belarus to repay its gas debt, though there is no progress in the talks on issues related to gas and oil between the two countries, Russia's Deputy Prime Minister Arkady Dvorkovich said Tuesday. \"So far there is no progress. We'r expecting our colleagues to make suggestions. There are no agreements between us based on previous proposals. But in any case we'r expecting repayment for 2016,\" he said.   Earlier Dvorkovich said that Belarus' debt for Russian gas supplies had reached around $550 mln as of January 28. Belarus and Russia have been negotiating a reduction in gas prices since early 2016. Minsk insisted on lowering the price of Russian natural gas from $132 to $73 per 1,000 cubic meters and demanded that Russia switch to equal netback pricing. In response to underpayment of around $300 mln for Russian gas supplies Moscow cut its tax-free oil supplies to Belarus by more than a third. In end-2016, Belarus transferred an advance payment for Russian gas and expressed the hope that the volume of oil supplies would be restored. However, Russian Deputy Prime Minister Arkady Dvorkovich said that Russia had returned the advance payment and insisted on full execution of the gas contract. At the same time, Dvorkovich did not rule out that the settlement of the gas dispute with Belarus could be resolved in court.",
+      "title": "Deputy PM says no progress in gas, oil talks between Russia, Belarus",
+      "source": "http://tass.com/economy/929361",
+      "timestamp": "2017-02-07T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.217Z",
+        "updated": "2024-02-09T13:09:16.217Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "69ca24d0-c5b2-11ee-bbb2-f78c6e9d2422": {
+      "name": "Martin Hoppe",
+      "email": "mogramming@gmail.com",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "3b767e20-c8d3-11ee-b4a2-756af494682b",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.217Z",
+    "updated": "2024-04-17T06:17:26.646Z"
+  },
+  "userdata": {}
+}

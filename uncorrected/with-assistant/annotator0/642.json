@@ -1,0 +1,629 @@
+{
+  "nodes": {
+    "a136e021-c760-11ee-b42f-55a6673dbaf3": {
+      "atom": {
+        "text": "no deal is better than a bad deal",
+        "reference": {
+          "resource": "642",
+          "offset": 327,
+          "text": "no deal is better than a bad deal"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T15:33:53.059Z",
+        "updated": "2024-02-09T15:33:53.059Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This is the core principle underlying the British government's negotiation stance, as expressed by Theresa May."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 712.0001432020667,
+            "y": 254
+          }
+        }
+      }
+    },
+    "a136e020-c760-11ee-b42f-55a6673dbaf3": {
+      "atom": {
+        "text": "Britain will not seek further talks with the European Union if parliament rejects the exit deal it reaches",
+        "reference": {
+          "resource": "642",
+          "offset": 0,
+          "text": "Britain will not seek further talks with the European Union if parliament rejects the exit deal it reaches"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T15:33:53.058Z",
+        "updated": "2024-02-09T15:33:53.058Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement outlines the British government's stance on the Brexit negotiation process.",
+          "mcConfig": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "mcExplanation": "This statement represents the main position of the British government regarding the Brexit negotiation process, setting the stage for all the subsequent arguments and stances."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 362.0000334677827,
+            "y": 12
+          }
+        }
+      }
+    },
+    "a1370735-c760-11ee-b42f-55a6673dbaf3": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T15:33:53.059Z",
+        "updated": "2024-02-09T15:33:53.059Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The stance that 'no deal is better than a bad deal' supports the government's decision not to seek further negotiations if the deal is rejected."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 788.0008820223821,
+            "y": 154
+          }
+        }
+      }
+    },
+    "a1370730-c760-11ee-b42f-55a6673dbaf3": {
+      "atom": {
+        "text": "Britain would leave the EU even if parliament rejected the deal",
+        "reference": {
+          "resource": "642",
+          "text": "Britain would leave the EU even if parliament rejected the deal"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T15:33:53.059Z",
+        "updated": "2024-02-09T15:33:53.059Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This emphasizes the finality of Britain's decision to leave the EU, regardless of parliamentary approval."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 362.00008333410153,
+            "y": 302
+          }
+        }
+      }
+    },
+    "a1370738-c760-11ee-b42f-55a6673dbaf3": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T15:33:53.059Z",
+        "updated": "2024-02-09T15:33:53.059Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The commitment to leaving the EU even if the deal is rejected underlines the government's strict stance on not seeking further negotiations."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 462.0001835667574,
+            "y": 154
+          }
+        }
+      }
+    },
+    "a1370731-c760-11ee-b42f-55a6673dbaf3": {
+      "atom": {
+        "text": "I can't think of a greater signal of weakness than for this House to send the government back to the European Union and to say we want to negotiate further",
+        "reference": {
+          "resource": "642",
+          "offset": 842,
+          "text": "I can't think of a greater signal of weakness than for this House to send the government back to the European Union and to say we want to negotiate further"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T15:33:53.059Z",
+        "updated": "2024-02-09T15:33:53.059Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This reflects the perspective of a junior Brexit minister, arguing against renegotiation from a position of perceived weakness."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 12.000742416149444,
+            "y": 254
+          }
+        }
+      }
+    },
+    "a137073b-c760-11ee-b42f-55a6673dbaf3": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T15:33:53.059Z",
+        "updated": "2024-02-09T15:33:53.059Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The viewpoint that renegotiating would signal weakness supports the decision not to pursue further talks if the deal is rejected."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 112.00049504748156,
+            "y": 154
+          }
+        }
+      }
+    },
+    "a1370732-c760-11ee-b42f-55a6673dbaf3": {
+      "atom": {
+        "text": "Britain would ultimately fall back on World Trade Organisation (WTO) terms of trade",
+        "reference": {
+          "resource": "642",
+          "offset": 1196,
+          "text": "Britain would ultimately fall back on World Trade Organisation (WTO) terms of trade"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T15:33:53.059Z",
+        "updated": "2024-02-09T15:33:53.059Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This states the fallback plan if Brexit negotiations do not result in a deal within the two-year timeframe."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 662.0006679743229,
+            "y": 544
+          }
+        }
+      }
+    },
+    "a137073e-c760-11ee-b42f-55a6673dbaf3": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T15:33:53.059Z",
+        "updated": "2024-02-09T15:33:53.059Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The fallback plan of relying on WTO terms if no deal is reached within the timeframe supplements the argument for leaving the EU regardless of parliamentary approval."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 762.0005021327695,
+            "y": 444
+          }
+        }
+      }
+    },
+    "a1370733-c760-11ee-b42f-55a6673dbaf3": {
+      "atom": {
+        "text": "parliament would be given a vote on the final deal before the European Parliament debates and votes on the agreement",
+        "reference": {
+          "resource": "642",
+          "offset": 1753,
+          "text": "parliament would be given a vote on the final deal before the European Parliament debates and votes on the agreement"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T15:33:53.059Z",
+        "updated": "2024-02-09T15:33:53.059Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This outlines the government's concession to allow parliamentary vote on the Brexit deal."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 312.00009048536936,
+            "y": 544
+          }
+        }
+      }
+    },
+    "a1370734-c760-11ee-b42f-55a6673dbaf3": {
+      "atom": {
+        "text": "The vote they're offering - which will give MPs a choice between an extreme Brexit and falling off a cliff edge into WTO trade rules - isn't a concession, it's an ultimatum",
+        "reference": {
+          "resource": "642",
+          "offset": 2102,
+          "text": "The vote they're offering - which will give MPs a choice between an extreme Brexit and falling off a cliff edge into WTO trade rules - isn't a concession, it's an ultimatum"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T15:33:53.059Z",
+        "updated": "2024-02-09T15:33:53.059Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This argument from a Green Party MP criticizes the government's offering of a vote, calling it not a concession but an ultimatum."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 312.00012886076297,
+            "y": 810
+          }
+        }
+      }
+    },
+    "a1370744-c760-11ee-b42f-55a6673dbaf3": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T15:33:53.059Z",
+        "updated": "2024-02-09T15:33:53.059Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The criticism of the voting offer as an ultimatum attacks the notion that it is a genuine concession, challenging the idea that parliamentary approval has meaningful weight in the decision-making process."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 412.0002524859361,
+            "y": 710
+          }
+        }
+      }
+    },
+    "31be1500-c761-11ee-b42f-55a6673dbaf3": {
+      "atom": {
+        "text": "The most contentious focus on calls for a \"meaningful vote\" on the final exit deal and could see an embarrassing defeat for the government if enough members of Mrs May's Conservative Party defy their leader's wishes",
+        "reference": {
+          "resource": "642",
+          "offset": 1441,
+          "text": "The most contentious focus on calls for a \"meaningful vote\" on the final exit deal and could see an embarrassing defeat for the government if enough members of Mrs May's Conservative Party defy their leader's wishes"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T15:37:55.536Z",
+        "updated": "2024-02-09T15:37:55.536Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -7.151898788405788,
+            "y": 553.6587439143238
+          }
+        }
+      }
+    },
+    "36f69970-c761-11ee-b42f-55a6673dbaf3": {
+      "atom": {
+        "text": " Opposition politicians want to use the bill going through parliament as a way to attach extra conditions to Mrs May's plan to trigger Brexit talks by 31 March",
+        "reference": {
+          "resource": "642",
+          "offset": 1280,
+          "text": " Opposition politicians want to use the bill going through parliament as a way to attach extra conditions to Mrs May's plan to trigger Brexit talks by 31 March"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T15:38:04.295Z",
+        "updated": "2024-02-09T15:38:04.295Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -33.3578655580468,
+            "y": 1036.1568379671244
+          }
+        }
+      }
+    },
+    "388f88f0-c761-11ee-b42f-55a6673dbaf3": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T15:38:06.975Z",
+        "updated": "2024-02-09T15:38:06.975Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 53.7384357645833,
+            "y": 973.7249759570974
+          }
+        }
+      }
+    },
+    "923b2990-c761-11ee-b42f-55a6673dbaf3": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T15:40:37.417Z",
+        "updated": "2024-02-09T15:40:37.417Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 236.00213564028047,
+            "y": 438.62006415642577
+          }
+        }
+      }
+    },
+    "d3d96920-c761-11ee-b42f-55a6673dbaf3": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T15:42:27.507Z",
+        "updated": "2024-02-09T15:42:27.507Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 420.2425695897714,
+            "y": 447.66443931260324
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "a1370736-c760-11ee-b42f-55a6673dbaf3": {
+      "source": "a136e021-c760-11ee-b42f-55a6673dbaf3",
+      "target": "a1370735-c760-11ee-b42f-55a6673dbaf3",
+      "metadata": {
+        "created": "2024-02-09T15:33:53.059Z",
+        "updated": "2024-02-09T15:33:53.059Z"
+      },
+      "userdata": {}
+    },
+    "a1370737-c760-11ee-b42f-55a6673dbaf3": {
+      "source": "a1370735-c760-11ee-b42f-55a6673dbaf3",
+      "target": "a136e020-c760-11ee-b42f-55a6673dbaf3",
+      "metadata": {
+        "created": "2024-02-09T15:33:53.059Z",
+        "updated": "2024-02-09T15:33:53.059Z"
+      },
+      "userdata": {}
+    },
+    "a1370739-c760-11ee-b42f-55a6673dbaf3": {
+      "source": "a1370730-c760-11ee-b42f-55a6673dbaf3",
+      "target": "a1370738-c760-11ee-b42f-55a6673dbaf3",
+      "metadata": {
+        "created": "2024-02-09T15:33:53.059Z",
+        "updated": "2024-02-09T15:33:53.059Z"
+      },
+      "userdata": {}
+    },
+    "a137073a-c760-11ee-b42f-55a6673dbaf3": {
+      "source": "a1370738-c760-11ee-b42f-55a6673dbaf3",
+      "target": "a136e020-c760-11ee-b42f-55a6673dbaf3",
+      "metadata": {
+        "created": "2024-02-09T15:33:53.059Z",
+        "updated": "2024-02-09T15:33:53.059Z"
+      },
+      "userdata": {}
+    },
+    "a137073c-c760-11ee-b42f-55a6673dbaf3": {
+      "source": "a1370731-c760-11ee-b42f-55a6673dbaf3",
+      "target": "a137073b-c760-11ee-b42f-55a6673dbaf3",
+      "metadata": {
+        "created": "2024-02-09T15:33:53.059Z",
+        "updated": "2024-02-09T15:33:53.059Z"
+      },
+      "userdata": {}
+    },
+    "a137073d-c760-11ee-b42f-55a6673dbaf3": {
+      "source": "a137073b-c760-11ee-b42f-55a6673dbaf3",
+      "target": "a136e020-c760-11ee-b42f-55a6673dbaf3",
+      "metadata": {
+        "created": "2024-02-09T15:33:53.059Z",
+        "updated": "2024-02-09T15:33:53.059Z"
+      },
+      "userdata": {}
+    },
+    "a137073f-c760-11ee-b42f-55a6673dbaf3": {
+      "source": "a1370732-c760-11ee-b42f-55a6673dbaf3",
+      "target": "a137073e-c760-11ee-b42f-55a6673dbaf3",
+      "metadata": {
+        "created": "2024-02-09T15:33:53.059Z",
+        "updated": "2024-02-09T15:33:53.059Z"
+      },
+      "userdata": {}
+    },
+    "a1370740-c760-11ee-b42f-55a6673dbaf3": {
+      "source": "a137073e-c760-11ee-b42f-55a6673dbaf3",
+      "target": "a1370730-c760-11ee-b42f-55a6673dbaf3",
+      "metadata": {
+        "created": "2024-02-09T15:33:53.059Z",
+        "updated": "2024-02-09T15:33:53.059Z"
+      },
+      "userdata": {}
+    },
+    "a1370742-c760-11ee-b42f-55a6673dbaf3": {
+      "source": "a1370733-c760-11ee-b42f-55a6673dbaf3",
+      "target": "a1370741-c760-11ee-b42f-55a6673dbaf3",
+      "metadata": {
+        "created": "2024-02-09T15:33:53.059Z",
+        "updated": "2024-02-09T15:33:53.059Z"
+      },
+      "userdata": {}
+    },
+    "a1370743-c760-11ee-b42f-55a6673dbaf3": {
+      "source": "a1370741-c760-11ee-b42f-55a6673dbaf3",
+      "target": "a1370730-c760-11ee-b42f-55a6673dbaf3",
+      "metadata": {
+        "created": "2024-02-09T15:33:53.059Z",
+        "updated": "2024-02-09T15:33:53.059Z"
+      },
+      "userdata": {}
+    },
+    "a1370745-c760-11ee-b42f-55a6673dbaf3": {
+      "source": "a1370734-c760-11ee-b42f-55a6673dbaf3",
+      "target": "a1370744-c760-11ee-b42f-55a6673dbaf3",
+      "metadata": {
+        "created": "2024-02-09T15:33:53.059Z",
+        "updated": "2024-02-09T15:33:53.059Z"
+      },
+      "userdata": {}
+    },
+    "a1370746-c760-11ee-b42f-55a6673dbaf3": {
+      "source": "a1370744-c760-11ee-b42f-55a6673dbaf3",
+      "target": "a1370733-c760-11ee-b42f-55a6673dbaf3",
+      "metadata": {
+        "created": "2024-02-09T15:33:53.059Z",
+        "updated": "2024-02-09T15:33:53.059Z"
+      },
+      "userdata": {}
+    },
+    "388f88f1-c761-11ee-b42f-55a6673dbaf3": {
+      "source": "36f69970-c761-11ee-b42f-55a6673dbaf3",
+      "target": "388f88f0-c761-11ee-b42f-55a6673dbaf3",
+      "metadata": {
+        "created": "2024-02-09T15:38:06.975Z",
+        "updated": "2024-02-09T15:38:06.975Z"
+      },
+      "userdata": {}
+    },
+    "388f88f2-c761-11ee-b42f-55a6673dbaf3": {
+      "source": "388f88f0-c761-11ee-b42f-55a6673dbaf3",
+      "target": "31be1500-c761-11ee-b42f-55a6673dbaf3",
+      "metadata": {
+        "created": "2024-02-09T15:38:06.975Z",
+        "updated": "2024-02-09T15:38:06.975Z"
+      },
+      "userdata": {}
+    },
+    "795e1c71-c761-11ee-b42f-55a6673dbaf3": {
+      "source": "31be1500-c761-11ee-b42f-55a6673dbaf3",
+      "target": "795e1c70-c761-11ee-b42f-55a6673dbaf3",
+      "metadata": {
+        "created": "2024-02-09T15:39:55.703Z",
+        "updated": "2024-02-09T15:39:55.703Z"
+      },
+      "userdata": {}
+    },
+    "795e1c72-c761-11ee-b42f-55a6673dbaf3": {
+      "source": "795e1c70-c761-11ee-b42f-55a6673dbaf3",
+      "target": "a1370733-c760-11ee-b42f-55a6673dbaf3",
+      "metadata": {
+        "created": "2024-02-09T15:39:55.703Z",
+        "updated": "2024-02-09T15:39:55.703Z"
+      },
+      "userdata": {}
+    },
+    "923b50a0-c761-11ee-b42f-55a6673dbaf3": {
+      "source": "31be1500-c761-11ee-b42f-55a6673dbaf3",
+      "target": "923b2990-c761-11ee-b42f-55a6673dbaf3",
+      "metadata": {
+        "created": "2024-02-09T15:40:37.418Z",
+        "updated": "2024-02-09T15:40:37.418Z"
+      },
+      "userdata": {}
+    },
+    "923b50a1-c761-11ee-b42f-55a6673dbaf3": {
+      "source": "923b2990-c761-11ee-b42f-55a6673dbaf3",
+      "target": "a1370730-c760-11ee-b42f-55a6673dbaf3",
+      "metadata": {
+        "created": "2024-02-09T15:40:37.418Z",
+        "updated": "2024-02-09T15:40:37.418Z"
+      },
+      "userdata": {}
+    },
+    "d3d99030-c761-11ee-b42f-55a6673dbaf3": {
+      "source": "a1370733-c760-11ee-b42f-55a6673dbaf3",
+      "target": "d3d96920-c761-11ee-b42f-55a6673dbaf3",
+      "metadata": {
+        "created": "2024-02-09T15:42:27.507Z",
+        "updated": "2024-02-09T15:42:27.507Z"
+      },
+      "userdata": {}
+    },
+    "d3d99031-c761-11ee-b42f-55a6673dbaf3": {
+      "source": "d3d96920-c761-11ee-b42f-55a6673dbaf3",
+      "target": "a1370730-c760-11ee-b42f-55a6673dbaf3",
+      "metadata": {
+        "created": "2024-02-09T15:42:27.507Z",
+        "updated": "2024-02-09T15:42:27.507Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "642": {
+      "text": "Britain will not seek further talks with the European Union if parliament rejects the exit deal it reaches, the British government said in a statement, as ministers resisted pressure to give politicians more say on the terms of the final agreement. The statement, which echoes British Prime Minister Theresa May's stance that \"no deal is better than a bad deal,\" came as parliament debated a law that would give her the power to begin exit negotiations with the EU. Last month, Mrs May promised to ask parliament to approve the final exit terms, but said that even if it rejected the deal, Britain would leave the EU, raising concern among some politicians that their vote would be purely symbolic. Asked whether the government would go back to the negotiating table if parliament rejected the deal, junior Brexit minister David Jones said: \"I can't think of a greater signal of weakness than for this House to send the government back to the European Union and to say we want to negotiate further ... therefore I can't agree with it.\" Mr Jones also said that if Britain and the EU could not come to a Brexit deal within the two-year timeframe allowed under Article 50 of the EU's Lisbon Treaty, Britain would ultimately fall back on World Trade Organisation (WTO) terms of trade. Opposition politicians want to use the bill going through parliament as a way to attach extra conditions to Mrs May's plan to trigger Brexit talks by 31 March. The most contentious focus on calls for a \"meaningful vote\" on the final exit deal and could see an embarrassing defeat for the government if enough members of Mrs May's Conservative Party defy their leader's wishes. That vote will take place later today. Seeking to allay any such rebellion, Mr-Jones said that parliament would be given a vote on the final deal before the European Parliament debates and votes on the agreement. MPs reacted angrily when it emerged they would not be able to force the government back to the negotiating table. \"MPs must not be duped by the government's attempt to quell unrest on their back benches,\" said one Green Party MP. \"The vote they're offering - which will give MPs a choice between an extreme Brexit and falling off a cliff edge into WTO trade rules - isn't a concession, it's an ultimatum.\"",
+      "title": "No renegotiation on Brexit deal if rejected by MPs",
+      "source": "http://www.rte.ie/news/2017/0207/850832-brexit-david-jones/",
+      "timestamp": "2017-02-07T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.154Z",
+        "updated": "2024-02-09T13:09:16.154Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "a136e020-c760-11ee-b42f-55a6673dbaf3",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.154Z",
+    "updated": "2024-02-09T15:42:50.899Z"
+  }
+}

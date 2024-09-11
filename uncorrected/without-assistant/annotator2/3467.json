@@ -1,0 +1,391 @@
+{
+  "nodes": {
+    "5ad4e030-c8cf-11ee-b0b9-17011e92baf6": {
+      "atom": {
+        "text": "A majority of EU countries voted on Monday against allowing two new genetically modified crops to be grown in Europe, batting the contentious decision on cultivation of Genetically Modified Organisms (GMO) in Europe back to the EU executive.",
+        "reference": {
+          "resource": "3467",
+          "offset": 0,
+          "text": "A majority of EU countries voted on Monday against allowing two new genetically modified crops to be grown in Europe, batting the contentious decision on cultivation of Genetically Modified Organisms (GMO) in Europe back to the EU executive."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T11:19:00.275Z",
+        "updated": "2024-02-11T11:19:00.275Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0000824343078,
+            "y": 12
+          }
+        }
+      }
+    },
+    "70a60ce0-c8cf-11ee-b0b9-17011e92baf6": {
+      "atom": {
+        "text": "kill insects by producing their own pesticide and are also resistant to a particular herbicide",
+        "reference": {
+          "resource": "3467",
+          "offset": 359,
+          "text": "kill insects by producing their own pesticide and are also resistant to a particular herbicide"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T11:19:36.878Z",
+        "updated": "2024-02-11T11:19:36.878Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0007015164304,
+            "y": 374
+          }
+        }
+      }
+    },
+    "72149100-c8cf-11ee-b0b9-17011e92baf6": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T11:19:39.280Z",
+        "updated": "2024-02-11T11:19:39.280Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.0000659140005,
+            "y": 274
+          }
+        }
+      }
+    },
+    "597a9570-c8d1-11ee-b0b9-17011e92baf6": {
+      "atom": {
+        "text": "the votes against were not decisive in blocking their introduction because the opposition did not represent a \"qualified majority\"",
+        "reference": {
+          "resource": "3467",
+          "offset": 464,
+          "text": "the votes against were not decisive in blocking their introduction because the opposition did not represent a \"qualified majority\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T11:33:16.999Z",
+        "updated": "2024-02-11T11:33:16.999Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0002247565513,
+            "y": 398
+          }
+        }
+      }
+    },
+    "5b52b0d0-c8d1-11ee-b0b9-17011e92baf6": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T11:33:20.094Z",
+        "updated": "2024-02-11T11:33:20.094Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0004201857163,
+            "y": 274
+          }
+        }
+      }
+    },
+    "9ba20230-c8d1-11ee-b0b9-17011e92baf6": {
+      "atom": {
+        "text": "More countries voted against than in favor, but again the vote was not considered decisive.",
+        "reference": {
+          "resource": "3467",
+          "offset": 877,
+          "text": "More countries voted against than in favor, but again the vote was not considered decisive."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T11:35:07.987Z",
+        "updated": "2024-02-11T11:35:07.987Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0009338739799,
+            "y": 688
+          }
+        }
+      }
+    },
+    "9d901690-c8d1-11ee-b0b9-17011e92baf6": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T11:35:11.225Z",
+        "updated": "2024-02-11T11:35:11.225Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0009914113848,
+            "y": 588
+          }
+        }
+      }
+    },
+    "c2587080-c8d1-11ee-b0b9-17011e92baf6": {
+      "atom": {
+        "text": "He demanded a EU-wide ban of genetically modified corn instead of a \"European rag rug\"",
+        "reference": {
+          "resource": "3467",
+          "offset": 1753,
+          "text": "He demanded a EU-wide ban of genetically modified corn instead of a \"European rag rug\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T11:36:12.936Z",
+        "updated": "2024-02-11T11:36:12.936Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.0000471768524,
+            "y": 374
+          }
+        }
+      }
+    },
+    "c84c0790-c8d1-11ee-b0b9-17011e92baf6": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T11:36:22.921Z",
+        "updated": "2024-02-11T11:36:22.921Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0007654711242,
+            "y": 274
+          }
+        }
+      }
+    },
+    "eed8a6c0-c8d1-11ee-b0b9-17011e92baf6": {
+      "atom": {
+        "text": "While approved for human consumption, in practice the crops are used as animal feed.",
+        "reference": {
+          "resource": "3467",
+          "offset": 2347,
+          "text": "While approved for human consumption, in practice the crops are used as animal feed."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T11:37:27.596Z",
+        "updated": "2024-02-11T11:37:27.596Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1412.0007180076204,
+            "y": 374
+          }
+        }
+      }
+    },
+    "f1068340-c8d1-11ee-b0b9-17011e92baf6": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T11:37:31.252Z",
+        "updated": "2024-02-11T11:37:31.252Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1512.0006626233894,
+            "y": 274
+          }
+        }
+      }
+    },
+    "04ae4040-c8d2-11ee-b0b9-17011e92baf6": {
+      "atom": {
+        "text": "\"Instead of backing risky products peddled by multinational corporations, the Commission should support ecological farming and the solutions it provides for rural areas, farmers and the environment.\"",
+        "reference": {
+          "resource": "3467",
+          "offset": 2783,
+          "text": "\"Instead of backing risky products peddled by multinational corporations, the Commission should support ecological farming and the solutions it provides for rural areas, farmers and the environment.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T11:38:04.228Z",
+        "updated": "2024-02-11T11:38:04.228Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000226572172917,
+            "y": 374
+          }
+        }
+      }
+    },
+    "064cae00-c8d2-11ee-b0b9-17011e92baf6": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T11:38:06.944Z",
+        "updated": "2024-02-11T11:38:06.944Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00059479749757,
+            "y": 274
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "72149101-c8cf-11ee-b0b9-17011e92baf6": {
+      "source": "70a60ce0-c8cf-11ee-b0b9-17011e92baf6",
+      "target": "72149100-c8cf-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T11:19:39.280Z",
+        "updated": "2024-02-11T11:19:39.280Z"
+      },
+      "userdata": {}
+    },
+    "72149102-c8cf-11ee-b0b9-17011e92baf6": {
+      "source": "72149100-c8cf-11ee-b0b9-17011e92baf6",
+      "target": "5ad4e030-c8cf-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T11:19:39.280Z",
+        "updated": "2024-02-11T11:19:39.280Z"
+      },
+      "userdata": {}
+    },
+    "5b52d7e0-c8d1-11ee-b0b9-17011e92baf6": {
+      "source": "597a9570-c8d1-11ee-b0b9-17011e92baf6",
+      "target": "5b52b0d0-c8d1-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T11:33:20.094Z",
+        "updated": "2024-02-11T11:33:20.094Z"
+      },
+      "userdata": {}
+    },
+    "5b52d7e1-c8d1-11ee-b0b9-17011e92baf6": {
+      "source": "5b52b0d0-c8d1-11ee-b0b9-17011e92baf6",
+      "target": "5ad4e030-c8cf-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T11:33:20.094Z",
+        "updated": "2024-02-11T11:33:20.094Z"
+      },
+      "userdata": {}
+    },
+    "9d901691-c8d1-11ee-b0b9-17011e92baf6": {
+      "source": "9ba20230-c8d1-11ee-b0b9-17011e92baf6",
+      "target": "9d901690-c8d1-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T11:35:11.225Z",
+        "updated": "2024-02-11T11:35:11.225Z"
+      },
+      "userdata": {}
+    },
+    "9d901692-c8d1-11ee-b0b9-17011e92baf6": {
+      "source": "9d901690-c8d1-11ee-b0b9-17011e92baf6",
+      "target": "597a9570-c8d1-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T11:35:11.225Z",
+        "updated": "2024-02-11T11:35:11.225Z"
+      },
+      "userdata": {}
+    },
+    "c84c0791-c8d1-11ee-b0b9-17011e92baf6": {
+      "source": "c2587080-c8d1-11ee-b0b9-17011e92baf6",
+      "target": "c84c0790-c8d1-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T11:36:22.921Z",
+        "updated": "2024-02-11T11:36:22.921Z"
+      },
+      "userdata": {}
+    },
+    "c84c0792-c8d1-11ee-b0b9-17011e92baf6": {
+      "source": "c84c0790-c8d1-11ee-b0b9-17011e92baf6",
+      "target": "5ad4e030-c8cf-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T11:36:22.921Z",
+        "updated": "2024-02-11T11:36:22.921Z"
+      },
+      "userdata": {}
+    },
+    "f1068341-c8d1-11ee-b0b9-17011e92baf6": {
+      "source": "eed8a6c0-c8d1-11ee-b0b9-17011e92baf6",
+      "target": "f1068340-c8d1-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T11:37:31.252Z",
+        "updated": "2024-02-11T11:37:31.252Z"
+      },
+      "userdata": {}
+    },
+    "f1068342-c8d1-11ee-b0b9-17011e92baf6": {
+      "source": "f1068340-c8d1-11ee-b0b9-17011e92baf6",
+      "target": "5ad4e030-c8cf-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T11:37:31.252Z",
+        "updated": "2024-02-11T11:37:31.252Z"
+      },
+      "userdata": {}
+    },
+    "064cae01-c8d2-11ee-b0b9-17011e92baf6": {
+      "source": "04ae4040-c8d2-11ee-b0b9-17011e92baf6",
+      "target": "064cae00-c8d2-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T11:38:06.944Z",
+        "updated": "2024-02-11T11:38:06.944Z"
+      },
+      "userdata": {}
+    },
+    "064cae02-c8d2-11ee-b0b9-17011e92baf6": {
+      "source": "064cae00-c8d2-11ee-b0b9-17011e92baf6",
+      "target": "5ad4e030-c8cf-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T11:38:06.944Z",
+        "updated": "2024-02-11T11:38:06.944Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "3467": {
+      "text": "A majority of EU countries voted on Monday against allowing two new genetically modified crops to be grown in Europe, batting the contentious decision on cultivation of Genetically Modified Organisms (GMO) in Europe back to the EU executive. EU governments were asked to vote on the future of two grades of GM maize, Pioneer's 1507 and Syngenta's Bt11, which kill insects by producing their own pesticide and are also resistant to a particular herbicide. However, the votes against were not decisive in blocking their introduction because the opposition did not represent a \"qualified majority\" - also including countries that make up at least 65 percent of the EU population. The governments were also asked to determine whether to extend authorisation for Monsanto's MON810, an insect-resistant maize that is grown mainly in Spain, but banned in a number of other countries. More countries voted against than in favor, but again the vote was not considered decisive. The European Commission said the outcome counted as a \"no opinion\", meaning it would have to step in to take the decisions for GMOs that had received favourable opinions from the European Food Safety Authority. It added that 17 EU countries had used an opt-out clause, with a further two for part of their territories. \"In practice this means that the three GMOs, if and once authorised at EU level, will not in any case be cultivated on the territories benefiting from the opt out,\" Commission spokesman Enrico Brivio said. Criticism from politicians and activists The German federal government's decision to abstain from voting sparked criticism in Germany.-\"Its repeated abstention means passing the buck,\" said Green Party politician and member of German parliament Harald Ebner. He demanded a EU-wide ban of genetically modified corn instead of a \"European rag rug\". Genetically modified rice in a laboratory Mute Schimpf, food campaigner for Friends of the Earth Europe, said the decision now rested with European Commission President Jean-Claude Juncker. \"He can put himself on the side of the majority of countries, citizens and farmers who do not want genetically modified crops, or he can back the mega-corporations behind the industrialisation of our countryside,\" she said. At the end of last year, 55 GM crops were approved for import as feed and food into Europe. While approved for human consumption, in practice the crops are used as animal feed. Repeated EU scientific assessments have concluded that GMO crops are as safe for humans and the environment as their conventional counterparts, but consumer opposition to the technology in Europe remains strong. \"A majority of governments, parliamentarians and Europeans oppose GM crops,\" said Greenpeace EU food policy director Franziska Achterberg. \"Instead of backing risky products peddled by multinational corporations, the Commission should support ecological farming and the solutions it provides for rural areas, farmers and the environment.\" MON810 is the only GM crop grown in Europe. A potato developed by BASF was granted approval in 2010, but the German company withdrew it in 2012. bb/bea (reuters, afp, greenpeace)",
+      "title": "EU nations vote against GM crops",
+      "source": "http://www.dw.com/en/eu-nations-vote-against-gm-crops/a-38150180?maca=en-rss-en-all-1573-rdf",
+      "timestamp": "2017-03-27T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-08T09:23:32.603Z",
+        "updated": "2024-02-08T09:23:32.603Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "5ad4e030-c8cf-11ee-b0b9-17011e92baf6",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-08T09:23:32.603Z",
+    "updated": "2024-02-11T11:38:36.484Z"
+  }
+}

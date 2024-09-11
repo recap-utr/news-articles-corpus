@@ -1,0 +1,220 @@
+{
+  "nodes": {
+    "f66f6580-c66b-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "The iconic pink cherry blossoms lining the Tidal Basin in Washington, D.C. are expected to make their appearance historically early this year.",
+        "reference": {
+          "resource": "1763",
+          "offset": 0,
+          "text": "The iconic pink cherry blossoms lining the Tidal Basin in Washington, D.C. are expected to make their appearance historically early this year."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T10:22:29.336Z",
+        "updated": "2024-02-08T10:22:29.336Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 62.00015377076799,
+            "y": 12
+          }
+        }
+      }
+    },
+    "1541de70-c66c-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "The Yoshino cherry trees are predicted to reach peak bloom \"?when at least 70 percent of the blossoms are open \"?March 14 to 17. ",
+        "reference": {
+          "resource": "1763",
+          "offset": 143,
+          "text": "The Yoshino cherry trees are predicted to reach peak bloom \"?when at least 70 percent of the blossoms are open \"?March 14 to 17. "
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T10:23:21.047Z",
+        "updated": "2024-02-08T10:23:21.047Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 380.3119756416536,
+            "y": 416.9537773819146
+          }
+        }
+      }
+    },
+    "181e2360-c66c-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T10:23:25.846Z",
+        "updated": "2024-02-08T10:23:25.846Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 480.31235921633174,
+            "y": 207.0835222409723
+          }
+        }
+      }
+    },
+    "2839d370-c66c-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "According to the National Parks Service, this could be the earliest peak on record.",
+        "reference": {
+          "resource": "1763",
+          "offset": 272,
+          "text": "According to the National Parks Service, this could be the earliest peak on record."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T10:23:52.871Z",
+        "updated": "2024-02-08T10:23:52.871Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -195.9686562190317,
+            "y": 358.09471212783836
+          }
+        }
+      }
+    },
+    "2a8e71d0-c66c-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T10:23:56.781Z",
+        "updated": "2024-02-08T10:23:56.781Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -82.88807804600276,
+            "y": 201.85160532949885
+          }
+        }
+      }
+    },
+    "6c0ca640-c66c-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "Because of the early bloom period, the National Cherry Blossom Festival will kick off on March 15 this year, five days earlier than previously scheduled.",
+        "reference": {
+          "resource": "1763",
+          "offset": 356,
+          "text": "Because of the early bloom period, the National Cherry Blossom Festival will kick off on March 15 this year, five days earlier than previously scheduled."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T10:25:46.660Z",
+        "updated": "2024-02-08T10:25:46.660Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 61.203319456256054,
+            "y": 473.960963634644
+          }
+        }
+      }
+    },
+    "6e525080-c66c-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T10:25:50.472Z",
+        "updated": "2024-02-08T10:25:50.472Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 158.72893402253487,
+            "y": 235.32565266398774
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "181e2361-c66c-11ee-bb24-29eae2ae94d0": {
+      "source": "1541de70-c66c-11ee-bb24-29eae2ae94d0",
+      "target": "181e2360-c66c-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:23:25.846Z",
+        "updated": "2024-02-08T10:23:25.846Z"
+      },
+      "userdata": {}
+    },
+    "181e4a70-c66c-11ee-bb24-29eae2ae94d0": {
+      "source": "181e2360-c66c-11ee-bb24-29eae2ae94d0",
+      "target": "f66f6580-c66b-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:23:25.847Z",
+        "updated": "2024-02-08T10:23:25.847Z"
+      },
+      "userdata": {}
+    },
+    "2a8e98e0-c66c-11ee-bb24-29eae2ae94d0": {
+      "source": "2839d370-c66c-11ee-bb24-29eae2ae94d0",
+      "target": "2a8e71d0-c66c-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:23:56.782Z",
+        "updated": "2024-02-08T10:23:56.782Z"
+      },
+      "userdata": {}
+    },
+    "2a8e98e1-c66c-11ee-bb24-29eae2ae94d0": {
+      "source": "2a8e71d0-c66c-11ee-bb24-29eae2ae94d0",
+      "target": "f66f6580-c66b-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:23:56.782Z",
+        "updated": "2024-02-08T10:23:56.782Z"
+      },
+      "userdata": {}
+    },
+    "6e525081-c66c-11ee-bb24-29eae2ae94d0": {
+      "source": "6c0ca640-c66c-11ee-bb24-29eae2ae94d0",
+      "target": "6e525080-c66c-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:25:50.472Z",
+        "updated": "2024-02-08T10:25:50.472Z"
+      },
+      "userdata": {}
+    },
+    "6e525082-c66c-11ee-bb24-29eae2ae94d0": {
+      "source": "6e525080-c66c-11ee-bb24-29eae2ae94d0",
+      "target": "f66f6580-c66b-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:25:50.472Z",
+        "updated": "2024-02-08T10:25:50.472Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "1763": {
+      "text": "The iconic pink cherry blossoms lining the Tidal Basin in Washington, D.C. are expected to make their appearance historically early this year. The Yoshino cherry trees are predicted to reach peak bloom \"?when at least 70 percent of the blossoms are open \"?March 14 to 17. According to the National Parks Service, this could be the earliest peak on record. Because of the early bloom period, the National Cherry Blossom Festival will kick off on March 15 this year, five days earlier than previously scheduled.   The Tidal Basin cherry trees were a gift from Japan to the U.S., and the National Cherry Blossom Festival commemorates the friendship between the two nations.   \"This National Cherry Blossom Festival is the biggest, greatest, most fun celebration of U.S.-Japan friendship anywhere in the world,\" Japanese Ambassador Kenichiro Sasae said at a press conference this morning. \"I don't need to say, 'Make this cherry blossom festival great again,' because it's already great.\"   The 2017 event marks the 90th anniversary of the first festival and the 105th anniversary of Japan's tree gift. The monthlong celebration features parties, cultural events, a parade, a kite festival and fireworks.",
+      "title": "Washington's cherry trees predicted to bloom historically early",
+      "source": "http://abcnews.go.com/US/national-cherry-blossoms-predicted-bloom-historically-early/story?id=45831987",
+      "timestamp": "2024-02-08T10:20:57.849Z",
+      "metadata": {
+        "created": "2024-02-05T09:49:22.064Z",
+        "updated": "2024-02-05T09:49:22.064Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "f66f6580-c66b-11ee-bb24-29eae2ae94d0",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-05T09:49:22.064Z",
+    "updated": "2024-02-08T10:26:57.690Z"
+  }
+}

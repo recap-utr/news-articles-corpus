@@ -1,0 +1,413 @@
+{
+  "nodes": {
+    "a0e58550-c8e0-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "The Grand National Assembly would lose many of its powers; the president could then govern the country without the consent of parliament and by decree only",
+        "reference": {
+          "resource": "2915",
+          "text": "The Grand National Assembly would lose many of its powers; the president could then govern the country without the consent of parliament and by decree only"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:22:39.269Z",
+        "updated": "2024-02-11T13:22:39.269Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Describes the shift in power dynamics that would occur if the constitutional change is approved."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 732.0009552760329,
+            "y": 212
+          }
+        }
+      }
+    },
+    "a0e58554-c8e0-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Kurds could tip the scales",
+        "reference": {
+          "resource": "2915",
+          "text": "Kurds could tip the scales"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:22:39.269Z",
+        "updated": "2024-02-11T13:22:39.269Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Further emphasizes the pivotal role of Kurdish voters in the referendum.",
+          "mcConfig": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "mcExplanation": "Chosen because it succinctly captures the central point of the article that Kurdish voters' decisions will have a significant impact on the outcome of the referendum."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 799.2008699162841,
+            "y": 12
+          }
+        }
+      }
+    },
+    "a0e5ac60-c8e0-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:22:39.270Z",
+        "updated": "2024-02-11T13:22:39.270Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The change in government structure could be of particular concern to Kurdish voters, making their votes even more decisive."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 832.0003244966833,
+            "y": 112
+          }
+        }
+      }
+    },
+    "a0e58553-c8e0-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Ultimately, the Kurdish areas in southeastern Anatolia are likely to be decisive",
+        "reference": {
+          "resource": "2915",
+          "offset": 618,
+          "text": "Ultimately, the Kurdish areas in southeastern Anatolia are likely to be decisive"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:22:39.269Z",
+        "updated": "2024-02-11T13:22:39.269Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Argues that Kurdish votes are critical to the referendum's outcome."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1082.0002094214306,
+            "y": 236
+          }
+        }
+      }
+    },
+    "a0e5ac69-c8e0-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:22:39.270Z",
+        "updated": "2024-02-11T13:22:39.270Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The argument builds on the importance of Kurdish votes by stating they could ultimately tip the scales in the referendum."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1182.0007925475302,
+            "y": 112
+          }
+        }
+      }
+    },
+    "a0e58558-c8e0-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Most Kurds would make their decision on the election with a view to President Erdogan",
+        "reference": {
+          "resource": "2915",
+          "offset": 2645,
+          "text": "Most Kurds would make their decision on the election with a view to President Erdogan"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:22:39.269Z",
+        "updated": "2024-02-11T13:22:39.269Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Highlights the influence of opinions about Erdogan on Kurdish voters' decisions."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 382.000519614363,
+            "y": 244
+          }
+        }
+      }
+    },
+    "a0e5ac72-c8e0-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:22:39.270Z",
+        "updated": "2024-02-11T13:22:39.270Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Kurdish decisions being influenced by views on Erdogan supports the argument about the crucial role of Kurdish votes."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 482.0007550012349,
+            "y": 112
+          }
+        }
+      }
+    },
+    "a0e58559-c8e0-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "40 percent of the Kurds leaning toward a \"no\" vote are against a one-man regime",
+        "reference": {
+          "resource": "2915",
+          "text": "40 percent of the Kurds leaning toward a \"no\" vote are against a one-man regime"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:22:39.269Z",
+        "updated": "2024-02-11T13:22:39.269Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Explains one of the reasons why certain Kurds are likely to vote \"no\"."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 682.0004871369865,
+            "y": 502
+          }
+        }
+      }
+    },
+    "a0e5ac75-c8e0-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:22:39.270Z",
+        "updated": "2024-02-11T13:22:39.270Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The specific reason provided by 40 percent of Kurds leans towards a general attitude towards Erdogan influencing Kurdish decisions."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 782.0002241105459,
+            "y": 402
+          }
+        }
+      }
+    },
+    "a0e5855a-c8e0-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "27 percent who advocate \"yes\" justified their choice by simply saying that they like Erdogan",
+        "reference": {
+          "resource": "2915",
+          "offset": 2825,
+          "text": "27 percent who advocate \"yes\" justified their choice by simply saying that they like Erdogan"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:22:39.269Z",
+        "updated": "2024-02-11T13:22:39.269Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Provides a reason for some Kurds' support for the referendum."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 332.0007604545985,
+            "y": 502
+          }
+        }
+      }
+    },
+    "a0e5ac78-c8e0-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:22:39.270Z",
+        "updated": "2024-02-11T13:22:39.270Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The reason provided by 27 percent of Kurds supports the larger argument that views on Erdogan influence Kurdish voting decisions."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 432.00030227824607,
+            "y": 402
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "a0e5ac61-c8e0-11ee-a7b6-0184e7d3dd10": {
+      "source": "a0e58550-c8e0-11ee-a7b6-0184e7d3dd10",
+      "target": "a0e5ac60-c8e0-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:22:39.270Z",
+        "updated": "2024-02-11T13:22:39.270Z"
+      },
+      "userdata": {}
+    },
+    "a0e5ac62-c8e0-11ee-a7b6-0184e7d3dd10": {
+      "source": "a0e5ac60-c8e0-11ee-a7b6-0184e7d3dd10",
+      "target": "a0e58554-c8e0-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:22:39.270Z",
+        "updated": "2024-02-11T13:22:39.270Z"
+      },
+      "userdata": {}
+    },
+    "a0e5ac6a-c8e0-11ee-a7b6-0184e7d3dd10": {
+      "source": "a0e58553-c8e0-11ee-a7b6-0184e7d3dd10",
+      "target": "a0e5ac69-c8e0-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:22:39.270Z",
+        "updated": "2024-02-11T13:22:39.270Z"
+      },
+      "userdata": {}
+    },
+    "a0e5ac6b-c8e0-11ee-a7b6-0184e7d3dd10": {
+      "source": "a0e5ac69-c8e0-11ee-a7b6-0184e7d3dd10",
+      "target": "a0e58554-c8e0-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:22:39.270Z",
+        "updated": "2024-02-11T13:22:39.270Z"
+      },
+      "userdata": {}
+    },
+    "a0e5ac73-c8e0-11ee-a7b6-0184e7d3dd10": {
+      "source": "a0e58558-c8e0-11ee-a7b6-0184e7d3dd10",
+      "target": "a0e5ac72-c8e0-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:22:39.270Z",
+        "updated": "2024-02-11T13:22:39.270Z"
+      },
+      "userdata": {}
+    },
+    "a0e5ac74-c8e0-11ee-a7b6-0184e7d3dd10": {
+      "source": "a0e5ac72-c8e0-11ee-a7b6-0184e7d3dd10",
+      "target": "a0e58554-c8e0-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:22:39.270Z",
+        "updated": "2024-02-11T13:22:39.270Z"
+      },
+      "userdata": {}
+    },
+    "a0e5ac76-c8e0-11ee-a7b6-0184e7d3dd10": {
+      "source": "a0e58559-c8e0-11ee-a7b6-0184e7d3dd10",
+      "target": "a0e5ac75-c8e0-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:22:39.270Z",
+        "updated": "2024-02-11T13:22:39.270Z"
+      },
+      "userdata": {}
+    },
+    "a0e5ac77-c8e0-11ee-a7b6-0184e7d3dd10": {
+      "source": "a0e5ac75-c8e0-11ee-a7b6-0184e7d3dd10",
+      "target": "a0e58558-c8e0-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:22:39.270Z",
+        "updated": "2024-02-11T13:22:39.270Z"
+      },
+      "userdata": {}
+    },
+    "a0e5ac79-c8e0-11ee-a7b6-0184e7d3dd10": {
+      "source": "a0e5855a-c8e0-11ee-a7b6-0184e7d3dd10",
+      "target": "a0e5ac78-c8e0-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:22:39.270Z",
+        "updated": "2024-02-11T13:22:39.270Z"
+      },
+      "userdata": {}
+    },
+    "a0e5ac7a-c8e0-11ee-a7b6-0184e7d3dd10": {
+      "source": "a0e5ac78-c8e0-11ee-a7b6-0184e7d3dd10",
+      "target": "a0e58558-c8e0-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:22:39.270Z",
+        "updated": "2024-02-11T13:22:39.270Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "2915": {
+      "text": "For the seventh time in seven years, Turkish voters are being asked to go to the polls. In the-upcoming April referendum, Turks are to decide on a constitutional change that would introduce a presidential system of government. The Grand National Assembly - Turkey's parliament --would thereby lose many of its powers; the president could then govern the country without the consent of parliament and by decree only. Election results incalculable Opinion polls indicate that it will be a close result, and as such President Recep Tayyip Erdogan and his Islamic-conservative AKP party are still fighting for every vote. Ultimately, the Kurdish areas in southeastern Anatolia are likely to be decisive. However, the election process is particularly difficult to foresee because, alongside the AKP, the pro-Kurdish left-wing opposition party HDP is also very popular and is campaigning for \"no\" in the referendum. Kurds could tip-the scales HDP spokesman Osman Baydemir says Kurdish voters are decisive and that they will mostly vote \"no\" to the proposed change. Memories still run deep of the arrests of HDP deputies, the dismissal of a democratically elected Kurdish mayor, and the bloody fighting in the southeast, he says. HDP spokesperson Osman Baydemir The vote, he believes, is far more than just a constitutional change: It is also a referendum-on the AKP's anti-Kurdish policy. A \"no\" could, according to some people, pave the way for peace. According to a survey conducted by the Center for Political and Social Studies (SAMER) in Diyarbakir, around 57.4 percent of the Kurdish population is leaning toward a \"no\" vote, while around 25.1 percent tends toward \"yes\". However, it-noted that there were many undecided among both the AKP supporters and HDP supporters. Vahap Coskun, a legal scholar at Dicle University, says that about 5-percent of AKP supporters are not yet sure which box to tick. \"This is a big percentage. Moreover, those who vote for the nationalist MHP, who are still a greater electorate than the Kurds, must be convinced.\" AKP relying-on nationalism Despite the crucial role of the Kurds in the referendum, the AKP is not particularly concerned about their votes. In addition, during the referendum campaign, the party is increasingly taking nationalist stances. Vahap Coskun says that the AKP is taking a risk by depending on MHP voters. The current commotion with Europe is a sign, he says, of how much the referendum campaign is aimed at nationalist voters. Send Facebook Twitter Google+ Whatsapp Tumblr linkedin stumble Digg reddit Newsvine Permalink http://dw.com/p/2ZLnr SAMER chairman Yuksel Genc stressed that most Kurds would make their decision on the election with a view to President Erdogan. He said 40-percent of the Kurds leaning toward a \"no\" vote are against a one-man regime. The 27 percent who advocate \"yes\" justified their choice by simply saying that they like Erdogan, according to Genc.",
+      "title": "Kurdish voters still undecided on Turkish referendum",
+      "source": "http://www.dw.com/en/kurdish-voters-still-undecided-on-turkish-referendum/a-38009436?maca=en-rss-en-all-1573-rdf",
+      "timestamp": "2017-03-18T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.227Z",
+        "updated": "2024-02-09T13:09:16.227Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "a0e58554-c8e0-11ee-a7b6-0184e7d3dd10",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.227Z",
+    "updated": "2024-02-11T13:24:38.970Z"
+  }
+}

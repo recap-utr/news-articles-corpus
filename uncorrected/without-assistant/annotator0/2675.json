@@ -1,0 +1,1187 @@
+{
+  "nodes": {
+    "4ab23830-c422-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "He should have been beside himself with joy-at the outcome of the match",
+        "reference": {
+          "resource": "2675",
+          "offset": 222,
+          "text": "He should have been beside himself with joy-at the outcome of the match"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:30:05.619Z",
+        "updated": "2024-02-05T12:30:05.619Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1790.000508643979,
+            "y": 1538
+          }
+        }
+      }
+    },
+    "4ef64a80-c422-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "from his demeanor, he appeared to be in no mood to celebrate",
+        "reference": {
+          "resource": "2675",
+          "offset": 300,
+          "text": "from his demeanor, he appeared to be in no mood to celebrate"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:30:12.776Z",
+        "updated": "2024-02-05T12:30:12.776Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1790.000050432861,
+            "y": 1212
+          }
+        }
+      }
+    },
+    "50a24cd0-c422-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:30:15.582Z",
+        "updated": "2024-02-05T12:30:15.582Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1890.0004952894114,
+            "y": 1390
+          }
+        }
+      }
+    },
+    "5f5fa560-c422-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Hayatou,-one of the last relics of the era of ex-FIFA President-Sepp Blatter, was-facing recurring allegations of corruption, investigations into his rights-marketing activities and a growing clamor against his reelection",
+        "reference": {
+          "resource": "2675",
+          "offset": 368,
+          "text": "Hayatou,-one of the last relics of the era of ex-FIFA President-Sepp Blatter, was-facing recurring allegations of corruption, investigations into his rights-marketing activities and a growing clamor against his reelection"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:30:40.310Z",
+        "updated": "2024-02-05T12:30:40.310Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 740.0009377235502,
+            "y": 1490
+          }
+        }
+      }
+    },
+    "b43e54a0-c422-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Ahmad had-the backing of- Zimbabwean Phillip Chiyangwa, the head of-the Council of Southern Africa Football Associations (Cosafa)",
+        "reference": {
+          "resource": "2675",
+          "offset": 820,
+          "text": "Ahmad had-the backing of- Zimbabwean Phillip Chiyangwa, the head of-the Council of Southern Africa Football Associations (Cosafa)"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:33:02.698Z",
+        "updated": "2024-02-05T12:33:02.698Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2490.0008599555877,
+            "y": 1514
+          }
+        }
+      }
+    },
+    "c02beb60-c422-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": " Chiyangwa-was a longtime parliamentary deputy for Zimbabwe's- ruling ZANU-PF before he switched to a career in football",
+        "reference": {
+          "resource": "2675",
+          "offset": 950,
+          "text": " Chiyangwa-was a longtime parliamentary deputy for Zimbabwe's- ruling ZANU-PF before he switched to a career in football"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:33:22.710Z",
+        "updated": "2024-02-05T12:33:22.710Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2140.0006890045697,
+            "y": 1188
+          }
+        }
+      }
+    },
+    "c2bde0e0-c422-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:33:27.022Z",
+        "updated": "2024-02-05T12:33:27.022Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2240.0001373029695,
+            "y": 1390
+          }
+        }
+      }
+    },
+    "ec40dcb0-c422-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Cosafa has committed itself to voting for Ahmad in Addis Ababa in the election on March 16",
+        "reference": {
+          "resource": "2675",
+          "offset": 1094,
+          "text": "Cosafa has committed itself to voting for Ahmad in Addis Ababa in the election on March 16"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:34:36.667Z",
+        "updated": "2024-02-05T12:34:36.667Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2490.0006813019795,
+            "y": 1200
+          }
+        }
+      }
+    },
+    "eecf4fc0-c422-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:34:40.956Z",
+        "updated": "2024-02-05T12:34:40.956Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2590.0003868419917,
+            "y": 1390
+          }
+        }
+      }
+    },
+    "03d22ff0-c423-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Ahmad Ahmad is a former minister and sports functionary from Madagascar, a calm and collected individual-who is acquiring growing support and not just in Zimbabwe, but across the whole region",
+        "reference": {
+          "resource": "2675",
+          "offset": 1187,
+          "text": "Ahmad Ahmad is a former minister and sports functionary from Madagascar, a calm and collected individual-who is acquiring growing support and not just in Zimbabwe, but across the whole region"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:35:16.207Z",
+        "updated": "2024-02-05T12:35:16.207Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2840.0009339729395,
+            "y": 1164
+          }
+        }
+      }
+    },
+    "07c255e0-c423-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:35:22.814Z",
+        "updated": "2024-02-05T12:35:22.814Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2940.0003345053733,
+            "y": 1390
+          }
+        }
+      }
+    },
+    "31e450d0-c423-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "He is promising transparency in African football and wants to open up the CAF's books to public scrutiny",
+        "reference": {
+          "resource": "2675",
+          "offset": 1619,
+          "text": "He is promising transparency in African football and wants to open up the CAF's books to public scrutiny"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:36:33.501Z",
+        "updated": "2024-02-05T12:36:33.501Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 40.00027354757062,
+            "y": 1200
+          }
+        }
+      }
+    },
+    "33e74cc0-c423-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:36:36.877Z",
+        "updated": "2024-02-05T12:36:36.877Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 140.00041343638813,
+            "y": 1390
+          }
+        }
+      }
+    },
+    "51e7cfb0-c423-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "On one recent occasion,-Chiyangwa-drummed up support for Ahmad while taking a swipe at Hayatou. It was \"a stab in the back disguised as a birthday party,\"-which left Hayatou very annoyed",
+        "reference": {
+          "resource": "2675",
+          "offset": 1898,
+          "text": "On one recent occasion,-Chiyangwa-drummed up support for Ahmad while taking a swipe at Hayatou. It was \"a stab in the back disguised as a birthday party,\"-which left Hayatou very annoyed"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:37:27.211Z",
+        "updated": "2024-02-05T12:37:27.211Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1790.0007260299135,
+            "y": 838
+          }
+        }
+      }
+    },
+    "5422f2a0-c423-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:37:30.954Z",
+        "updated": "2024-02-05T12:37:30.954Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1890.0009787899762,
+            "y": 1052
+          }
+        }
+      }
+    },
+    "620bbd20-c423-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Chiyangwa had invited numerous African association heads to the-party. It was nothing but a promotional campaign for the CAF candidate from Madasgascar -Hayatou wasn't invited",
+        "reference": {
+          "resource": "2675",
+          "offset": 2107,
+          "text": "Chiyangwa had invited numerous African association heads to the-party. It was nothing but a promotional campaign for the CAF candidate from Madasgascar. The guests were influential football functionaries and included the head of FIFA, Gianni Infantino.-Hayatou wasn't invited"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:37:54.290Z",
+        "updated": "2024-02-05T12:37:54.290Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1615.0008346855898,
+            "y": 536
+          }
+        }
+      }
+    },
+    "67178c40-c423-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:38:02.757Z",
+        "updated": "2024-02-05T12:38:02.757Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1715.0004359174034,
+            "y": 738
+          }
+        }
+      }
+    },
+    "860618b0-c423-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Hayatou's influence appeared-to be waning, he used to be able to count-on the support of the heads of the African national football associations",
+        "reference": {
+          "resource": "2675",
+          "offset": 2401,
+          "text": "Hayatou's influence appeared-to be waning. Now aged 70, he used to be able to count-on the support of the heads of the African national football associations"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:38:54.651Z",
+        "updated": "2024-02-05T12:38:54.651Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1965.0002597650775,
+            "y": 548
+          }
+        }
+      }
+    },
+    "8b834740-c423-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:39:03.860Z",
+        "updated": "2024-02-05T12:39:03.860Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2065.000101079073,
+            "y": 738
+          }
+        }
+      }
+    },
+    "5b831c90-c424-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Many sports functionaries believed that Hayatou was-no longer up-to the job",
+        "reference": {
+          "resource": "2675",
+          "offset": 2651,
+          "text": "Many sports functionaries believed that Hayatou was-no longer up-to the job"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:44:52.825Z",
+        "updated": "2024-02-05T12:44:52.825Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1790.0002603273542,
+            "y": 270
+          }
+        }
+      }
+    },
+    "5ec83570-c424-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:44:58.311Z",
+        "updated": "2024-02-05T12:44:58.311Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1890.0009486248568,
+            "y": 424
+          }
+        }
+      }
+    },
+    "6a5339d0-c424-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "he was-an old man who no longer listened-to other people",
+        "reference": {
+          "resource": "2675",
+          "offset": 2774,
+          "text": "he was-an old man who no longer listened-to other people"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:45:17.677Z",
+        "updated": "2024-02-05T12:45:17.677Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1790.0005681907792,
+            "y": 40
+          }
+        }
+      }
+    },
+    "6d36d1c0-c424-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:45:22.525Z",
+        "updated": "2024-02-05T12:45:22.525Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1890.0001878232147,
+            "y": 158
+          }
+        }
+      }
+    },
+    "87df2900-c424-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "There was always the rule that a candidate for the post of CAF president should be under-70. But shortly before Hayatou-turned 70, the rules were changed so he could run again",
+        "reference": {
+          "resource": "2675",
+          "offset": 3004,
+          "text": "There was always the rule that a candidate for the post of CAF president should be under-70. But shortly before Hayatou-turned 70, the rules were changed so he could run again"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:46:07.248Z",
+        "updated": "2024-02-05T12:46:07.248Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 390.0002862231663,
+            "y": 1164
+          }
+        }
+      }
+    },
+    "8b008d40-c424-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:46:12.500Z",
+        "updated": "2024-02-05T12:46:12.500Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 490.0008980047729,
+            "y": 1390
+          }
+        }
+      }
+    },
+    "a222cb00-c424-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "He found himself at the center of attention in the wake of the FIFA corruption scandal. A British newspaper reported that he received $1.5 million (1.4 million euros)-to vote for Qatar when it was selected to host the 2022 World Cup seven years ago",
+        "reference": {
+          "resource": "2675",
+          "offset": 3284,
+          "text": "He found himself at the center of attention in the wake of the FIFA corruption scandal. A British newspaper reported that he received $1.5 million (1.4 million euros)-to vote for Qatar when it was selected to host the 2022 World Cup seven years ago"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:46:51.312Z",
+        "updated": "2024-02-05T12:46:51.312Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 740.0005588906362,
+            "y": 1152
+          }
+        }
+      }
+    },
+    "a54344e0-c424-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:46:56.558Z",
+        "updated": "2024-02-05T12:46:56.558Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 840.000643035068,
+            "y": 1390
+          }
+        }
+      }
+    },
+    "b94ea5b0-c424-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "He was also alleged to have taken bribes from the sports marketing company ISL",
+        "reference": {
+          "resource": "2675",
+          "offset": 3551,
+          "text": "He was also alleged to have taken bribes from the sports marketing company ISL"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:47:30.187Z",
+        "updated": "2024-02-05T12:47:30.187Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1090.0008685885578,
+            "y": 1200
+          }
+        }
+      }
+    },
+    "bb7c8230-c424-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:47:33.843Z",
+        "updated": "2024-02-05T12:47:33.843Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1190.000352097659,
+            "y": 1390
+          }
+        }
+      }
+    },
+    "e1b53500-c424-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "He admitted that he received the money, but said he didn't want to keep it for himself",
+        "reference": {
+          "resource": "2675",
+          "offset": 3672,
+          "text": "He admitted that he received the money, but said he didn't want to keep it for himself"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:48:37.968Z",
+        "updated": "2024-02-05T12:48:37.968Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1090.0005576100073,
+            "y": 874
+          }
+        }
+      }
+    },
+    "e5034e90-c424-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:48:43.513Z",
+        "updated": "2024-02-05T12:48:43.513Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1190.0009622248606,
+            "y": 1052
+          }
+        }
+      }
+    },
+    "f4e43f90-c424-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "When he was a member of the International- Olympics Committee (IOC),-Hayatou told an IOC ethics commission he had spent the money on festivities marking CAF's 40th anniversary",
+        "reference": {
+          "resource": "2675",
+          "offset": 3776,
+          "text": "When he was a member of the International- Olympics Committee (IOC),-Hayatou told an IOC ethics commission he had spent the money on festivities marking CAF's 40th anniversary"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:49:10.153Z",
+        "updated": "2024-02-05T12:49:10.153Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1090.0006957863511,
+            "y": 524
+          }
+        }
+      }
+    },
+    "f78688c0-c424-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:49:14.572Z",
+        "updated": "2024-02-05T12:49:14.572Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1190.0009354297265,
+            "y": 738
+          }
+        }
+      }
+    },
+    "0c0da940-c425-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "scandal surrounding a deal with the French company Lagardere Sports. It involves the marketing of television rights worth around a billion dollars",
+        "reference": {
+          "resource": "2675",
+          "offset": 3978,
+          "text": "scandal surrounding a deal with the French company Lagardere Sports. It involves the marketing of television rights worth around a billion dollars"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:49:49.012Z",
+        "updated": "2024-02-05T12:49:49.012Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1440.0001682104069,
+            "y": 1188
+          }
+        }
+      }
+    },
+    "1300d600-c425-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:50:00.672Z",
+        "updated": "2024-02-05T12:50:00.672Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1540.0004545186323,
+            "y": 1390
+          }
+        }
+      }
+    },
+    "1cda32c0-c425-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "many functionaries quietly distanced themselves from Hayatou a long time ago-but were reluctant-to announce this publicly",
+        "reference": {
+          "resource": "2675",
+          "offset": 4312,
+          "text": "many functionaries quietly distanced themselves from Hayatou a long time ago-but were reluctant-to announce this publicly"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:50:17.196Z",
+        "updated": "2024-02-05T12:50:17.196Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2140.0001940119055,
+            "y": 258
+          }
+        }
+      }
+    },
+    "34a66c20-c425-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:50:57.122Z",
+        "updated": "2024-02-05T12:50:57.122Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2240.000120412136,
+            "y": 424
+          }
+        }
+      }
+    },
+    "54553b50-c425-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "FIFA veteran Hayatou toppled as head of African football and replaced by Ahmad Ahmad",
+        "reference": {
+          "text": "FIFA veteran Hayatou toppled as head of African football"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:51:50.277Z",
+        "updated": "2024-02-05T12:51:50.277Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1615.000746532436,
+            "y": 1804
+          }
+        }
+      }
+    },
+    "5d0cad50-c425-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:52:04.901Z",
+        "updated": "2024-02-05T12:52:04.901Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 840.0008323941643,
+            "y": 1704
+          }
+        }
+      }
+    },
+    "6801b340-c425-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:52:23.284Z",
+        "updated": "2024-02-05T12:52:23.284Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1890.0001161886157,
+            "y": 1704
+          }
+        }
+      }
+    },
+    "6cd0ee90-c425-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:52:31.353Z",
+        "updated": "2024-02-05T12:52:31.353Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2590.000200172894,
+            "y": 1704
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "50a273e0-c422-11ee-a06c-cb1cbb90ffa4": {
+      "source": "4ef64a80-c422-11ee-a06c-cb1cbb90ffa4",
+      "target": "50a24cd0-c422-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:30:15.582Z",
+        "updated": "2024-02-05T12:30:15.582Z"
+      },
+      "userdata": {}
+    },
+    "50a273e1-c422-11ee-a06c-cb1cbb90ffa4": {
+      "source": "50a24cd0-c422-11ee-a06c-cb1cbb90ffa4",
+      "target": "4ab23830-c422-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:30:15.582Z",
+        "updated": "2024-02-05T12:30:15.582Z"
+      },
+      "userdata": {}
+    },
+    "c2bde0e1-c422-11ee-a06c-cb1cbb90ffa4": {
+      "source": "c02beb60-c422-11ee-a06c-cb1cbb90ffa4",
+      "target": "c2bde0e0-c422-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:33:27.022Z",
+        "updated": "2024-02-05T12:33:27.022Z"
+      },
+      "userdata": {}
+    },
+    "c2bde0e2-c422-11ee-a06c-cb1cbb90ffa4": {
+      "source": "c2bde0e0-c422-11ee-a06c-cb1cbb90ffa4",
+      "target": "b43e54a0-c422-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:33:27.022Z",
+        "updated": "2024-02-05T12:33:27.022Z"
+      },
+      "userdata": {}
+    },
+    "eecf4fc1-c422-11ee-a06c-cb1cbb90ffa4": {
+      "source": "ec40dcb0-c422-11ee-a06c-cb1cbb90ffa4",
+      "target": "eecf4fc0-c422-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:34:40.956Z",
+        "updated": "2024-02-05T12:34:40.956Z"
+      },
+      "userdata": {}
+    },
+    "eecf4fc2-c422-11ee-a06c-cb1cbb90ffa4": {
+      "source": "eecf4fc0-c422-11ee-a06c-cb1cbb90ffa4",
+      "target": "b43e54a0-c422-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:34:40.956Z",
+        "updated": "2024-02-05T12:34:40.956Z"
+      },
+      "userdata": {}
+    },
+    "07c255e1-c423-11ee-a06c-cb1cbb90ffa4": {
+      "source": "03d22ff0-c423-11ee-a06c-cb1cbb90ffa4",
+      "target": "07c255e0-c423-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:35:22.814Z",
+        "updated": "2024-02-05T12:35:22.814Z"
+      },
+      "userdata": {}
+    },
+    "07c255e2-c423-11ee-a06c-cb1cbb90ffa4": {
+      "source": "07c255e0-c423-11ee-a06c-cb1cbb90ffa4",
+      "target": "b43e54a0-c422-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:35:22.814Z",
+        "updated": "2024-02-05T12:35:22.814Z"
+      },
+      "userdata": {}
+    },
+    "33e773d0-c423-11ee-a06c-cb1cbb90ffa4": {
+      "source": "31e450d0-c423-11ee-a06c-cb1cbb90ffa4",
+      "target": "33e74cc0-c423-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:36:36.877Z",
+        "updated": "2024-02-05T12:36:36.877Z"
+      },
+      "userdata": {}
+    },
+    "33e773d1-c423-11ee-a06c-cb1cbb90ffa4": {
+      "source": "33e74cc0-c423-11ee-a06c-cb1cbb90ffa4",
+      "target": "5f5fa560-c422-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:36:36.877Z",
+        "updated": "2024-02-05T12:36:36.877Z"
+      },
+      "userdata": {}
+    },
+    "5422f2a1-c423-11ee-a06c-cb1cbb90ffa4": {
+      "source": "51e7cfb0-c423-11ee-a06c-cb1cbb90ffa4",
+      "target": "5422f2a0-c423-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:37:30.954Z",
+        "updated": "2024-02-05T12:37:30.954Z"
+      },
+      "userdata": {}
+    },
+    "5422f2a2-c423-11ee-a06c-cb1cbb90ffa4": {
+      "source": "5422f2a0-c423-11ee-a06c-cb1cbb90ffa4",
+      "target": "4ef64a80-c422-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:37:30.954Z",
+        "updated": "2024-02-05T12:37:30.954Z"
+      },
+      "userdata": {}
+    },
+    "6717b350-c423-11ee-a06c-cb1cbb90ffa4": {
+      "source": "620bbd20-c423-11ee-a06c-cb1cbb90ffa4",
+      "target": "67178c40-c423-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:38:02.757Z",
+        "updated": "2024-02-05T12:38:02.757Z"
+      },
+      "userdata": {}
+    },
+    "6717b351-c423-11ee-a06c-cb1cbb90ffa4": {
+      "source": "67178c40-c423-11ee-a06c-cb1cbb90ffa4",
+      "target": "51e7cfb0-c423-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:38:02.757Z",
+        "updated": "2024-02-05T12:38:02.757Z"
+      },
+      "userdata": {}
+    },
+    "8b834741-c423-11ee-a06c-cb1cbb90ffa4": {
+      "source": "860618b0-c423-11ee-a06c-cb1cbb90ffa4",
+      "target": "8b834740-c423-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:39:03.860Z",
+        "updated": "2024-02-05T12:39:03.860Z"
+      },
+      "userdata": {}
+    },
+    "8b834742-c423-11ee-a06c-cb1cbb90ffa4": {
+      "source": "8b834740-c423-11ee-a06c-cb1cbb90ffa4",
+      "target": "51e7cfb0-c423-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:39:03.860Z",
+        "updated": "2024-02-05T12:39:03.860Z"
+      },
+      "userdata": {}
+    },
+    "5ec83571-c424-11ee-a06c-cb1cbb90ffa4": {
+      "source": "5b831c90-c424-11ee-a06c-cb1cbb90ffa4",
+      "target": "5ec83570-c424-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:44:58.311Z",
+        "updated": "2024-02-05T12:44:58.311Z"
+      },
+      "userdata": {}
+    },
+    "5ec83572-c424-11ee-a06c-cb1cbb90ffa4": {
+      "source": "5ec83570-c424-11ee-a06c-cb1cbb90ffa4",
+      "target": "860618b0-c423-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:44:58.311Z",
+        "updated": "2024-02-05T12:44:58.311Z"
+      },
+      "userdata": {}
+    },
+    "6d36f8d0-c424-11ee-a06c-cb1cbb90ffa4": {
+      "source": "6a5339d0-c424-11ee-a06c-cb1cbb90ffa4",
+      "target": "6d36d1c0-c424-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:45:22.525Z",
+        "updated": "2024-02-05T12:45:22.525Z"
+      },
+      "userdata": {}
+    },
+    "6d36f8d1-c424-11ee-a06c-cb1cbb90ffa4": {
+      "source": "6d36d1c0-c424-11ee-a06c-cb1cbb90ffa4",
+      "target": "5b831c90-c424-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:45:22.525Z",
+        "updated": "2024-02-05T12:45:22.525Z"
+      },
+      "userdata": {}
+    },
+    "8b008d41-c424-11ee-a06c-cb1cbb90ffa4": {
+      "source": "87df2900-c424-11ee-a06c-cb1cbb90ffa4",
+      "target": "8b008d40-c424-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:46:12.500Z",
+        "updated": "2024-02-05T12:46:12.500Z"
+      },
+      "userdata": {}
+    },
+    "8b008d42-c424-11ee-a06c-cb1cbb90ffa4": {
+      "source": "8b008d40-c424-11ee-a06c-cb1cbb90ffa4",
+      "target": "5f5fa560-c422-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:46:12.500Z",
+        "updated": "2024-02-05T12:46:12.500Z"
+      },
+      "userdata": {}
+    },
+    "a54344e1-c424-11ee-a06c-cb1cbb90ffa4": {
+      "source": "a222cb00-c424-11ee-a06c-cb1cbb90ffa4",
+      "target": "a54344e0-c424-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:46:56.558Z",
+        "updated": "2024-02-05T12:46:56.558Z"
+      },
+      "userdata": {}
+    },
+    "a54344e2-c424-11ee-a06c-cb1cbb90ffa4": {
+      "source": "a54344e0-c424-11ee-a06c-cb1cbb90ffa4",
+      "target": "5f5fa560-c422-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:46:56.558Z",
+        "updated": "2024-02-05T12:46:56.558Z"
+      },
+      "userdata": {}
+    },
+    "bb7c8231-c424-11ee-a06c-cb1cbb90ffa4": {
+      "source": "b94ea5b0-c424-11ee-a06c-cb1cbb90ffa4",
+      "target": "bb7c8230-c424-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:47:33.843Z",
+        "updated": "2024-02-05T12:47:33.843Z"
+      },
+      "userdata": {}
+    },
+    "bb7c8232-c424-11ee-a06c-cb1cbb90ffa4": {
+      "source": "bb7c8230-c424-11ee-a06c-cb1cbb90ffa4",
+      "target": "5f5fa560-c422-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:47:33.843Z",
+        "updated": "2024-02-05T12:47:33.843Z"
+      },
+      "userdata": {}
+    },
+    "e5034e91-c424-11ee-a06c-cb1cbb90ffa4": {
+      "source": "e1b53500-c424-11ee-a06c-cb1cbb90ffa4",
+      "target": "e5034e90-c424-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:48:43.513Z",
+        "updated": "2024-02-05T12:48:43.513Z"
+      },
+      "userdata": {}
+    },
+    "e5034e92-c424-11ee-a06c-cb1cbb90ffa4": {
+      "source": "e5034e90-c424-11ee-a06c-cb1cbb90ffa4",
+      "target": "b94ea5b0-c424-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:48:43.513Z",
+        "updated": "2024-02-05T12:48:43.513Z"
+      },
+      "userdata": {}
+    },
+    "f78688c1-c424-11ee-a06c-cb1cbb90ffa4": {
+      "source": "f4e43f90-c424-11ee-a06c-cb1cbb90ffa4",
+      "target": "f78688c0-c424-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:49:14.572Z",
+        "updated": "2024-02-05T12:49:14.572Z"
+      },
+      "userdata": {}
+    },
+    "f78688c2-c424-11ee-a06c-cb1cbb90ffa4": {
+      "source": "f78688c0-c424-11ee-a06c-cb1cbb90ffa4",
+      "target": "e1b53500-c424-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:49:14.572Z",
+        "updated": "2024-02-05T12:49:14.572Z"
+      },
+      "userdata": {}
+    },
+    "1300d601-c425-11ee-a06c-cb1cbb90ffa4": {
+      "source": "0c0da940-c425-11ee-a06c-cb1cbb90ffa4",
+      "target": "1300d600-c425-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:50:00.672Z",
+        "updated": "2024-02-05T12:50:00.672Z"
+      },
+      "userdata": {}
+    },
+    "1300d602-c425-11ee-a06c-cb1cbb90ffa4": {
+      "source": "1300d600-c425-11ee-a06c-cb1cbb90ffa4",
+      "target": "5f5fa560-c422-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:50:00.672Z",
+        "updated": "2024-02-05T12:50:00.672Z"
+      },
+      "userdata": {}
+    },
+    "34a66c21-c425-11ee-a06c-cb1cbb90ffa4": {
+      "source": "1cda32c0-c425-11ee-a06c-cb1cbb90ffa4",
+      "target": "34a66c20-c425-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:50:57.122Z",
+        "updated": "2024-02-05T12:50:57.122Z"
+      },
+      "userdata": {}
+    },
+    "34a66c22-c425-11ee-a06c-cb1cbb90ffa4": {
+      "source": "34a66c20-c425-11ee-a06c-cb1cbb90ffa4",
+      "target": "860618b0-c423-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:50:57.122Z",
+        "updated": "2024-02-05T12:50:57.122Z"
+      },
+      "userdata": {}
+    },
+    "5d0cad51-c425-11ee-a06c-cb1cbb90ffa4": {
+      "source": "5f5fa560-c422-11ee-a06c-cb1cbb90ffa4",
+      "target": "5d0cad50-c425-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:52:04.901Z",
+        "updated": "2024-02-05T12:52:04.901Z"
+      },
+      "userdata": {}
+    },
+    "5d0cad52-c425-11ee-a06c-cb1cbb90ffa4": {
+      "source": "5d0cad50-c425-11ee-a06c-cb1cbb90ffa4",
+      "target": "54553b50-c425-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:52:04.901Z",
+        "updated": "2024-02-05T12:52:04.901Z"
+      },
+      "userdata": {}
+    },
+    "6801b341-c425-11ee-a06c-cb1cbb90ffa4": {
+      "source": "4ab23830-c422-11ee-a06c-cb1cbb90ffa4",
+      "target": "6801b340-c425-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:52:23.284Z",
+        "updated": "2024-02-05T12:52:23.284Z"
+      },
+      "userdata": {}
+    },
+    "6801b342-c425-11ee-a06c-cb1cbb90ffa4": {
+      "source": "6801b340-c425-11ee-a06c-cb1cbb90ffa4",
+      "target": "54553b50-c425-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:52:23.284Z",
+        "updated": "2024-02-05T12:52:23.284Z"
+      },
+      "userdata": {}
+    },
+    "6cd0ee91-c425-11ee-a06c-cb1cbb90ffa4": {
+      "source": "b43e54a0-c422-11ee-a06c-cb1cbb90ffa4",
+      "target": "6cd0ee90-c425-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:52:31.353Z",
+        "updated": "2024-02-05T12:52:31.353Z"
+      },
+      "userdata": {}
+    },
+    "6cd0ee92-c425-11ee-a06c-cb1cbb90ffa4": {
+      "source": "6cd0ee90-c425-11ee-a06c-cb1cbb90ffa4",
+      "target": "54553b50-c425-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:52:31.353Z",
+        "updated": "2024-02-05T12:52:31.353Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "2675": {
+      "text": "At the final of the Africa Cup of Nations in Libreville, Gabon in February 2017, Cameroon beat Egypt 2:1. Sitting in the VIP area was Issa Hayatou, the Cameroonian president of the Confederation of African Football (CAF). He should have been beside himself with joy-at the outcome of the match, but from his demeanor, he appeared to be in no mood to celebrate.------- Hayatou,-one of the last relics of the era of ex-FIFA President-Sepp Blatter, was-facing recurring allegations of corruption, investigations into his rights-marketing activities and a growing clamor against his reelection. At the election for a new CAF president in the Ethiopian capital Addis Ababa,-Hayatou was defeated by Ahmad Ahmad (pictured above), head of the Madagascar Football Association.-Ahmad won the election by 34 votes to Hayatou's 20. Ahmad had-the backing of- Zimbabwean Phillip Chiyangwa, the head of-the Council of Southern Africa Football Associations (Cosafa), Chiyangwa-was a longtime parliamentary deputy for Zimbabwe's- ruling ZANU-PF before he switched to a career in football. Under his leadership, Cosafa has committed itself to voting for Ahmad in Addis Ababa in the election on March 16. \"Ahmad Ahmad is a former minister and sports functionary from Madagascar, a calm and collected individual-who is acquiring growing support and not just in Zimbabwe, but across the whole region,\" said sports journalist Thomas Kwenaite, who reports on corruption scandals in African football for the South African Supersport TV channel and the weekly-Mail & Guardian Kwenaite. Issa Hayatou has been seeking an eighth term as CAF head \"He is promising transparency in African football and wants to open up the CAF's books to public scrutiny,\" Kwenaite added. Alexandre Zandamela, a-sports analyst from Mozambique,-notes that-Chiyangwa has a good network of international contacts and could be very useful to Ahmad. On one recent occasion,-Chiyangwa-drummed up support for Ahmad while taking a swipe at Hayatou. It was \"a stab in the back disguised as a birthday party,\"-which left Hayatou very annoyed, recalled Zandamela. \"Chiyangwa had invited numerous African association heads to the-party. It was nothing but a promotional campaign for the CAF candidate from Madasgascar. The guests were influential football functionaries and included the head of FIFA, Gianni Infantino.-Hayatou wasn't invited,\" Zandamela said. Hayatou's influence appeared-to be waning. Now aged 70, he used to be able to count-on the support of the heads of the African national football associations. He has been elected head of the CAF seven times and has held the job since 1988. Age limit Many sports functionaries believed that Hayatou was-no longer up-to the job. Some said-- when he was-out of earshot - that he was-an old man who no longer listened-to other people. But Hayatou had-shown no sign of quitting and an age limit for candidates was recently deleted from the CAF's statutes. Issa Haytou (right) with ex-FIFA head Sepp Blatter \"There was always the rule that a candidate for the post of CAF president should be under-70. But shortly before Hayatou-turned 70, the rules were changed so he could run again,\" Kwenaite told DW. The list of corruption allegations leveled against Hayatou-gets longer by the year. He found himself at the center of attention in the wake of the FIFA corruption scandal. A British newspaper reported that he received $1.5 million (1.4 million euros)-to vote for Qatar when it was selected to host the 2022 World Cup seven years ago. Televison rights He was also alleged to have taken bribes from the sports marketing company ISL. But Hayatou was never short of excuses. \"He admitted that he received the money, but said he didn't want to keep it for himself,\" Kwenaite said. When he was a member of the International- Olympics Committee (IOC),-Hayatou told an IOC ethics commission he had spent the money on festivities marking CAF's 40th anniversary. Even more serious is the scandal surrounding a deal with the French company Lagardere Sports. It involves the marketing of television rights worth around a billion dollars. The Egyptian Football Association says it intends to contest the-deal in court because it represents a massive violation of competition law.-------------------- Alexandre Zandamela said many functionaries quietly distanced themselves from Hayatou a long time ago-but were reluctant-to announce this publicly.",
+      "title": "FIFA veteran Hayatou toppled as head of African football",
+      "source": "http://www.dw.com/en/fifa-veteran-hayatou-toppled-as-head-of-african-football/a-37961937?maca=en-rss-en-all-1573-rdf",
+      "timestamp": "2024-02-05T12:28:59.108Z",
+      "metadata": {
+        "created": "2024-02-05T09:49:22.029Z",
+        "updated": "2024-02-05T09:49:22.029Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "54553b50-c425-11ee-a06c-cb1cbb90ffa4",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-05T09:49:22.029Z",
+    "updated": "2024-02-07T09:49:17.217Z"
+  }
+}

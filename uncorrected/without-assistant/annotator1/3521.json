@@ -1,0 +1,523 @@
+{
+  "nodes": {
+    "5a7db570-ca01-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "Senate Republicans and Democrats appear to be on collision course over President Donald Trump's nominee to the Supreme Court and whether to changes Senate rules to get him confirmed",
+        "reference": {
+          "resource": "3521",
+          "offset": 29,
+          "text": "Senate Republicans and Democrats appear to be on collision course over President Donald Trump's nominee to the Supreme Court and whether to changes Senate rules to get him confirmed"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:49:25.703Z",
+        "updated": "2024-02-12T23:49:25.703Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 30.089340984502428,
+            "y": -176.67647538608162
+          }
+        }
+      }
+    },
+    "65a9d0f0-ca01-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "Minority Leader Chuck Schumer, D-N.Y., has announced that he will vote no on the nomination of Judge Neil Gorsuch and lead a filibuster of the selection",
+        "reference": {
+          "resource": "3521",
+          "offset": 212,
+          "text": "Minority Leader Chuck Schumer, D-N.Y., has announced that he will vote no on the nomination of Judge Neil Gorsuch and lead a filibuster of the selection"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:49:44.447Z",
+        "updated": "2024-02-12T23:49:44.447Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -220.39464195840046,
+            "y": 168.86511497783027
+          }
+        }
+      }
+    },
+    "67e2f810-ca01-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:49:48.177Z",
+        "updated": "2024-02-12T23:49:48.177Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -93.62105268028628,
+            "y": -3.139881300794329
+          }
+        }
+      }
+    },
+    "6ff1ce00-ca01-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "More than a dozen Democrats also have announced their opposition and will try to thwart GOP efforts to press ahead on the choice",
+        "reference": {
+          "resource": "3521",
+          "offset": 366,
+          "text": "More than a dozen Democrats also have announced their opposition and will try to thwart GOP efforts to press ahead on the choice"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:50:01.696Z",
+        "updated": "2024-02-12T23:50:01.696Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -259.4503860282996,
+            "y": 520.366811606923
+          }
+        }
+      }
+    },
+    "8ef9d5e0-ca01-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:50:53.758Z",
+        "updated": "2024-02-12T23:50:53.758Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -238.3909161866873,
+            "y": 344.6159632923766
+          }
+        }
+      }
+    },
+    "9efad200-ca01-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": " The pressure is on Majority Leader Mitch McConnell, R-Ky., to change the parliamentary rules for Supreme Court nominees, lowering the threshold to a simple majority",
+        "reference": {
+          "resource": "3521",
+          "offset": 598,
+          "text": " The pressure is on Majority Leader Mitch McConnell, R-Ky., to change the parliamentary rules for Supreme Court nominees, lowering the threshold to a simple majority"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:51:20.608Z",
+        "updated": "2024-02-12T23:51:20.608Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 426.43948819667673,
+            "y": 131.04218598107036
+          }
+        }
+      }
+    },
+    "a12245e0-ca01-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:51:24.222Z",
+        "updated": "2024-02-12T23:51:24.222Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 179.38625635734246,
+            "y": 30.938169897451047
+          }
+        }
+      }
+    },
+    "b02532f0-ca01-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "The Democrats pushed through a rules change lowering the vote threshold on all nominees except for the Supreme Court from 60 to a simple majority in 2013",
+        "reference": {
+          "resource": "3521",
+          "offset": 1290,
+          "text": "The Democrats pushed through a rules change lowering the vote threshold on all nominees except for the Supreme Court from 60 to a simple majority"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:51:49.407Z",
+        "updated": "2024-02-12T23:51:49.407Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 133.8292069421292,
+            "y": 403.5219147176525
+          }
+        }
+      }
+    },
+    "b2234ce0-ca01-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:51:52.750Z",
+        "updated": "2024-02-12T23:51:52.750Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 251.8409716612088,
+            "y": 334.47881813132244
+          }
+        }
+      }
+    },
+    "cd8493e0-ca01-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "Such a rules change on Supreme Court nominees would be a momentous change for the Senate, which traditionally operates via bipartisanship and consent from all senators",
+        "reference": {
+          "resource": "3521",
+          "offset": 1943,
+          "text": "Such a rules change on Supreme Court nominees would be a momentous change for the Senate, which traditionally operates via bipartisanship and consent from all senators"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:52:38.687Z",
+        "updated": "2024-02-12T23:52:38.687Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 554.187934721013,
+            "y": 401.50095929563855
+          }
+        }
+      }
+    },
+    "d6acc910-ca01-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:52:54.049Z",
+        "updated": "2024-02-12T23:52:54.049Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 588.3300494265175,
+            "y": 327.9107130097773
+          }
+        }
+      }
+    },
+    "ee5e4e80-ca01-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "Some believe it could begin to unravel Senate traditions at a hyper-partisan moment in politics and perhaps end up in the complete elimination of the filibuster even for legislation, which would mean an entirely different Senate from the one that's existed for decades",
+        "reference": {
+          "resource": "3521",
+          "offset": 2112,
+          "text": "Some believe it could begin to unravel Senate traditions at a hyper-partisan moment in politics and perhaps end up in the complete elimination of the filibuster even for legislation, which would mean an entirely different Senate from the one that's existed for decades"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:53:33.800Z",
+        "updated": "2024-02-12T23:53:33.800Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 444.08371029442105,
+            "y": 756.5502719850489
+          }
+        }
+      }
+    },
+    "f0ce8b30-ca01-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:53:37.891Z",
+        "updated": "2024-02-12T23:53:37.891Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 500.29655659211187,
+            "y": 579.0256156403437
+          }
+        }
+      }
+    },
+    "09d121b0-ca02-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "McConnell is an institutionalist who has made clear he does not favor invoking the nuclear option",
+        "reference": {
+          "resource": "3521",
+          "offset": 2818,
+          "text": "McConnell is an institutionalist who has made clear he does not favor invoking the nuclear option"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:54:19.851Z",
+        "updated": "2024-02-12T23:54:19.851Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1021.3177913543606,
+            "y": 485.1757425094322
+          }
+        }
+      }
+    },
+    "0c8dd0b0-ca02-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:54:24.443Z",
+        "updated": "2024-02-12T23:54:24.443Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 818.8377037886069,
+            "y": 315.7669532785648
+          }
+        }
+      }
+    },
+    "128e8720-ca02-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "he has not ruled it out for Gorsuch",
+        "reference": {
+          "resource": "3521",
+          "offset": 2921,
+          "text": "he has not ruled it out for Gorsuch"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:54:34.514Z",
+        "updated": "2024-02-12T23:54:34.514Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 963.1170747011776,
+            "y": 789.9637060353122
+          }
+        }
+      }
+    },
+    "14b8e130-ca02-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:54:38.147Z",
+        "updated": "2024-02-12T23:54:38.147Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 992.2174330277691,
+            "y": 637.5697242723722
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "67e2f811-ca01-11ee-b733-854bb707c32b": {
+      "source": "65a9d0f0-ca01-11ee-b733-854bb707c32b",
+      "target": "67e2f810-ca01-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:49:48.177Z",
+        "updated": "2024-02-12T23:49:48.177Z"
+      },
+      "userdata": {}
+    },
+    "67e2f812-ca01-11ee-b733-854bb707c32b": {
+      "source": "67e2f810-ca01-11ee-b733-854bb707c32b",
+      "target": "5a7db570-ca01-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:49:48.177Z",
+        "updated": "2024-02-12T23:49:48.177Z"
+      },
+      "userdata": {}
+    },
+    "72017421-ca01-11ee-b733-854bb707c32b": {
+      "source": "6ff1ce00-ca01-11ee-b733-854bb707c32b",
+      "target": "72017420-ca01-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:50:05.154Z",
+        "updated": "2024-02-12T23:50:05.154Z"
+      },
+      "userdata": {}
+    },
+    "72017422-ca01-11ee-b733-854bb707c32b": {
+      "source": "72017420-ca01-11ee-b733-854bb707c32b",
+      "target": "5a7db570-ca01-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:50:05.154Z",
+        "updated": "2024-02-12T23:50:05.154Z"
+      },
+      "userdata": {}
+    },
+    "8ef9d5e1-ca01-11ee-b733-854bb707c32b": {
+      "source": "6ff1ce00-ca01-11ee-b733-854bb707c32b",
+      "target": "8ef9d5e0-ca01-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:50:53.758Z",
+        "updated": "2024-02-12T23:50:53.758Z"
+      },
+      "userdata": {}
+    },
+    "8ef9d5e2-ca01-11ee-b733-854bb707c32b": {
+      "source": "8ef9d5e0-ca01-11ee-b733-854bb707c32b",
+      "target": "65a9d0f0-ca01-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:50:53.758Z",
+        "updated": "2024-02-12T23:50:53.758Z"
+      },
+      "userdata": {}
+    },
+    "a12245e1-ca01-11ee-b733-854bb707c32b": {
+      "source": "9efad200-ca01-11ee-b733-854bb707c32b",
+      "target": "a12245e0-ca01-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:51:24.222Z",
+        "updated": "2024-02-12T23:51:24.222Z"
+      },
+      "userdata": {}
+    },
+    "a12245e2-ca01-11ee-b733-854bb707c32b": {
+      "source": "a12245e0-ca01-11ee-b733-854bb707c32b",
+      "target": "5a7db570-ca01-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:51:24.222Z",
+        "updated": "2024-02-12T23:51:24.222Z"
+      },
+      "userdata": {}
+    },
+    "b2234ce1-ca01-11ee-b733-854bb707c32b": {
+      "source": "b02532f0-ca01-11ee-b733-854bb707c32b",
+      "target": "b2234ce0-ca01-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:51:52.750Z",
+        "updated": "2024-02-12T23:51:52.750Z"
+      },
+      "userdata": {}
+    },
+    "b2234ce2-ca01-11ee-b733-854bb707c32b": {
+      "source": "b2234ce0-ca01-11ee-b733-854bb707c32b",
+      "target": "9efad200-ca01-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:51:52.750Z",
+        "updated": "2024-02-12T23:51:52.750Z"
+      },
+      "userdata": {}
+    },
+    "d6acc911-ca01-11ee-b733-854bb707c32b": {
+      "source": "cd8493e0-ca01-11ee-b733-854bb707c32b",
+      "target": "d6acc910-ca01-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:52:54.049Z",
+        "updated": "2024-02-12T23:52:54.049Z"
+      },
+      "userdata": {}
+    },
+    "d6acc912-ca01-11ee-b733-854bb707c32b": {
+      "source": "d6acc910-ca01-11ee-b733-854bb707c32b",
+      "target": "9efad200-ca01-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:52:54.049Z",
+        "updated": "2024-02-12T23:52:54.049Z"
+      },
+      "userdata": {}
+    },
+    "f0ce8b31-ca01-11ee-b733-854bb707c32b": {
+      "source": "ee5e4e80-ca01-11ee-b733-854bb707c32b",
+      "target": "f0ce8b30-ca01-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:53:37.891Z",
+        "updated": "2024-02-12T23:53:37.891Z"
+      },
+      "userdata": {}
+    },
+    "f0ce8b32-ca01-11ee-b733-854bb707c32b": {
+      "source": "f0ce8b30-ca01-11ee-b733-854bb707c32b",
+      "target": "cd8493e0-ca01-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:53:37.891Z",
+        "updated": "2024-02-12T23:53:37.891Z"
+      },
+      "userdata": {}
+    },
+    "0c8dd0b1-ca02-11ee-b733-854bb707c32b": {
+      "source": "09d121b0-ca02-11ee-b733-854bb707c32b",
+      "target": "0c8dd0b0-ca02-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:54:24.443Z",
+        "updated": "2024-02-12T23:54:24.443Z"
+      },
+      "userdata": {}
+    },
+    "0c8dd0b2-ca02-11ee-b733-854bb707c32b": {
+      "source": "0c8dd0b0-ca02-11ee-b733-854bb707c32b",
+      "target": "9efad200-ca01-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:54:24.443Z",
+        "updated": "2024-02-12T23:54:24.443Z"
+      },
+      "userdata": {}
+    },
+    "14b8e131-ca02-11ee-b733-854bb707c32b": {
+      "source": "128e8720-ca02-11ee-b733-854bb707c32b",
+      "target": "14b8e130-ca02-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:54:38.147Z",
+        "updated": "2024-02-12T23:54:38.147Z"
+      },
+      "userdata": {}
+    },
+    "14b8e132-ca02-11ee-b733-854bb707c32b": {
+      "source": "14b8e130-ca02-11ee-b733-854bb707c32b",
+      "target": "09d121b0-ca02-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:54:38.147Z",
+        "updated": "2024-02-12T23:54:38.147Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "3521": {
+      "text": "To blow up the rules or not? Senate Republicans and Democrats appear to be on collision course over President Donald Trump's nominee to the Supreme Court and whether to changes Senate rules to get him confirmed. Minority Leader Chuck Schumer, D-N.Y., has announced that he will vote no on the nomination of Judge Neil Gorsuch and lead a filibuster of the selection. More than a dozen Democrats also have announced their opposition and will try to thwart GOP efforts to press ahead on the choice. Such a step would require 60 votes in the 100-seat Senate, but Republicans only hold a 52-48 majority. The pressure is on Majority Leader Mitch McConnell, R-Ky., to change the parliamentary rules for Supreme Court nominees, lowering the threshold to a simple majority. Or, as Trump once put it, \"go nuclear.\" \"?WHAT IS THE NUCLEAR OPTION? Under that option, nominations could be approved with a simple majority in the 100-member Senate. Now, it takes 60 votes to clear parliamentary hurdles and set up an up-or-down vote on the nominee. \"?IT'S HAPPENED BEFORE This procedural maneuver has recent precedent. In 2013, Democrats were in the majority under the leadership of Sen. Harry Reid of Nevada and upset about the blockage of President Barack Obama's nominees to a powerful appellate court. The Democrats pushed through a rules change lowering the vote threshold on all nominees except for the Supreme Court from 60 to a simple majority. The Supreme Court was exempted at the time as part of a deal bringing along Democrats reluctant to change the rules. At the time, McConnell warned Democrats the strategy would backfire: \"I say to my friends on the other side of the aisle, you will regret this, and you may regret it a lot sooner than you think.\" Before 1975, it was even tougher for presidents to get their nominations through because two-thirds of the senators present and voting had to agree to move forward. \"?WHY IT WOULD BE EXPLOSIVE Such a rules change on Supreme Court nominees would be a momentous change for the Senate, which traditionally operates via bipartisanship and consent from all senators. Some believe it could begin to unravel Senate traditions at a hyper-partisan moment in politics and perhaps end up in the complete elimination of the filibuster even for legislation, which would mean an entirely different Senate from the one that's existed for decades. Senate experts note that the filibuster is not enshrined in the Constitution and filibustering nominees is a relatively recent phenomenon. Cloture \"?the procedural motion to end a filibuster \"?was attempted for the first time on a nominee in 1968 after President Lyndon Johnson tapped Abe Fortas as chief justice of the U.S., according to the Congressional Research Service. The cloture attempt failed and the nomination was withdrawn. McConnell is an institutionalist who has made clear he does not favor invoking the nuclear option, but he has not ruled it out for Gorsuch.",
+      "title": "AP EXPLAINS: What is the Senate's 'nuclear option'?",
+      "source": "http://abcnews.go.com/Politics/wireStory/ap-explains-senates-nuclear-option-46404572",
+      "timestamp": "2017-03-27T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-08T09:23:32.592Z",
+        "updated": "2024-02-08T09:23:32.592Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "5a7db570-ca01-11ee-b733-854bb707c32b",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-08T09:23:32.592Z",
+    "updated": "2024-02-12T23:54:59.539Z"
+  }
+}

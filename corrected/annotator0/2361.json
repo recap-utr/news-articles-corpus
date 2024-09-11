@@ -1,0 +1,335 @@
+{
+  "nodes": {
+    "2f175070-c9fd-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "The US Department of Justice declined to comment on the case of Russian citizen Stanislav Lisov",
+        "reference": {
+          "resource": "2361",
+          "offset": 30,
+          "text": "The US Department of Justice declined to comment on the case of Russian citizen Stanislav Lisov"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:19:34.903Z",
+        "updated": "2024-02-12T23:19:34.903Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 392.0000625220138,
+            "y": 12
+          }
+        }
+      }
+    },
+    "3d8b1ce0-c9fd-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": " \"The Justice Department declines to comment,\"",
+        "reference": {
+          "resource": "2361",
+          "offset": 209,
+          "text": " \"The Justice Department declines to comment,\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:19:59.150Z",
+        "updated": "2024-02-12T23:19:59.150Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0009646787814,
+            "y": 254
+          }
+        }
+      }
+    },
+    "40176d10-c9fd-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:20:03.425Z",
+        "updated": "2024-02-12T23:20:03.425Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.00030628834975,
+            "y": 154
+          }
+        }
+      }
+    },
+    "60e2cfd0-c9fd-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": " the \"extradition documents have been received by Spain's (foreign) ministry, but not handed over to the court yet.\"",
+        "reference": {
+          "resource": "2361",
+          "offset": 316,
+          "text": " the \"extradition documents have been received by Spain's (foreign) ministry, but not handed over to the court yet.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:20:58.445Z",
+        "updated": "2024-02-12T23:20:58.445Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0004244929903,
+            "y": 254
+          }
+        }
+      }
+    },
+    "636953a0-c9fd-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:21:02.682Z",
+        "updated": "2024-02-12T23:21:02.682Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0002178240617,
+            "y": 154
+          }
+        }
+      }
+    },
+    "8ff5f410-fb20-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "it was too early to make any forecasts",
+        "reference": {
+          "text": "it was too early to make any forecasts"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T12:06:16.786Z",
+        "updated": "2024-04-15T12:06:16.786Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.0000598874667,
+            "y": 254
+          }
+        }
+      }
+    },
+    "92017b80-fb20-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T12:06:20.216Z",
+        "updated": "2024-04-15T12:06:20.216Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1159.5001654046416,
+            "y": 154
+          }
+        }
+      }
+    },
+    "d2d3b880-fb20-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "The US suspects Lisov of developing and using a new banking Trojan",
+        "reference": {
+          "text": "The US suspects Lisov of developing and using a new banking Trojan"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T12:08:08.968Z",
+        "updated": "2024-04-15T12:08:08.968Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000535328180275,
+            "y": 266
+          }
+        }
+      }
+    },
+    "d51f2f20-fb20-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T12:08:12.818Z",
+        "updated": "2024-04-15T12:08:12.818Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00078427247824,
+            "y": 154
+          }
+        }
+      }
+    },
+    "dd4de920-fb20-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "The Russian national earlier denied any wrongdoing and said he had no idea of why the US authorities designated him as a suspect",
+        "reference": {
+          "text": "The Russian national earlier denied any wrongdoing and said he had no idea of why the US authorities designated him as a suspect"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T12:08:26.547Z",
+        "updated": "2024-04-15T12:08:26.547Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.0004785299973,
+            "y": 496
+          }
+        }
+      }
+    },
+    "df52e0e0-fb20-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T12:08:29.934Z",
+        "updated": "2024-04-15T12:08:29.934Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00033593745654,
+            "y": 396
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "40179420-c9fd-11ee-b733-854bb707c32b": {
+      "source": "3d8b1ce0-c9fd-11ee-b733-854bb707c32b",
+      "target": "40176d10-c9fd-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:20:03.426Z",
+        "updated": "2024-02-12T23:20:03.426Z"
+      },
+      "userdata": {}
+    },
+    "40179421-c9fd-11ee-b733-854bb707c32b": {
+      "source": "40176d10-c9fd-11ee-b733-854bb707c32b",
+      "target": "2f175070-c9fd-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:20:03.426Z",
+        "updated": "2024-02-12T23:20:03.426Z"
+      },
+      "userdata": {}
+    },
+    "636953a1-c9fd-11ee-b733-854bb707c32b": {
+      "source": "60e2cfd0-c9fd-11ee-b733-854bb707c32b",
+      "target": "636953a0-c9fd-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:21:02.682Z",
+        "updated": "2024-02-12T23:21:02.682Z"
+      },
+      "userdata": {}
+    },
+    "636953a2-c9fd-11ee-b733-854bb707c32b": {
+      "source": "636953a0-c9fd-11ee-b733-854bb707c32b",
+      "target": "2f175070-c9fd-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:21:02.682Z",
+        "updated": "2024-02-12T23:21:02.682Z"
+      },
+      "userdata": {}
+    },
+    "9201a290-fb20-11ee-aa26-a11ecda1a83c": {
+      "source": "8ff5f410-fb20-11ee-aa26-a11ecda1a83c",
+      "target": "92017b80-fb20-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T12:06:20.217Z",
+        "updated": "2024-04-15T12:06:20.217Z"
+      },
+      "userdata": {}
+    },
+    "9201a291-fb20-11ee-aa26-a11ecda1a83c": {
+      "source": "92017b80-fb20-11ee-aa26-a11ecda1a83c",
+      "target": "2f175070-c9fd-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-04-15T12:06:20.217Z",
+        "updated": "2024-04-15T12:06:20.217Z"
+      },
+      "userdata": {}
+    },
+    "d51f5630-fb20-11ee-aa26-a11ecda1a83c": {
+      "source": "d2d3b880-fb20-11ee-aa26-a11ecda1a83c",
+      "target": "d51f2f20-fb20-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T12:08:12.819Z",
+        "updated": "2024-04-15T12:08:12.819Z"
+      },
+      "userdata": {}
+    },
+    "d51f5631-fb20-11ee-aa26-a11ecda1a83c": {
+      "source": "d51f2f20-fb20-11ee-aa26-a11ecda1a83c",
+      "target": "2f175070-c9fd-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-04-15T12:08:12.819Z",
+        "updated": "2024-04-15T12:08:12.819Z"
+      },
+      "userdata": {}
+    },
+    "df52e0e1-fb20-11ee-aa26-a11ecda1a83c": {
+      "source": "dd4de920-fb20-11ee-aa26-a11ecda1a83c",
+      "target": "df52e0e0-fb20-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T12:08:29.934Z",
+        "updated": "2024-04-15T12:08:29.934Z"
+      },
+      "userdata": {}
+    },
+    "df52e0e2-fb20-11ee-aa26-a11ecda1a83c": {
+      "source": "df52e0e0-fb20-11ee-aa26-a11ecda1a83c",
+      "target": "d2d3b880-fb20-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T12:08:29.934Z",
+        "updated": "2024-04-15T12:08:29.934Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "2361": {
+      "text": "WASHINGTON, March 15. /TASS/. The US Department of Justice declined to comment on the case of Russian citizen Stanislav Lisov, detained in Spain on a US query, department spokesperson Nicole Navas told TASS.   \"The Justice Department declines to comment,\" she said. Lisov's lawyer Oleg Gubarev told TASS Tuesday that the \"extradition documents have been received by Spain's (foreign) ministry, but not handed over to the court yet.\" \"Thus, all time limits have been observed,\" he said, adding that it was too early to make any forecasts. The date of the Spanish court hearings on the extradition case remains to be set. Lisov was detained in the Barcelona airport on January 13, on a request from the United States. He is kept in a penitentiary facility in Madrid while the court is considering the issue of his extradition. The US suspects Lisov of developing and using a new banking Trojan, NeverQuest, together with other persons to gain \"access to computers of individuals and financial institutions to steal banking data, information on credit cards and personal data.\" The damage from the actions of the hacker network, to which Lisov allegedly belongs, is estimated at about $5 million. The Russian national earlier denied any wrongdoing and said he had no idea of why the US authorities designated him as a suspect.  ",
+      "title": "US Department of Justice declines to comment on case of Russian man detained on US request",
+      "source": "http://tass.com/world/935551",
+      "timestamp": "2017-03-15T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-08T09:23:32.582Z",
+        "updated": "2024-02-08T09:23:32.582Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "2c603380-c41a-11ee-a06c-cb1cbb90ffa4": {
+      "name": "annotator0",
+      "email": "s4kibart@uni-trier.de",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "2f175070-c9fd-11ee-b733-854bb707c32b",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-08T09:23:32.582Z",
+    "updated": "2024-04-15T12:09:23.945Z"
+  },
+  "userdata": {}
+}

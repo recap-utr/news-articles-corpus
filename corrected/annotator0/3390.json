@@ -1,0 +1,781 @@
+{
+  "nodes": {
+    "e1a80230-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "US President Donald Trump has suffered a stunning political setback in a Congress controlled by his own party when Republican leaders pulled legislation to overhaul the US healthcare system, a major 2016 election campaign promise of the president and his allies",
+        "reference": {
+          "resource": "3390",
+          "offset": 0,
+          "text": "US President Donald Trump has suffered a stunning political setback in a Congress controlled by his own party when Republican leaders pulled legislation to overhaul the US healthcare system, a major 2016 election campaign promise of the president and his allies"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:25:52.211Z",
+        "updated": "2024-02-13T09:25:52.211Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00047682713598,
+            "y": 12
+          }
+        }
+      }
+    },
+    "e1a80231-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Republican leaders of the House of Representatives pulled the legislation due to a shortage of votes despite desperate lobbying by the White House and its allies in Congress",
+        "reference": {
+          "resource": "3390",
+          "offset": 264,
+          "text": "Republican leaders of the House of Representatives pulled the legislation due to a shortage of votes despite desperate lobbying by the White House and its allies in Congress"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:25:52.211Z",
+        "updated": "2024-02-13T09:25:52.211Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 437.0002014483086,
+            "y": 428
+          }
+        }
+      }
+    },
+    "e1a80233-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "House Republicans had planned a vote on the measure after Mr Trump cut off negotiations with Republicans who had balked at the plan and issued an ultimatum to vote on Friday, win or lose",
+        "reference": {
+          "resource": "3390",
+          "text": "House Republicans had planned a vote on the measure after Mr Trump cut off negotiations with Republicans who had balked at the plan and issued an ultimatum to vote on Friday, win or lose"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:25:52.211Z",
+        "updated": "2024-02-13T09:25:52.211Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.000387375792,
+            "y": 736
+          }
+        }
+      }
+    },
+    "e1a80234-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Republican moderates as well as the most conservative lawmakers had objected to the legislation",
+        "reference": {
+          "resource": "3390",
+          "offset": 737,
+          "text": "Republican moderates as well as the most conservative lawmakers had objected to the legislation"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:25:52.211Z",
+        "updated": "2024-02-13T09:25:52.211Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0005730363672,
+            "y": 796
+          }
+        }
+      }
+    },
+    "e1a80235-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "The White House and House leaders were unable to come up with a plan that satisfied both moderates and conservatives",
+        "reference": {
+          "resource": "3390",
+          "offset": 834,
+          "text": "The White House and House leaders were unable to come up with a plan that satisfied both moderates and conservatives"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:25:52.211Z",
+        "updated": "2024-02-13T09:25:52.211Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.000359337468,
+            "y": 1098
+          }
+        }
+      }
+    },
+    "e1a80236-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "\"We learned a lot about loyalty. We learned a lot about the vote-getting process,\" Mr Trump told reporters at the White House, although he sought to shift the blame to the Democrats, who were unified in their opposition, even though his party controls the White House, the House and th..",
+        "reference": {
+          "resource": "3390",
+          "text": "\"We learned a lot about loyalty. We learned a lot about the vote-getting process,\" Mr Trump told reporters at the White House, although he sought to shift the blame to the Democrats, who were unified in their opposition, even though his party controls the White House, the House and th.."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:25:52.211Z",
+        "updated": "2024-02-13T09:25:52.211Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 787.0002982010593,
+            "y": 374
+          }
+        }
+      }
+    },
+    "e1a80237-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Amid a chaotic scramble for votes, House of Representatives Speaker Paul Ryan (above), who has championed the bill, met with Mr Trump at the White House before the bill was pulled from the House floor after hours of debate",
+        "reference": {
+          "resource": "3390",
+          "offset": 1247,
+          "text": "Amid a chaotic scramble for votes, House of Representatives Speaker Paul Ryan (above), who has championed the bill, met with Mr Trump at the White House before the bill was pulled from the House floor after hours of debate"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:25:52.211Z",
+        "updated": "2024-02-13T09:25:52.211Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0001542247943,
+            "y": 748
+          }
+        }
+      }
+    },
+    "e1a80238-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Mr Ryan said he recommended that the legislation be withdrawn from the House floor because he did not have the votes to pass it, and that Mr Trump agreed",
+        "reference": {
+          "resource": "3390",
+          "offset": 1471,
+          "text": "Mr Ryan said he recommended that the legislation be withdrawn from the House floor because he did not have the votes to pass it, and that Mr Trump agreed"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:25:52.211Z",
+        "updated": "2024-02-13T09:25:52.211Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.00099762106936,
+            "y": 1098
+          }
+        }
+      }
+    },
+    "e1a80239-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Without the bill's passage in Congress, Democratic former President Barack Obama's signature domestic policy achievement, the 2010 Affordable Care Act - known as Obamacare - would remain in place despite seven years of Republican promises to dismantle it",
+        "reference": {
+          "resource": "3390",
+          "offset": 1626,
+          "text": "Without the bill's passage in Congress, Democratic former President Barack Obama's signature domestic policy achievement, the 2010 Affordable Care Act - known as Obamacare - would remain in place despite seven years of Republican promises to dismantle it"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:25:52.211Z",
+        "updated": "2024-02-13T09:25:52.211Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.00050089228667,
+            "y": 736
+          }
+        }
+      }
+    },
+    "e1a8023a-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "\"There were things in this bill that I didn't particularly like,\" Mr Trump added, without specifying what those were, but he expressed confidence in Mr Ryan's leadership",
+        "reference": {
+          "resource": "3390",
+          "offset": 1882,
+          "text": "\"There were things in this bill that I didn't particularly like,\" Mr Trump added, without specifying what those were, but he expressed confidence in Mr Ryan's leadership"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:25:52.211Z",
+        "updated": "2024-02-13T09:25:52.211Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1137.0004287831782,
+            "y": 374
+          }
+        }
+      }
+    },
+    "e1a8023b-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "\"Perhaps the best thing that could happen is exactly what happened today, because we'll end up with a truly great healthcare bill in the future after this mess known as Obamacare explodes,\" Mr Trump said",
+        "reference": {
+          "resource": "3390",
+          "offset": 2053,
+          "text": "\"Perhaps the best thing that could happen is exactly what happened today, because we'll end up with a truly great healthcare bill in the future after this mess known as Obamacare explodes,\" Mr Trump said"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:25:52.211Z",
+        "updated": "2024-02-13T09:25:52.211Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1487.0008464579862,
+            "y": 374
+          }
+        }
+      }
+    },
+    "e1a8023c-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Repealing and replacing Obamacare was a top campaign promise by Mr Trump in the 2016 presidential election",
+        "reference": {
+          "resource": "3390",
+          "offset": 2258,
+          "text": "Repealing and replacing Obamacare was a top campaign promise by Mr Trump in the 2016 presidential election"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:25:52.211Z",
+        "updated": "2024-02-13T09:25:52.211Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.00041968371649,
+            "y": 1098
+          }
+        }
+      }
+    },
+    "1663c3b0-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 537.0003829307379,
+            "y": 274
+          }
+        }
+      }
+    },
+    "1663c3b6-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0000156780618,
+            "y": 636
+          }
+        }
+      }
+    },
+    "1663c3b9-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0007492854102,
+            "y": 636
+          }
+        }
+      }
+    },
+    "1663c3bc-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0006140480962,
+            "y": 998
+          }
+        }
+      }
+    },
+    "1663c3bf-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 887.0002648549586,
+            "y": 274
+          }
+        }
+      }
+    },
+    "1663c3c2-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.0009428177817,
+            "y": 636
+          }
+        }
+      }
+    },
+    "1663c3c5-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.00010876021685,
+            "y": 998
+          }
+        }
+      }
+    },
+    "1663c3cb-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1237.000971165609,
+            "y": 274
+          }
+        }
+      }
+    },
+    "1663c3ce-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1587.0009699372044,
+            "y": 274
+          }
+        }
+      }
+    },
+    "c9587ae0-fbdc-11ee-88a6-a31b3673e116": {
+      "atom": {
+        "text": "Mr Trump's first major legislative initiative since taking office ended in failure",
+        "reference": {
+          "text": "Mr Trump's first major legislative initiative since taking office ended in failure"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-16T10:33:38.446Z",
+        "updated": "2024-04-16T10:33:38.446Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000341020758912,
+            "y": 434
+          }
+        }
+      }
+    },
+    "cf3a5eb0-fbdc-11ee-88a6-a31b3673e116": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-16T10:33:48.315Z",
+        "updated": "2024-04-16T10:33:48.315Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.0003257008235,
+            "y": 274
+          }
+        }
+      }
+    },
+    "75e2dc10-fbdd-11ee-88a6-a31b3673e116": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-16T10:38:27.921Z",
+        "updated": "2024-04-16T10:38:27.921Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00042387402118,
+            "y": 636
+          }
+        }
+      }
+    },
+    "cfc9ff10-fbdd-11ee-88a6-a31b3673e116": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-16T10:40:58.753Z",
+        "updated": "2024-04-16T10:40:58.753Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00045104237978,
+            "y": 998
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "1663c3b1-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "e1a80231-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "1663c3b0-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3b2-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "1663c3b0-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "e1a80230-ca51-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3b4-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "e1a80232-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "1663c3b3-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3b7-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "e1a80233-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "1663c3b6-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3b8-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "1663c3b6-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "e1a80231-ca51-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3ba-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "e1a80234-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "1663c3b9-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3bb-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "1663c3b9-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "e1a80231-ca51-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3bd-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "e1a80235-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "1663c3bc-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3c0-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "e1a80236-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "1663c3bf-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3c1-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "1663c3bf-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "e1a80230-ca51-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3c3-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "e1a80237-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "1663c3c2-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3c6-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "e1a80238-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "1663c3c5-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3c9-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "e1a80239-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "1663c3c8-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3ca-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "1663c3c8-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "e1a80230-ca51-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3cc-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "e1a8023a-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "1663c3cb-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3cd-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "1663c3cb-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "e1a80230-ca51-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3cf-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "e1a8023b-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "1663c3ce-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3d0-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "1663c3ce-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "e1a80230-ca51-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3d2-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "e1a8023c-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "1663c3d1-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3d3-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "1663c3d1-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "e1a80230-ca51-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "7a5e6640-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "1663c3bc-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "e1a80234-ca51-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:30:08.420Z",
+        "updated": "2024-02-13T09:30:08.420Z"
+      },
+      "userdata": {}
+    },
+    "91dfb3f0-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "1663c3c5-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "e1a80237-ca51-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:30:47.855Z",
+        "updated": "2024-02-13T09:30:47.855Z"
+      },
+      "userdata": {}
+    },
+    "95d1d5b0-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "1663c3c2-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "e1a80231-ca51-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:30:54.475Z",
+        "updated": "2024-02-13T09:30:54.475Z"
+      },
+      "userdata": {}
+    },
+    "cf3a5eb1-fbdc-11ee-88a6-a31b3673e116": {
+      "source": "c9587ae0-fbdc-11ee-88a6-a31b3673e116",
+      "target": "cf3a5eb0-fbdc-11ee-88a6-a31b3673e116",
+      "metadata": {
+        "created": "2024-04-16T10:33:48.315Z",
+        "updated": "2024-04-16T10:33:48.315Z"
+      },
+      "userdata": {}
+    },
+    "cf3a5eb2-fbdc-11ee-88a6-a31b3673e116": {
+      "source": "cf3a5eb0-fbdc-11ee-88a6-a31b3673e116",
+      "target": "e1a80230-ca51-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-04-16T10:33:48.315Z",
+        "updated": "2024-04-16T10:33:48.315Z"
+      },
+      "userdata": {}
+    },
+    "75e2dc11-fbdd-11ee-88a6-a31b3673e116": {
+      "source": "e1a80239-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "75e2dc10-fbdd-11ee-88a6-a31b3673e116",
+      "metadata": {
+        "created": "2024-04-16T10:38:27.921Z",
+        "updated": "2024-04-16T10:38:27.921Z"
+      },
+      "userdata": {}
+    },
+    "75e2dc12-fbdd-11ee-88a6-a31b3673e116": {
+      "source": "75e2dc10-fbdd-11ee-88a6-a31b3673e116",
+      "target": "c9587ae0-fbdc-11ee-88a6-a31b3673e116",
+      "metadata": {
+        "created": "2024-04-16T10:38:27.921Z",
+        "updated": "2024-04-16T10:38:27.921Z"
+      },
+      "userdata": {}
+    },
+    "cfca2620-fbdd-11ee-88a6-a31b3673e116": {
+      "source": "e1a8023c-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "cfc9ff10-fbdd-11ee-88a6-a31b3673e116",
+      "metadata": {
+        "created": "2024-04-16T10:40:58.754Z",
+        "updated": "2024-04-16T10:40:58.754Z"
+      },
+      "userdata": {}
+    },
+    "cfca2621-fbdd-11ee-88a6-a31b3673e116": {
+      "source": "cfc9ff10-fbdd-11ee-88a6-a31b3673e116",
+      "target": "e1a80239-ca51-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-04-16T10:40:58.754Z",
+        "updated": "2024-04-16T10:40:58.754Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "3390": {
+      "text": "US President Donald Trump has suffered a stunning political setback in a Congress controlled by his own party when Republican leaders pulled legislation to overhaul the US healthcare system, a major 2016 election campaign promise of the president and his allies.- Republican leaders of the House of Representatives pulled the legislation due to a shortage of votes despite desperate lobbying by the White House and its allies in Congress,-ensuring that Mr Trump's first major legislative initiative since taking office ended in failure. - - - - - - House Republicans-had planned a vote on the measure after Mr Trump cut off negotiations with Republicans who had balked at the plan and issued an ultimatum to vote on Friday, win or lose. Republican moderates as well as the most conservative lawmakers had objected to the legislation. The White House and House leaders were unable to come up with a plan that satisfied both moderates and conservatives. \"We learned a lot about loyalty. We learned a lot about the vote-getting process,\" Mr Trump told reporters at the White House, although he sought to shift the blame to the Democrats, who were unified in their opposition, even though his party controls the White House, the House and the Senate. Amid a chaotic scramble for votes, House of Representatives Speaker Paul Ryan (above), who has championed the bill, met with Mr Trump at the White House before the bill was pulled from the House floor after hours of debate. Mr Ryan said he recommended that the legislation be withdrawn from the House floor because he did not have the votes to pass it, and that Mr Trump agreed. Without the bill's passage in Congress, Democratic former President Barack Obama's signature domestic policy achievement, the 2010 Affordable Care Act - known as Obamacare - would remain in place despite seven years of Republican promises to dismantle it. \"There were things in this bill that I didn't particularly like,\" Mr Trump added, without specifying what those were, but he expressed confidence in Mr Ryan's leadership. \"Perhaps the best thing that could happen is exactly what happened today, because we'll end up with a truly great healthcare bill in the future after this mess known as Obamacare explodes,\" Mr Trump said. Repealing and replacing Obamacare was a top campaign promise by Mr Trump in the 2016 presidential election",
+      "title": "Republicans pull healthcare legislation plan in blow to Trump",
+      "source": "http://www.rte.ie/news/2017/0324/862168-trump-health/",
+      "timestamp": "2017-03-25T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.176Z",
+        "updated": "2024-02-09T13:09:16.176Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "6fda64d0-fbda-11ee-88a6-a31b3673e116": {
+      "name": "annotator0",
+      "email": "s4kibart@uni-trier.de",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "e1a80230-ca51-11ee-b5b8-bbee0a74ec6f",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.175Z",
+    "updated": "2024-04-16T10:41:49.587Z"
+  },
+  "userdata": {}
+}

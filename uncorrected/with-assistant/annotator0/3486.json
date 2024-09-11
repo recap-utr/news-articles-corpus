@@ -1,0 +1,1012 @@
+{
+  "nodes": {
+    "7d062c20-c77d-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Hamas authorities partially reopened the crossing between the Gaza Strip and Israel on Monday, after a one-day closure following the assassination of one of the group's top commanders",
+        "reference": {
+          "resource": "3486",
+          "offset": 0,
+          "text": "Hamas authorities partially reopened the crossing between the Gaza Strip and Israel on Monday, after a one-day closure following the assassination of one of the group's top commanders"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T19:00:27.746Z",
+        "updated": "2024-02-09T19:00:27.746Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Provides information on Hamas' action and the context for it.",
+          "mcConfig": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "mcExplanation": "This ADU serves as the major claim because it primarily outlines the situation of the Gaza Strip's crossing being partially reopened by Hamas authorities, which acts as the central focus around which the details and consequences provided in the other ADUs revolve."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 492.0004436014998,
+            "y": 12
+          }
+        }
+      }
+    },
+    "7d065330-c77d-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Hamas, which runs the Gaza Strip, closed the crossing on Sunday after blaming Israel for the assassination of one of its senior officials",
+        "reference": {
+          "resource": "3486",
+          "offset": 700,
+          "text": "Hamas, which runs the Gaza Strip, closed the crossing on Sunday after blaming Israel for the assassination of one of its senior officials"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T19:00:27.747Z",
+        "updated": "2024-02-09T19:00:27.747Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Provides reasoning behind the initial closure of the crossing."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 442.0003028362465,
+            "y": 302
+          }
+        }
+      }
+    },
+    "7d065331-c77d-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Travel into and out of the Gaza Strip is heavily restricted by Israeli authorities - part of a crippling blockade in place since 2007 - but the Hamas-implemented closure was seen as a rare measure",
+        "reference": {
+          "resource": "3486",
+          "offset": 839,
+          "text": "Travel into and out of the Gaza Strip is heavily restricted by Israeli authorities - part of a crippling blockade in place since 2007 - but the Hamas-implemented closure was seen as a rare measure"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T19:00:27.747Z",
+        "updated": "2024-02-09T19:00:27.747Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Explains the normal state of travel restrictions and the significance of the Hamas-implemented closure."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1462.0007943152548,
+            "y": 568
+          }
+        }
+      }
+    },
+    "7d065332-c77d-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Mazen Faqha, 38, who was shot dead by unknown gunmen on Friday outside his home in Gaza City. Hamas officials blamed his killing on the Israeli intelligence agency Mossad and its \"collaborators\"",
+        "reference": {
+          "resource": "3486",
+          "offset": 1037,
+          "text": "Mazen Faqha, 38, who was shot dead by unknown gunmen on Friday outside his home in Gaza City. Hamas officials blamed his killing on the Israeli intelligence agency Mossad and its \"collaborators\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T19:00:27.747Z",
+        "updated": "2024-02-09T19:00:27.747Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Provides information on the assassination and Hamas' attribution of blame."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 392.0000480084823,
+            "y": 568
+          }
+        }
+      }
+    },
+    "7d065333-c77d-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "He was killed by four bullets from a pistol equipped with a silencer, police in Gaza said",
+        "reference": {
+          "resource": "3486",
+          "offset": 1233,
+          "text": "He was killed by four bullets from a pistol equipped with a silencer, police in Gaza said"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T19:00:27.747Z",
+        "updated": "2024-02-09T19:00:27.747Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Details the method of assassination."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 362.0000556292291,
+            "y": 882
+          }
+        }
+      }
+    },
+    "7d065334-c77d-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Hamas did not give details as to the reason for closing the crossing, though there was speculation that authorities were seeking to prevent those responsible for the killing from leaving",
+        "reference": {
+          "resource": "3486",
+          "offset": 1324,
+          "text": "Hamas did not give details as to the reason for closing the crossing, though there was speculation that authorities were seeking to prevent those responsible for the killing from leaving"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T19:00:27.747Z",
+        "updated": "2024-02-09T19:00:27.747Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Speculates on the motive behind the closing of the crossing."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 712.0009044070651,
+            "y": 882
+          }
+        }
+      }
+    },
+    "7d065336-c77d-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Faqha's funeral on Saturday drew thousands of Hamas supporters into the streets with chants of \"revenge\" and \"death to Israel\"",
+        "reference": {
+          "resource": "3486",
+          "offset": 1763,
+          "text": "Faqha's funeral on Saturday drew thousands of Hamas supporters into the streets with chants of \"revenge\" and \"death to Israel\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T19:00:27.747Z",
+        "updated": "2024-02-09T19:00:27.747Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Describes the public response to Faqha's funeral."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 12.000339966235456,
+            "y": 906
+          }
+        }
+      }
+    },
+    "7d065338-c77d-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "The Erez crossing is the only passageway between Gaza and Israel through which people may cross",
+        "reference": {
+          "resource": "3486",
+          "offset": 2010,
+          "text": "The Erez crossing is the only passageway between Gaza and Israel through which people may cross"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T19:00:27.747Z",
+        "updated": "2024-02-09T19:00:27.747Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "States the significance of the Erez crossing."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2018.2957476953948,
+            "y": 688.721105306285
+          }
+        }
+      }
+    },
+    "7d065339-c77d-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "The Karm Abu Salem (Kerem Shalom) crossing with Israel remained fully open over the weekend, as it only permits the passage of commericial goods",
+        "reference": {
+          "resource": "3486",
+          "offset": 2107,
+          "text": "The Karm Abu Salem (Kerem Shalom) crossing with Israel remained fully open over the weekend, as it only permits the passage of commericial goods"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T19:00:27.747Z",
+        "updated": "2024-02-09T19:00:27.747Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Contrasts the status of the Erez crossing with that of the Kerem Shalom crossing."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1762.0004853100972,
+            "y": 883.1516907363838
+          }
+        }
+      }
+    },
+    "7d06533a-c77d-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "A vast majority of the nearly two million Palestinians living in the Gaza Strip remain sealed inside the coastal enclave due to Israel's military blockade, in place for the last decade",
+        "reference": {
+          "resource": "3486",
+          "offset": 2254,
+          "text": "A vast majority of the nearly two million Palestinians living in the Gaza Strip remain sealed inside the coastal enclave due to Israel's military blockade, in place for the last decade"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T19:00:27.747Z",
+        "updated": "2024-02-09T19:00:27.747Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Describes the impact of Israel's blockade on the residents of Gaza."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1412.0008045946015,
+            "y": 898
+          }
+        }
+      }
+    },
+    "7d06533b-c77d-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Gaza's sole crossing with Egypt has also remained largely closed in recent years",
+        "reference": {
+          "resource": "3486",
+          "offset": 2440,
+          "text": "Gaza's sole crossing with Egypt has also remained largely closed in recent years"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T19:00:27.747Z",
+        "updated": "2024-02-09T19:00:27.747Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Highlights the restrictions at Gaza's border with Egypt."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1712.0004197095918,
+            "y": 1196
+          }
+        }
+      }
+    },
+    "7d06533c-c77d-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Three large-scale Israeli offensives in the past eight years have left Gaza's sanitation, energy and medical facilities severely damaged",
+        "reference": {
+          "resource": "3486",
+          "offset": 2522,
+          "text": "Three large-scale Israeli offensives in the past eight years have left Gaza's sanitation, energy and medical facilities severely damaged"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T19:00:27.747Z",
+        "updated": "2024-02-09T19:00:27.747Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Provides context on the challenges facing Gaza's infrastructure."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1077.0654799839353,
+            "y": 904.0580650143277
+          }
+        }
+      }
+    },
+    "7d06533d-c77d-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "The United Nations has warned that due to lagging reconstruction efforts hampered by Israel's blockade and heavy levels of destruction, Gaza may become \"uninhabitable\" by 2020",
+        "reference": {
+          "resource": "3486",
+          "offset": 2660,
+          "text": "The United Nations has warned that due to lagging reconstruction efforts hampered by Israel's blockade and heavy levels of destruction, Gaza may become \"uninhabitable\" by 2020"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T19:00:27.747Z",
+        "updated": "2024-02-09T19:00:27.747Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Cites a United Nations warning regarding the potential future state of Gaza."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1086.407469707952,
+            "y": 1263.4794842097428
+          }
+        }
+      }
+    },
+    "b943ece9-c77d-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T19:02:08.814Z",
+        "updated": "2024-02-09T19:02:08.814Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Reiterates why Hamas temporarily closed the crossing, which is directly related to the reopening narrative."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 542.0004680814668,
+            "y": 202
+          }
+        }
+      }
+    },
+    "b943ecec-c77d-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T19:02:08.814Z",
+        "updated": "2024-02-09T19:02:08.814Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Highlights the severity of travel restrictions, adding context to the closure and partial reopening."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1562.0004893579867,
+            "y": 468
+          }
+        }
+      }
+    },
+    "b943ecef-c77d-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T19:02:08.814Z",
+        "updated": "2024-02-09T19:02:08.814Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Provides background on the assassination that led to the closure, supporting the reason for the reopening narrative."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 492.00008410645637,
+            "y": 468
+          }
+        }
+      }
+    },
+    "b943ecf2-c77d-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T19:02:08.814Z",
+        "updated": "2024-02-09T19:02:08.814Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Details of the assassination offer deeper insight into the events leading up to the crossing's closure."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 462.0001596902242,
+            "y": 782
+          }
+        }
+      }
+    },
+    "b94413f0-c77d-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T19:02:08.815Z",
+        "updated": "2024-02-09T19:02:08.815Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Speculation about preventing the assassins' escape provides rationale behind the crossing's closure."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 818.1127444095482,
+            "y": 818.6747661689977
+          }
+        }
+      }
+    },
+    "b94413f6-c77d-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T19:02:08.815Z",
+        "updated": "2024-02-09T19:02:08.815Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Demonstrates public reaction to the assassination, contributing to the overall narrative of the closure and reopening."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 112.0000415370676,
+            "y": 782
+          }
+        }
+      }
+    },
+    "b94413fc-c77d-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T19:02:08.815Z",
+        "updated": "2024-02-09T19:02:08.815Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Clarifies the uniqueness of the Erez crossing in the context of travel restrictions."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2119.8239715253667,
+            "y": 533.7089560527882
+          }
+        }
+      }
+    },
+    "b94413ff-c77d-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T19:02:08.815Z",
+        "updated": "2024-02-09T19:02:08.815Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Mentions another crossing to provide a complete view of the travel situation related to the Gaza Strip."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1862.000890231149,
+            "y": 782
+          }
+        }
+      }
+    },
+    "b9441402-c77d-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T19:02:08.815Z",
+        "updated": "2024-02-09T19:02:08.815Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Highlights the impact of Israel’s military blockade on Palestinian movement, adding depth to the narrative on travel restrictions."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1512.000308651103,
+            "y": 782
+          }
+        }
+      }
+    },
+    "b9441405-c77d-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T19:02:08.815Z",
+        "updated": "2024-02-09T19:02:08.815Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Further emphasizes the severity of travel restrictions by discussing the status of Gaza's other major crossing."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1812.0000299525022,
+            "y": 1096
+          }
+        }
+      }
+    },
+    "b9441408-c77d-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T19:02:08.815Z",
+        "updated": "2024-02-09T19:02:08.815Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Relates the history of armed conflict to the current state of infrastructure, which indirectly affects travel and blockade conditions."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1055.6176930100662,
+            "y": 465.4054204309475
+          }
+        }
+      }
+    },
+    "b944140b-c77d-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T19:02:08.815Z",
+        "updated": "2024-02-09T19:02:08.815Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The future projection of Gaza's inhabitable status ties back to the consequences of the blockade and past conflicts, influencing the narrative surrounding the reopening of the crossing."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1181.73575324898,
+            "y": 1093.4134198131812
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "b943ece1-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "7d062c21-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "b943ece0-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:02:08.814Z",
+        "updated": "2024-02-09T19:02:08.814Z"
+      },
+      "userdata": {}
+    },
+    "b943ece2-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "b943ece0-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "7d062c20-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:02:08.814Z",
+        "updated": "2024-02-09T19:02:08.814Z"
+      },
+      "userdata": {}
+    },
+    "b943ece4-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "7d062c22-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "b943ece3-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:02:08.814Z",
+        "updated": "2024-02-09T19:02:08.814Z"
+      },
+      "userdata": {}
+    },
+    "b943ece5-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "b943ece3-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "7d062c21-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:02:08.814Z",
+        "updated": "2024-02-09T19:02:08.814Z"
+      },
+      "userdata": {}
+    },
+    "b943ece7-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "7d062c23-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "b943ece6-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:02:08.814Z",
+        "updated": "2024-02-09T19:02:08.814Z"
+      },
+      "userdata": {}
+    },
+    "b943ece8-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "b943ece6-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "7d062c22-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:02:08.814Z",
+        "updated": "2024-02-09T19:02:08.814Z"
+      },
+      "userdata": {}
+    },
+    "b943ecea-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "7d065330-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "b943ece9-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:02:08.814Z",
+        "updated": "2024-02-09T19:02:08.814Z"
+      },
+      "userdata": {}
+    },
+    "b943eceb-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "b943ece9-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "7d062c20-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:02:08.814Z",
+        "updated": "2024-02-09T19:02:08.814Z"
+      },
+      "userdata": {}
+    },
+    "b943eced-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "7d065331-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "b943ecec-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:02:08.814Z",
+        "updated": "2024-02-09T19:02:08.814Z"
+      },
+      "userdata": {}
+    },
+    "b943ecee-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "b943ecec-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "7d065330-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:02:08.814Z",
+        "updated": "2024-02-09T19:02:08.814Z"
+      },
+      "userdata": {}
+    },
+    "b943ecf0-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "7d065332-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "b943ecef-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:02:08.814Z",
+        "updated": "2024-02-09T19:02:08.814Z"
+      },
+      "userdata": {}
+    },
+    "b943ecf1-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "b943ecef-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "7d065330-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:02:08.814Z",
+        "updated": "2024-02-09T19:02:08.814Z"
+      },
+      "userdata": {}
+    },
+    "b943ecf3-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "7d065333-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "b943ecf2-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:02:08.814Z",
+        "updated": "2024-02-09T19:02:08.814Z"
+      },
+      "userdata": {}
+    },
+    "b943ecf4-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "b943ecf2-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "7d065332-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:02:08.815Z",
+        "updated": "2024-02-09T19:02:08.815Z"
+      },
+      "userdata": {}
+    },
+    "b94413f1-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "7d065334-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "b94413f0-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:02:08.815Z",
+        "updated": "2024-02-09T19:02:08.815Z"
+      },
+      "userdata": {}
+    },
+    "b94413f2-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "b94413f0-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "7d065332-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:02:08.815Z",
+        "updated": "2024-02-09T19:02:08.815Z"
+      },
+      "userdata": {}
+    },
+    "b94413f4-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "7d065335-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "b94413f3-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:02:08.815Z",
+        "updated": "2024-02-09T19:02:08.815Z"
+      },
+      "userdata": {}
+    },
+    "b94413f5-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "b94413f3-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "7d065332-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:02:08.815Z",
+        "updated": "2024-02-09T19:02:08.815Z"
+      },
+      "userdata": {}
+    },
+    "b94413f7-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "7d065336-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "b94413f6-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:02:08.815Z",
+        "updated": "2024-02-09T19:02:08.815Z"
+      },
+      "userdata": {}
+    },
+    "b94413f8-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "b94413f6-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "7d065332-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:02:08.815Z",
+        "updated": "2024-02-09T19:02:08.815Z"
+      },
+      "userdata": {}
+    },
+    "b94413fa-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "7d065337-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "b94413f9-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:02:08.815Z",
+        "updated": "2024-02-09T19:02:08.815Z"
+      },
+      "userdata": {}
+    },
+    "b94413fb-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "b94413f9-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "7d065336-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:02:08.815Z",
+        "updated": "2024-02-09T19:02:08.815Z"
+      },
+      "userdata": {}
+    },
+    "b94413fd-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "7d065338-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "b94413fc-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:02:08.815Z",
+        "updated": "2024-02-09T19:02:08.815Z"
+      },
+      "userdata": {}
+    },
+    "b94413fe-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "b94413fc-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "7d062c21-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:02:08.815Z",
+        "updated": "2024-02-09T19:02:08.815Z"
+      },
+      "userdata": {}
+    },
+    "b9441400-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "7d065339-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "b94413ff-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:02:08.815Z",
+        "updated": "2024-02-09T19:02:08.815Z"
+      },
+      "userdata": {}
+    },
+    "b9441401-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "b94413ff-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "7d065331-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:02:08.815Z",
+        "updated": "2024-02-09T19:02:08.815Z"
+      },
+      "userdata": {}
+    },
+    "b9441403-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "7d06533a-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "b9441402-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:02:08.815Z",
+        "updated": "2024-02-09T19:02:08.815Z"
+      },
+      "userdata": {}
+    },
+    "b9441404-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "b9441402-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "7d065331-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:02:08.815Z",
+        "updated": "2024-02-09T19:02:08.815Z"
+      },
+      "userdata": {}
+    },
+    "b9441406-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "7d06533b-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "b9441405-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:02:08.815Z",
+        "updated": "2024-02-09T19:02:08.815Z"
+      },
+      "userdata": {}
+    },
+    "b9441409-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "7d06533c-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "b9441408-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:02:08.815Z",
+        "updated": "2024-02-09T19:02:08.815Z"
+      },
+      "userdata": {}
+    },
+    "b944140c-c77d-11ee-a75d-3d21b0b510a2": {
+      "source": "7d06533d-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "b944140b-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:02:08.815Z",
+        "updated": "2024-02-09T19:02:08.815Z"
+      },
+      "userdata": {}
+    },
+    "7b86e9b0-c77e-11ee-a75d-3d21b0b510a2": {
+      "source": "b94413fc-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "7d065331-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:07:34.731Z",
+        "updated": "2024-02-09T19:07:34.731Z"
+      },
+      "userdata": {}
+    },
+    "c4c9f2c0-c77e-11ee-a75d-3d21b0b510a2": {
+      "source": "b9441408-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "7d065330-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:09:37.644Z",
+        "updated": "2024-02-09T19:09:37.644Z"
+      },
+      "userdata": {}
+    },
+    "4c1b5de0-c77f-11ee-a75d-3d21b0b510a2": {
+      "source": "b9441405-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "7d065331-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:13:24.670Z",
+        "updated": "2024-02-09T19:13:24.670Z"
+      },
+      "userdata": {}
+    },
+    "633b78c0-c77f-11ee-a75d-3d21b0b510a2": {
+      "source": "b944140b-c77d-11ee-a75d-3d21b0b510a2",
+      "target": "7d06533c-c77d-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T19:14:03.468Z",
+        "updated": "2024-02-09T19:14:03.468Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "3486": {
+      "text": "Hamas authorities partially reopened the crossing between the Gaza Strip and Israel on Monday, after a one-day closure following the assassination of one of the group's top commanders. \"From Monday morning, travel through the Beit Hanoun [Erez] crossing will be permitted temporarily for some categories,\" a statement from Iyad al-Bozum, a spokesman for the interior ministry in the Palestinian enclave, said. Anyone would be allowed to enter Gaza, the statement said, but those leaving would remain restricted to senior politicians, the sick, women of all ages, and families of prisoners. Men and boys who have an Israeli permit to leave the Strip would be restricted to those under 15 and over 45. Hamas, which runs the Gaza Strip, closed the crossing on Sunday after blaming Israel for the assassination of one of its senior officials. Travel into and out of the Gaza Strip is heavily restricted by Israeli authorities - part of a crippling blockade in place since 2007 - but the Hamas-implemented closure was seen as a rare measure. Mazen Faqha, 38, who was shot dead by unknown gunmen on Friday outside his home in Gaza City. Hamas officials blamed his killing on the Israeli intelligence agency Mossad and its \"collaborators\". He was killed by four bullets from a pistol equipped with a silencer, police in Gaza said. Hamas did not give details as to the reason for closing the crossing, though there was speculation that authorities were seeking to prevent those responsible for the killing from leaving. Israel has not commented on the shooting. According to Hamas, Faqha formed cells for the group's military wing in the occupied West Bank cities of Tubas, where he was born, and Jenin. In Pictures: Thousands attend Gaza funeral of slain Hamas official Faqha's funeral on Saturday drew thousands of Hamas supporters into the streets with chants of \"revenge\" and \"death to Israel\". Ismail Haniya, until recently head of Hamas in Gaza, and Yahya Sinwar, who replaced him as leader, led the procession. The Erez crossing is the only passageway between Gaza and Israel through which people may cross. The Karm Abu Salem (Kerem Shalom) crossing with Israel remained fully open over the weekend, as it only permits the passage of commericial goods.- A vast majority of the nearly two million Palestinians living in the Gaza Strip remain sealed inside the coastal enclave due to Israel's military blockade, in place for the last decade.-Gaza's sole crossing with Egypt has also remained largely closed in recent years. Three large-scale Israeli offensives in the past eight years have left Gaza's sanitation, energy and medical facilities severely damaged. The United Nations has warned that due to lagging reconstruction efforts hampered by Israel's blockade and heavy levels of destruction, Gaza may become \"uninhabitable\" by 2020. Source:-Al Jazeera and news agencies",
+      "title": "Hamas eases Gaza lockdown amid manhunt",
+      "source": "http://www.aljazeera.com/news/2017/03/hamas-eases-gaza-lockdown-manhunt-170327093339785.html",
+      "timestamp": "2017-03-27T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.149Z",
+        "updated": "2024-02-09T13:09:16.149Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "7d062c20-c77d-11ee-a75d-3d21b0b510a2",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.148Z",
+    "updated": "2024-02-09T19:14:06.129Z"
+  }
+}

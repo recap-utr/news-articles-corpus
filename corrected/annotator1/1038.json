@@ -1,0 +1,1086 @@
+{
+  "nodes": {
+    "0d0ee410-c67f-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "Continued conflict in South Sudan has forced 52,000 people to flee to Uganda in January alone",
+        "reference": {
+          "resource": "1038",
+          "offset": 0,
+          "text": "Continued conflict in South Sudan has forced 52,000 people to flee to Uganda in January alone"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:39:07.729Z",
+        "updated": "2024-02-08T12:39:07.729Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0001238208962,
+            "y": 350
+          }
+        }
+      }
+    },
+    "14d76230-c67f-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "Killings of civilians, rapes and the destruction of homes and property have been reported",
+        "reference": {
+          "resource": "1038",
+          "offset": 108,
+          "text": "Killings of civilians, rapes and the destruction of homes and property have been reported"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:39:20.787Z",
+        "updated": "2024-02-08T12:39:20.787Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.0003231653695,
+            "y": 362
+          }
+        }
+      }
+    },
+    "01c2a0f0-c680-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "\"South Sudan stands on the brink of an all-out ethnic civil war, which could destabilize the entire region,\"",
+        "reference": {
+          "resource": "1038",
+          "offset": 1863,
+          "text": "\"South Sudan stands on the brink of an all-out ethnic civil war, which could destabilize the entire region,\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:45:58.271Z",
+        "updated": "2024-02-08T12:45:58.271Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1412.0000125989086,
+            "y": 362
+          }
+        }
+      }
+    },
+    "2cf5bdc0-c680-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "UN experts reported \"ethnic cleansing\" in several parts across the country, with Dinka troops accused of driving the atrocities",
+        "reference": {
+          "resource": "1038",
+          "offset": 1997,
+          "text": "UN experts reported \"ethnic cleansing\" in several parts across the country, with Dinka troops accused of driving the atrocities"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:47:10.749Z",
+        "updated": "2024-02-08T12:47:10.749Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0007679953077,
+            "y": 350
+          }
+        }
+      }
+    },
+    "4314bc50-c680-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "From 1972 to 1983, South Sudan enjoyed relative peace and autonomy before falling back into civil war",
+        "reference": {
+          "resource": "1038",
+          "offset": 2438,
+          "text": "From 1972 to 1983, South Sudan enjoyed relative peace and autonomy before falling back into civil war"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:47:47.861Z",
+        "updated": "2024-02-08T12:47:47.861Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1762.0000668414639,
+            "y": 616
+          }
+        }
+      }
+    },
+    "7005dcd0-c680-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "The new state was based largely on a peace deal struck in 2005 under the auspices of Garang, who died in a helicopter crash weeks after the deal",
+        "reference": {
+          "resource": "1038",
+          "offset": 2907,
+          "text": "The new state was based largely on a peace deal struck in 2005 under the auspices of Garang, who died in a helicopter crash weeks after the deal"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:49:03.261Z",
+        "updated": "2024-02-08T12:49:03.261Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000411335079368,
+            "y": 350
+          }
+        }
+      }
+    },
+    "895ad910-c680-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "he donned his military uniform for effect when addressing the media, accusing Machar and his allies of attempting a coup",
+        "reference": {
+          "resource": "1038",
+          "offset": 3237,
+          "text": "he donned his military uniform for effect when addressing the media, accusing Machar and his allies of attempting a coup"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:49:45.761Z",
+        "updated": "2024-02-08T12:49:45.761Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 762.0007078447106,
+            "y": 858
+          }
+        }
+      }
+    },
+    "a7300640-c680-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "focus on the protection of civilians. Building the state no longer seemed a realistic goal to pursue",
+        "reference": {
+          "resource": "1038",
+          "offset": 3663,
+          "text": "focus on the protection of civilians. Building the state no longer seemed a realistic goal to pursue"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:50:35.812Z",
+        "updated": "2024-02-08T12:50:35.812Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1412.0002268750548,
+            "y": 616
+          }
+        }
+      }
+    },
+    "ba81b400-c680-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "a meeting of Kiir (far left) and Machar (far right) in Addis Ababa resulted in a ceasefire agreement that sparked hope for peace",
+        "reference": {
+          "resource": "1038",
+          "offset": 3783,
+          "text": "a meeting of Kiir (far left) and Machar (far right) in Addis Ababa resulted in a ceasefire agreement that sparked hope for peace"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:51:08.224Z",
+        "updated": "2024-02-08T12:51:08.224Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1762.0009510099276,
+            "y": 870
+          }
+        }
+      }
+    },
+    "be69eab0-c680-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "Those hopes evaporated when new fighting erupted hours later",
+        "reference": {
+          "resource": "1038",
+          "offset": 3913,
+          "text": "Those hopes evaporated when new fighting erupted hours later"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:51:14.779Z",
+        "updated": "2024-02-08T12:51:14.779Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1762.0002487519937,
+            "y": 1148
+          }
+        }
+      }
+    },
+    "c9ca5ca0-c680-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "Subsequent agreements would be just as short-lived",
+        "reference": {
+          "resource": "1038",
+          "offset": 3975,
+          "text": "Subsequent agreements would be just as short-lived"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:51:33.866Z",
+        "updated": "2024-02-08T12:51:33.866Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1812.0004514915643,
+            "y": 1366
+          }
+        }
+      }
+    },
+    "d3a5dc40-c680-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "Not only did the two leaders fail to agree, but observers commented they had long ago lost control over their respective fighters",
+        "reference": {
+          "resource": "1038",
+          "offset": 4027,
+          "text": "Not only did the two leaders fail to agree, but observers commented they had long ago lost control over their respective fighters"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:51:50.404Z",
+        "updated": "2024-02-08T12:51:50.404Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1462.000305642129,
+            "y": 1366
+          }
+        }
+      }
+    },
+    "e2535650-c680-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "The latest peace agreement, signed in August 2015, had a rocky start",
+        "reference": {
+          "resource": "1038",
+          "offset": 4158,
+          "text": "The latest peace agreement, signed in August 2015, had a rocky start"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:52:15.029Z",
+        "updated": "2024-02-08T12:52:15.029Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000158591399527,
+            "y": 616
+          }
+        }
+      }
+    },
+    "fc4de160-c680-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "there has been quarrelling over the number of fighters and weapons that could accompany him to Juba",
+        "reference": {
+          "resource": "1038",
+          "offset": 4403,
+          "text": "there has been quarrelling over the number of fighters and weapons that could accompany him to Juba"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:52:58.614Z",
+        "updated": "2024-02-08T12:52:58.614Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1462.0005458506257,
+            "y": 1632
+          }
+        }
+      }
+    },
+    "0caab920-c681-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "both government troops and rebels use rape as a means of terror and warfare",
+        "reference": {
+          "resource": "1038",
+          "offset": 4642,
+          "text": "both government troops and rebels use rape as a means of terror and warfare"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:53:26.067Z",
+        "updated": "2024-02-08T12:53:26.067Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.000794185091,
+            "y": 616
+          }
+        }
+      }
+    },
+    "30899d70-c681-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "The conflict in South Sudan has escalated to the point of ethnic cleansing and systematic killings perpetrated by the government and military forces which causes the country to stand on the brink of an all-out ethnic war."
+      },
+      "metadata": {
+        "created": "2024-02-08T12:54:26.247Z",
+        "updated": "2024-02-08T12:54:26.247Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1040.5720581744426,
+            "y": 12
+          }
+        }
+      }
+    },
+    "8f65ac30-c681-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T12:57:05.395Z",
+        "updated": "2024-02-08T12:57:05.395Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.00073821971876,
+            "y": 250
+          }
+        }
+      }
+    },
+    "95fb9dc0-c681-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T12:57:16.444Z",
+        "updated": "2024-02-08T12:57:16.444Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0009522282994,
+            "y": 250
+          }
+        }
+      }
+    },
+    "b584e390-c681-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "accusing President Salva Kiir and senior members of his Dinka tribe of committing \"ethnic cleansing.\"",
+        "reference": {
+          "resource": "1038",
+          "offset": 301,
+          "text": "accusing President Salva Kiir and senior members of his Dinka tribe of committing \"ethnic cleansing.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:58:09.353Z",
+        "updated": "2024-02-08T12:58:09.353Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0001301316537,
+            "y": 616
+          }
+        }
+      }
+    },
+    "cd5e8a70-c681-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T12:58:49.367Z",
+        "updated": "2024-02-08T12:58:49.367Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0003985068447,
+            "y": 516
+          }
+        }
+      }
+    },
+    "d1f3a2f0-c681-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T12:58:57.055Z",
+        "updated": "2024-02-08T12:58:57.055Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0001325572016,
+            "y": 250
+          }
+        }
+      }
+    },
+    "da733c10-c681-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T12:59:11.313Z",
+        "updated": "2024-02-08T12:59:11.313Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1512.0009252686107,
+            "y": 250
+          }
+        }
+      }
+    },
+    "e58a21e0-c681-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T12:59:29.918Z",
+        "updated": "2024-02-08T12:59:29.918Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 512.0008412693862,
+            "y": 758
+          }
+        }
+      }
+    },
+    "f60fde60-c681-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T12:59:57.638Z",
+        "updated": "2024-02-08T12:59:57.638Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0003105848375,
+            "y": 516
+          }
+        }
+      }
+    },
+    "00b3b710-c682-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:00:15.489Z",
+        "updated": "2024-02-08T13:00:15.489Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1512.000679233218,
+            "y": 516
+          }
+        }
+      }
+    },
+    "29a9dc30-c682-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "The first secession war dates back to 1955, even before British colonialists handed over duties to the new government in Khartoum",
+        "reference": {
+          "resource": "1038",
+          "offset": 2225,
+          "text": "The first secession war dates back to 1955, even before British colonialists handed over duties to the new government in Khartoum"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:01:24.211Z",
+        "updated": "2024-02-08T13:01:24.211Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1762.000941907534,
+            "y": 350
+          }
+        }
+      }
+    },
+    "335c7710-c682-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:01:40.481Z",
+        "updated": "2024-02-08T13:01:40.481Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1862.0004628882607,
+            "y": 250
+          }
+        }
+      }
+    },
+    "3b1d2d00-c682-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:01:53.488Z",
+        "updated": "2024-02-08T13:01:53.488Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1862.0001559592042,
+            "y": 516
+          }
+        }
+      }
+    },
+    "683c1440-c682-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:03:09.188Z",
+        "updated": "2024-02-08T13:03:09.188Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 862.0002554252227,
+            "y": 758
+          }
+        }
+      }
+    },
+    "86797920-c682-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:03:59.922Z",
+        "updated": "2024-02-08T13:03:59.922Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1862.0009162568506,
+            "y": 758
+          }
+        }
+      }
+    },
+    "90a22e60-c682-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:04:16.966Z",
+        "updated": "2024-02-08T13:04:16.966Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1862.0008931559694,
+            "y": 1048
+          }
+        }
+      }
+    },
+    "9dd53d70-c682-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:04:39.111Z",
+        "updated": "2024-02-08T13:04:39.111Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1912.0002768029315,
+            "y": 1266
+          }
+        }
+      }
+    },
+    "b0a2ee20-c682-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:05:10.658Z",
+        "updated": "2024-02-08T13:05:10.658Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00073099185217,
+            "y": 250
+          }
+        }
+      }
+    },
+    "ba1a06a0-c682-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:05:26.538Z",
+        "updated": "2024-02-08T13:05:26.538Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1562.0005449598386,
+            "y": 1266
+          }
+        }
+      }
+    },
+    "bf81d870-c682-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:05:35.607Z",
+        "updated": "2024-02-08T13:05:35.607Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1562.0009704211693,
+            "y": 1532
+          }
+        }
+      }
+    },
+    "c84e5910-c682-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:05:50.369Z",
+        "updated": "2024-02-08T13:05:50.369Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00019550612657,
+            "y": 516
+          }
+        }
+      }
+    },
+    "a91268f0-fc85-11ee-bacf-6f44838a7611": {
+      "atom": {
+        "text": "Kiir has pursued an agenda of \"ethnic cleansing,\" \"forceful displacement of people\" and \"ethnic domination,\" which are considered crimes against humanity",
+        "reference": {
+          "resource": "1038",
+          "offset": 1056,
+          "text": "Kiir has pursued an agenda of \"ethnic cleansing,\" \"forceful displacement of people\" and \"ethnic domination,\" which are considered crimes against humanity"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-17T06:42:29.247Z",
+        "updated": "2024-04-17T06:42:29.247Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 412.00061928681515,
+            "y": 858
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "8f65ac31-c681-11ee-ba3b-07e43482f0f9": {
+      "source": "0d0ee410-c67f-11ee-ba3b-07e43482f0f9",
+      "target": "8f65ac30-c681-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T12:57:05.395Z",
+        "updated": "2024-02-08T12:57:05.395Z"
+      },
+      "userdata": {}
+    },
+    "8f65ac32-c681-11ee-ba3b-07e43482f0f9": {
+      "source": "8f65ac30-c681-11ee-ba3b-07e43482f0f9",
+      "target": "30899d70-c681-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T12:57:05.395Z",
+        "updated": "2024-02-08T12:57:05.395Z"
+      },
+      "userdata": {}
+    },
+    "95fb9dc1-c681-11ee-ba3b-07e43482f0f9": {
+      "source": "2cf5bdc0-c680-11ee-ba3b-07e43482f0f9",
+      "target": "95fb9dc0-c681-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T12:57:16.444Z",
+        "updated": "2024-02-08T12:57:16.444Z"
+      },
+      "userdata": {}
+    },
+    "95fb9dc2-c681-11ee-ba3b-07e43482f0f9": {
+      "source": "95fb9dc0-c681-11ee-ba3b-07e43482f0f9",
+      "target": "30899d70-c681-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T12:57:16.444Z",
+        "updated": "2024-02-08T12:57:16.444Z"
+      },
+      "userdata": {}
+    },
+    "cd5e8a71-c681-11ee-ba3b-07e43482f0f9": {
+      "source": "b584e390-c681-11ee-ba3b-07e43482f0f9",
+      "target": "cd5e8a70-c681-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T12:58:49.367Z",
+        "updated": "2024-02-08T12:58:49.367Z"
+      },
+      "userdata": {}
+    },
+    "cd5e8a72-c681-11ee-ba3b-07e43482f0f9": {
+      "source": "cd5e8a70-c681-11ee-ba3b-07e43482f0f9",
+      "target": "2cf5bdc0-c680-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T12:58:49.367Z",
+        "updated": "2024-02-08T12:58:49.367Z"
+      },
+      "userdata": {}
+    },
+    "d1f3a2f1-c681-11ee-ba3b-07e43482f0f9": {
+      "source": "14d76230-c67f-11ee-ba3b-07e43482f0f9",
+      "target": "d1f3a2f0-c681-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T12:58:57.055Z",
+        "updated": "2024-02-08T12:58:57.055Z"
+      },
+      "userdata": {}
+    },
+    "d1f3a2f2-c681-11ee-ba3b-07e43482f0f9": {
+      "source": "d1f3a2f0-c681-11ee-ba3b-07e43482f0f9",
+      "target": "30899d70-c681-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T12:58:57.055Z",
+        "updated": "2024-02-08T12:58:57.055Z"
+      },
+      "userdata": {}
+    },
+    "da733c11-c681-11ee-ba3b-07e43482f0f9": {
+      "source": "01c2a0f0-c680-11ee-ba3b-07e43482f0f9",
+      "target": "da733c10-c681-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T12:59:11.313Z",
+        "updated": "2024-02-08T12:59:11.313Z"
+      },
+      "userdata": {}
+    },
+    "da733c12-c681-11ee-ba3b-07e43482f0f9": {
+      "source": "da733c10-c681-11ee-ba3b-07e43482f0f9",
+      "target": "30899d70-c681-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T12:59:11.313Z",
+        "updated": "2024-02-08T12:59:11.313Z"
+      },
+      "userdata": {}
+    },
+    "e58a21e1-c681-11ee-ba3b-07e43482f0f9": {
+      "source": "c8922030-c67f-11ee-ba3b-07e43482f0f9",
+      "target": "e58a21e0-c681-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T12:59:29.918Z",
+        "updated": "2024-02-08T12:59:29.918Z"
+      },
+      "userdata": {}
+    },
+    "f60fde61-c681-11ee-ba3b-07e43482f0f9": {
+      "source": "0caab920-c681-11ee-ba3b-07e43482f0f9",
+      "target": "f60fde60-c681-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T12:59:57.638Z",
+        "updated": "2024-02-08T12:59:57.638Z"
+      },
+      "userdata": {}
+    },
+    "f60fde62-c681-11ee-ba3b-07e43482f0f9": {
+      "source": "f60fde60-c681-11ee-ba3b-07e43482f0f9",
+      "target": "14d76230-c67f-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T12:59:57.638Z",
+        "updated": "2024-02-08T12:59:57.638Z"
+      },
+      "userdata": {}
+    },
+    "00b3b711-c682-11ee-ba3b-07e43482f0f9": {
+      "source": "a7300640-c680-11ee-ba3b-07e43482f0f9",
+      "target": "00b3b710-c682-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:00:15.489Z",
+        "updated": "2024-02-08T13:00:15.489Z"
+      },
+      "userdata": {}
+    },
+    "00b3b712-c682-11ee-ba3b-07e43482f0f9": {
+      "source": "00b3b710-c682-11ee-ba3b-07e43482f0f9",
+      "target": "01c2a0f0-c680-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:00:15.489Z",
+        "updated": "2024-02-08T13:00:15.489Z"
+      },
+      "userdata": {}
+    },
+    "335c7711-c682-11ee-ba3b-07e43482f0f9": {
+      "source": "29a9dc30-c682-11ee-ba3b-07e43482f0f9",
+      "target": "335c7710-c682-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:01:40.481Z",
+        "updated": "2024-02-08T13:01:40.481Z"
+      },
+      "userdata": {}
+    },
+    "335c7712-c682-11ee-ba3b-07e43482f0f9": {
+      "source": "335c7710-c682-11ee-ba3b-07e43482f0f9",
+      "target": "30899d70-c681-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:01:40.481Z",
+        "updated": "2024-02-08T13:01:40.481Z"
+      },
+      "userdata": {}
+    },
+    "3b1d2d01-c682-11ee-ba3b-07e43482f0f9": {
+      "source": "4314bc50-c680-11ee-ba3b-07e43482f0f9",
+      "target": "3b1d2d00-c682-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:01:53.488Z",
+        "updated": "2024-02-08T13:01:53.488Z"
+      },
+      "userdata": {}
+    },
+    "3b1d2d02-c682-11ee-ba3b-07e43482f0f9": {
+      "source": "3b1d2d00-c682-11ee-ba3b-07e43482f0f9",
+      "target": "29a9dc30-c682-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:01:53.488Z",
+        "updated": "2024-02-08T13:01:53.488Z"
+      },
+      "userdata": {}
+    },
+    "683c1441-c682-11ee-ba3b-07e43482f0f9": {
+      "source": "895ad910-c680-11ee-ba3b-07e43482f0f9",
+      "target": "683c1440-c682-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:03:09.188Z",
+        "updated": "2024-02-08T13:03:09.188Z"
+      },
+      "userdata": {}
+    },
+    "683c1442-c682-11ee-ba3b-07e43482f0f9": {
+      "source": "683c1440-c682-11ee-ba3b-07e43482f0f9",
+      "target": "b584e390-c681-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:03:09.188Z",
+        "updated": "2024-02-08T13:03:09.188Z"
+      },
+      "userdata": {}
+    },
+    "86797921-c682-11ee-ba3b-07e43482f0f9": {
+      "source": "ba81b400-c680-11ee-ba3b-07e43482f0f9",
+      "target": "86797920-c682-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:03:59.922Z",
+        "updated": "2024-02-08T13:03:59.922Z"
+      },
+      "userdata": {}
+    },
+    "86797922-c682-11ee-ba3b-07e43482f0f9": {
+      "source": "86797920-c682-11ee-ba3b-07e43482f0f9",
+      "target": "4314bc50-c680-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:03:59.922Z",
+        "updated": "2024-02-08T13:03:59.922Z"
+      },
+      "userdata": {}
+    },
+    "90a22e61-c682-11ee-ba3b-07e43482f0f9": {
+      "source": "be69eab0-c680-11ee-ba3b-07e43482f0f9",
+      "target": "90a22e60-c682-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:04:16.966Z",
+        "updated": "2024-02-08T13:04:16.966Z"
+      },
+      "userdata": {}
+    },
+    "90a22e62-c682-11ee-ba3b-07e43482f0f9": {
+      "source": "90a22e60-c682-11ee-ba3b-07e43482f0f9",
+      "target": "ba81b400-c680-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:04:16.966Z",
+        "updated": "2024-02-08T13:04:16.966Z"
+      },
+      "userdata": {}
+    },
+    "9dd53d71-c682-11ee-ba3b-07e43482f0f9": {
+      "source": "c9ca5ca0-c680-11ee-ba3b-07e43482f0f9",
+      "target": "9dd53d70-c682-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:04:39.111Z",
+        "updated": "2024-02-08T13:04:39.111Z"
+      },
+      "userdata": {}
+    },
+    "9dd53d72-c682-11ee-ba3b-07e43482f0f9": {
+      "source": "9dd53d70-c682-11ee-ba3b-07e43482f0f9",
+      "target": "be69eab0-c680-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:04:39.111Z",
+        "updated": "2024-02-08T13:04:39.111Z"
+      },
+      "userdata": {}
+    },
+    "b0a2ee21-c682-11ee-ba3b-07e43482f0f9": {
+      "source": "7005dcd0-c680-11ee-ba3b-07e43482f0f9",
+      "target": "b0a2ee20-c682-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:05:10.658Z",
+        "updated": "2024-02-08T13:05:10.658Z"
+      },
+      "userdata": {}
+    },
+    "b0a2ee22-c682-11ee-ba3b-07e43482f0f9": {
+      "source": "b0a2ee20-c682-11ee-ba3b-07e43482f0f9",
+      "target": "30899d70-c681-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:05:10.658Z",
+        "updated": "2024-02-08T13:05:10.658Z"
+      },
+      "userdata": {}
+    },
+    "ba1a2db0-c682-11ee-ba3b-07e43482f0f9": {
+      "source": "d3a5dc40-c680-11ee-ba3b-07e43482f0f9",
+      "target": "ba1a06a0-c682-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:05:26.539Z",
+        "updated": "2024-02-08T13:05:26.539Z"
+      },
+      "userdata": {}
+    },
+    "ba1a2db1-c682-11ee-ba3b-07e43482f0f9": {
+      "source": "ba1a06a0-c682-11ee-ba3b-07e43482f0f9",
+      "target": "be69eab0-c680-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:05:26.539Z",
+        "updated": "2024-02-08T13:05:26.539Z"
+      },
+      "userdata": {}
+    },
+    "bf81d871-c682-11ee-ba3b-07e43482f0f9": {
+      "source": "fc4de160-c680-11ee-ba3b-07e43482f0f9",
+      "target": "bf81d870-c682-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:05:35.607Z",
+        "updated": "2024-02-08T13:05:35.607Z"
+      },
+      "userdata": {}
+    },
+    "bf81d872-c682-11ee-ba3b-07e43482f0f9": {
+      "source": "bf81d870-c682-11ee-ba3b-07e43482f0f9",
+      "target": "d3a5dc40-c680-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:05:35.607Z",
+        "updated": "2024-02-08T13:05:35.607Z"
+      },
+      "userdata": {}
+    },
+    "c84e5911-c682-11ee-ba3b-07e43482f0f9": {
+      "source": "e2535650-c680-11ee-ba3b-07e43482f0f9",
+      "target": "c84e5910-c682-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:05:50.369Z",
+        "updated": "2024-02-08T13:05:50.369Z"
+      },
+      "userdata": {}
+    },
+    "c84e5912-c682-11ee-ba3b-07e43482f0f9": {
+      "source": "c84e5910-c682-11ee-ba3b-07e43482f0f9",
+      "target": "7005dcd0-c680-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:05:50.369Z",
+        "updated": "2024-02-08T13:05:50.369Z"
+      },
+      "userdata": {}
+    },
+    "b2cb6c70-fc85-11ee-bacf-6f44838a7611": {
+      "source": "a91268f0-fc85-11ee-bacf-6f44838a7611",
+      "target": "e58a21e0-c681-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-04-17T06:42:45.559Z",
+        "updated": "2024-04-17T06:42:45.559Z"
+      },
+      "userdata": {}
+    },
+    "23ca45e0-fc86-11ee-bacf-6f44838a7611": {
+      "source": "e58a21e0-c681-11ee-ba3b-07e43482f0f9",
+      "target": "b584e390-c681-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-04-17T06:45:55.134Z",
+        "updated": "2024-04-17T06:45:55.134Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "1038": {
+      "text": "Continued conflict in South Sudan has forced 52,000 people to flee to Uganda in January alone, the UN said. Killings of civilians, rapes and the destruction of homes and property have been reported. A senior general in South Sudan has resigned over the government's involvement in a brutal civil war, accusing President Salva Kiir and senior members of his Dinka tribe of committing \"ethnic cleansing.\" I \"have lost patience with the conduct of the president and commander-in-chief, the chief of staff and other senior officers in the headquarters of the SPLA [the country's national army] as well as unit commanders,\" Lieutenant General Thomas Cirillo Swaka wrote in a letter. He accused the president and his cohorts of transforming the country's armed forces into a \"tribal\" army that has committed \"systematic killings of people, rape of women and the burning of villages in the name of pursuing rebels in peaceful villages.\" Swaka, a former deputy chief of general staff for logistics, who is-well-respected among the country's foreign partners, said Kiir has pursued an agenda of \"ethnic cleansing,\" \"forceful displacement of people\" and \"ethnic domination,\" which are considered crimes against humanity. The lieutenant general is the second-highest military officer to defect from government forces since fighting erupted in the capital of the world's youngest nation in July. 'All-out ethnic civil war' When-South Sudan gained independence-in 2011, the country descended into armed conflict between the Dinka-and Nuer ethnic groups. The conflict has left tens of thousands dead and over three million displaced, despite a 12,000-strong UN peacekeeping force stationed in the area. Earlier this month, UN chief human rights expert for South Sudan Yasmin Sooka warned that the country's conflict could escalate, citing a steady process of ethnic cleansing. \"South Sudan stands on the brink of an all-out ethnic civil war, which could destabilize the entire region,\" Sooka said. In December, UN experts reported \"ethnic cleansing\" in several parts across the country, with Dinka troops accused of driving the atrocities. For decades, what is now the Republic of South Sudan was officially part of the Republic of Sudan. The first secession war dates back to 1955, even before British colonialists handed over duties to the new government in Khartoum, with Christian South Sudanese fighting for more independence from the Arab north. From 1972 to 1983, South Sudan enjoyed relative peace and autonomy before falling back into civil war. The Sudan People's Liberation Movement and Army (SPLM/A) took up the fight, led by John Garang. The group later splintered, with Salva Kiir and Riek Machar holding leading positions in different factions. In a January 2011 referendum, the South Sudanese people voted for independence. Salva Kiir and Riek Machar were named president and vice president respectively. The new state was based largely on a peace deal struck in 2005 under the auspices of Garang, who died in a helicopter crash weeks after the deal. The alliance between the enemies-turned-colleagues didn't last long. In July 2013, two years after independence, Kiir dismissed Riek Machar and all other cabinet members. In December, he donned his military uniform for effect when addressing the media, accusing Machar and his allies of attempting a coup. It was the beginning of a civil war that continues to this day. At least 50,000 people have died in the conflict, despite various attempts at ending it on different levels. 2.4 million people have been forced from their homes. In May 2014, the 14,000-strong UN mission to South Sudan was restructured to focus on the protection of civilians. Building the state no longer seemed a realistic goal to pursue. Also in May 2015, a meeting of Kiir (far left) and Machar (far right) in Addis Ababa resulted in a ceasefire agreement that sparked hope for peace. Those hopes evaporated when new fighting erupted hours later. Subsequent agreements would be just as short-lived. Not only did the two leaders fail to agree, but observers commented they had long ago lost control over their respective fighters. The latest peace agreement, signed in August 2015, had a rocky start. President Salva Kiir at first refused to sign but finally gave in to international pressure. Part of the deal was to guarantee Machar's return from his exile in Ethiopia. But there has been quarrelling over the number of fighters and weapons that could accompany him to Juba. Meanwhile, the conflict has left the country in ruins. UN High Commissioner for Human Rights, Said Raad al-Hussein, says in a report that both government troops and rebels use rape as a means of terror and warfare. The UN Security Council has decided to put in place a commission to investigate the violence. Author: Philipp Sandner ls/jlw (AFP, AP)",
+      "title": "South Sudan general quits over 'ethnic cleansing' regime",
+      "source": "http://www.dw.com/en/south-sudan-general-quits-over-ethnic-cleansing-regime/a-37522006?maca=en-rss-en-all-1573-rdf",
+      "timestamp": "2017-02-13T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-08T09:23:32.571Z",
+        "updated": "2024-02-08T09:23:32.571Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "69ca24d0-c5b2-11ee-bbb2-f78c6e9d2422": {
+      "name": "Martin Hoppe",
+      "email": "mogramming@gmail.com",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "30899d70-c681-11ee-ba3b-07e43482f0f9",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-08T09:23:32.571Z",
+    "updated": "2024-04-17T06:46:12.789Z"
+  },
+  "userdata": {}
+}

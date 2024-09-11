@@ -1,0 +1,334 @@
+{
+  "nodes": {
+    "6a81c3b0-c670-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "The Trump Administration says recent immigration-related executive orders have not made the US less welcoming to immigrants.",
+        "reference": {
+          "resource": "2804",
+          "offset": 0,
+          "text": "The Trump Administration says recent immigration-related executive orders have not made the US less welcoming to immigrants."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T10:54:22.059Z",
+        "updated": "2024-02-08T10:54:22.059Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 412.00069134580303,
+            "y": 12
+          }
+        }
+      }
+    },
+    "a47657c0-c670-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "White House Press Secretary Sean Spicer said the US did not have a merit-based immigration system and wanted to put one in place.",
+        "reference": {
+          "resource": "2804",
+          "offset": 164,
+          "text": "White House Press Secretary Sean Spicer said the US did not have a merit-based immigration system and wanted to put one in place."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T10:55:59.292Z",
+        "updated": "2024-02-08T10:55:59.292Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 762.0002870994002,
+            "y": 277
+          }
+        }
+      }
+    },
+    "aa9d81f0-c670-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T10:56:09.615Z",
+        "updated": "2024-02-08T10:56:09.615Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 862.0001237680792,
+            "y": 177
+          }
+        }
+      }
+    },
+    "d93107d0-c670-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "On immigration reform, Mr Spicer said that every country, including the US, needed to protect its identity and its people and its economy, and needed to make sure \"people aren't coming in and undermining their ability to work hard and make a good living\"",
+        "reference": {
+          "resource": "2804",
+          "offset": 672,
+          "text": "On immigration reform, Mr Spicer said that every country, including the US, needed to protect its identity and its people and its economy, and needed to make sure \"people aren't coming in and undermining their ability to work hard and make a good living\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T10:57:27.757Z",
+        "updated": "2024-02-08T10:57:27.757Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 412.0005342362961,
+            "y": 277
+          }
+        }
+      }
+    },
+    "db4b5c50-c670-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T10:57:31.285Z",
+        "updated": "2024-02-08T10:57:31.285Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 512.0003270812952,
+            "y": 177
+          }
+        }
+      }
+    },
+    "3c17a250-c671-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "In an interview conducted at the White House to mark St Patrick's Day, Mr Spicer also rejected any suggestion that the administration had a difficult relationship with the truth, or was a war with the media.",
+        "reference": {
+          "resource": "2804",
+          "offset": 464,
+          "text": "In an interview conducted at the White House to mark St Patrick's Day, Mr Spicer also rejected any suggestion that the administration had a difficult relationship with the truth, or was a war with the media."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T11:00:13.685Z",
+        "updated": "2024-02-08T11:00:13.685Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 62.00081179357537,
+            "y": 293
+          }
+        }
+      }
+    },
+    "41d8dec0-c671-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T11:00:23.340Z",
+        "updated": "2024-02-08T11:00:23.340Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 162.0001492527399,
+            "y": 177
+          }
+        }
+      }
+    },
+    "6c5e0850-c671-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "He said it is-\"interesting to see the media talk about credibility and integrity\" when there were so many news reports that attempted \"to create a false narrative or overlooked key facts in other to try to tell the narrative they're trying to suggest\"",
+        "reference": {
+          "resource": "2804",
+          "offset": 3183,
+          "text": "He said it is-\"interesting to see the media talk about credibility and integrity\" when there were so many news reports that attempted \"to create a false narrative or overlooked key facts in other to try to tell the narrative they're trying to suggest\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T11:01:34.678Z",
+        "updated": "2024-02-08T11:01:34.678Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0005945255094,
+            "y": 614
+          }
+        }
+      }
+    },
+    "6f818f70-c671-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T11:01:39.943Z",
+        "updated": "2024-02-08T11:01:39.943Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.0003711800431,
+            "y": 514
+          }
+        }
+      }
+    },
+    "ad023070-c671-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": " But he said the media applied a \"double standard\" in how they judged the administration and judged themselves.",
+        "reference": {
+          "resource": "2804",
+          "offset": 3071,
+          "text": " But he said the media applied a \"double standard\" in how they judged the administration and judged themselves."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T11:03:23.127Z",
+        "updated": "2024-02-08T11:03:23.127Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000293330257819,
+            "y": 614
+          }
+        }
+      }
+    },
+    "af4d31e0-c671-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T11:03:26.974Z",
+        "updated": "2024-02-08T11:03:26.974Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00021186031503,
+            "y": 514
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "aa9d81f1-c670-11ee-bb24-29eae2ae94d0": {
+      "source": "a47657c0-c670-11ee-bb24-29eae2ae94d0",
+      "target": "aa9d81f0-c670-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:56:09.615Z",
+        "updated": "2024-02-08T10:56:09.615Z"
+      },
+      "userdata": {}
+    },
+    "aa9d81f2-c670-11ee-bb24-29eae2ae94d0": {
+      "source": "aa9d81f0-c670-11ee-bb24-29eae2ae94d0",
+      "target": "6a81c3b0-c670-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:56:09.615Z",
+        "updated": "2024-02-08T10:56:09.615Z"
+      },
+      "userdata": {}
+    },
+    "db4b8360-c670-11ee-bb24-29eae2ae94d0": {
+      "source": "d93107d0-c670-11ee-bb24-29eae2ae94d0",
+      "target": "db4b5c50-c670-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:57:31.286Z",
+        "updated": "2024-02-08T10:57:31.286Z"
+      },
+      "userdata": {}
+    },
+    "db4b8361-c670-11ee-bb24-29eae2ae94d0": {
+      "source": "db4b5c50-c670-11ee-bb24-29eae2ae94d0",
+      "target": "6a81c3b0-c670-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:57:31.286Z",
+        "updated": "2024-02-08T10:57:31.286Z"
+      },
+      "userdata": {}
+    },
+    "41d8dec1-c671-11ee-bb24-29eae2ae94d0": {
+      "source": "3c17a250-c671-11ee-bb24-29eae2ae94d0",
+      "target": "41d8dec0-c671-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T11:00:23.340Z",
+        "updated": "2024-02-08T11:00:23.340Z"
+      },
+      "userdata": {}
+    },
+    "41d8dec2-c671-11ee-bb24-29eae2ae94d0": {
+      "source": "41d8dec0-c671-11ee-bb24-29eae2ae94d0",
+      "target": "6a81c3b0-c670-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T11:00:23.340Z",
+        "updated": "2024-02-08T11:00:23.340Z"
+      },
+      "userdata": {}
+    },
+    "6f818f71-c671-11ee-bb24-29eae2ae94d0": {
+      "source": "6c5e0850-c671-11ee-bb24-29eae2ae94d0",
+      "target": "6f818f70-c671-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T11:01:39.943Z",
+        "updated": "2024-02-08T11:01:39.943Z"
+      },
+      "userdata": {}
+    },
+    "6f818f72-c671-11ee-bb24-29eae2ae94d0": {
+      "source": "6f818f70-c671-11ee-bb24-29eae2ae94d0",
+      "target": "3c17a250-c671-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T11:01:39.943Z",
+        "updated": "2024-02-08T11:01:39.943Z"
+      },
+      "userdata": {}
+    },
+    "af4d31e1-c671-11ee-bb24-29eae2ae94d0": {
+      "source": "ad023070-c671-11ee-bb24-29eae2ae94d0",
+      "target": "af4d31e0-c671-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T11:03:26.974Z",
+        "updated": "2024-02-08T11:03:26.974Z"
+      },
+      "userdata": {}
+    },
+    "af4d31e2-c671-11ee-bb24-29eae2ae94d0": {
+      "source": "af4d31e0-c671-11ee-bb24-29eae2ae94d0",
+      "target": "3c17a250-c671-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T11:03:26.974Z",
+        "updated": "2024-02-08T11:03:26.974Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "2804": {
+      "text": "The Trump Administration says recent immigration-related executive orders have not made the US less welcoming to immigrants. Speaking to RT? News in Washington DC, White House Press Secretary Sean Spicer said the US did not have a merit-based immigration system and wanted to put one in place. He said that it was something that President Donald Trump \"really wants to get done\", and there was a \"national security implication as well as an economic implication\". In an interview conducted at the White House to mark St Patrick's Day, Mr Spicer also rejected any suggestion that the administration had a difficult relationship with the truth, or was a war with the media. On immigration reform, Mr Spicer said that every country, including the US, needed to protect its identity and its people and its economy, and needed to make sure \"people aren't coming in and undermining their ability to work hard and make a good living\". Mr Trump discussed immigration with Taoiseach Enda Kenny yesterday. Mr Spicer said there was \"a way to do this\", but that the US was a country of laws and the rule of law needed to be respected. Wearing a shamrock tie, green socks and an Ireland-US flag pin, Mr Spicer said he cherished his Irish heritage, and considered himself \"very much Irish\". He joked that he was not wearing his famous pair of green white and shamrock trousers today because \"I don't think they would go over well at the White House\", adding that they would \"live forever on the Internet\". His great-grandfather William Spicer emigrated to the US from Co-Cork in the late 1800s. He joined the US navy, fought in the Spanish-American war and was a recipient of a medal of honour for his service. He-settled in Newport, Rhode Island \"and the Spicers have been there ever-since\". He has Irish heritage on his mother's side too, with the surname Kelly. Mr Spicer said he had been all over Ireland, but had been to Dublin more than any other county, and that he had done some work to trace his roots, saying \"If I ever get the time\", he hoped to explore more. He is just one of several Irish-Americans working in the West Wing;-advisors KellyAnne Conway, Steve Bannon, Mick Mulvaney-and Hope Hicks all have Irish roots, as does Vice President Mike Pence, whose grandfather emigrated from Ireland in 1923. Top: KellyAnne Conway, Steve Bannon and Mike Pence with Mick Mulvaney and Hope Hicks Trump administration has 'intense' relationship with some media outlets Mr Spicer's daily press briefings have become combative of late as the relationship between the Trump administration and some outlets has deteriorated. But Mr Spicer does not think that there is a war, describing the relationship instead as \"definitely intense\", adding there was a big difference between being \"disagreeable\" and \"disrespectful\", but that they strove \"to find the balance at all times\". He rejected a suggestion that sometimes he and other spokespeople massaged the truth in what they briefed on behalf the President, saying that every day he and the team made sure to \"articulate our position\". But he said the media applied a \"double standard\" in how they judged the administration and judged themselves. He said it is-\"interesting to see the media talk about credibility and integrity\" when there were so many news reports that attempted \"to create a false narrative or overlooked key facts in other to try to tell the narrative they're trying to suggest\". But when asked about the situation whereby some of the President's tweets were not always based in fact, Mr Spicer said \"some people would suggest that, but in most cases we're either striving to get all those facts or we've proven right in almost all of those circumstances\". He said that he had never faced a situation where he had to say no to the President, and they usually talked through issues in advance. He said-Mr Trump \"constantly has ideas and suggestions on how to say things\". He said Twitter had not made his job more difficult, but the President's various social media platforms gave the administration a \"very unique ability to speak directly to the American people\", something he felt \"some folks in the media\" viewed as a threat. He also-said that-he did feel a sense of humour was important to the job but also \"a sense of grounding, and about knowing who you are and what's important\". \"You have to-keep your compass straight on why you're here and what you're supposed to be doing\". Mr Spicer said-he loved his job, adding \"you can't do something like this if you don't love it\".",
+      "title": "Orders did not make US 'less welcoming' to immigrants - Spicer",
+      "source": "http://www.rte.ie/news/world/2017/0317/860596-sean-spicer/",
+      "timestamp": "2024-02-08T10:53:58.841Z",
+      "metadata": {
+        "created": "2024-02-05T09:49:22.083Z",
+        "updated": "2024-02-05T09:49:22.083Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "6a81c3b0-c670-11ee-bb24-29eae2ae94d0",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-05T09:49:22.083Z",
+    "updated": "2024-02-08T11:05:35.286Z"
+  }
+}

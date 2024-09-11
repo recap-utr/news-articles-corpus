@@ -1,0 +1,343 @@
+{
+  "nodes": {
+    "d68f1421-c8de-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "The order is likely to spark accusations from Georgia and its Western allies that the Kremlin is absorbing the region into Russia by stealth",
+        "reference": {
+          "resource": "2386",
+          "text": "The order is likely to spark accusations from Georgia and its Western allies that the Kremlin is absorbing the region into Russia by stealth"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:09:50.306Z",
+        "updated": "2024-02-11T13:09:50.306Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU predicts the international response to the decision."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 362.00002307250463,
+            "y": 302
+          }
+        }
+      }
+    },
+    "d68f1420-c8de-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Russian President Vladimir Putin has approved the government's proposal to integrate some military units of Georgia's breakaway region of South Ossetia into the Russian army",
+        "reference": {
+          "resource": "2386",
+          "offset": 0,
+          "text": "Russian President Vladimir Putin has approved the government's proposal to integrate some military units of Georgia's breakaway region of South Ossetia into the Russian army"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:09:50.306Z",
+        "updated": "2024-02-11T13:09:50.306Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement presents the major decision that serves as the foundation for subsequent arguments.",
+          "mcConfig": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "mcExplanation": "It is the core event that triggers subsequent discussions and responses."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 712.0009538707848,
+            "y": 12
+          }
+        }
+      }
+    },
+    "d68f1427-c8de-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:09:50.306Z",
+        "updated": "2024-02-11T13:09:50.306Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Predicted international response directly relates to Putin's approval of the deal."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 462.0001068808932,
+            "y": 202
+          }
+        }
+      }
+    },
+    "d68f1422-c8de-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Under international law it is part of Georgia's sovereign territory",
+        "reference": {
+          "resource": "2386",
+          "offset": 350,
+          "text": "Under international law it is part of Georgia's sovereign territory"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:09:50.306Z",
+        "updated": "2024-02-11T13:09:50.306Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU provides a legal standpoint regarding the territorial integrity of Georgia."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 712.0004134539993,
+            "y": 338
+          }
+        }
+      }
+    },
+    "d68f142a-c8de-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:09:50.306Z",
+        "updated": "2024-02-11T13:09:50.306Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Undermines the legality of the decision in the context of international law."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 812.0003065535115,
+            "y": 202
+          }
+        }
+      }
+    },
+    "d68f1423-c8de-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Russia recognised South Ossetia as an independent state i...  Read More",
+        "reference": {
+          "resource": "2386",
+          "text": "Russia recognised South Ossetia as an independent state i...  Read More"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:09:50.306Z",
+        "updated": "2024-02-11T13:09:50.306Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU provides historical context to Russia's stance on South Ossetia."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1062.9661626322095,
+            "y": 302
+          }
+        }
+      }
+    },
+    "d68f3b30-c8de-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:09:50.307Z",
+        "updated": "2024-02-11T13:09:50.307Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Historical context supports Russia's decision by highlighting previous recognition of independence."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1162.0001849911432,
+            "y": 202
+          }
+        }
+      }
+    },
+    "d68f1425-c8de-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Transfer of some units of South Ossetian Armed Forces into the Russian army is at variance with the Russian legislation",
+        "reference": {
+          "resource": "2386",
+          "offset": 1338,
+          "text": "Transfer of some units of South Ossetian Armed Forces into the Russian army is at variance with the Russian legislation"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:09:50.306Z",
+        "updated": "2024-02-11T13:09:50.306Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU presents a legal contradiction within Russia's own legal framework."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 12.00021313309748,
+            "y": 302
+          }
+        }
+      }
+    },
+    "d68f3b36-c8de-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:09:50.307Z",
+        "updated": "2024-02-11T13:09:50.307Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Presents an internal legal contradiction to the decision."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 112.00061992119143,
+            "y": 202
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "d68f1428-c8de-11ee-a7b6-0184e7d3dd10": {
+      "source": "d68f1421-c8de-11ee-a7b6-0184e7d3dd10",
+      "target": "d68f1427-c8de-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:09:50.306Z",
+        "updated": "2024-02-11T13:09:50.306Z"
+      },
+      "userdata": {}
+    },
+    "d68f1429-c8de-11ee-a7b6-0184e7d3dd10": {
+      "source": "d68f1427-c8de-11ee-a7b6-0184e7d3dd10",
+      "target": "d68f1420-c8de-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:09:50.306Z",
+        "updated": "2024-02-11T13:09:50.306Z"
+      },
+      "userdata": {}
+    },
+    "d68f142b-c8de-11ee-a7b6-0184e7d3dd10": {
+      "source": "d68f1422-c8de-11ee-a7b6-0184e7d3dd10",
+      "target": "d68f142a-c8de-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:09:50.306Z",
+        "updated": "2024-02-11T13:09:50.306Z"
+      },
+      "userdata": {}
+    },
+    "d68f142c-c8de-11ee-a7b6-0184e7d3dd10": {
+      "source": "d68f142a-c8de-11ee-a7b6-0184e7d3dd10",
+      "target": "d68f1420-c8de-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:09:50.307Z",
+        "updated": "2024-02-11T13:09:50.307Z"
+      },
+      "userdata": {}
+    },
+    "d68f3b31-c8de-11ee-a7b6-0184e7d3dd10": {
+      "source": "d68f1423-c8de-11ee-a7b6-0184e7d3dd10",
+      "target": "d68f3b30-c8de-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:09:50.307Z",
+        "updated": "2024-02-11T13:09:50.307Z"
+      },
+      "userdata": {}
+    },
+    "d68f3b32-c8de-11ee-a7b6-0184e7d3dd10": {
+      "source": "d68f3b30-c8de-11ee-a7b6-0184e7d3dd10",
+      "target": "d68f1420-c8de-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:09:50.307Z",
+        "updated": "2024-02-11T13:09:50.307Z"
+      },
+      "userdata": {}
+    },
+    "d68f3b37-c8de-11ee-a7b6-0184e7d3dd10": {
+      "source": "d68f1425-c8de-11ee-a7b6-0184e7d3dd10",
+      "target": "d68f3b36-c8de-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:09:50.307Z",
+        "updated": "2024-02-11T13:09:50.307Z"
+      },
+      "userdata": {}
+    },
+    "d68f3b38-c8de-11ee-a7b6-0184e7d3dd10": {
+      "source": "d68f3b36-c8de-11ee-a7b6-0184e7d3dd10",
+      "target": "d68f1420-c8de-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:09:50.307Z",
+        "updated": "2024-02-11T13:09:50.307Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "2386": {
+      "text": "Russian President Vladimir Putin has approved the government's proposal to integrate some military units of Georgia's breakaway region of South Ossetia into the Russian army. The order announced on Tuesday is likely to spark accusations from Georgia and its Western allies that the Kremlin is absorbing the region into Russia by stealth, even though under international law it is part of Georgia's sovereign territory. Russia recognised South Ossetia as an independent state in 2008 after fighting a short war with Georgia. Moscow has de facto controlled South Ossetia - a sliver of mainly mountainous land in the northeast of Georgia - for years. But it has, on paper at least, treated it as a separate state, not part of Russia. Putin instructed the Russian defence ministry to sign a military agreement with South Ossetia on Moscow's behalf, according Ria Novosti and Tass news agencies, which cited information published on the government's website on Tuesday.  The deal would allow the Russian military to recruit South Ossetian soldiers as contractors, but they would first have to be dismissed from active duty by South Ossetia, reported Tass. Leonid Tibilov, the de-facto leader of South Ossetia, said last year the self-declared republic would retain its army while part of its military would serve in the Russian armed forces. \"Transfer of some units of South Ossetian Armed Forces into the Russian army is at variance with the Russian legislation,\" Tibilov-was quoted as saying by Tass. He also said it was not yet clear how many military servicemen would go into Russian units. The Georgian government issued a statement condemning Russia's move, saying the decision was \"one more obvious step towards de facto annexation of South Ossetia\". \"We call on the international community to assess in a proper way the so-called agreement and to demand that Russia fulfils international obligations,\" the statement said. Georgia says it wants South Ossetia and Abkhazia, another breakaway region, back. Source:-Al Jazeera and news agencies",
+      "title": "Putin approves army deal with Georgia's South Ossetia",
+      "source": "http://www.aljazeera.com/news/2017/03/putin-approves-army-deal-georgia-south-ossetia-170314154927196.html",
+      "timestamp": "2017-03-14T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.220Z",
+        "updated": "2024-02-09T13:09:16.220Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "d68f1420-c8de-11ee-a7b6-0184e7d3dd10",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.220Z",
+    "updated": "2024-02-11T13:21:11.983Z"
+  }
+}

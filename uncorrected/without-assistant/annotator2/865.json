@@ -1,0 +1,277 @@
+{
+  "nodes": {
+    "eaf42520-c8c7-11ee-b0b9-17011e92baf6": {
+      "atom": {
+        "text": "The heavy nuclear-powered missile cruiser Pyotr Veliky has returned to Russia from the Mediterranean Sea, the press office of Russia's Defense Ministry said on Wednesday.",
+        "reference": {
+          "resource": "865",
+          "offset": 33,
+          "text": "The heavy nuclear-powered missile cruiser Pyotr Veliky has returned to Russia from the Mediterranean Sea, the press office of Russia's Defense Ministry said on Wednesday."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T10:25:46.098Z",
+        "updated": "2024-02-11T10:25:46.098Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 392.00010542768445,
+            "y": 12
+          }
+        }
+      }
+    },
+    "04575230-c8c8-11ee-b0b9-17011e92baf6": {
+      "atom": {
+        "text": "The Pyotr Veliky will be later joined by the aircraft carrier Admiral Kuznetsov, which is part of the Northern Fleet's naval task force that performed anti-terror missions off Syria, the press office said.",
+        "reference": {
+          "resource": "865",
+          "offset": 324,
+          "text": "The Pyotr Veliky will be later joined by the aircraft carrier Admiral Kuznetsov, which is part of the Northern Fleet's naval task force that performed anti-terror missions off Syria, the press office said."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T10:26:28.691Z",
+        "updated": "2024-02-11T10:26:28.691Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0002419095628,
+            "y": 302
+          }
+        }
+      }
+    },
+    "05aef2f0-c8c8-11ee-b0b9-17011e92baf6": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T10:26:30.943Z",
+        "updated": "2024-02-11T10:26:30.943Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.00038938823565,
+            "y": 202
+          }
+        }
+      }
+    },
+    "2fe9cd10-c8c8-11ee-b0b9-17011e92baf6": {
+      "atom": {
+        "text": "The warships set off for the voyage on October 15, the Defense Ministry said.",
+        "reference": {
+          "resource": "865",
+          "offset": 978,
+          "text": "The warships set off for the voyage on October 15, the Defense Ministry said."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T10:27:41.793Z",
+        "updated": "2024-02-11T10:27:41.793Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0007540723827,
+            "y": 302
+          }
+        }
+      }
+    },
+    "315b1050-c8c8-11ee-b0b9-17011e92baf6": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T10:27:44.213Z",
+        "updated": "2024-02-11T10:27:44.213Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0000548740237,
+            "y": 202
+          }
+        }
+      }
+    },
+    "6d160c80-c8c8-11ee-b0b9-17011e92baf6": {
+      "atom": {
+        "text": "Upon their arrival for the roadstead off Severomorsk, the Pyotr Veliky and the Admiral Kuznetsov will salute in celebration of their return: they will make 15 artillery salvos from salute guns.",
+        "reference": {
+          "resource": "865",
+          "offset": 1159,
+          "text": "Upon their arrival for the roadstead off Severomorsk, the Pyotr Veliky and the Admiral Kuznetsov will salute in celebration of their return: they will make 15 artillery salvos from salute guns."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T10:29:24.424Z",
+        "updated": "2024-02-11T10:29:24.424Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.0007090538118,
+            "y": 302
+          }
+        }
+      }
+    },
+    "6ed7e0c0-c8c8-11ee-b0b9-17011e92baf6": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T10:29:27.372Z",
+        "updated": "2024-02-11T10:29:27.372Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.000692041402,
+            "y": 202
+          }
+        }
+      }
+    },
+    "8761ebe0-c8c8-11ee-b0b9-17011e92baf6": {
+      "atom": {
+        "text": "Over their long-distance voyage, the Russian warships and support vessels covered about 18,000 nautical miles, passing through the north-eastern parts of the Atlantic Ocean and the Mediterranean Sea.  ",
+        "reference": {
+          "resource": "865",
+          "offset": 1672,
+          "text": "Over their long-distance voyage, the Russian warships and support vessels covered about 18,000 nautical miles, passing through the north-eastern parts of the Atlantic Ocean and the Mediterranean Sea.  "
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T10:30:08.542Z",
+        "updated": "2024-02-11T10:30:08.542Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000729534476267,
+            "y": 302
+          }
+        }
+      }
+    },
+    "8ab13df0-c8c8-11ee-b0b9-17011e92baf6": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T10:30:14.095Z",
+        "updated": "2024-02-11T10:30:14.095Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.0005546602635,
+            "y": 202
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "05aef2f1-c8c8-11ee-b0b9-17011e92baf6": {
+      "source": "04575230-c8c8-11ee-b0b9-17011e92baf6",
+      "target": "05aef2f0-c8c8-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T10:26:30.943Z",
+        "updated": "2024-02-11T10:26:30.943Z"
+      },
+      "userdata": {}
+    },
+    "05aef2f2-c8c8-11ee-b0b9-17011e92baf6": {
+      "source": "05aef2f0-c8c8-11ee-b0b9-17011e92baf6",
+      "target": "eaf42520-c8c7-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T10:26:30.944Z",
+        "updated": "2024-02-11T10:26:30.944Z"
+      },
+      "userdata": {}
+    },
+    "315b1051-c8c8-11ee-b0b9-17011e92baf6": {
+      "source": "2fe9cd10-c8c8-11ee-b0b9-17011e92baf6",
+      "target": "315b1050-c8c8-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T10:27:44.213Z",
+        "updated": "2024-02-11T10:27:44.213Z"
+      },
+      "userdata": {}
+    },
+    "315b1052-c8c8-11ee-b0b9-17011e92baf6": {
+      "source": "315b1050-c8c8-11ee-b0b9-17011e92baf6",
+      "target": "eaf42520-c8c7-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T10:27:44.213Z",
+        "updated": "2024-02-11T10:27:44.213Z"
+      },
+      "userdata": {}
+    },
+    "6ed7e0c1-c8c8-11ee-b0b9-17011e92baf6": {
+      "source": "6d160c80-c8c8-11ee-b0b9-17011e92baf6",
+      "target": "6ed7e0c0-c8c8-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T10:29:27.372Z",
+        "updated": "2024-02-11T10:29:27.372Z"
+      },
+      "userdata": {}
+    },
+    "6ed7e0c2-c8c8-11ee-b0b9-17011e92baf6": {
+      "source": "6ed7e0c0-c8c8-11ee-b0b9-17011e92baf6",
+      "target": "eaf42520-c8c7-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T10:29:27.372Z",
+        "updated": "2024-02-11T10:29:27.372Z"
+      },
+      "userdata": {}
+    },
+    "8ab13df1-c8c8-11ee-b0b9-17011e92baf6": {
+      "source": "8761ebe0-c8c8-11ee-b0b9-17011e92baf6",
+      "target": "8ab13df0-c8c8-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T10:30:14.095Z",
+        "updated": "2024-02-11T10:30:14.095Z"
+      },
+      "userdata": {}
+    },
+    "8ab13df2-c8c8-11ee-b0b9-17011e92baf6": {
+      "source": "8ab13df0-c8c8-11ee-b0b9-17011e92baf6",
+      "target": "eaf42520-c8c7-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T10:30:14.095Z",
+        "updated": "2024-02-11T10:30:14.095Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "865": {
+      "text": "SEVEROMORSK, February 8. /TASS/. The heavy nuclear-powered missile cruiser Pyotr Veliky has returned to Russia from the Mediterranean Sea, the press office of Russia's Defense Ministry said on Wednesday. The warship will anchor in the roadstead in the Kola Bay near Severomorsk in northwest Russia, the press office said.   The Pyotr Veliky will be later joined by the aircraft carrier Admiral Kuznetsov, which is part of the Northern Fleet's naval task force that performed anti-terror missions off Syria, the press office said. \"At the concluding stage of the voyage in distant waters, the warships practiced some missions at sea ranges in the Barents Sea. On February 3, the aircraft and helicopters of the aircraft carrier naval task force returned to their home aerodrome Severomorsk-3,\" the Defense Ministry said. The naval task force performed such a large-scale mission with the combat employment of naval aviation for the first time in the history of the Russian Navy. The warships set off for the voyage on October 15, the Defense Ministry said. The warships are passing into the Kola Bay one by one in compliance with the existing shipping regime. Upon their arrival for the roadstead off Severomorsk, the Pyotr Veliky and the Admiral Kuznetsov will salute in celebration of their return: they will make 15 artillery salvos from salute guns. A return salute will be made by the Northern Fleet's destroyer Admiral Ushakov moored at the berth of the Northern Fleet's main naval base. The support vessels comprising the tankers Sergei Osipov and Kama and the rescue tug boat Nikolai Chiker will return to the Northern Fleet's main base together with the warships. Over their long-distance voyage, the Russian warships and support vessels covered about 18,000 nautical miles, passing through the north-eastern parts of the Atlantic Ocean and the Mediterranean Sea.  ",
+      "title": "Warships of Russia's naval task force return home after Syrian mission",
+      "source": "http://tass.com/defense/929752",
+      "timestamp": "2017-02-08T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-08T09:23:32.595Z",
+        "updated": "2024-02-08T09:23:32.595Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "eaf42520-c8c7-11ee-b0b9-17011e92baf6",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-08T09:23:32.595Z",
+    "updated": "2024-02-11T10:30:33.168Z"
+  }
+}

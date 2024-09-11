@@ -1,0 +1,415 @@
+{
+  "nodes": {
+    "29a0cec1-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "\"I don't think that the Trump administration is thinking in the same terms as the slogans during the campaign, that Iran is the number one terrorist state; we don't have a single fact to substantiate this claim,\" Lavrov said",
+        "reference": {
+          "resource": "3632",
+          "text": "\"I don't think that the Trump administration is thinking in the same terms as the slogans during the campaign, that Iran is the number one terrorist state; we don't have a single fact to substantiate this claim,\" Lavrov said"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU presents the opinion that the Trump administration may not currently align with its previous campaign slogans about Iran being a top terrorist state, and emphasizes the lack of factual support for this claim."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 412.0006304125119,
+            "y": 230
+          }
+        }
+      }
+    },
+    "29a0cec0-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "There is not a single fact of Iran's collaboration with terrorists",
+        "reference": {
+          "resource": "3632",
+          "offset": 26,
+          "text": "There is not a single fact of Iran's collaboration with terrorists"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement outright denies any factual basis for Iran's alleged association with terrorism.",
+          "mcConfig": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "mcExplanation": "This is the main assertion that directly challenges the claim of Iran's association with terrorism and is central to the argument."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 442.0001193044857,
+            "y": 12
+          }
+        }
+      }
+    },
+    "29a0cec7-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Supports the major claim by questioning the basis for the Trump administration's past statements about Iran."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 512.000559918784,
+            "y": 130
+          }
+        }
+      }
+    },
+    "29a0cec2-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "At least when we were facing a huge terrorist threat, when we were under terrorist attack in the 1990s in the northern Caucasus, we detected and discovered dozens and hundreds of foreign terrorist fighters from very close neighborship to Iran, but not from Iran at all",
+        "reference": {
+          "resource": "3632",
+          "offset": 420,
+          "text": "At least when we were facing a huge terrorist threat, when we were under terrorist attack in the 1990s in the northern Caucasus, we detected and discovered dozens and hundreds of foreign terrorist fighters from very close neighborship to Iran, but not from Iran at all"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU provides historical context to argue that though terrorist fighters were found near Iran, none were actually from Iran, thereby challenging the notion that Iran is associated with terrorism."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 762.0000162211163,
+            "y": 230
+          }
+        }
+      }
+    },
+    "29a0ceca-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Supports the major claim by providing historical evidence against Iran's alleged association with terrorism."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 862.0009453723997,
+            "y": 130
+          }
+        }
+      }
+    },
+    "29a0cec3-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Iran had never challenged the sovereignty of the Russian Federation, never used its own links with Muslim groups to provoke radicalism and to cause trouble",
+        "reference": {
+          "resource": "3632",
+          "offset": 854,
+          "text": "Iran had never challenged the sovereignty of the Russian Federation, never used its own links with Muslim groups to provoke radicalism and to cause trouble"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU claims that Iran has never acted against Russian sovereignty or used its influence to incite radicalism, which counters the idea of Iran's involvement in terrorism."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1112.0009206215282,
+            "y": 230
+          }
+        }
+      }
+    },
+    "29a0cecd-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Supports the major claim by highlighting Iran's lack of provocative actions against Russia or support for radicalism."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1212.0003073345829,
+            "y": 130
+          }
+        }
+      }
+    },
+    "29a0cec4-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Russia, Iran and those that cooperate with the Syrian army, \"are fighting terrorists in Syria,\" he said",
+        "reference": {
+          "resource": "3632",
+          "offset": 1022,
+          "text": "Russia, Iran and those that cooperate with the Syrian army, \"are fighting terrorists in Syria,\" he said"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU asserts that Iran, alongside Russia and others, is actively combating terrorism in Syria, thus arguing against the notion of Iran's association with terrorism."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 62.00014980966576,
+            "y": 310
+          }
+        }
+      }
+    },
+    "29a0ced0-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Supports the major claim by noting Iran's counter-terrorism efforts in Syria."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 162.00089329677127,
+            "y": 130
+          }
+        }
+      }
+    },
+    "29a0cec6-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "\"And if we all want, you know, to topple, to defeat terrorists in Syria, there should be some coordination.\"",
+        "reference": {
+          "resource": "3632",
+          "offset": 1330,
+          "text": "\"And if we all want, you know, to topple, to defeat terrorists in Syria, there should be some coordination.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU suggests the necessity for coordination among parties, including Iran, to defeat terrorism in Syria. It frames Iran as a potential ally rather than a state collaborating with terrorists."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 12.000211971925117,
+            "y": 592
+          }
+        }
+      }
+    },
+    "29a0ced6-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Supports the ADU about Iran's counter-terrorism efforts by emphasizing the necessity of cooperation in the fight against terrorism."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 112.00007528277132,
+            "y": 492
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "29a0cec8-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "source": "29a0cec1-c8e3-11ee-a7b6-0184e7d3dd10",
+      "target": "29a0cec7-c8e3-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {}
+    },
+    "29a0cec9-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "source": "29a0cec7-c8e3-11ee-a7b6-0184e7d3dd10",
+      "target": "29a0cec0-c8e3-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {}
+    },
+    "29a0cecb-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "source": "29a0cec2-c8e3-11ee-a7b6-0184e7d3dd10",
+      "target": "29a0ceca-c8e3-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {}
+    },
+    "29a0cecc-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "source": "29a0ceca-c8e3-11ee-a7b6-0184e7d3dd10",
+      "target": "29a0cec0-c8e3-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {}
+    },
+    "29a0cece-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "source": "29a0cec3-c8e3-11ee-a7b6-0184e7d3dd10",
+      "target": "29a0cecd-c8e3-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {}
+    },
+    "29a0cecf-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "source": "29a0cecd-c8e3-11ee-a7b6-0184e7d3dd10",
+      "target": "29a0cec0-c8e3-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {}
+    },
+    "29a0ced1-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "source": "29a0cec4-c8e3-11ee-a7b6-0184e7d3dd10",
+      "target": "29a0ced0-c8e3-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {}
+    },
+    "29a0ced2-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "source": "29a0ced0-c8e3-11ee-a7b6-0184e7d3dd10",
+      "target": "29a0cec0-c8e3-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {}
+    },
+    "29a0ced7-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "source": "29a0cec6-c8e3-11ee-a7b6-0184e7d3dd10",
+      "target": "29a0ced6-c8e3-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {}
+    },
+    "29a0ced8-c8e3-11ee-a7b6-0184e7d3dd10": {
+      "source": "29a0ced6-c8e3-11ee-a7b6-0184e7d3dd10",
+      "target": "29a0cec4-c8e3-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:40:47.660Z",
+        "updated": "2024-02-11T13:40:47.660Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "3632": {
+      "text": "MOSCOW, March 29. /TASS/. There is not a single fact of Iran's collaboration with terrorists, Russian Foreign Minister Sergey-Lavrov said in an interview with the-National Interest magazine.   \"I don\"t think that the Trump administration is thinking in the same terms as the slogans during the campaign, that Iran is the number one terrorist state; we don\"t have a single fact to substantiate this claim,\" Lavrov said. \"At least when we were facing a huge terrorist threat, when we were under terrorist attack in the 1990s in the northern Caucasus, we detected and discovered dozens and hundreds of foreign terrorist fighters from very close neighborship to Iran, but not from Iran at all,\" he said. \"And we know that the political circles in quite a number of countries were really encouraging these terrorist groups to go into the northern Caucasus.\" \"Iran had never challenged the sovereignty of the Russian Federation, never used its own links with Muslim groups to provoke radicalism and to cause trouble,\" he added. Russia, Iran and those that cooperate with the Syrian army, \"are fighting terrorists in Syria,\" he said. \"Iran is a powerful player on the ground, legally-invited by the government. Iran has influence over the Lebanese Hezbollah, which is also legitimately on the ground,\" the Russian foreign minister said. \"And if we all want, you know, to topple, to defeat terrorists in Syria, there should be some coordination.\"-  ",
+      "title": "Lavrov reiterates there are no facts substantiating Iran's links to terrorists",
+      "source": "http://tass.com/politics/938313",
+      "timestamp": "2017-03-29T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.208Z",
+        "updated": "2024-02-09T13:09:16.208Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "29a0cec0-c8e3-11ee-a7b6-0184e7d3dd10",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.208Z",
+    "updated": "2024-02-11T13:42:38.875Z"
+  }
+}

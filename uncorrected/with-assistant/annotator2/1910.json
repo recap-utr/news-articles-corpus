@@ -1,0 +1,414 @@
+{
+  "nodes": {
+    "5e904ea0-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Police say anti-Semitic incidents in New York City have nearly doubled in the first two months of the year",
+        "reference": {
+          "resource": "1910",
+          "offset": 84,
+          "text": "Police say anti-Semitic incidents in New York City have nearly doubled in the first two months of the year"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This is stated as a factual observation related to the increase in anti-Semitic incidents, indicating a rise in hate crimes."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 362.0006444543091,
+            "y": 302
+          }
+        }
+      }
+    },
+    "5e904ea3-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Based on the timing and the extraordinary increase, not only in New York but around the nation, you have to conclude that the presidential campaign was the major factor",
+        "reference": {
+          "resource": "1910",
+          "text": "Based on the timing and the extraordinary increase, not only in New York but around the nation, you have to conclude that the presidential campaign was the major factor"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This is a direct quote attributing the increase in hate crimes to the presidential campaign, forming a central argument.",
+          "mcConfig": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "mcExplanation": "It serves as the central point linking the increase in hate crimes to the presidential campaign, making it the focal claim of the argument."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 712.0006174238588,
+            "y": 12
+          }
+        }
+      }
+    },
+    "5e904ea7-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "ADU1 provides factual evidence of the rise in anti-Semitic incidents, supporting the claim that the presidential campaign influenced this increase."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 462.0007043919035,
+            "y": 202
+          }
+        }
+      }
+    },
+    "5e904ea1-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Overall, NYPD statistics show a 55 percent rise in hate crimes since last year",
+        "reference": {
+          "resource": "1910",
+          "offset": 421,
+          "text": "Overall, NYPD statistics show a 55 percent rise in hate crimes since last year"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This provides statistical support to the claim of a general increase in hate crimes, not limited to anti-Semitic incidents."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 712.0001225140342,
+            "y": 302
+          }
+        }
+      }
+    },
+    "5e904eaa-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "ADU2 supports ADU4 by showing a general rise in hate crimes, implying a broader impact possibly related to the presidential campaign."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 812.0009139471366,
+            "y": 202
+          }
+        }
+      }
+    },
+    "5e904ea2-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Hate crimes spiked in 2016 as well, and city and state officials blamed the surge on the hateful rhetoric used during the presidential campaign",
+        "reference": {
+          "resource": "1910",
+          "offset": 562,
+          "text": "Hate crimes spiked in 2016 as well, and city and state officials blamed the surge on the hateful rhetoric used during the presidential campaign"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This provides context and a possible explanation for the rise in hate crimes, linking it to societal factors."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1062.0003947942944,
+            "y": 302
+          }
+        }
+      }
+    },
+    "5e904ead-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "ADU3 provides context and a basis for the claim in ADU4, directly linking the increase in hate crimes to the presidential campaign."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1162.00022114631,
+            "y": 202
+          }
+        }
+      }
+    },
+    "5e904ea5-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Jewish cemeteries have also been targeted in recent weeks, as headstones at burial grounds have been destroyed",
+        "reference": {
+          "resource": "1910",
+          "text": "Jewish cemeteries have also been targeted in recent weeks, as headstones at burial grounds have been destroyed"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This further serves as evidence of the increased targeting of Jewish communities, hence supporting the claim of a rise in anti-Semitic incidents."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1412.0003684536237,
+            "y": 302
+          }
+        }
+      }
+    },
+    "5e904eb3-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "ADU6 details a specific form of targeting against Jewish communities, reinforcing the claim of a rise due to the presidential campaign."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1512.0002459598,
+            "y": 202
+          }
+        }
+      }
+    },
+    "5e904ea6-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "As another wave of bomb threats hit Jewish community facilities across the country, police say anti-Semitic incidents in New York City have nearly doubled in the first two months of the year",
+        "reference": {
+          "resource": "1910",
+          "offset": 0,
+          "text": "As another wave of bomb threats hit Jewish community facilities across the country, police say anti-Semitic incidents in New York City have nearly doubled in the first two months of the year"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Reiterates the rise in anti-Semitic incidents, highlighting the severity by mentioning bomb threats against Jewish facilities."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 12.00084503885775,
+            "y": 302
+          }
+        }
+      }
+    },
+    "5e904eb6-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "ADU7 highlights the severity of the situation with bomb threats, supporting the claim that the overall rise in hate crimes can be linked to the presidential campaign."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 112.00060783225169,
+            "y": 202
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "5e904ea8-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "source": "5e904ea0-c8dc-11ee-a7b6-0184e7d3dd10",
+      "target": "5e904ea7-c8dc-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {}
+    },
+    "5e904ea9-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "source": "5e904ea7-c8dc-11ee-a7b6-0184e7d3dd10",
+      "target": "5e904ea3-c8dc-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {}
+    },
+    "5e904eab-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "source": "5e904ea1-c8dc-11ee-a7b6-0184e7d3dd10",
+      "target": "5e904eaa-c8dc-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {}
+    },
+    "5e904eac-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "source": "5e904eaa-c8dc-11ee-a7b6-0184e7d3dd10",
+      "target": "5e904ea3-c8dc-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {}
+    },
+    "5e904eae-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "source": "5e904ea2-c8dc-11ee-a7b6-0184e7d3dd10",
+      "target": "5e904ead-c8dc-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {}
+    },
+    "5e904eaf-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "source": "5e904ead-c8dc-11ee-a7b6-0184e7d3dd10",
+      "target": "5e904ea3-c8dc-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {}
+    },
+    "5e904eb4-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "source": "5e904ea5-c8dc-11ee-a7b6-0184e7d3dd10",
+      "target": "5e904eb3-c8dc-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {}
+    },
+    "5e904eb5-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "source": "5e904eb3-c8dc-11ee-a7b6-0184e7d3dd10",
+      "target": "5e904ea3-c8dc-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {}
+    },
+    "5e904eb7-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "source": "5e904ea6-c8dc-11ee-a7b6-0184e7d3dd10",
+      "target": "5e904eb6-c8dc-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {}
+    },
+    "5e904eb8-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "source": "5e904eb6-c8dc-11ee-a7b6-0184e7d3dd10",
+      "target": "5e904ea3-c8dc-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:52:09.994Z",
+        "updated": "2024-02-11T12:52:09.994Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "1910": {
+      "text": "As another wave of bomb threats hit Jewish community facilities across the country, police say anti-Semitic incidents in New York City have nearly doubled in the first two months of the year. From Jan. 1 through Feb. 26, there were 35 reported anti-Semitic incidents in the city,-compared to 18 reported incidents during the same time period last year, the New York Police Department said. That's a 94 percent increase.- Overall, NYPD statistics show a 55 percent rise in hate crimes since last year, although the city said crime in general is down 9.7 percent. Hate crimes spiked in 2016 as well, and city and state officials blamed the surge on the hateful rhetoric used during the presidential campaign.- \"Based on the timing and the extraordinary increase We're been seeing, not only in New York but around the nation, you have to conclude that the presidential campaign was the major factor,\"?NYPD spokesman Stephen Davis told Bloomberg. Swastikas and other anti-Semitic markings have shown up across the city for the past several months, including on a children's playground, dorm room door and subway cars.-Last month, a group of subway riders banded together to remove the vandalism with hand sanitizer and tissues. New York Gov. Andrew Cuomo shared a photo of a swastika drawn on a B subway train that had been transformed into a box with the letters \"L-O-V-E.\"?This is what New Yorkers do - we turn hate into love. And we wont back down -not now, not ever. #TurnHateIntoLove pic.twitter.com/yVEsTY2aGc The governor created a special task force to investigate the surge in hate crimes in New York in November, including the launch of a state-wide hotline for residents to report incidents of bias and discrimination. Jewish cemeteries have also been targeted in recent weeks, as headstones at burial grounds in St. Louis, Philadelphia and Rochester, New York,-have been destroyed. The Huffington Post reported last Friday that 75 centers and eight Jewish schools across the country had received at least 100 bomb threats as of Feb. 28.- Do you have information you want to share with the Huffington Post? Here's how. How will Donald Trump's first 100 days impact YOU? Subscribe, choose the community that you most identify with or want to learn more about and we'll send you the news that matters most once a week throughout Trump's first 100 days in office. Learn more",
+      "title": "Anti-Semitic Crimes Up 94 Percent In NYC Since This Time Last Year, NYPD Says",
+      "source": "http://www.huffingtonpost.com/2017/03/02/nypd-says-anti-semitic-crimes-up-94-percent-since-this-time-last-year_n_15130410.html",
+      "timestamp": "2017-03-03T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.219Z",
+        "updated": "2024-02-09T13:09:16.219Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "5e904ea3-c8dc-11ee-a7b6-0184e7d3dd10",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.219Z",
+    "updated": "2024-02-11T12:54:58.029Z"
+  }
+}

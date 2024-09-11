@@ -1,0 +1,614 @@
+{
+  "nodes": {
+    "8bfecef0-c41a-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Soccer players who-regularly header a ball are three times more likely to develop the symptoms of concussions compared to those that don't",
+        "reference": {
+          "resource": "301",
+          "offset": 0,
+          "text": "Soccer players who-regularly header a ball are three times more likely to develop the symptoms of concussions compared to those that don't"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T11:34:39.199Z",
+        "updated": "2024-02-05T11:34:39.199Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 246.5360374430005,
+            "y": -379.82575430836636
+          }
+        }
+      }
+    },
+    "a24ec890-c41a-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "injuries such as concussion resulted mainly from full-on head impacts with other players or collisions with the goal posts",
+        "reference": {
+          "resource": "301",
+          "offset": 304,
+          "text": "previous studies that suggested that injuries such as concussion resulted mainly from full-on head impacts with other players or collisions with the goal posts"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T11:35:16.633Z",
+        "updated": "2024-02-05T11:35:16.633Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -182.6176481339321,
+            "y": 332.53499090316365
+          }
+        }
+      }
+    },
+    "a6a06f70-c41a-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T11:35:23.879Z",
+        "updated": "2024-02-05T11:35:23.879Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 53.84481495133684,
+            "y": 230.9038771449974
+          }
+        }
+      }
+    },
+    "ca330880-c41a-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "the group with the most headers was three times more likely to have symptoms --dizziness, feeling dazed, stopping play for medical attention or even losing consciousness --than those who rarely used their heads while playing",
+        "reference": {
+          "resource": "301",
+          "offset": 795,
+          "text": "The study, published in the February 1 edition of Neurology, found that the group with the most headers was three times more likely to have symptoms --dizziness, feeling dazed, stopping play for medical attention or even losing consciousness --than those who rarely used their heads while playing"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T11:36:23.560Z",
+        "updated": "2024-02-05T11:36:23.560Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 232.71100921948027,
+            "y": 406.53348430628785
+          }
+        }
+      }
+    },
+    "0886ff10-c41b-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Our study suggests that you don't need an overt collision to warrant this type of concern",
+        "reference": {
+          "resource": "301",
+          "offset": 1333,
+          "text": "Our study suggests that you don't need an overt collision to warrant this type of concern"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T11:38:08.129Z",
+        "updated": "2024-02-05T11:38:08.129Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 100.34004602891127,
+            "y": 948.8351826968355
+          }
+        }
+      }
+    },
+    "26d70190-c41b-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "single or repeated concussions do lead to neurological problems later in life",
+        "reference": {
+          "resource": "301",
+          "offset": 1574,
+          "text": "single or repeated concussions do lead to neurological problems later in life"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T11:38:58.985Z",
+        "updated": "2024-02-05T11:38:58.985Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 593.8166853920027,
+            "y": -138.19489120512924
+          }
+        }
+      }
+    },
+    "3b30d080-c41b-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Such problems are even more prevalent in American football",
+        "reference": {
+          "resource": "301",
+          "offset": 1653,
+          "text": "Such problems are even more prevalent in American football"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T11:39:33.128Z",
+        "updated": "2024-02-05T11:39:33.128Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 542.4037379547913,
+            "y": 270.5343573129691
+          }
+        }
+      }
+    },
+    "4c275030-c41b-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "a five-year legal battle between the National Football League and former players concluded in 2016, with the league agreeing to pay out $1 billion to cover the medical payments of players for the next 65 years",
+        "reference": {
+          "resource": "301",
+          "offset": 1719,
+          "text": "a five-year legal battle between the National Football League and former players concluded in 2016, with the league agreeing to pay out $1 billion to cover the medical payments of players for the next 65 years"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T11:40:01.587Z",
+        "updated": "2024-02-05T11:40:01.587Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 412.65729932785325,
+            "y": 729.2562378234744
+          }
+        }
+      }
+    },
+    "5e3bc300-c41b-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": " just under 30 percent may go on to develop Alzheimer's, amyotrophic lateral sclerosis or other neural conditions",
+        "reference": {
+          "resource": "301",
+          "offset": 1935,
+          "text": "league actuaries estimating that just under 30 percent may go on to develop Alzheimer's, amyotrophic lateral sclerosis or other neural conditions"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T11:40:31.920Z",
+        "updated": "2024-02-05T11:40:31.920Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 786.6164452100008,
+            "y": 743.7975857636696
+          }
+        }
+      }
+    },
+    "65ed0fa0-c41b-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "even minor contact, such as heading an inflated, leather ball, can have long-term effects on a player's health",
+        "reference": {
+          "resource": "301",
+          "offset": 2133,
+          "text": "even minor contact, such as heading an inflated, leather ball, can have long-term effects on a player's health"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T11:40:44.826Z",
+        "updated": "2024-02-05T11:40:44.826Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 626.8151167450527,
+            "y": 85.76033325220936
+          }
+        }
+      }
+    },
+    "7036ba60-c41b-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "These [previous]-studies did not actually measure heading and thus they were unable to separate the relative contributions of intentional and unintentional head impacts",
+        "reference": {
+          "resource": "301",
+          "offset": 2246,
+          "text": "These [previous]-studies did not actually measure heading,\"-Dr. Lipton wrote in his report. \"And thus they were unable to separate the relative contributions of intentional and unintentional head impacts"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T11:41:02.086Z",
+        "updated": "2024-02-05T11:41:02.086Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -179.69435416310648,
+            "y": 706.7640310698366
+          }
+        }
+      }
+    },
+    "83a4f0d0-c41b-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T11:41:34.685Z",
+        "updated": "2024-02-05T11:41:34.685Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -73.01294959890708,
+            "y": 582.0488562800174
+          }
+        }
+      }
+    },
+    "e13593d0-c41b-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T11:44:11.661Z",
+        "updated": "2024-02-05T11:44:11.661Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 126.28973263018543,
+            "y": 590.1033389725544
+          }
+        }
+      }
+    },
+    "0df62e70-c41c-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T11:45:26.743Z",
+        "updated": "2024-02-05T11:45:26.743Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 424.90697516275713,
+            "y": 167.2905422178802
+          }
+        }
+      }
+    },
+    "19983d40-c41c-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T11:45:46.260Z",
+        "updated": "2024-02-05T11:45:46.260Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 677.9401621670972,
+            "y": 478.58929210298993
+          }
+        }
+      }
+    },
+    "2012b790-c41c-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T11:45:57.129Z",
+        "updated": "2024-02-05T11:45:57.129Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 850.5938446768291,
+            "y": 462.5637793288328
+          }
+        }
+      }
+    },
+    "55664c40-c41c-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T11:47:26.596Z",
+        "updated": "2024-02-05T11:47:26.596Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 212.19090594434363,
+            "y": 242.2255335579011
+          }
+        }
+      }
+    },
+    "62a234f0-c41c-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T11:47:48.799Z",
+        "updated": "2024-02-05T11:47:48.799Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 432.0882146173301,
+            "y": -219.30414542398583
+          }
+        }
+      }
+    },
+    "654fefd0-c41c-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T11:47:53.293Z",
+        "updated": "2024-02-05T11:47:53.293Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 699.6548000672419,
+            "y": 3.56235402311151
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "a897f9b0-c41a-11ee-a06c-cb1cbb90ffa4": {
+      "source": "a24ec890-c41a-11ee-a06c-cb1cbb90ffa4",
+      "target": "a6a06f70-c41a-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:35:27.179Z",
+        "updated": "2024-02-05T11:35:27.179Z"
+      },
+      "userdata": {}
+    },
+    "a9477390-c41a-11ee-a06c-cb1cbb90ffa4": {
+      "source": "a6a06f70-c41a-11ee-a06c-cb1cbb90ffa4",
+      "target": "8bfecef0-c41a-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:35:28.329Z",
+        "updated": "2024-02-05T11:35:28.329Z"
+      },
+      "userdata": {}
+    },
+    "de48a280-c41a-11ee-a06c-cb1cbb90ffa4": {
+      "source": "ca330880-c41a-11ee-a06c-cb1cbb90ffa4",
+      "target": "daf2e7d0-c41a-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:36:57.256Z",
+        "updated": "2024-02-05T11:36:57.256Z"
+      },
+      "userdata": {}
+    },
+    "8711dd00-c41b-11ee-a06c-cb1cbb90ffa4": {
+      "source": "7036ba60-c41b-11ee-a06c-cb1cbb90ffa4",
+      "target": "83a4f0d0-c41b-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:41:40.432Z",
+        "updated": "2024-02-05T11:41:40.432Z"
+      },
+      "userdata": {}
+    },
+    "8935a760-c41b-11ee-a06c-cb1cbb90ffa4": {
+      "source": "83a4f0d0-c41b-11ee-a06c-cb1cbb90ffa4",
+      "target": "a24ec890-c41a-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:41:44.022Z",
+        "updated": "2024-02-05T11:41:44.022Z"
+      },
+      "userdata": {}
+    },
+    "bd2c9240-c41b-11ee-a06c-cb1cbb90ffa4": {
+      "source": "b8e87ff0-c41b-11ee-a06c-cb1cbb90ffa4",
+      "target": "8bfecef0-c41a-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:43:11.204Z",
+        "updated": "2024-02-05T11:43:11.204Z"
+      },
+      "userdata": {}
+    },
+    "e2b9c2d0-c41b-11ee-a06c-cb1cbb90ffa4": {
+      "source": "0886ff10-c41b-11ee-a06c-cb1cbb90ffa4",
+      "target": "e13593d0-c41b-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:44:14.205Z",
+        "updated": "2024-02-05T11:44:14.205Z"
+      },
+      "userdata": {}
+    },
+    "e3b82000-c41b-11ee-a06c-cb1cbb90ffa4": {
+      "source": "e13593d0-c41b-11ee-a06c-cb1cbb90ffa4",
+      "target": "a24ec890-c41a-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:44:15.872Z",
+        "updated": "2024-02-05T11:44:15.872Z"
+      },
+      "userdata": {}
+    },
+    "f8839c80-c41b-11ee-a06c-cb1cbb90ffa4": {
+      "source": "daf2e7d0-c41a-11ee-a06c-cb1cbb90ffa4",
+      "target": "26d70190-c41b-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:44:50.760Z",
+        "updated": "2024-02-05T11:44:50.760Z"
+      },
+      "userdata": {}
+    },
+    "fd0ec9f0-c41b-11ee-a06c-cb1cbb90ffa4": {
+      "source": "26d70190-c41b-11ee-a06c-cb1cbb90ffa4",
+      "target": "f9c6cae0-c41b-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:44:58.383Z",
+        "updated": "2024-02-05T11:44:58.383Z"
+      },
+      "userdata": {}
+    },
+    "fde97280-c41b-11ee-a06c-cb1cbb90ffa4": {
+      "source": "f9c6cae0-c41b-11ee-a06c-cb1cbb90ffa4",
+      "target": "8bfecef0-c41a-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:44:59.816Z",
+        "updated": "2024-02-05T11:44:59.816Z"
+      },
+      "userdata": {}
+    },
+    "0df62e71-c41c-11ee-a06c-cb1cbb90ffa4": {
+      "source": "3b30d080-c41b-11ee-a06c-cb1cbb90ffa4",
+      "target": "0df62e70-c41c-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:45:26.743Z",
+        "updated": "2024-02-05T11:45:26.743Z"
+      },
+      "userdata": {}
+    },
+    "0df62e72-c41c-11ee-a06c-cb1cbb90ffa4": {
+      "source": "0df62e70-c41c-11ee-a06c-cb1cbb90ffa4",
+      "target": "8bfecef0-c41a-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:45:26.743Z",
+        "updated": "2024-02-05T11:45:26.743Z"
+      },
+      "userdata": {}
+    },
+    "19983d41-c41c-11ee-a06c-cb1cbb90ffa4": {
+      "source": "4c275030-c41b-11ee-a06c-cb1cbb90ffa4",
+      "target": "19983d40-c41c-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:45:46.260Z",
+        "updated": "2024-02-05T11:45:46.260Z"
+      },
+      "userdata": {}
+    },
+    "19983d42-c41c-11ee-a06c-cb1cbb90ffa4": {
+      "source": "19983d40-c41c-11ee-a06c-cb1cbb90ffa4",
+      "target": "3b30d080-c41b-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:45:46.260Z",
+        "updated": "2024-02-05T11:45:46.260Z"
+      },
+      "userdata": {}
+    },
+    "2012b791-c41c-11ee-a06c-cb1cbb90ffa4": {
+      "source": "5e3bc300-c41b-11ee-a06c-cb1cbb90ffa4",
+      "target": "2012b790-c41c-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:45:57.129Z",
+        "updated": "2024-02-05T11:45:57.129Z"
+      },
+      "userdata": {}
+    },
+    "2012b792-c41c-11ee-a06c-cb1cbb90ffa4": {
+      "source": "2012b790-c41c-11ee-a06c-cb1cbb90ffa4",
+      "target": "3b30d080-c41b-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:45:57.129Z",
+        "updated": "2024-02-05T11:45:57.129Z"
+      },
+      "userdata": {}
+    },
+    "55664c41-c41c-11ee-a06c-cb1cbb90ffa4": {
+      "source": "ca330880-c41a-11ee-a06c-cb1cbb90ffa4",
+      "target": "55664c40-c41c-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:47:26.596Z",
+        "updated": "2024-02-05T11:47:26.596Z"
+      },
+      "userdata": {}
+    },
+    "55664c42-c41c-11ee-a06c-cb1cbb90ffa4": {
+      "source": "55664c40-c41c-11ee-a06c-cb1cbb90ffa4",
+      "target": "8bfecef0-c41a-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:47:26.596Z",
+        "updated": "2024-02-05T11:47:26.596Z"
+      },
+      "userdata": {}
+    },
+    "62a234f1-c41c-11ee-a06c-cb1cbb90ffa4": {
+      "source": "26d70190-c41b-11ee-a06c-cb1cbb90ffa4",
+      "target": "62a234f0-c41c-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:47:48.799Z",
+        "updated": "2024-02-05T11:47:48.799Z"
+      },
+      "userdata": {}
+    },
+    "62a234f2-c41c-11ee-a06c-cb1cbb90ffa4": {
+      "source": "62a234f0-c41c-11ee-a06c-cb1cbb90ffa4",
+      "target": "8bfecef0-c41a-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:47:48.799Z",
+        "updated": "2024-02-05T11:47:48.799Z"
+      },
+      "userdata": {}
+    },
+    "654fefd1-c41c-11ee-a06c-cb1cbb90ffa4": {
+      "source": "65ed0fa0-c41b-11ee-a06c-cb1cbb90ffa4",
+      "target": "654fefd0-c41c-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:47:53.293Z",
+        "updated": "2024-02-05T11:47:53.293Z"
+      },
+      "userdata": {}
+    },
+    "654fefd2-c41c-11ee-a06c-cb1cbb90ffa4": {
+      "source": "654fefd0-c41c-11ee-a06c-cb1cbb90ffa4",
+      "target": "26d70190-c41b-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:47:53.293Z",
+        "updated": "2024-02-05T11:47:53.293Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "301": {
+      "text": "Soccer players who-regularly header a ball are three times more likely to develop the symptoms of concussions compared to those that don't, according to a new study published in the American Academy of Neurology journal. The report, led by researchers at Albert Einstein College of Medicine, contradicts previous studies that suggested that injuries such as concussion resulted mainly from full-on head impacts with other players or collisions with the goal posts. A total of 222 amateur players were studied over the course of the six-month study, which divided the participants into four groups dependent on how often they headed the ball. The top group was defined by heading the ball over 125 times every two weeks, while the bottom group headed the ball just four times in the same period. The study, published in the February 1 edition of Neurology, found that the group with the most headers was three times more likely to have symptoms --dizziness, feeling dazed, stopping play for medical attention or even losing consciousness --than those who rarely used their heads while playing. \"These results show that heading the ball is indeed related to concussion symptoms, which is contrary to a recent study that suggested that collisions were responsible for most concussions,\"?concluded the study's author Michael L. Lipton. \"Our study suggests that you don't need an overt collision to warrant this type of concern.\"?Previous warnings Factors that may lead to long-term neurological issues in soccer have long been studied, with most reports to date suggesting that single or repeated concussions do lead to neurological problems later in life. Such problems are even more prevalent in American football, where a five-year legal battle between the National Football League and former players concluded in 2016, with the league agreeing to pay out $1 billion to cover the medical payments of players for the next 65 years; with league actuaries estimating that just under 30 percent may go on to develop Alzheimer's, amyotrophic lateral sclerosis or other neural conditions. Yet this study is one of the first to suggest that even minor contact, such as heading an inflated, leather ball, can have long-term effects on a player's health. \"These [previous]-studies did not actually measure heading,\"-Dr. Lipton wrote in his report. \"And thus they were unable to separate the relative contributions of intentional and unintentional head impacts.\"",
+      "title": "Concussion symptoms far more likely for soccer players that regularly head the ball",
+      "source": "http://www.dw.com/en/concussion-symptoms-far-more-likely-for-soccer-players-that-regularly-head-the-ball/a-37346371?maca=en-rss-en-all-1573-rdf",
+      "timestamp": "2024-02-05T11:32:08.929Z",
+      "metadata": {
+        "created": "2024-02-05T09:49:22.035Z",
+        "updated": "2024-02-05T09:49:22.035Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "69ca24d0-c5b2-11ee-bbb2-f78c6e9d2422": {
+      "name": "Martin Hoppe",
+      "email": "mogramming@gmail.com",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "8bfecef0-c41a-11ee-a06c-cb1cbb90ffa4",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-05T09:49:22.035Z",
+    "updated": "2024-04-17T06:20:21.053Z"
+  },
+  "userdata": {}
+}

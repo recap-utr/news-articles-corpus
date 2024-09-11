@@ -1,0 +1,344 @@
+{
+  "nodes": {
+    "044177e0-c8d6-11ee-b4a2-756af494682b": {
+      "atom": {
+        "text": "Russian mobile operator MegaFon has closed a deal on acquiring 63.8% of voting shares in Mail.ru Group",
+        "reference": {
+          "resource": "768",
+          "offset": 28,
+          "text": "Russian mobile operator MegaFon has closed a deal on acquiring 63.8% of voting shares in Mail.ru Group"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:06:41.502Z",
+        "updated": "2024-02-11T12:06:41.502Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This provides the main factual information about the deal between MegaFon and Mail.ru Group.",
+          "mcConfig": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "mcExplanation": "The ADU stating 'Russian mobile operator MegaFon has closed a deal on acquiring 63.8% of voting shares in Mail.ru Group' is designated as the major claim since it centers the narrative on the significant transaction that is the basis for the subsequent details provided in the other ADUs."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 362.0004356365879,
+            "y": 12
+          }
+        }
+      }
+    },
+    "044177e4-c8d6-11ee-b4a2-756af494682b": {
+      "atom": {
+        "text": "MegaFon has already paid $640 mln",
+        "reference": {
+          "resource": "768",
+          "offset": 691,
+          "text": "MegaFon has already paid $640 mln"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:06:41.502Z",
+        "updated": "2024-02-11T12:06:41.502Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This gives information about the payment progress of the deal."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 712.0000164146765,
+            "y": 254
+          }
+        }
+      }
+    },
+    "044177e6-c8d6-11ee-b4a2-756af494682b": {
+      "atom": {
+        "text": "In late 2016, Megafon shareholders approved the transaction",
+        "reference": {
+          "resource": "768",
+          "offset": 782,
+          "text": "In late 2016, Megafon shareholders approved the transaction"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:06:41.502Z",
+        "updated": "2024-02-11T12:06:41.502Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This presents a timeline and approval status for the deal."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 362.0008616996665,
+            "y": 254
+          }
+        }
+      }
+    },
+    "044177ea-c8d6-11ee-b4a2-756af494682b": {
+      "atom": {
+        "text": "Besid...  the managements of both companies will remain independent",
+        "reference": {
+          "resource": "768",
+          "text": "Besid...  the managements of both companies will remain independent"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:06:41.502Z",
+        "updated": "2024-02-11T12:06:41.502Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This asserts the operational independence of the companies post-deal."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 12.000233196721924,
+            "y": 254
+          }
+        }
+      }
+    },
+    "044177eb-c8d6-11ee-b4a2-756af494682b": {
+      "atom": {
+        "text": "Any possible agreements will be concluded on commercial, market conditions",
+        "reference": {
+          "resource": "768",
+          "offset": 1754,
+          "text": "Any possible agreements will be concluded on commercial, market conditions"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:06:41.502Z",
+        "updated": "2024-02-11T12:06:41.502Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This emphasizes that future dealings will be on a commercial basis."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 12.000821697617619,
+            "y": 472
+          }
+        }
+      }
+    },
+    "2a7ebe93-c8d6-11ee-b4a2-756af494682b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:07:45.657Z",
+        "updated": "2024-02-11T12:07:45.657Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Payment of $640 million indicates serious commitment to the acquisition."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 803.000212389931,
+            "y": 154
+          }
+        }
+      }
+    },
+    "2a7ebe99-c8d6-11ee-b4a2-756af494682b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:07:45.657Z",
+        "updated": "2024-02-11T12:07:45.657Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Shareholder approval adds legitimacy and support to the transaction."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 462.0004258380574,
+            "y": 154
+          }
+        }
+      }
+    },
+    "2a7ee5a6-c8d6-11ee-b4a2-756af494682b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:07:45.658Z",
+        "updated": "2024-02-11T12:07:45.658Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Maintaining independent managements ensures operational stability while exploiting synergies."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 112.00026693643585,
+            "y": 154
+          }
+        }
+      }
+    },
+    "2a7ee5a9-c8d6-11ee-b4a2-756af494682b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:07:45.658Z",
+        "updated": "2024-02-11T12:07:45.658Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Stating that any agreements will be on commercial, market conditions emphasizes transparency and fairness in the deal's execution."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 112.000947077734,
+            "y": 372
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "2a7ebe94-c8d6-11ee-b4a2-756af494682b": {
+      "source": "044177e4-c8d6-11ee-b4a2-756af494682b",
+      "target": "2a7ebe93-c8d6-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:07:45.657Z",
+        "updated": "2024-02-11T12:07:45.657Z"
+      },
+      "userdata": {}
+    },
+    "2a7ebe95-c8d6-11ee-b4a2-756af494682b": {
+      "source": "2a7ebe93-c8d6-11ee-b4a2-756af494682b",
+      "target": "044177e0-c8d6-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:07:45.657Z",
+        "updated": "2024-02-11T12:07:45.657Z"
+      },
+      "userdata": {}
+    },
+    "2a7ebe9a-c8d6-11ee-b4a2-756af494682b": {
+      "source": "044177e6-c8d6-11ee-b4a2-756af494682b",
+      "target": "2a7ebe99-c8d6-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:07:45.657Z",
+        "updated": "2024-02-11T12:07:45.657Z"
+      },
+      "userdata": {}
+    },
+    "2a7ebe9b-c8d6-11ee-b4a2-756af494682b": {
+      "source": "2a7ebe99-c8d6-11ee-b4a2-756af494682b",
+      "target": "044177e0-c8d6-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:07:45.657Z",
+        "updated": "2024-02-11T12:07:45.657Z"
+      },
+      "userdata": {}
+    },
+    "2a7ee5a7-c8d6-11ee-b4a2-756af494682b": {
+      "source": "044177ea-c8d6-11ee-b4a2-756af494682b",
+      "target": "2a7ee5a6-c8d6-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:07:45.658Z",
+        "updated": "2024-02-11T12:07:45.658Z"
+      },
+      "userdata": {}
+    },
+    "2a7ee5a8-c8d6-11ee-b4a2-756af494682b": {
+      "source": "2a7ee5a6-c8d6-11ee-b4a2-756af494682b",
+      "target": "044177e0-c8d6-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:07:45.658Z",
+        "updated": "2024-02-11T12:07:45.658Z"
+      },
+      "userdata": {}
+    },
+    "2a7ee5aa-c8d6-11ee-b4a2-756af494682b": {
+      "source": "044177eb-c8d6-11ee-b4a2-756af494682b",
+      "target": "2a7ee5a9-c8d6-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:07:45.658Z",
+        "updated": "2024-02-11T12:07:45.658Z"
+      },
+      "userdata": {}
+    },
+    "2a7ee5ab-c8d6-11ee-b4a2-756af494682b": {
+      "source": "2a7ee5a9-c8d6-11ee-b4a2-756af494682b",
+      "target": "044177ea-c8d6-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:07:45.658Z",
+        "updated": "2024-02-11T12:07:45.658Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "768": {
+      "text": "MOSCOW, February 9. /TASS/. Russian mobile operator MegaFon has closed a deal on acquiring 63.8% of voting shares in Mail.ru Group (15.2% of the authorized capital) from the structures of USM Holdings, the operator said in a statement. Alisher Usmanov's USM Holdings is the controlling shareholder of MegaFon. \"MegaFon announces that it has finalized the deal on acquiring 11.5 million Class A shares and 21.9 million common shares, representing approximately 15.2% of the share capital or 63.8% of votes in Mail.Ru Group Limited, from the companies affiliated to MegaFon's supervisory shareholder - USM Holdings,\" the statement said.   The total sum of the deal is $740 mln. Of this amount MegaFon has already paid $640 mln. The operator will pay the remaining $100 mln in a year. In late 2016, Megafon shareholders approved the transaction on the purchase of Mail.ru Group shares from New Media and Technology Investment L.P., New Media Technologies Capital Partners Limited and Ardoe Finance Ltd, which are part of USM Group. The Federal Antimonopoly Service approved the deal on February 6. The main purpose of the transaction is synergy that will result in intensification of cooperation between the two companies. Later this month the launch of a special application VKmobile can be announced for users of VKontakte social network (part of Mail.ru Group). Also a special application can be launched for users of the Odnoklassniki (Classmates) social network, which is part of Mail.ru structure. Besides that MegaFon and Mail.ru plan to unites possibilities of targeting their consumers. MegaFon has no plans to increase its stake in the Internet company to 100%. At the same time preserve the managements of both companies will remain independent. Any possible agreements will be concluded on commercial, market conditions. At the same time MegaFon plans to fully consolidate Mail.ru Group in its financial reports.",
+      "title": "MegaFon mobile operator clinches deal on buying stake in Mail.ru Group",
+      "source": "http://tass.com/economy/930090",
+      "timestamp": "2017-02-09T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.216Z",
+        "updated": "2024-02-09T13:09:16.216Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "044177e0-c8d6-11ee-b4a2-756af494682b",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.216Z",
+    "updated": "2024-02-11T12:14:38.342Z"
+  }
+}

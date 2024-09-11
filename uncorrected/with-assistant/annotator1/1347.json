@@ -1,0 +1,694 @@
+{
+  "nodes": {
+    "fa53be60-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "All season long, \"how to Get Away with Murder\" has been teasing the reveal of the poor, unfortunate soul who took beloved law student Wes Gibbins from us far too soon",
+        "reference": {
+          "resource": "1347",
+          "text": "All season long, \"how to Get Away with Murder\" has been teasing the reveal of the poor, unfortunate soul who took beloved law student Wes Gibbins from us far too soon"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:58:19.334Z",
+        "updated": "2024-02-13T00:58:19.334Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU sets the stage for the discussion by stating the main mystery of the season regarding Wes Gibbins' death.",
+          "mcConfig": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "mcExplanation": "This ADU sets the stage for the entire discussion, introducing the central issue of Wes Gibbins' death that the rest of the ADUs address from various angles. It lays the groundwork for the arguments about the significance of Wes' death, the impact on characters, and the anticipation of the reveal, making it the major claim around which the other statements revolve."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 462.0007751497633,
+            "y": 254
+          }
+        }
+      }
+    },
+    "fa53be61-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "Fans will finally get their answer on Thursday when the hit ABC series wraps up its third season",
+        "reference": {
+          "resource": "1347",
+          "offset": 252,
+          "text": "Fans will finally get their answer on Thursday when the hit ABC series wraps up its third season"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:58:19.334Z",
+        "updated": "2024-02-13T00:58:19.334Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU informs the audience about when they can expect the resolution to the season's main mystery."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 162.00026499885163,
+            "y": 12
+          }
+        }
+      }
+    },
+    "fa53be62-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "\"All I know is that we will find out who killed Wes and Laurel will avenge Wes' death,\" Souza explained",
+        "reference": {
+          "resource": "1347",
+          "text": "\"All I know is that we will find out who killed Wes and Laurel will avenge Wes' death,\" Souza explained"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:58:19.334Z",
+        "updated": "2024-02-13T00:58:19.334Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU contains a direct quote from Karla Souza about the resolution of the storyline and Laurel's response."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 112.0001819533907,
+            "y": 286
+          }
+        }
+      }
+    },
+    "fa53be63-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "Laurel, of course, has a personal stake in Wes' demise",
+        "reference": {
+          "resource": "1347",
+          "text": "Laurel, of course, has a personal stake in Wes' demise"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:58:19.334Z",
+        "updated": "2024-02-13T00:58:19.334Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU provides background information on Laurel's relationship with Wes, indicating why she would want to avenge his death."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 762.0008111954494,
+            "y": 576
+          }
+        }
+      }
+    },
+    "fa53be64-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "The two began a short-lived affair before his untimely death, with Laurel...pregnant with his child",
+        "reference": {
+          "resource": "1347",
+          "text": "The two began a short-lived affair before his untimely death, with Laurel...pregnant with his child"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:58:19.334Z",
+        "updated": "2024-02-13T00:58:19.334Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU delves into the details of Laurel and Wes' relationship, reinforcing her motive for seeking vengeance."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1062.0003705055415,
+            "y": 810
+          }
+        }
+      }
+    },
+    "fa53be65-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "She was also one of the last people to see Wes alive, making her a key factor in piecing together his final hours",
+        "reference": {
+          "resource": "1347",
+          "offset": 1089,
+          "text": "She was also one of the last people to see Wes alive, making her a key factor in piecing together his final hours"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:58:19.334Z",
+        "updated": "2024-02-13T00:58:19.334Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU emphasizes Laurel's role in solving the mystery due to her being one of the last people to see Wes alive."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 712.0006340018749,
+            "y": 810
+          }
+        }
+      }
+    },
+    "fa53be66-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "The daring decision to off one of the main characters has in turn allowed Souza to deliver her some of her strongest performances of the series",
+        "reference": {
+          "resource": "1347",
+          "offset": 1205,
+          "text": "The daring decision to off one of the main characters has in turn allowed Souza to deliver her some of her strongest performances of the series"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:58:19.334Z",
+        "updated": "2024-02-13T00:58:19.334Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU talks about the impact of Wes' death on the narrative and Souza's performance as an actress."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 62.00058505885737,
+            "y": 544
+          }
+        }
+      }
+    },
+    "fa53be67-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "drawing from her own personal experience with grief helped her to better understand Laurel's pain in the wake of Wes' death",
+        "reference": {
+          "resource": "1347",
+          "text": "drawing from her own personal experience with grief helped her to better understand Laurel's pain in the wake of Wes' death"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:58:19.334Z",
+        "updated": "2024-02-13T00:58:19.334Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU discusses how Souza's personal experience with grief influenced her portrayal of Laurel."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 362.00006391944356,
+            "y": 834
+          }
+        }
+      }
+    },
+    "fa53be68-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "Souza says that...it was really fun. \"The process of grief is one that I've been through...I lost my father five years ago...\"",
+        "reference": {
+          "resource": "1347",
+          "text": "Souza says that...it was really fun. \"The process of grief is one that I've been through...I lost my father five years ago...\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:58:19.334Z",
+        "updated": "2024-02-13T00:58:19.334Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU contains Souza's reflections on the process of acting out grief, informed by her personal loss, indicating the emotional depth brought to her role."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 362.0000125052364,
+            "y": 1124
+          }
+        }
+      }
+    },
+    "fa53be69-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "\"I do feel that the writers have done a very good job at allowing Laurel to become unapologetic. It's sort of like all is lost. She has nothing to lose now and she's really becoming a lot ballsier.\"",
+        "reference": {
+          "resource": "1347",
+          "offset": 1883,
+          "text": "\"I do feel that the writers have done a very good job at allowing Laurel to become unapologetic. It's sort of like all is lost. She has nothing to lose now and she's really becoming a lot ballsier.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:58:19.334Z",
+        "updated": "2024-02-13T00:58:19.334Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU reflects on the character development of Laurel in the wake of Wes' death, as described by Souza."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 12.00033726743107,
+            "y": 810
+          }
+        }
+      }
+    },
+    "5e1e2930-ca0b-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T01:01:06.755Z",
+        "updated": "2024-02-13T01:01:06.755Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The suspense about the reveal directly contributes to the season finale's significance."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 562.0007529209358,
+            "y": 154
+          }
+        }
+      }
+    },
+    "5e1e2933-ca0b-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T01:01:06.755Z",
+        "updated": "2024-02-13T01:01:06.755Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement highlights the focal point of the season finale."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 212.00069141878555,
+            "y": 154
+          }
+        }
+      }
+    },
+    "5e1e2936-ca0b-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T01:01:06.755Z",
+        "updated": "2024-02-13T01:01:06.755Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Laurel's motivation to avenge Wes' death is directly linked to her personal involvement in his life."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 862.0001981964423,
+            "y": 444
+          }
+        }
+      }
+    },
+    "5e1e2939-ca0b-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T01:01:06.755Z",
+        "updated": "2024-02-13T01:01:06.755Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Laurel's personal relationship and her being pregnant with his child explain her deep interest in Wes' death."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1162.0006783017134,
+            "y": 710
+          }
+        }
+      }
+    },
+    "5e1e293c-ca0b-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T01:01:06.755Z",
+        "updated": "2024-02-13T01:01:06.755Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Being one of the last people to see Wes alive gives Laurel a unique perspective on his death."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 812.0002614193996,
+            "y": 710
+          }
+        }
+      }
+    },
+    "5e1e293f-ca0b-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T01:01:06.755Z",
+        "updated": "2024-02-13T01:01:06.755Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Wes' death and Laurel's quest for vengeance have enabled Souza to showcase a deeper layer of her acting."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 162.00038382894408,
+            "y": 444
+          }
+        }
+      }
+    },
+    "5e1e2942-ca0b-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T01:01:06.755Z",
+        "updated": "2024-02-13T01:01:06.755Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Souza's personal experience with grief enriches her portrayal of Laurel's pain and determination."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 462.00050986297526,
+            "y": 710
+          }
+        }
+      }
+    },
+    "5e1e2945-ca0b-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T01:01:06.755Z",
+        "updated": "2024-02-13T01:01:06.755Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Souza's reflections on her own grief process support the authenticity of her performances."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 462.0001219701767,
+            "y": 1024
+          }
+        }
+      }
+    },
+    "5e1e2948-ca0b-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T01:01:06.755Z",
+        "updated": "2024-02-13T01:01:06.755Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The character's development into a bolder individual is a result of the narratively significant events, including Wes' death."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 112.00006147927884,
+            "y": 710
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "5e1e2931-ca0b-11ee-ab2a-4dc8d1f5b568": {
+      "source": "fa53be60-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "5e1e2930-ca0b-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:01:06.755Z",
+        "updated": "2024-02-13T01:01:06.755Z"
+      },
+      "userdata": {}
+    },
+    "5e1e2932-ca0b-11ee-ab2a-4dc8d1f5b568": {
+      "source": "5e1e2930-ca0b-11ee-ab2a-4dc8d1f5b568",
+      "target": "fa53be61-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:01:06.755Z",
+        "updated": "2024-02-13T01:01:06.755Z"
+      },
+      "userdata": {}
+    },
+    "5e1e2934-ca0b-11ee-ab2a-4dc8d1f5b568": {
+      "source": "fa53be62-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "5e1e2933-ca0b-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:01:06.755Z",
+        "updated": "2024-02-13T01:01:06.755Z"
+      },
+      "userdata": {}
+    },
+    "5e1e2935-ca0b-11ee-ab2a-4dc8d1f5b568": {
+      "source": "5e1e2933-ca0b-11ee-ab2a-4dc8d1f5b568",
+      "target": "fa53be61-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:01:06.755Z",
+        "updated": "2024-02-13T01:01:06.755Z"
+      },
+      "userdata": {}
+    },
+    "5e1e2937-ca0b-11ee-ab2a-4dc8d1f5b568": {
+      "source": "fa53be63-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "5e1e2936-ca0b-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:01:06.755Z",
+        "updated": "2024-02-13T01:01:06.755Z"
+      },
+      "userdata": {}
+    },
+    "5e1e2938-ca0b-11ee-ab2a-4dc8d1f5b568": {
+      "source": "5e1e2936-ca0b-11ee-ab2a-4dc8d1f5b568",
+      "target": "fa53be62-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:01:06.755Z",
+        "updated": "2024-02-13T01:01:06.755Z"
+      },
+      "userdata": {}
+    },
+    "5e1e293a-ca0b-11ee-ab2a-4dc8d1f5b568": {
+      "source": "fa53be64-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "5e1e2939-ca0b-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:01:06.755Z",
+        "updated": "2024-02-13T01:01:06.755Z"
+      },
+      "userdata": {}
+    },
+    "5e1e293b-ca0b-11ee-ab2a-4dc8d1f5b568": {
+      "source": "5e1e2939-ca0b-11ee-ab2a-4dc8d1f5b568",
+      "target": "fa53be63-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:01:06.755Z",
+        "updated": "2024-02-13T01:01:06.755Z"
+      },
+      "userdata": {}
+    },
+    "5e1e293d-ca0b-11ee-ab2a-4dc8d1f5b568": {
+      "source": "fa53be65-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "5e1e293c-ca0b-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:01:06.755Z",
+        "updated": "2024-02-13T01:01:06.755Z"
+      },
+      "userdata": {}
+    },
+    "5e1e293e-ca0b-11ee-ab2a-4dc8d1f5b568": {
+      "source": "5e1e293c-ca0b-11ee-ab2a-4dc8d1f5b568",
+      "target": "fa53be63-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:01:06.755Z",
+        "updated": "2024-02-13T01:01:06.755Z"
+      },
+      "userdata": {}
+    },
+    "5e1e2940-ca0b-11ee-ab2a-4dc8d1f5b568": {
+      "source": "fa53be66-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "5e1e293f-ca0b-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:01:06.755Z",
+        "updated": "2024-02-13T01:01:06.755Z"
+      },
+      "userdata": {}
+    },
+    "5e1e2941-ca0b-11ee-ab2a-4dc8d1f5b568": {
+      "source": "5e1e293f-ca0b-11ee-ab2a-4dc8d1f5b568",
+      "target": "fa53be62-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:01:06.755Z",
+        "updated": "2024-02-13T01:01:06.755Z"
+      },
+      "userdata": {}
+    },
+    "5e1e2943-ca0b-11ee-ab2a-4dc8d1f5b568": {
+      "source": "fa53be67-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "5e1e2942-ca0b-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:01:06.755Z",
+        "updated": "2024-02-13T01:01:06.755Z"
+      },
+      "userdata": {}
+    },
+    "5e1e2944-ca0b-11ee-ab2a-4dc8d1f5b568": {
+      "source": "5e1e2942-ca0b-11ee-ab2a-4dc8d1f5b568",
+      "target": "fa53be66-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:01:06.755Z",
+        "updated": "2024-02-13T01:01:06.755Z"
+      },
+      "userdata": {}
+    },
+    "5e1e2946-ca0b-11ee-ab2a-4dc8d1f5b568": {
+      "source": "fa53be68-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "5e1e2945-ca0b-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:01:06.755Z",
+        "updated": "2024-02-13T01:01:06.755Z"
+      },
+      "userdata": {}
+    },
+    "5e1e2947-ca0b-11ee-ab2a-4dc8d1f5b568": {
+      "source": "5e1e2945-ca0b-11ee-ab2a-4dc8d1f5b568",
+      "target": "fa53be67-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:01:06.755Z",
+        "updated": "2024-02-13T01:01:06.755Z"
+      },
+      "userdata": {}
+    },
+    "5e1e2949-ca0b-11ee-ab2a-4dc8d1f5b568": {
+      "source": "fa53be69-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "5e1e2948-ca0b-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:01:06.755Z",
+        "updated": "2024-02-13T01:01:06.755Z"
+      },
+      "userdata": {}
+    },
+    "5e1e294a-ca0b-11ee-ab2a-4dc8d1f5b568": {
+      "source": "5e1e2948-ca0b-11ee-ab2a-4dc8d1f5b568",
+      "target": "fa53be66-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:01:06.755Z",
+        "updated": "2024-02-13T01:01:06.755Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "1347": {
+      "text": "Now that we know who was under the sheet, it's time to find out who put him there.- All season long, \"how to Get Away with Murder\"?has been teasing the reveal of the poor, unfortunate soul who took beloved law student Wes Gibbins from us far too soon. Fans will finally get their answer on Thursday when the hit ABC series wraps up its third season. That's right, don\"t expect any unfulfilling \"Lost\"?syle half-answers this time around. \"how to Get Away with Murder\"?is-delivering. During a recent interview with The Huffington Post for AOL's Build Series, Karla Souza, who plays law student and girlfriend to the recently deceased, Laurel, confirmed that the series is indeed set to reveal the identity of Wes\"?killer.- \"All I know is that we will find out who killed Wes and Laurel will avenge Wes\"?death,\"?Souza explained. \"You guys are going to see the next few episodes, but Laurel takes it up a notch.\"Laurel, of course, has a personal stake in Wes\"?demise. The two began a short-lived affair before his untimely death, with Laurel later discovering she was pregnant with his child. She was also one of the last people to see Wes alive, making her a key factor in piecing together his final hours.- The daring decision to off one of the main characters has in turn allowed Souza to deliver her some of her strongest performances of the series, most notably a heartbreaking scene at Wes\"?memorial service where she lashes out at \"lultures\"?glomming onto the tragedy. Souza says that drawing from her own personal experience with grief helped her to better understand Laurel's pain in the wake of Wes\"?death.- \"I was very challenged by all the scenes, but also ... it was really fun. I know it sounds awful. The process of grief is one that I\"ve been through in my life. I lost my father five years ago and I wish I could have acted the way Laurel did in the funeral,\"?she said. \"I do feel that the writers have done a very good job at allowing Laurel to become unapologetic. It's sort of like all is lost. She has nothing to lose now and she's really becoming a lot ballsier.\"Watch Karla Souza's full BUILD interview below. Share this slide: HuffPost Entertainment is your one-stop shop for celebrity news, hilarious late-night bits, industry and awards coverage and more \"?sent right to your inbox six days a week. Learn more",
+      "title": "Karla Souza Promises Laurel Will Avenge Wes' Death In 'How To Get Away With Murder' Finale",
+      "source": "http://www.huffingtonpost.com/2017/02/23/karla-souza-promises-laurel-will-avenge-wes-death-in-how-to-get-away-with-murder-finale_n_14967980.html",
+      "timestamp": "2017-02-23T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.190Z",
+        "updated": "2024-02-09T13:09:16.190Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "fa53be61-ca0a-11ee-ab2a-4dc8d1f5b568",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.189Z",
+    "updated": "2024-02-13T01:03:43.928Z"
+  }
+}

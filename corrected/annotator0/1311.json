@@ -1,0 +1,227 @@
+{
+  "nodes": {
+    "2525d223-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "We will now do all we can to understand the cause of this incident and we have sent a specialist team to offer any assistance it can to the investigation",
+        "reference": {
+          "resource": "1311",
+          "offset": 975,
+          "text": "We will now do all we can to understand the cause of this incident and we have sent a specialist team to offer any assistance it can to the investigation"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:50:33.666Z",
+        "updated": "2024-02-11T12:50:33.666Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 360.6842415712192,
+            "y": 12
+          }
+        }
+      }
+    },
+    "2525d220-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Nobody is injured",
+        "reference": {
+          "resource": "1311",
+          "offset": 457,
+          "text": "Nobody is injured"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:50:33.666Z",
+        "updated": "2024-02-11T12:50:33.666Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 439.0007079500286,
+            "y": 544
+          }
+        }
+      }
+    },
+    "2525d221-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "All 59 passengers who were on board have now left the airport to continue their journeys",
+        "reference": {
+          "resource": "1311",
+          "offset": 729,
+          "text": "All 59 passengers who were on board have now left the airport to continue their journeys"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:50:33.666Z",
+        "updated": "2024-02-11T12:50:33.666Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.00046552664077,
+            "y": 302
+          }
+        }
+      }
+    },
+    "2525d227-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:50:33.666Z",
+        "updated": "2024-02-11T12:50:33.666Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.0009247580984,
+            "y": 444
+          }
+        }
+      }
+    },
+    "2525d22a-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:50:33.666Z",
+        "updated": "2024-02-11T12:50:33.666Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.00079099384783,
+            "y": 202
+          }
+        }
+      }
+    },
+    "2525d222-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "The safety and well-being of our passengers and crew is our greatest concern",
+        "reference": {
+          "resource": "1311",
+          "offset": 893,
+          "text": "The safety and well-being of our passengers and crew is our greatest concern"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:50:33.666Z",
+        "updated": "2024-02-11T12:50:33.666Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000099117427885,
+            "y": 302
+          }
+        }
+      }
+    },
+    "2525d22d-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:50:33.666Z",
+        "updated": "2024-02-11T12:50:33.666Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00098237313719,
+            "y": 202
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "2525d228-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "source": "2525d220-c8dc-11ee-a7b6-0184e7d3dd10",
+      "target": "2525d227-c8dc-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:50:33.666Z",
+        "updated": "2024-02-11T12:50:33.666Z"
+      },
+      "userdata": {}
+    },
+    "2525d229-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "source": "2525d227-c8dc-11ee-a7b6-0184e7d3dd10",
+      "target": "2525d221-c8dc-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:50:33.666Z",
+        "updated": "2024-02-11T12:50:33.666Z"
+      },
+      "userdata": {}
+    },
+    "2525d22b-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "source": "2525d221-c8dc-11ee-a7b6-0184e7d3dd10",
+      "target": "2525d22a-c8dc-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:50:33.666Z",
+        "updated": "2024-02-11T12:50:33.666Z"
+      },
+      "userdata": {}
+    },
+    "2525d22c-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "source": "2525d22a-c8dc-11ee-a7b6-0184e7d3dd10",
+      "target": "2525d223-c8dc-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:50:33.666Z",
+        "updated": "2024-02-11T12:50:33.666Z"
+      },
+      "userdata": {}
+    },
+    "2525d22e-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "source": "2525d222-c8dc-11ee-a7b6-0184e7d3dd10",
+      "target": "2525d22d-c8dc-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:50:33.666Z",
+        "updated": "2024-02-11T12:50:33.666Z"
+      },
+      "userdata": {}
+    },
+    "2525d22f-c8dc-11ee-a7b6-0184e7d3dd10": {
+      "source": "2525d22d-c8dc-11ee-a7b6-0184e7d3dd10",
+      "target": "2525d223-c8dc-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:50:33.666Z",
+        "updated": "2024-02-11T12:50:33.666Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "1311": {
+      "text": "It was a rocky and scary landing for passengers on board a Flybe flight arriving in the Netherlands today from Edinburgh, Scotland. \"Flybe can confirm that there has been an incident involving one of our aircraft,\" the airline said in a statement. \"The incident occurred at Amsterdam Schiphol Airport at approximately [4:59 p.m.] local time.\" In a statement, the airport said the plane's landing gear \"collapsed during touchdown,\" with 59 people on board. \"Nobody is injured,\" and the \"cause of the incident is being investigated,\" the statement said. Plane makes emergency return to airport after hitting deer during takeoff Flybe said all passengers on board the Bombardier Q-400 had been transported to the airport terminal. \"All 59 passengers who were on board have now left the airport to continue their journeys,\" Flybe said. In a statement, Flybe CEO Christine Ourmieres-Widener said: \"The safety and well-being of our passengers and crew is our greatest concern. ... We will now do all we can to understand the cause of this incident and we have sent a specialist team to offer any assistance it can to the investigation.\"  Crash landing @Schiphol Edinburgh to Amsterdam Flight BE1284 @BBCScotlandNews @BBCBreaking @SkyNews @STVNews @flybe @airlivenet #StormDoris pic.twitter.com/ueLa3C5fBu ",
+      "title": "Landing gear on plane carrying 59 collapsed during touchdown, airport says",
+      "source": "http://abcnews.go.com/International/landing-gear-plane-carrying-59-collapsed-touchdown-airport/story?id=45694033",
+      "timestamp": "2017-02-23T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.214Z",
+        "updated": "2024-02-09T13:09:16.214Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "2c603380-c41a-11ee-a06c-cb1cbb90ffa4": {
+      "name": "annotator0",
+      "email": "s4kibart@uni-trier.de",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "2525d223-c8dc-11ee-a7b6-0184e7d3dd10",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.214Z",
+    "updated": "2024-04-15T09:54:18.373Z"
+  },
+  "userdata": {}
+}

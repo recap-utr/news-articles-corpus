@@ -1,0 +1,297 @@
+{
+  "nodes": {
+    "c61e1620-c683-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "GDP is an open source automotive development platform where prototypes and innovative IVI and connected vehicle solutions can be rapidly developed and demonstrated in an open community",
+        "reference": {
+          "resource": "2671",
+          "offset": 661,
+          "text": "GDP is an open source automotive development platform where prototypes and innovative IVI and connected vehicle solutions can be rapidly developed and demonstrated in an open community"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:12:56.194Z",
+        "updated": "2024-02-08T13:12:56.194Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -165.93148431733107,
+            "y": 62.52084993619843
+          }
+        }
+      }
+    },
+    "d40f4510-c683-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "The GSoC program is a wonderful opportunity to introduce students to open source software in an automotive context",
+        "reference": {
+          "resource": "2671",
+          "offset": 848,
+          "text": "The GSoC program is a wonderful opportunity to introduce students to open source software in an automotive context"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:13:19.585Z",
+        "updated": "2024-02-08T13:13:19.585Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1220.4938585943187,
+            "y": 99.7828534359949
+          }
+        }
+      }
+    },
+    "de585390-c683-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "\"It goes a long way towards developing a new generation of software developers, and provides an excellent opportunity to leverage talent within academia to produce useful automotive software",
+        "reference": {
+          "resource": "2671",
+          "offset": 1020,
+          "text": "\"It goes a long way towards developing a new generation of software developers, and provides an excellent opportunity to leverage talent within academia to produce useful automotive software"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:13:36.841Z",
+        "updated": "2024-02-08T13:13:36.841Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 872.8618785518088,
+            "y": 85.56964107543695
+          }
+        }
+      }
+    },
+    "0e25e010-c684-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "joining connected car stakeholders with world-class developers in a collaborative environment",
+        "reference": {
+          "resource": "2671",
+          "offset": 1973,
+          "text": "joining connected car stakeholders with world-class developers in a collaborative environment"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:14:57.041Z",
+        "updated": "2024-02-08T13:14:57.041Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 493.99566573533116,
+            "y": 123.5515269857961
+          }
+        }
+      }
+    },
+    "53d206c0-c684-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "the GENIVI Development Platform (GDP) has been selected to participate in the Google Summer of Code (GSoC) program, which is a great opportunity for student developers "
+      },
+      "metadata": {
+        "created": "2024-02-08T13:16:53.932Z",
+        "updated": "2024-02-08T13:16:53.932Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 336.7117296975049,
+            "y": -242.10847250302433
+          }
+        }
+      }
+    },
+    "8ba0fbb0-c684-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:18:27.563Z",
+        "updated": "2024-02-08T13:18:27.563Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 118.22070069946699,
+            "y": -50.459884323690815
+          }
+        }
+      }
+    },
+    "90b15eb0-c684-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:18:36.059Z",
+        "updated": "2024-02-08T13:18:36.059Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 851.6256495726956,
+            "y": -6.630426676855535
+          }
+        }
+      }
+    },
+    "ac61b010-c684-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:19:22.513Z",
+        "updated": "2024-02-08T13:19:22.513Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1315.3106713228972,
+            "y": -41.88778801818775
+          }
+        }
+      }
+    },
+    "d7cc7eb0-c684-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:20:35.355Z",
+        "updated": "2024-02-08T13:20:35.355Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 483.79599404455166,
+            "y": -0.4564093730161005
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "8ba0fbb1-c684-11ee-ba3b-07e43482f0f9": {
+      "source": "c61e1620-c683-11ee-ba3b-07e43482f0f9",
+      "target": "8ba0fbb0-c684-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:18:27.563Z",
+        "updated": "2024-02-08T13:18:27.563Z"
+      },
+      "userdata": {}
+    },
+    "8ba0fbb2-c684-11ee-ba3b-07e43482f0f9": {
+      "source": "8ba0fbb0-c684-11ee-ba3b-07e43482f0f9",
+      "target": "53d206c0-c684-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:18:27.563Z",
+        "updated": "2024-02-08T13:18:27.563Z"
+      },
+      "userdata": {}
+    },
+    "90b15eb1-c684-11ee-ba3b-07e43482f0f9": {
+      "source": "de585390-c683-11ee-ba3b-07e43482f0f9",
+      "target": "90b15eb0-c684-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:18:36.059Z",
+        "updated": "2024-02-08T13:18:36.059Z"
+      },
+      "userdata": {}
+    },
+    "90b15eb2-c684-11ee-ba3b-07e43482f0f9": {
+      "source": "90b15eb0-c684-11ee-ba3b-07e43482f0f9",
+      "target": "53d206c0-c684-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:18:36.059Z",
+        "updated": "2024-02-08T13:18:36.059Z"
+      },
+      "userdata": {}
+    },
+    "ac61b011-c684-11ee-ba3b-07e43482f0f9": {
+      "source": "d40f4510-c683-11ee-ba3b-07e43482f0f9",
+      "target": "ac61b010-c684-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:19:22.513Z",
+        "updated": "2024-02-08T13:19:22.513Z"
+      },
+      "userdata": {}
+    },
+    "ac61b012-c684-11ee-ba3b-07e43482f0f9": {
+      "source": "ac61b010-c684-11ee-ba3b-07e43482f0f9",
+      "target": "53d206c0-c684-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:19:22.513Z",
+        "updated": "2024-02-08T13:19:22.513Z"
+      },
+      "userdata": {}
+    },
+    "d503c1c1-c684-11ee-ba3b-07e43482f0f9": {
+      "source": "10fa5cd0-c684-11ee-ba3b-07e43482f0f9",
+      "target": "d503c1c0-c684-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:20:30.685Z",
+        "updated": "2024-02-08T13:20:30.685Z"
+      },
+      "userdata": {}
+    },
+    "d503e8d0-c684-11ee-ba3b-07e43482f0f9": {
+      "source": "d503c1c0-c684-11ee-ba3b-07e43482f0f9",
+      "target": "53d206c0-c684-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:20:30.685Z",
+        "updated": "2024-02-08T13:20:30.685Z"
+      },
+      "userdata": {}
+    },
+    "d7cc7eb1-c684-11ee-ba3b-07e43482f0f9": {
+      "source": "0e25e010-c684-11ee-ba3b-07e43482f0f9",
+      "target": "d7cc7eb0-c684-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:20:35.355Z",
+        "updated": "2024-02-08T13:20:35.355Z"
+      },
+      "userdata": {}
+    },
+    "d7cc7eb2-c684-11ee-ba3b-07e43482f0f9": {
+      "source": "d7cc7eb0-c684-11ee-ba3b-07e43482f0f9",
+      "target": "53d206c0-c684-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:20:35.355Z",
+        "updated": "2024-02-08T13:20:35.355Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "2671": {
+      "text": "SAN RAMON, California, March 16, 2017 /PRNewswire/.-The GENIVI Alliance, an open, collaborative development community of automakers and their suppliers driving the broad adoption of open source in-Vehicle (IVI) and connected car software, has announced its GENIVI Development Platform (GDP) has been chosen to participate in the Google Summer of Code (GSoC) program. The GSoC is a global program focused on bringing more student developers into open source software development.-Students work with an open source organization on a 3-month programming project during their school break, and the GDP was one of 201 applications accepted among 400 applicants.-The GDP is an open source automotive development platform where prototypes and innovative IVI and connected vehicle solutions can be rapidly developed and demonstrated in an open community. \"The GSoC program is a wonderful opportunity to introduce students to open source software in an automotive context,\" said Steve Crumb, executive director, GENIVI Alliance.-\"It goes a long way towards developing a new generation of software developers, and provides an excellent opportunity to leverage talent within academia to produce useful automotive software.\" The GSoC will begin accepting student applications on March 20 and the deadline to submit an application is April 3.-After entering the program, students will be paired with a mentor from the GENIVI delivery team and coding will take place over the summer months with results announced on September 6.-More information on the program can be found on the-GSoC website-and students interested learning more about the GDP and submitting project ideas can visit the GENIVI-Wiki.- About GENIVI Alliance- The-GENIVI Alliance-is a non-profit alliance focused on developing an open in-vehicle infotainment (IVI) and connectivity platform for the transportation industry. The alliance provides its members with a global networking community of more than 140 companies, joining connected car stakeholders with world-class developers in a collaborative environment, resulting in free, open source middleware. GENIVI is headquartered in San Ramon Calif. Media Contact - GENIVI Alliance: Craig Miner GENIVI Alliance +1.248.840.8368 cminer@quell.com Logo --http://photos.prnewswire.com/prnh/20160720/391617LOGO",
+      "title": "GENIVI Alliance Chosen by Google Summer of Code Program",
+      "source": "http://tass.com/press-releases/935963",
+      "timestamp": "2017-03-16T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-08T09:23:32.577Z",
+        "updated": "2024-02-08T09:23:32.577Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "69ca24d0-c5b2-11ee-bbb2-f78c6e9d2422": {
+      "name": "Martin Hoppe",
+      "email": "mogramming@gmail.com",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "53d206c0-c684-11ee-ba3b-07e43482f0f9",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-08T09:23:32.577Z",
+    "updated": "2024-04-17T07:35:05.828Z"
+  },
+  "userdata": {}
+}

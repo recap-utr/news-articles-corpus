@@ -1,0 +1,783 @@
+{
+  "nodes": {
+    "fad53cb0-ca05-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "At least 20 people have been killed in a bomb blast outside the Supreme Court in the centre of the Afghan capital, government officials said, in what appears to be the latest in a series of attacks on the judiciary",
+        "reference": {
+          "resource": "646",
+          "offset": 0,
+          "text": "At least 20 people have been killed in a bomb blast outside the Supreme Court in the centre of the Afghan capital, government officials said, in what appears to be the latest in a series of attacks on the judiciary"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:22:32.699Z",
+        "updated": "2024-02-13T00:22:32.699Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Provides an overview of the event, indicating a fatal attack on the judiciary.",
+          "mcConfig": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "mcExplanation": "The ADU describing the bomb blast outside the Supreme Court as the event that appears to be the latest in a series of attacks on the judiciary serves as the major claim for this argument. This ADU sets the context and focus for the subsequent information and claims, including details about the aftermath, historical attacks, and governmental responses, which all revolve around this central event."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 392.00087715552837,
+            "y": 12
+          }
+        }
+      }
+    },
+    "fad53cb1-ca05-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "The Ministry of Public Health said that 41 others were wounded and taken to Kabul hospitals",
+        "reference": {
+          "resource": "646",
+          "offset": 216,
+          "text": "The Ministry of Public Health said that 41 others were wounded and taken to Kabul hospitals"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:22:32.700Z",
+        "updated": "2024-02-13T00:22:32.700Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Highlights the casualties and injuries from the attack."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 362.00086051015245,
+            "y": 326
+          }
+        }
+      }
+    },
+    "fad563c0-ca05-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "There was no immediate claim of responsibility for the attack",
+        "reference": {
+          "resource": "646",
+          "offset": 309,
+          "text": "There was no immediate claim of responsibility for the attack"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:22:32.700Z",
+        "updated": "2024-02-13T00:22:32.700Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Indicates the uncertainty surrounding the perpetrators immediately after the attack."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 712.0006632866362,
+            "y": 362
+          }
+        }
+      }
+    },
+    "fad563c1-ca05-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "Afghan President Ashraf Ghani condemned the attack as a \"crime against humanity and an unforgivable act\"",
+        "reference": {
+          "resource": "646",
+          "offset": 629,
+          "text": "Afghan President Ashraf Ghani condemned the attack as a \"crime against humanity and an unforgivable act\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:22:32.700Z",
+        "updated": "2024-02-13T00:22:32.700Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Shows the Afghan President's condemnation and characterization of the attack."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 37.77164840967555,
+            "y": 628.3184822603532
+          }
+        }
+      }
+    },
+    "fad563c2-ca05-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "The Supreme Court was the target of a bomb in June 2013, when a suicide bomber drove an explosives-packed car into a bus carrying court employees, including judges",
+        "reference": {
+          "resource": "646",
+          "offset": 735,
+          "text": "The Supreme Court was the target of a bomb in June 2013, when a suicide bomber drove an explosives-packed car into a bus carrying court employees, including judges"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:22:32.700Z",
+        "updated": "2024-02-13T00:22:32.700Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Provides historical context to the pattern of attacks on the judiciary."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1412.0009808597185,
+            "y": 326
+          }
+        }
+      }
+    },
+    "fad563c3-ca05-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "The Taliban claimed responsibility for that attack, and since then security near the court has been increased with large concrete blast walls",
+        "reference": {
+          "resource": "646",
+          "offset": 900,
+          "text": "The Taliban claimed responsibility for that attack, and since then security near the court has been increased with large concrete blast walls"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:22:32.700Z",
+        "updated": "2024-02-13T00:22:32.700Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Links a past attack to increased security measures."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1762.0005970770862,
+            "y": 616
+          }
+        }
+      }
+    },
+    "fad563c4-ca05-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "In 2015 a Taliban bomber killed five prosecutors from the office of the Attorney General in Kabul, and last year Taliban gunmen stormed a legal office in Logar province, killing seven people, including two prosecutors",
+        "reference": {
+          "resource": "646",
+          "offset": 1043,
+          "text": "In 2015 a Taliban bomber killed five prosecutors from the office of the Attorney General in Kabul, and last year Taliban gunmen stormed a legal office in Logar province, killing seven people, including two prosecutors"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:22:32.700Z",
+        "updated": "2024-02-13T00:22:32.700Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Further details the history of attacks attributed to the Taliban against legal institutions."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1134.9323189624408,
+            "y": 701.3592399821214
+          }
+        }
+      }
+    },
+    "fad563c5-ca05-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "The Islamist militant Taliban, fighting to oust foreign forces and bring down the US-backed government, claimed responsibility for that attack on 10 January",
+        "reference": {
+          "resource": "646",
+          "offset": 1493,
+          "text": "The Islamist militant Taliban, fighting to oust foreign forces and bring down the US-backed government, claimed responsibility for that attack on 10 January"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:22:32.700Z",
+        "updated": "2024-02-13T00:22:32.700Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Presents the motivations behind the Taliban's attacks."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 735.9565294659722,
+            "y": 946.2423055046011
+          }
+        }
+      }
+    },
+    "40d43e50-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:24:30.133Z",
+        "updated": "2024-02-13T00:24:30.133Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Providing casualty information directly related to the bomb blast supports the statement about the bomb blast incident."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 462.0001174271084,
+            "y": 226
+          }
+        }
+      }
+    },
+    "40d43e53-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:24:30.133Z",
+        "updated": "2024-02-13T00:24:30.133Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Highlighting the lack of responsibility claim contrasts with the accounted event's description, suggesting an information gap."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 812.000198222059,
+            "y": 226
+          }
+        }
+      }
+    },
+    "40d43e56-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:24:30.133Z",
+        "updated": "2024-02-13T00:24:30.133Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The condemnation by the President reinforces the perceived gravity of the attack."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 127.29803641537183,
+            "y": 377.7533081081371
+          }
+        }
+      }
+    },
+    "40d43e59-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:24:30.133Z",
+        "updated": "2024-02-13T00:24:30.133Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Historical context of attacks against the judiciary supports the narrative of targeted violence."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1512.0007473569215,
+            "y": 226
+          }
+        }
+      }
+    },
+    "40d43e5c-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:24:30.133Z",
+        "updated": "2024-02-13T00:24:30.133Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Providing specific details of a past attack and subsequent security measures supports the historical context of attacks on the judiciary."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1862.0008479535188,
+            "y": 516
+          }
+        }
+      }
+    },
+    "40d43e5f-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:24:30.133Z",
+        "updated": "2024-02-13T00:24:30.133Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Illustrating other instances of attacks against the judiciary strengthens the narrative of continued targeting."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 924.2810835960793,
+            "y": 521.5973272119423
+          }
+        }
+      }
+    },
+    "40d43e62-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:24:30.133Z",
+        "updated": "2024-02-13T00:24:30.133Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Confirming the Taliban's responsibility for a judiciary attack adds credibility to the pattern of targeting."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 849.9491946017165,
+            "y": 828.0509920657881
+          }
+        }
+      }
+    },
+    "c7272530-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "Last month, bombers killed more than 30 people and wounded about 70 in twin blasts in a crowded area of Kabul during the afternoon rush hour",
+        "reference": {
+          "resource": "646",
+          "offset": 1351,
+          "text": "Last month, bombers killed more than 30 people and wounded about 70 in twin blasts in a crowded area of Kabul during the afternoon rush hour"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:28:15.491Z",
+        "updated": "2024-02-13T00:28:15.491Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 519.6251747334761,
+            "y": 665.5250643847778
+          }
+        }
+      }
+    },
+    "cb4a1af0-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:28:22.431Z",
+        "updated": "2024-02-13T00:28:22.431Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 644.7228193475578,
+            "y": 515.0783393685741
+          }
+        }
+      }
+    },
+    "f8e229d0-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "The same militant group killed four people at a provincial courthouse in Ghazni in 2016",
+        "reference": {
+          "resource": "646",
+          "offset": 1262,
+          "text": "The same militant group killed four people at a provincial courthouse in Ghazni in 2016"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:29:38.925Z",
+        "updated": "2024-02-13T00:29:38.925Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1147.200650096043,
+            "y": 984.845695865037
+          }
+        }
+      }
+    },
+    "fd4583f0-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:29:46.287Z",
+        "updated": "2024-02-13T00:29:46.287Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 769.6007636257857,
+            "y": 498.4228479325185
+          }
+        }
+      }
+    },
+    "1f4a9f30-ca07-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "Several thousand foreign troops, most of them Americans, remain in training and counter-terrorism roles",
+        "reference": {
+          "resource": "646",
+          "offset": 1837,
+          "text": "Several thousand foreign troops, most of them Americans, remain in training and counter-terrorism roles"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:30:43.363Z",
+        "updated": "2024-02-13T00:30:43.363Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 716.2064547764792,
+            "y": 1193.3461345098908
+          }
+        }
+      }
+    },
+    "221fdf40-ca07-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:30:48.116Z",
+        "updated": "2024-02-13T00:30:48.116Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 776.4574370287073,
+            "y": 1111.774174096814
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "40d43e51-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "source": "fad53cb1-ca05-11ee-ab2a-4dc8d1f5b568",
+      "target": "40d43e50-ca06-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:24:30.133Z",
+        "updated": "2024-02-13T00:24:30.133Z"
+      },
+      "userdata": {}
+    },
+    "40d43e52-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "source": "40d43e50-ca06-11ee-ab2a-4dc8d1f5b568",
+      "target": "fad53cb0-ca05-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:24:30.133Z",
+        "updated": "2024-02-13T00:24:30.133Z"
+      },
+      "userdata": {}
+    },
+    "40d43e54-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "source": "fad563c0-ca05-11ee-ab2a-4dc8d1f5b568",
+      "target": "40d43e53-ca06-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:24:30.133Z",
+        "updated": "2024-02-13T00:24:30.133Z"
+      },
+      "userdata": {}
+    },
+    "40d43e55-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "source": "40d43e53-ca06-11ee-ab2a-4dc8d1f5b568",
+      "target": "fad53cb0-ca05-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:24:30.133Z",
+        "updated": "2024-02-13T00:24:30.133Z"
+      },
+      "userdata": {}
+    },
+    "40d43e57-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "source": "fad563c1-ca05-11ee-ab2a-4dc8d1f5b568",
+      "target": "40d43e56-ca06-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:24:30.133Z",
+        "updated": "2024-02-13T00:24:30.133Z"
+      },
+      "userdata": {}
+    },
+    "40d43e5a-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "source": "fad563c2-ca05-11ee-ab2a-4dc8d1f5b568",
+      "target": "40d43e59-ca06-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:24:30.133Z",
+        "updated": "2024-02-13T00:24:30.133Z"
+      },
+      "userdata": {}
+    },
+    "40d43e5b-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "source": "40d43e59-ca06-11ee-ab2a-4dc8d1f5b568",
+      "target": "fad53cb0-ca05-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:24:30.133Z",
+        "updated": "2024-02-13T00:24:30.133Z"
+      },
+      "userdata": {}
+    },
+    "40d43e5d-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "source": "fad563c3-ca05-11ee-ab2a-4dc8d1f5b568",
+      "target": "40d43e5c-ca06-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:24:30.133Z",
+        "updated": "2024-02-13T00:24:30.133Z"
+      },
+      "userdata": {}
+    },
+    "40d43e5e-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "source": "40d43e5c-ca06-11ee-ab2a-4dc8d1f5b568",
+      "target": "fad563c2-ca05-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:24:30.133Z",
+        "updated": "2024-02-13T00:24:30.133Z"
+      },
+      "userdata": {}
+    },
+    "40d43e60-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "source": "fad563c4-ca05-11ee-ab2a-4dc8d1f5b568",
+      "target": "40d43e5f-ca06-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:24:30.133Z",
+        "updated": "2024-02-13T00:24:30.133Z"
+      },
+      "userdata": {}
+    },
+    "40d43e63-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "source": "fad563c5-ca05-11ee-ab2a-4dc8d1f5b568",
+      "target": "40d43e62-ca06-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:24:30.133Z",
+        "updated": "2024-02-13T00:24:30.133Z"
+      },
+      "userdata": {}
+    },
+    "40d43e66-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "source": "fad563c6-ca05-11ee-ab2a-4dc8d1f5b568",
+      "target": "40d43e65-ca06-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:24:30.133Z",
+        "updated": "2024-02-13T00:24:30.133Z"
+      },
+      "userdata": {}
+    },
+    "40d43e67-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "source": "40d43e65-ca06-11ee-ab2a-4dc8d1f5b568",
+      "target": "fad53cb0-ca05-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:24:30.133Z",
+        "updated": "2024-02-13T00:24:30.133Z"
+      },
+      "userdata": {}
+    },
+    "40d46561-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "source": "fad563c7-ca05-11ee-ab2a-4dc8d1f5b568",
+      "target": "40d46560-ca06-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:24:30.134Z",
+        "updated": "2024-02-13T00:24:30.134Z"
+      },
+      "userdata": {}
+    },
+    "40d46562-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "source": "40d46560-ca06-11ee-ab2a-4dc8d1f5b568",
+      "target": "fad563c6-ca05-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:24:30.134Z",
+        "updated": "2024-02-13T00:24:30.134Z"
+      },
+      "userdata": {}
+    },
+    "75d32350-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "source": "40d43e56-ca06-11ee-ab2a-4dc8d1f5b568",
+      "target": "fad53cb0-ca05-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:25:59.045Z",
+        "updated": "2024-02-13T00:25:59.045Z"
+      },
+      "userdata": {}
+    },
+    "cb4a1af1-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "source": "c7272530-ca06-11ee-ab2a-4dc8d1f5b568",
+      "target": "cb4a1af0-ca06-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:28:22.431Z",
+        "updated": "2024-02-13T00:28:22.431Z"
+      },
+      "userdata": {}
+    },
+    "cb4a1af2-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "source": "cb4a1af0-ca06-11ee-ab2a-4dc8d1f5b568",
+      "target": "fad53cb0-ca05-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:28:22.431Z",
+        "updated": "2024-02-13T00:28:22.431Z"
+      },
+      "userdata": {}
+    },
+    "d28a2f30-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "source": "40d43e62-ca06-11ee-ab2a-4dc8d1f5b568",
+      "target": "c7272530-ca06-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:28:34.595Z",
+        "updated": "2024-02-13T00:28:34.595Z"
+      },
+      "userdata": {}
+    },
+    "e54fc990-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "source": "40d43e5f-ca06-11ee-ab2a-4dc8d1f5b568",
+      "target": "fad53cb0-ca05-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:29:06.089Z",
+        "updated": "2024-02-13T00:29:06.089Z"
+      },
+      "userdata": {}
+    },
+    "fd4583f1-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "source": "f8e229d0-ca06-11ee-ab2a-4dc8d1f5b568",
+      "target": "fd4583f0-ca06-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:29:46.287Z",
+        "updated": "2024-02-13T00:29:46.287Z"
+      },
+      "userdata": {}
+    },
+    "fd4583f2-ca06-11ee-ab2a-4dc8d1f5b568": {
+      "source": "fd4583f0-ca06-11ee-ab2a-4dc8d1f5b568",
+      "target": "fad53cb0-ca05-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:29:46.287Z",
+        "updated": "2024-02-13T00:29:46.287Z"
+      },
+      "userdata": {}
+    },
+    "1117d361-ca07-11ee-ab2a-4dc8d1f5b568": {
+      "source": "0e1d7f20-ca07-11ee-ab2a-4dc8d1f5b568",
+      "target": "1117d360-ca07-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:30:19.542Z",
+        "updated": "2024-02-13T00:30:19.542Z"
+      },
+      "userdata": {}
+    },
+    "1117d362-ca07-11ee-ab2a-4dc8d1f5b568": {
+      "source": "1117d360-ca07-11ee-ab2a-4dc8d1f5b568",
+      "target": "fad563c5-ca05-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:30:19.542Z",
+        "updated": "2024-02-13T00:30:19.542Z"
+      },
+      "userdata": {}
+    },
+    "221fdf41-ca07-11ee-ab2a-4dc8d1f5b568": {
+      "source": "1f4a9f30-ca07-11ee-ab2a-4dc8d1f5b568",
+      "target": "221fdf40-ca07-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:30:48.116Z",
+        "updated": "2024-02-13T00:30:48.116Z"
+      },
+      "userdata": {}
+    },
+    "221fdf42-ca07-11ee-ab2a-4dc8d1f5b568": {
+      "source": "221fdf40-ca07-11ee-ab2a-4dc8d1f5b568",
+      "target": "fad563c5-ca05-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:30:48.116Z",
+        "updated": "2024-02-13T00:30:48.116Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "646": {
+      "text": "At least 20 people have been killed in a bomb blast outside the Supreme Court in the centre of the Afghan capital, government officials said, in what appears to be the latest in a series of attacks on the judiciary. The Ministry of Public Health said that 41 others were wounded and taken to Kabul hospitals. There was no immediate claim of responsibility for the attack, in which police said an apparent suicide bomber targeted Supreme Court employees leaving their offices at the end of the working day. The bomber appeared to have entered an area where guards were performing security checks when he detonated the explosives. Afghan President Ashraf Ghani condemned the attack as a \"crime against humanity and an unforgivable act\". The Supreme Court was the target of a bomb in June 2013, when a suicide bomber drove an explosives-packed car into a bus carrying court employees, including judges. The Taliban claimed responsibility for that attack, and since then security near the court has been increased with large concrete blast walls. In 2015 a Taliban bomber killed five prosecutors from the office of the Attorney General in Kabul, and last year Taliban gunmen stormed a legal office in Logar province, killing seven people, including two prosecutors. The same militant group killed four people at a provincial courthouse in Ghazni in 2016. Last month, bombers killed more than 30 people and wounded about 70 in twin blasts in a crowded area of Kabul during the afternoon rush hour. The Islamist militant Taliban, fighting to oust foreign forces and bring down the US-backed government, claimed responsibility for that attack on 10 January. Afghan government forces control no more than two-thirds of national territory, and have struggled to contain the insurgency since the bulk of NATO soldiers withdrew at the end of 2014. Several thousand foreign troops, most of them Americans, remain in training and counter-terrorism roles.-",
+      "title": "Blast kills at least 20 outside Kabul Supreme Court",
+      "source": "http://www.rte.ie/news/2017/0207/850847-kabul-attack-court/",
+      "timestamp": "2017-02-07T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.185Z",
+        "updated": "2024-02-09T13:09:16.185Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "fad53cb0-ca05-11ee-ab2a-4dc8d1f5b568",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.185Z",
+    "updated": "2024-02-13T00:31:22.922Z"
+  }
+}

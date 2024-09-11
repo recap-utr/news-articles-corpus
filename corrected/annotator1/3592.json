@@ -1,0 +1,245 @@
+{
+  "nodes": {
+    "69f5ddc0-c678-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "Melania Trump helped present State Department awards Wednesday to 13 women from around the globe who were recognized for demonstrating courage and leadership in the face of adversity, a group she praised a \"true heroes.\"",
+        "reference": {
+          "resource": "3592",
+          "offset": 0,
+          "text": "Melania Trump helped present State Department awards Wednesday to 13 women from around the globe who were recognized for demonstrating courage and leadership in the face of adversity, a group she praised a \"true heroes.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T11:51:37.116Z",
+        "updated": "2024-02-08T11:51:37.116Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 62.00010869084554,
+            "y": 12
+          }
+        }
+      }
+    },
+    "9ee866b0-c678-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "One of the honorees, Natalia Ponce de Leon, of Colombia, started a foundation to defend and protect the human rights of victims of acid attacks after a stalker doused her face and body with sulfuric acid in March 2014.",
+        "reference": {
+          "resource": "3592",
+          "offset": 681,
+          "text": "One of the honorees, Natalia Ponce de Leon, of Colombia, started a foundation to defend and protect the human rights of victims of acid attacks after a stalker doused her face and body with sulfuric acid in March 2014."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T11:53:05.947Z",
+        "updated": "2024-02-08T11:53:05.947Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -268.84488158782335,
+            "y": 923.2401746397874
+          }
+        }
+      }
+    },
+    "b5da1e90-c678-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "Another woman, Malebogo Molefhe, of Botswana, became an advocate for female victims of gender-based violence after she was attacked, including being shot eight times, by an ex-boyfriend in 2009. She uses a wheelchair due to extensive spinal cord injuries suffered during the assault.",
+        "reference": {
+          "resource": "3592",
+          "offset": 900,
+          "text": "Another woman, Malebogo Molefhe, of Botswana, became an advocate for female victims of gender-based violence after she was attacked, including being shot eight times, by an ex-boyfriend in 2009. She uses a wheelchair due to extensive spinal cord injuries suffered during the assault."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T11:53:44.441Z",
+        "updated": "2024-02-08T11:53:44.441Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 256.5103131821131,
+            "y": 908.1438072746993
+          }
+        }
+      }
+    },
+    "ef963d80-c678-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "\"These honorees, who have fought on the front lines against injustice, are true heroes,\" she continued, adding that their bravery is a reminder that \"there is always hope whenever the human spirit is brought to bear in the service of others.\"",
+        "reference": {
+          "resource": "3592",
+          "offset": 1596,
+          "text": "\"These honorees, who have fought on the front lines against injustice, are true heroes,\" she continued, adding that their bravery is a reminder that \"there is always hope whenever the human spirit is brought to bear in the service of others.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T11:55:21.304Z",
+        "updated": "2024-02-08T11:55:21.304Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 110.41784192288344,
+            "y": 450.8119425824093
+          }
+        }
+      }
+    },
+    "f4b14ee0-c678-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T11:55:29.870Z",
+        "updated": "2024-02-08T11:55:29.870Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 190.67333518701582,
+            "y": 337.71925789489836
+          }
+        }
+      }
+    },
+    "08123ee0-c679-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T11:56:02.382Z",
+        "updated": "2024-02-08T11:56:02.382Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 363.73443309789184,
+            "y": 743.2658468907704
+          }
+        }
+      }
+    },
+    "12332bf0-c679-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T11:56:19.375Z",
+        "updated": "2024-02-08T11:56:19.375Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 68.70061805092996,
+            "y": 736.5772948020373
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "8784da30-c678-11ee-bb24-29eae2ae94d0": {
+      "source": "8470e370-c678-11ee-bb24-29eae2ae94d0",
+      "target": "8784b320-c678-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T11:52:26.707Z",
+        "updated": "2024-02-08T11:52:26.707Z"
+      },
+      "userdata": {}
+    },
+    "8784da31-c678-11ee-bb24-29eae2ae94d0": {
+      "source": "8784b320-c678-11ee-bb24-29eae2ae94d0",
+      "target": "69f5ddc0-c678-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T11:52:26.707Z",
+        "updated": "2024-02-08T11:52:26.707Z"
+      },
+      "userdata": {}
+    },
+    "f4b14ee1-c678-11ee-bb24-29eae2ae94d0": {
+      "source": "ef963d80-c678-11ee-bb24-29eae2ae94d0",
+      "target": "f4b14ee0-c678-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T11:55:29.870Z",
+        "updated": "2024-02-08T11:55:29.870Z"
+      },
+      "userdata": {}
+    },
+    "f4b14ee2-c678-11ee-bb24-29eae2ae94d0": {
+      "source": "f4b14ee0-c678-11ee-bb24-29eae2ae94d0",
+      "target": "69f5ddc0-c678-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T11:55:29.870Z",
+        "updated": "2024-02-08T11:55:29.870Z"
+      },
+      "userdata": {}
+    },
+    "08123ee1-c679-11ee-bb24-29eae2ae94d0": {
+      "source": "b5da1e90-c678-11ee-bb24-29eae2ae94d0",
+      "target": "08123ee0-c679-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T11:56:02.382Z",
+        "updated": "2024-02-08T11:56:02.382Z"
+      },
+      "userdata": {}
+    },
+    "08123ee2-c679-11ee-bb24-29eae2ae94d0": {
+      "source": "08123ee0-c679-11ee-bb24-29eae2ae94d0",
+      "target": "ef963d80-c678-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T11:56:02.382Z",
+        "updated": "2024-02-08T11:56:02.382Z"
+      },
+      "userdata": {}
+    },
+    "12335300-c679-11ee-bb24-29eae2ae94d0": {
+      "source": "9ee866b0-c678-11ee-bb24-29eae2ae94d0",
+      "target": "12332bf0-c679-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T11:56:19.376Z",
+        "updated": "2024-02-08T11:56:19.376Z"
+      },
+      "userdata": {}
+    },
+    "12335301-c679-11ee-bb24-29eae2ae94d0": {
+      "source": "12332bf0-c679-11ee-bb24-29eae2ae94d0",
+      "target": "ef963d80-c678-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T11:56:19.376Z",
+        "updated": "2024-02-08T11:56:19.376Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "3592": {
+      "text": "Melania Trump helped present State Department awards Wednesday to 13 women from around the globe who were recognized for demonstrating courage and leadership in the face of adversity, a group she praised a \"true heroes.\" The first lady, on her first visit to Cabinet department, joined Thomas Shannon, undersecretary of state for political affairs, to present the Secretary of State's International Women of Courage Award. Secretary of State Rex Tillerson was traveling to Turkey. The award is given to women around the world who have shown courage and leadership while advocating for peace, justice, human rights, gender equality and women's empowerment \"?often at personal risk. One of the honorees, Natalia Ponce de Leon, of Colombia, started a foundation to defend and protect the human rights of victims of acid attacks after a stalker doused her face and body with sulfuric acid in March 2014. Another woman, Malebogo Molefhe, of Botswana, became an advocate for female victims of gender-based violence after she was attacked, including being shot eight times, by an ex-boyfriend in 2009. She uses a wheelchair due to extensive spinal cord injuries suffered during the assault. During brief remarks, Mrs. Trump asked the audience of women and girls to imagine being any of the 13 women on the stage with her. \"Ask yourself if you would have the fortitude of spirit, the courage of your convictions and the enormous inner strength required to stand up and fight against such overwhelming odds,\" she said. \"Amazingly, each of our honorees has courageously answered 'Yes' to those questions.\" \"These honorees, who have fought on the front lines against injustice, are true heroes,\" she continued, adding that their bravery is a reminder that \"there is always hope whenever the human spirit is brought to bear in the service of others.\" Wednesday's honorees hail from Bangladesh, Botswana, Colombia, the Democratic Republic of Congo, Iraq, Niger, Papua New Guinea, Peru, Sri Lanka, Syria, Turkey, Vietnam and Yemen. In April, the women will take part in a State Department-sponsored exchange program in several U.S. cities. More than 100 women from more than 60 countries have been recognized with courage awards since 2007, the department said. Mrs. Trump participation in the award ceremony amounted to a rare public appearance for her in Washington, outside of the White House. She hosted a White House luncheon for International Women's Day earlier this month. Wednesday's appearance fell in the middle of a busy week for the first lady in the nation's capital. She and President Donald Trump hosted a White House reception Tuesday night for all 100 U.S. senators and their spouses. Mrs. Trump also planned a third appearance Thursday in Washington, but the White House has not released any details. Since her husband's Jan. 20 inauguration, the first lady has lived mostly at the family's Trump Tower penthouse in midtown Manhattan with the couple's son, Barron, who recently turned 11. She often meets the president in Palm Beach, Florida, when he spends weekends at his waterfront estate there. Trump has said his wife and son will move to the White House after Barron's school year ends. \"?Follow Darlene Superville: http://www.twitter.com/dsupervilleap",
+      "title": "First lady helps present courage awards to 13 women",
+      "source": "http://abcnews.go.com/Politics/wireStory/lady-helps-present-courage-awards-13-women-46447081",
+      "timestamp": "2024-02-08T11:46:55.683Z",
+      "metadata": {
+        "created": "2024-02-05T09:49:22.061Z",
+        "updated": "2024-02-05T09:49:22.061Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "69ca24d0-c5b2-11ee-bbb2-f78c6e9d2422": {
+      "name": "Martin Hoppe",
+      "email": "mogramming@gmail.com",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "69f5ddc0-c678-11ee-bb24-29eae2ae94d0",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-05T09:49:22.061Z",
+    "updated": "2024-04-17T08:26:28.419Z"
+  },
+  "userdata": {}
+}

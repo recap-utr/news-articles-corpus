@@ -1,0 +1,1124 @@
+{
+  "nodes": {
+    "0daa12c0-c768-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Kim Jong-nam was murdered on February 13 at Kuala Lumpur International Airport, where he was assaulted by two women who allegedly smeared his face with VX, a chemical classified by the United Nations as a weapon of mass destruction",
+        "reference": {
+          "resource": "1959",
+          "offset": 211,
+          "text": "Kim Jong-nam was murdered on February 13 at Kuala Lumpur International Airport, where he was assaulted by two women who allegedly smeared his face with VX, a chemical classified by the United Nations as a weapon of mass destruction"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:27:01.484Z",
+        "updated": "2024-02-09T16:27:01.484Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement describes the event of the murder, including the method and the weapon used."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 3190.000189980191,
+            "y": 982
+          }
+        }
+      }
+    },
+    "0daa12c1-c768-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Malaysia's foreign ministry \"strongly condemns the use of such a chemical weapon by anyone, anywhere and under any circumstances. Its use at a public place could have endangered the general public\"",
+        "reference": {
+          "resource": "1959",
+          "offset": 444,
+          "text": "Malaysia's foreign ministry \"strongly condemns the use of such a chemical weapon by anyone, anywhere and under any circumstances. Its use at a public place could have endangered the general public\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:27:01.484Z",
+        "updated": "2024-02-09T16:27:01.484Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This is an official statement from Malaysia's foreign ministry condemning the use of chemical weapons in strong terms."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1965.0002644503281,
+            "y": 354
+          }
+        }
+      }
+    },
+    "0daa12c2-c768-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "North Korea has denied accusations that it was involved in the killing",
+        "reference": {
+          "resource": "1959",
+          "offset": 730,
+          "text": "North Korea has denied accusations that it was involved in the killing"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:27:01.484Z",
+        "updated": "2024-02-09T16:27:01.484Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU represents North Korea's denial and position on the accusations related to the killing."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 915.0004308289813,
+            "y": 1054
+          }
+        }
+      }
+    },
+    "0daa12c3-c768-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "It described as \"absurdity\" the belief that VX was used and suggested the victim died from heart failure",
+        "reference": {
+          "resource": "1959",
+          "offset": 802,
+          "text": "It described as \"absurdity\" the belief that VX was used and suggested the victim died from heart failure"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:27:01.484Z",
+        "updated": "2024-02-09T16:27:01.484Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement communicates North Korea's dismissal of the claims about the use of VX and proposes an alternative cause of death."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 215.0009830761475,
+            "y": 704
+          }
+        }
+      }
+    },
+    "0daa12c5-c768-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "\"Malaysia does not produce, stockpile, import, export or use any Schedule 1 toxic chemicals, including VX, and has made annual declarations to that effect to the OPCW,\" the statement said",
+        "reference": {
+          "resource": "1959",
+          "offset": 1120,
+          "text": "\"Malaysia does not produce, stockpile, import, export or use any Schedule 1 toxic chemicals, including VX, and has made annual declarations to that effect to the OPCW,\" the statement said"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:27:01.484Z",
+        "updated": "2024-02-09T16:27:01.484Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement from Malaysia's foreign ministry clarifies Malaysia's position and actions related to Schedule 1 toxic chemicals."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1965.0001131250956,
+            "y": 668
+          }
+        }
+      }
+    },
+    "0daa12c6-c768-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "North Korean diplomat Ri Tong-il - who is leading a delegation to the country - said on Thursday that Malaysia should provide samples of the VX that police say they found on the body to the OPCW",
+        "reference": {
+          "resource": "1959",
+          "offset": 1310,
+          "text": "North Korean diplomat Ri Tong-il - who is leading a delegation to the country - said on Thursday that Malaysia should provide samples of the VX that police say they found on the body to the OPCW"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:27:01.484Z",
+        "updated": "2024-02-09T16:27:01.484Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement reflects a request from a North Korean diplomat for Malaysia to submit samples to the OPCW."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 915.0004413072827,
+            "y": 668
+          }
+        }
+      }
+    },
+    "0daa12c7-c768-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Ri, a former North Korean deputy ambassador to the UN, said it made no sense to say the two women used such a deadly toxin without also killing or sickening themselves - and people around them",
+        "reference": {
+          "resource": "1959",
+          "offset": 1608,
+          "text": "Ri, a former North Korean deputy ambassador to the UN, said it made no sense to say the two women used such a deadly toxin without also killing or sickening themselves - and people around them"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:27:01.484Z",
+        "updated": "2024-02-09T16:27:01.484Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement challenges the logic of the accusation, suggesting a flaw in the accusation against the two women."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1615.0003460064952,
+            "y": 668
+          }
+        }
+      }
+    },
+    "0daa12c8-c768-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "He added that Kim had a history of heart problems and had been treated in hospital in the past",
+        "reference": {
+          "resource": "1959",
+          "offset": 1802,
+          "text": "He added that Kim had a history of heart problems and had been treated in hospital in the past"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:27:01.484Z",
+        "updated": "2024-02-09T16:27:01.484Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU presents a possible alternative cause of Kim Jong-nam's death, as suggested by a North Korean diplomat."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 40.0000864900075,
+            "y": 390
+          }
+        }
+      }
+    },
+    "0daa12c9-c768-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Relations between Malaysia and North Korea, who have maintained friendly ties for decades, have soured since the killing of Kim Jong-nam",
+        "reference": {
+          "resource": "1959",
+          "offset": 2220,
+          "text": "Relations between Malaysia and North Korea, who have maintained friendly ties for decades, have soured since the killing of Kim Jong-nam"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:27:01.484Z",
+        "updated": "2024-02-09T16:27:01.484Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement indicates the impact of the incident on diplomatic relations between Malaysia and North Korea."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2840.0006263359783,
+            "y": 1030
+          }
+        }
+      }
+    },
+    "0daa12ca-c768-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "South Korean intelligence and US officials say the murder was an assassination organised by North Korean agents",
+        "reference": {
+          "resource": "1959",
+          "offset": 2443,
+          "text": "South Korean intelligence and US officials say the murder was an assassination organised by North Korean agents"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:27:01.484Z",
+        "updated": "2024-02-09T16:27:01.484Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU represents the stance of South Korean intelligence and US officials on the nature of the murder."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2490.000263060369,
+            "y": 1030
+          }
+        }
+      }
+    },
+    "0daa12cb-c768-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "the only suspects charged in the case so far are an Indonesian woman and a Vietnamese woman. They face the death penalty if convicted",
+        "reference": {
+          "resource": "1959",
+          "text": "the only suspects charged in the case so far are an Indonesian woman and a Vietnamese woman. They face the death penalty if convicted"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:27:01.484Z",
+        "updated": "2024-02-09T16:27:01.484Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement provides details on the suspects and the potential consequences they face."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1265.0006226368018,
+            "y": 692
+          }
+        }
+      }
+    },
+    "0daa12cc-c768-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "They have told diplomats from their home countries that they thought they were participating in a prank for reality television",
+        "reference": {
+          "resource": "1959",
+          "offset": 2699,
+          "text": "They have told diplomats from their home countries that they thought they were participating in a prank for reality television"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:27:01.484Z",
+        "updated": "2024-02-09T16:27:01.484Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This presents the suspects' defense or explanation for their involvement in the event."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1265.0007950802787,
+            "y": 378
+          }
+        }
+      }
+    },
+    "0daa12cd-c768-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "questions remain about who else may have been involved with the women",
+        "reference": {
+          "resource": "1959",
+          "offset": 2889,
+          "text": "questions remain about who else may have been involved with the women"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:27:01.484Z",
+        "updated": "2024-02-09T16:27:01.484Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This raises uncertainty and suspicion regarding the involvement of other parties in the murder."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2140.000479075036,
+            "y": 1054
+          }
+        }
+      }
+    },
+    "0daa12ce-c768-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "how would have they been able to obtain the highly toxic substance that was found on Kim Jong-nam's body and apparently killed him",
+        "reference": {
+          "resource": "1959",
+          "offset": 3021,
+          "text": "how would have they been able to obtain the highly toxic substance that was found on Kim Jong-nam's body and apparently killed him"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:27:01.484Z",
+        "updated": "2024-02-09T16:27:01.484Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This question challenges the plausibility of the claims against the two women based on their ability to obtain VX."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2315.000852493988,
+            "y": 692
+          }
+        }
+      }
+    },
+    "0daa12cf-c768-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Malaysia's attorney general said on Thursday that he would be released because of insufficient evidence",
+        "reference": {
+          "resource": "1959",
+          "offset": 3501,
+          "text": "Malaysia's attorney general said on Thursday that he would be released because of insufficient evidence"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:27:01.484Z",
+        "updated": "2024-02-09T16:27:01.484Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This explains the decision to release a North Korean suspect due to lack of sufficient evidence."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 390.0001878810542,
+            "y": 390
+          }
+        }
+      }
+    },
+    "0daa12d0-c768-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Police have identified seven other North Koreans wanted in connection with the killing, including a senior embassy official in Kuala Lumpur",
+        "reference": {
+          "resource": "1959",
+          "offset": 3606,
+          "text": "Police have identified seven other North Koreans wanted in connection with the killing, including a senior embassy official in Kuala Lumpur"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:27:01.484Z",
+        "updated": "2024-02-09T16:27:01.484Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This indicates ongoing investigation efforts and identifies other potential suspects."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 565.0006925804621,
+            "y": 692
+          }
+        }
+      }
+    },
+    "6393a250-c768-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "He said that he understood that Malaysian officials found medication for diabetes, heart problems, and high blood pressure in Kim's belongings and concluded that he wasn't fit to travel",
+        "reference": {
+          "resource": "1959",
+          "offset": 1898,
+          "text": "He said that he understood that Malaysian officials found medication for diabetes, heart problems, and high blood pressure in Kim's belongings and concluded that he wasn't fit to travel"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T16:29:25.621Z",
+        "updated": "2024-02-09T16:29:25.621Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 40.00097759432657,
+            "y": 40
+          }
+        }
+      }
+    },
+    "3f9f1db0-c769-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Kim Jong-nam was presumably killed using a nerve agent, South Korea and the US assume it was a hit from North Korea which they deny"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:35:34.796Z",
+        "updated": "2024-02-09T16:35:34.796Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2053.0002913861445,
+            "y": 1344
+          }
+        }
+      }
+    },
+    "46612850-c769-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:35:46.133Z",
+        "updated": "2024-02-09T16:35:46.133Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1015.0008336474291,
+            "y": 1244
+          }
+        }
+      }
+    },
+    "4c73e020-c769-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:35:56.322Z",
+        "updated": "2024-02-09T16:35:56.322Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2240.000178560594,
+            "y": 1244
+          }
+        }
+      }
+    },
+    "50143860-c769-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:36:02.406Z",
+        "updated": "2024-02-09T16:36:02.406Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 315.0008382828524,
+            "y": 882
+          }
+        }
+      }
+    },
+    "5363b180-c769-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:36:07.961Z",
+        "updated": "2024-02-09T16:36:07.961Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2590.0004682542344,
+            "y": 1244
+          }
+        }
+      }
+    },
+    "5b13c5a0-c769-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:36:20.858Z",
+        "updated": "2024-02-09T16:36:20.858Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 140.000829528045,
+            "y": 568
+          }
+        }
+      }
+    },
+    "6a7107b0-c769-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:36:46.635Z",
+        "updated": "2024-02-09T16:36:46.635Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 665.0008236655996,
+            "y": 882
+          }
+        }
+      }
+    },
+    "70879010-c769-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:36:56.849Z",
+        "updated": "2024-02-09T16:36:56.849Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 140.0005937686509,
+            "y": 254
+          }
+        }
+      }
+    },
+    "76fc3e00-c769-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:37:07.680Z",
+        "updated": "2024-02-09T16:37:07.680Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1015.0000574650372,
+            "y": 882
+          }
+        }
+      }
+    },
+    "8e573f00-c769-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:37:46.864Z",
+        "updated": "2024-02-09T16:37:46.864Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2940.000143159054,
+            "y": 1244
+          }
+        }
+      }
+    },
+    "9d626970-c769-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:38:12.103Z",
+        "updated": "2024-02-09T16:38:12.103Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 490.00026141583027,
+            "y": 568
+          }
+        }
+      }
+    },
+    "a7035110-c769-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:38:28.257Z",
+        "updated": "2024-02-09T16:38:28.257Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2065.000423772045,
+            "y": 882
+          }
+        }
+      }
+    },
+    "b543b170-c769-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:38:52.167Z",
+        "updated": "2024-02-09T16:38:52.167Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1365.0002100917686,
+            "y": 882
+          }
+        }
+      }
+    },
+    "bc62d030-c769-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:39:04.115Z",
+        "updated": "2024-02-09T16:39:04.115Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1365.000354365252,
+            "y": 568
+          }
+        }
+      }
+    },
+    "c3771980-c769-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:39:15.992Z",
+        "updated": "2024-02-09T16:39:15.992Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2065.000635495876,
+            "y": 568
+          }
+        }
+      }
+    },
+    "d0da8760-c769-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:39:38.454Z",
+        "updated": "2024-02-09T16:39:38.454Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1715.0002352738868,
+            "y": 882
+          }
+        }
+      }
+    },
+    "e8bfee10-c769-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T16:40:18.545Z",
+        "updated": "2024-02-09T16:40:18.545Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 3290.000270711401,
+            "y": 1244
+          }
+        }
+      }
+    },
+    "a84a03a0-ca63-11ee-99ed-7164e7d9d805": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T11:33:06.906Z",
+        "updated": "2024-02-13T11:33:06.906Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2415.0005601503453,
+            "y": 882
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "46612851-c769-11ee-a75d-3d21b0b510a2": {
+      "source": "0daa12c2-c768-11ee-a75d-3d21b0b510a2",
+      "target": "46612850-c769-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T16:35:46.133Z",
+        "updated": "2024-02-09T16:35:46.133Z"
+      },
+      "userdata": {}
+    },
+    "46612852-c769-11ee-a75d-3d21b0b510a2": {
+      "source": "46612850-c769-11ee-a75d-3d21b0b510a2",
+      "target": "3f9f1db0-c769-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T16:35:46.133Z",
+        "updated": "2024-02-09T16:35:46.133Z"
+      },
+      "userdata": {}
+    },
+    "4c73e021-c769-11ee-a75d-3d21b0b510a2": {
+      "source": "0daa12cd-c768-11ee-a75d-3d21b0b510a2",
+      "target": "4c73e020-c769-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T16:35:56.322Z",
+        "updated": "2024-02-09T16:35:56.322Z"
+      },
+      "userdata": {}
+    },
+    "4c73e022-c769-11ee-a75d-3d21b0b510a2": {
+      "source": "4c73e020-c769-11ee-a75d-3d21b0b510a2",
+      "target": "3f9f1db0-c769-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T16:35:56.322Z",
+        "updated": "2024-02-09T16:35:56.322Z"
+      },
+      "userdata": {}
+    },
+    "50143861-c769-11ee-a75d-3d21b0b510a2": {
+      "source": "0daa12c3-c768-11ee-a75d-3d21b0b510a2",
+      "target": "50143860-c769-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T16:36:02.406Z",
+        "updated": "2024-02-09T16:36:02.406Z"
+      },
+      "userdata": {}
+    },
+    "50143862-c769-11ee-a75d-3d21b0b510a2": {
+      "source": "50143860-c769-11ee-a75d-3d21b0b510a2",
+      "target": "0daa12c2-c768-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T16:36:02.406Z",
+        "updated": "2024-02-09T16:36:02.406Z"
+      },
+      "userdata": {}
+    },
+    "5363d890-c769-11ee-a75d-3d21b0b510a2": {
+      "source": "0daa12ca-c768-11ee-a75d-3d21b0b510a2",
+      "target": "5363b180-c769-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T16:36:07.961Z",
+        "updated": "2024-02-09T16:36:07.961Z"
+      },
+      "userdata": {}
+    },
+    "5363d891-c769-11ee-a75d-3d21b0b510a2": {
+      "source": "5363b180-c769-11ee-a75d-3d21b0b510a2",
+      "target": "3f9f1db0-c769-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T16:36:07.961Z",
+        "updated": "2024-02-09T16:36:07.961Z"
+      },
+      "userdata": {}
+    },
+    "5b13c5a1-c769-11ee-a75d-3d21b0b510a2": {
+      "source": "0daa12c8-c768-11ee-a75d-3d21b0b510a2",
+      "target": "5b13c5a0-c769-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T16:36:20.858Z",
+        "updated": "2024-02-09T16:36:20.858Z"
+      },
+      "userdata": {}
+    },
+    "5b13c5a2-c769-11ee-a75d-3d21b0b510a2": {
+      "source": "5b13c5a0-c769-11ee-a75d-3d21b0b510a2",
+      "target": "0daa12c3-c768-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T16:36:20.858Z",
+        "updated": "2024-02-09T16:36:20.858Z"
+      },
+      "userdata": {}
+    },
+    "6a7107b1-c769-11ee-a75d-3d21b0b510a2": {
+      "source": "0daa12d0-c768-11ee-a75d-3d21b0b510a2",
+      "target": "6a7107b0-c769-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T16:36:46.635Z",
+        "updated": "2024-02-09T16:36:46.635Z"
+      },
+      "userdata": {}
+    },
+    "6a7107b2-c769-11ee-a75d-3d21b0b510a2": {
+      "source": "6a7107b0-c769-11ee-a75d-3d21b0b510a2",
+      "target": "0daa12c2-c768-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T16:36:46.635Z",
+        "updated": "2024-02-09T16:36:46.635Z"
+      },
+      "userdata": {}
+    },
+    "70879011-c769-11ee-a75d-3d21b0b510a2": {
+      "source": "6393a250-c768-11ee-a75d-3d21b0b510a2",
+      "target": "70879010-c769-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T16:36:56.849Z",
+        "updated": "2024-02-09T16:36:56.849Z"
+      },
+      "userdata": {}
+    },
+    "70879012-c769-11ee-a75d-3d21b0b510a2": {
+      "source": "70879010-c769-11ee-a75d-3d21b0b510a2",
+      "target": "0daa12c8-c768-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T16:36:56.849Z",
+        "updated": "2024-02-09T16:36:56.849Z"
+      },
+      "userdata": {}
+    },
+    "76fc3e01-c769-11ee-a75d-3d21b0b510a2": {
+      "source": "0daa12c6-c768-11ee-a75d-3d21b0b510a2",
+      "target": "76fc3e00-c769-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T16:37:07.680Z",
+        "updated": "2024-02-09T16:37:07.680Z"
+      },
+      "userdata": {}
+    },
+    "76fc3e02-c769-11ee-a75d-3d21b0b510a2": {
+      "source": "76fc3e00-c769-11ee-a75d-3d21b0b510a2",
+      "target": "0daa12c2-c768-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T16:37:07.680Z",
+        "updated": "2024-02-09T16:37:07.680Z"
+      },
+      "userdata": {}
+    },
+    "8e573f01-c769-11ee-a75d-3d21b0b510a2": {
+      "source": "0daa12c9-c768-11ee-a75d-3d21b0b510a2",
+      "target": "8e573f00-c769-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T16:37:46.864Z",
+        "updated": "2024-02-09T16:37:46.864Z"
+      },
+      "userdata": {}
+    },
+    "8e573f02-c769-11ee-a75d-3d21b0b510a2": {
+      "source": "8e573f00-c769-11ee-a75d-3d21b0b510a2",
+      "target": "3f9f1db0-c769-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T16:37:46.864Z",
+        "updated": "2024-02-09T16:37:46.864Z"
+      },
+      "userdata": {}
+    },
+    "9d626971-c769-11ee-a75d-3d21b0b510a2": {
+      "source": "0daa12cf-c768-11ee-a75d-3d21b0b510a2",
+      "target": "9d626970-c769-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T16:38:12.103Z",
+        "updated": "2024-02-09T16:38:12.103Z"
+      },
+      "userdata": {}
+    },
+    "9d626972-c769-11ee-a75d-3d21b0b510a2": {
+      "source": "9d626970-c769-11ee-a75d-3d21b0b510a2",
+      "target": "0daa12c3-c768-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T16:38:12.103Z",
+        "updated": "2024-02-09T16:38:12.103Z"
+      },
+      "userdata": {}
+    },
+    "a7035111-c769-11ee-a75d-3d21b0b510a2": {
+      "source": "0daa12c5-c768-11ee-a75d-3d21b0b510a2",
+      "target": "a7035110-c769-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T16:38:28.257Z",
+        "updated": "2024-02-09T16:38:28.257Z"
+      },
+      "userdata": {}
+    },
+    "a7035112-c769-11ee-a75d-3d21b0b510a2": {
+      "source": "a7035110-c769-11ee-a75d-3d21b0b510a2",
+      "target": "0daa12cd-c768-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T16:38:28.257Z",
+        "updated": "2024-02-09T16:38:28.257Z"
+      },
+      "userdata": {}
+    },
+    "b543b171-c769-11ee-a75d-3d21b0b510a2": {
+      "source": "0daa12cb-c768-11ee-a75d-3d21b0b510a2",
+      "target": "b543b170-c769-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T16:38:52.167Z",
+        "updated": "2024-02-09T16:38:52.167Z"
+      },
+      "userdata": {}
+    },
+    "b543b172-c769-11ee-a75d-3d21b0b510a2": {
+      "source": "b543b170-c769-11ee-a75d-3d21b0b510a2",
+      "target": "0daa12c2-c768-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T16:38:52.167Z",
+        "updated": "2024-02-09T16:38:52.167Z"
+      },
+      "userdata": {}
+    },
+    "bc62d031-c769-11ee-a75d-3d21b0b510a2": {
+      "source": "0daa12cc-c768-11ee-a75d-3d21b0b510a2",
+      "target": "bc62d030-c769-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T16:39:04.115Z",
+        "updated": "2024-02-09T16:39:04.115Z"
+      },
+      "userdata": {}
+    },
+    "bc62d032-c769-11ee-a75d-3d21b0b510a2": {
+      "source": "bc62d030-c769-11ee-a75d-3d21b0b510a2",
+      "target": "0daa12cb-c768-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T16:39:04.115Z",
+        "updated": "2024-02-09T16:39:04.115Z"
+      },
+      "userdata": {}
+    },
+    "c3771981-c769-11ee-a75d-3d21b0b510a2": {
+      "source": "0daa12c1-c768-11ee-a75d-3d21b0b510a2",
+      "target": "c3771980-c769-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T16:39:15.992Z",
+        "updated": "2024-02-09T16:39:15.992Z"
+      },
+      "userdata": {}
+    },
+    "c3771982-c769-11ee-a75d-3d21b0b510a2": {
+      "source": "c3771980-c769-11ee-a75d-3d21b0b510a2",
+      "target": "0daa12c5-c768-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T16:39:15.992Z",
+        "updated": "2024-02-09T16:39:15.992Z"
+      },
+      "userdata": {}
+    },
+    "d0da8761-c769-11ee-a75d-3d21b0b510a2": {
+      "source": "0daa12c7-c768-11ee-a75d-3d21b0b510a2",
+      "target": "d0da8760-c769-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T16:39:38.454Z",
+        "updated": "2024-02-09T16:39:38.454Z"
+      },
+      "userdata": {}
+    },
+    "d0da8762-c769-11ee-a75d-3d21b0b510a2": {
+      "source": "d0da8760-c769-11ee-a75d-3d21b0b510a2",
+      "target": "0daa12c2-c768-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T16:39:38.454Z",
+        "updated": "2024-02-09T16:39:38.454Z"
+      },
+      "userdata": {}
+    },
+    "e8bfee11-c769-11ee-a75d-3d21b0b510a2": {
+      "source": "0daa12c0-c768-11ee-a75d-3d21b0b510a2",
+      "target": "e8bfee10-c769-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T16:40:18.545Z",
+        "updated": "2024-02-09T16:40:18.545Z"
+      },
+      "userdata": {}
+    },
+    "e8bfee12-c769-11ee-a75d-3d21b0b510a2": {
+      "source": "e8bfee10-c769-11ee-a75d-3d21b0b510a2",
+      "target": "3f9f1db0-c769-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T16:40:18.545Z",
+        "updated": "2024-02-09T16:40:18.545Z"
+      },
+      "userdata": {}
+    },
+    "a84a03a1-ca63-11ee-99ed-7164e7d9d805": {
+      "source": "0daa12ce-c768-11ee-a75d-3d21b0b510a2",
+      "target": "a84a03a0-ca63-11ee-99ed-7164e7d9d805",
+      "metadata": {
+        "created": "2024-02-13T11:33:06.906Z",
+        "updated": "2024-02-13T11:33:06.906Z"
+      },
+      "userdata": {}
+    },
+    "a84a03a2-ca63-11ee-99ed-7164e7d9d805": {
+      "source": "a84a03a0-ca63-11ee-99ed-7164e7d9d805",
+      "target": "0daa12cd-c768-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-13T11:33:06.906Z",
+        "updated": "2024-02-13T11:33:06.906Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "1959": {
+      "text": "Malaysia has condemned the use of toxic nerve agent VX that killed the estranged half-brother of North Korea's leader at an airport packed with travellers, as authorities moved to deport a North Korean suspect. Kim Jong-nam was murdered on February 13 at Kuala Lumpur International Airport, where he was assaulted by two women who allegedly smeared his face with VX, a chemical classified by the United Nations as a weapon of mass destruction. Malaysia's foreign ministry \"strongly condemns the use of such a chemical weapon by anyone, anywhere and under any circumstances. Its use at a public place could have endangered the general public\", it said in a statement on Friday. Who produced the VX poison that killed Kim Jong-nam? North Korea has denied accusations that it was involved in the killing. It described as \"absurdity\" the belief that VX was used and suggested the victim died from heart failure. Malaysia's foreign ministry said it was in close contact with the Organisation for the Prohibition of Chemical Weapons (OPCW), an inter-governmental organisation based in the Netherlands, regarding the incident. \"Malaysia does not produce, stockpile, import, export or use any Schedule 1 toxic chemicals, including VX, and has made annual declarations to that effect to the OPCW,\" the statement said.  North Korean diplomat Ri Tong-il - who is leading a delegation to the country - said on Thursday that Malaysia should provide samples of the VX that police say they found on the body to the OPCW. \"If it is true that it was used,\" he told reporters, \"then the samples should be sent to the office\". Ri, a former North Korean deputy ambassador to the UN, said it made no sense to say the two women used such a deadly toxin without also killing or sickening themselves - and people around them. He added that Kim had a history of heart problems and had been treated in hospital in the past. He said that he understood that Malaysian officials found medication for diabetes, heart problems, and high blood pressure in Kim's belongings and concluded that he wasn't fit to travel. \"This is a strong indication that the cause of death is a heart attack,\" Ri said. Malaysia to cancel visa-free entry for North Koreans Relations between Malaysia and North Korea, who have maintained friendly ties for decades, have soured since the killing of Kim Jong-nam, the estranged brother leader Kim Jong-un, who had lived for years in exile in Macau. South Korean intelligence and US officials say the murder was an assassination organised by North Korean agents, though the only suspects charged in the case so far are an Indonesian woman and a Vietnamese woman.  They face the death penalty if convicted. They have told diplomats from their home countries that they thought they were participating in a prank for reality television. Al Jazeera's Florence Looi, reporting from Kuala Lumpur, said questions remain about who else may have been involved with the women. \"There are doubts they could have acted on their own because how would have they been able to obtain the highly toxic substance that was found on Kim Jong-nam's body and apparently killed him,\" said Looi. Another North Korean suspect, who was arrested on February 18 over the killing, was released from a detention centre on Friday and driven away in a police convoy.- Kim Jong-nam 'died about 20 minutes after VX poisoning' Ri Jong-chol was taken to the immigration office wearing body armour to prepare for his deportation to North Korea. Malaysia's attorney general said on Thursday that he would be released because of insufficient evidence. Police have identified seven other North Koreans wanted in connection with the killing, including a senior embassy official in Kuala Lumpur. Four have left the country and are believed to be in Pyongyang. Source:-Al Jazeera and news agencies",
+      "title": "Kim Jong-nam killing: N Korean suspect to be deported",
+      "source": "http://www.aljazeera.com/news/2017/03/kim-jong-nam-killing-korean-suspect-deported-170303040142702.html",
+      "timestamp": "2017-03-03T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.152Z",
+        "updated": "2024-02-09T13:09:16.152Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "3f9f1db0-c769-11ee-a75d-3d21b0b510a2",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.151Z",
+    "updated": "2024-02-13T11:33:17.152Z"
+  }
+}

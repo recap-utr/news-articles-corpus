@@ -1,0 +1,220 @@
+{
+  "nodes": {
+    "22700950-c8ce-11ee-b0b9-17011e92baf6": {
+      "atom": {
+        "text": "The death toll from a massive landslide at Ethiopia's largest rubbish dump near the capital Addis Ababa climbed to 113 on Wednesday as the frantic search for the missing continues.",
+        "reference": {
+          "resource": "2488",
+          "offset": 0,
+          "text": "The death toll from a massive landslide at Ethiopia's largest rubbish dump near the capital Addis Ababa climbed to 113 on Wednesday as the frantic search for the missing continues."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T11:10:16.165Z",
+        "updated": "2024-02-11T11:10:16.165Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000794786027775,
+            "y": 12
+          }
+        }
+      }
+    },
+    "3a54fad0-c8ce-11ee-b0b9-17011e92baf6": {
+      "atom": {
+        "text": "Lencho said, adding he could not explain why the toll had risen so dramatically from a previous tally of 72 dead on Tuesday.",
+        "reference": {
+          "resource": "2488",
+          "offset": 476,
+          "text": "Lencho said, adding he could not explain why the toll had risen so dramatically from a previous tally of 72 dead on Tuesday."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T11:10:56.253Z",
+        "updated": "2024-02-11T11:10:56.253Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.0007588612316,
+            "y": 326
+          }
+        }
+      }
+    },
+    "3b7ba080-c8ce-11ee-b0b9-17011e92baf6": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T11:10:58.184Z",
+        "updated": "2024-02-11T11:10:58.184Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00075219688273,
+            "y": 226
+          }
+        }
+      }
+    },
+    "d8489e40-c8ce-11ee-b0b9-17011e92baf6": {
+      "atom": {
+        "text": "\"As far as I know, they are still searching,\"",
+        "reference": {
+          "resource": "2488",
+          "offset": 430,
+          "text": "\"As far as I know, they are still searching,\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T11:15:21.252Z",
+        "updated": "2024-02-11T11:15:21.252Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 445.0613599586918,
+            "y": 377.75530544211125
+          }
+        }
+      }
+    },
+    "d9b63800-c8ce-11ee-b0b9-17011e92baf6": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T11:15:23.648Z",
+        "updated": "2024-02-11T11:15:23.648Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 544.3053620620262,
+            "y": 250.95916568194036
+          }
+        }
+      }
+    },
+    "e7d13610-c8ce-11ee-b0b9-17011e92baf6": {
+      "atom": {
+        "text": "Death toll soars to 82 in Addis Ababa rubbish landslide They said bulldozers had destabilised the soil during construction.",
+        "reference": {
+          "resource": "2488",
+          "offset": 1040,
+          "text": "Death toll soars to 82 in Addis Ababa rubbish landslide They said bulldozers had destabilised the soil during construction."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T11:15:47.313Z",
+        "updated": "2024-02-11T11:15:47.313Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -393.2309490926593,
+            "y": 327.2314198917647
+          }
+        }
+      }
+    },
+    "e97a0410-c8ce-11ee-b0b9-17011e92baf6": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T11:15:50.097Z",
+        "updated": "2024-02-11T11:15:50.097Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -292.37018265171383,
+            "y": 227.7181783287809
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "632d10a0-c8ce-11ee-b0b9-17011e92baf6": {
+      "source": "3a54fad0-c8ce-11ee-b0b9-17011e92baf6",
+      "target": "3b7ba080-c8ce-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T11:12:04.778Z",
+        "updated": "2024-02-11T11:12:04.778Z"
+      },
+      "userdata": {}
+    },
+    "6402d730-c8ce-11ee-b0b9-17011e92baf6": {
+      "source": "3b7ba080-c8ce-11ee-b0b9-17011e92baf6",
+      "target": "22700950-c8ce-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T11:12:06.179Z",
+        "updated": "2024-02-11T11:12:06.179Z"
+      },
+      "userdata": {}
+    },
+    "d9b63801-c8ce-11ee-b0b9-17011e92baf6": {
+      "source": "d8489e40-c8ce-11ee-b0b9-17011e92baf6",
+      "target": "d9b63800-c8ce-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T11:15:23.648Z",
+        "updated": "2024-02-11T11:15:23.648Z"
+      },
+      "userdata": {}
+    },
+    "d9b63802-c8ce-11ee-b0b9-17011e92baf6": {
+      "source": "d9b63800-c8ce-11ee-b0b9-17011e92baf6",
+      "target": "22700950-c8ce-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T11:15:23.648Z",
+        "updated": "2024-02-11T11:15:23.648Z"
+      },
+      "userdata": {}
+    },
+    "e97a0411-c8ce-11ee-b0b9-17011e92baf6": {
+      "source": "e7d13610-c8ce-11ee-b0b9-17011e92baf6",
+      "target": "e97a0410-c8ce-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T11:15:50.097Z",
+        "updated": "2024-02-11T11:15:50.097Z"
+      },
+      "userdata": {}
+    },
+    "e97a0412-c8ce-11ee-b0b9-17011e92baf6": {
+      "source": "e97a0410-c8ce-11ee-b0b9-17011e92baf6",
+      "target": "22700950-c8ce-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T11:15:50.097Z",
+        "updated": "2024-02-11T11:15:50.097Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "2488": {
+      "text": "The death toll from a massive landslide at Ethiopia's largest rubbish dump near the capital Addis Ababa climbed to 113 on Wednesday as the frantic search for the missing continues. Part of the largest hillside at the Koshe landfill site-collapsed on Saturday, burying a slum that had been built on the landfill. Communications Minister Negeri Lencho said the majority of the dead were women and rescue operations were continuing. \"As far as I know, they are still searching,\" Lencho said, adding he could not explain why the toll had risen so dramatically from a previous tally of 72 dead on Tuesday. Koshe is the largest rubbish dump in Ethiopia and home to hundreds of people who collect and resell rubbish trucked in from around Addis Ababa. The government tried to close the dump last year and move it to a new location, but opposition from people living near the new site forced them to reverse the decision. Koshe residents who spoke to AFP news agency blamed the landslide on the building of a new bio-gas plant on top of the waste. Death toll soars to 82 in Addis Ababa rubbish landslide They said bulldozers had destabilised the soil during construction. Lencho said an investigation into the incident was ongoing. He had earlier said slum residents may have inadvertently caused the disaster. Ethiopia's parliament declared three days of national mourning starting on Wednesday. The government was helping relatives of the victims pay for their funeral costs, Lencho said. Source:-News agencies",
+      "title": "Addis Ababa: Death toll hits 113 in rubbish landslide",
+      "source": "http://www.aljazeera.com/news/2017/03/addis-ababa-death-toll-hits-113-rubbish-landslide-170315165759540.html",
+      "timestamp": "2017-03-15T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-08T09:23:32.606Z",
+        "updated": "2024-02-08T09:23:32.606Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "22700950-c8ce-11ee-b0b9-17011e92baf6",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-08T09:23:32.606Z",
+    "updated": "2024-02-11T11:16:07.764Z"
+  }
+}

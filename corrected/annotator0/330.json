@@ -1,0 +1,800 @@
+{
+  "nodes": {
+    "e71fcfa0-c9fb-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "Somalia beefs up security ahead of presidental election because of fear of Al-Shabab attacks"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:10:24.666Z",
+        "updated": "2024-02-12T23:10:24.666Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1185.0009699697157,
+            "y": 12
+          }
+        }
+      }
+    },
+    "fcfa9940-c9fb-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "Somalia's capital is on lockdown a day before the parliament meets to elect a new president",
+        "reference": {
+          "resource": "330",
+          "offset": 0,
+          "text": "Somalia's capital is on lockdown a day before the parliament meets to elect a new president"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:11:01.332Z",
+        "updated": "2024-02-12T23:11:01.332Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 520.5004900235851,
+            "y": 272
+          }
+        }
+      }
+    },
+    "fee440d0-c9fb-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:11:04.541Z",
+        "updated": "2024-02-12T23:11:04.541Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 620.5007903273474,
+            "y": 154
+          }
+        }
+      }
+    },
+    "0883eff0-c9fc-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "Roads in Mogadishu were closed",
+        "reference": {
+          "resource": "330",
+          "offset": 208,
+          "text": "Roads in Mogadishu were closed"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:11:20.687Z",
+        "updated": "2024-02-12T23:11:20.687Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 616.000884876232,
+            "y": 520
+          }
+        }
+      }
+    },
+    "0db59690-c9fc-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:11:29.401Z",
+        "updated": "2024-02-12T23:11:29.401Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 695.5000397063794,
+            "y": 420
+          }
+        }
+      }
+    },
+    "219616d0-c9fc-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "businesses asked to shut",
+        "reference": {
+          "resource": "330",
+          "offset": 240,
+          "text": "businesses asked to shut"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:12:02.749Z",
+        "updated": "2024-02-12T23:12:02.749Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0003629117518,
+            "y": 520
+          }
+        }
+      }
+    },
+    "25b90c90-c9fc-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:12:09.689Z",
+        "updated": "2024-02-12T23:12:09.689Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 414.000573813681,
+            "y": 420
+          }
+        }
+      }
+    },
+    "2cdb1180-c9fc-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "schools and universities gave students a two-day break",
+        "reference": {
+          "resource": "330",
+          "offset": 270,
+          "text": "schools and universities gave students a two-day break"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:12:21.656Z",
+        "updated": "2024-02-12T23:12:21.656Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000944899424377,
+            "y": 520
+          }
+        }
+      }
+    },
+    "2fb97950-c9fc-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:12:26.469Z",
+        "updated": "2024-02-12T23:12:26.469Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00046314135179,
+            "y": 420
+          }
+        }
+      }
+    },
+    "60d86500-c9fc-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "In the run-up to the election, al-Shabab fighters have stepped up their attacks against government installations and- hotels in the capital",
+        "reference": {
+          "resource": "330",
+          "offset": 326,
+          "text": "In the run-up to the election, al-Shabab fighters have stepped up their attacks against government installations and- hotels in the capital"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:13:48.880Z",
+        "updated": "2024-02-12T23:13:48.880Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 925.0003958124179,
+            "y": 254
+          }
+        }
+      }
+    },
+    "63ebbf80-c9fc-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:13:54.040Z",
+        "updated": "2024-02-12T23:13:54.040Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1025.0001755396102,
+            "y": 154
+          }
+        }
+      }
+    },
+    "6bc617f0-c9fc-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "security forces were working to ensure that the election is concluded peacefully",
+        "reference": {
+          "resource": "330",
+          "offset": 529,
+          "text": "security forces were working to ensure that the election is concluded peacefully"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:14:07.215Z",
+        "updated": "2024-02-12T23:14:07.215Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1275.0000519989135,
+            "y": 532
+          }
+        }
+      }
+    },
+    "6fa3c750-c9fc-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:14:13.702Z",
+        "updated": "2024-02-12T23:14:13.702Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1375.0009122393196,
+            "y": 287
+          }
+        }
+      }
+    },
+    "8414a0b0-c9fc-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "Al-Shabab, which aims -to topple the country's UN-backed government,- has carried out- hundreds of attacks -in Somalia",
+        "reference": {
+          "resource": "330",
+          "offset": 753,
+          "text": "Al-Shabab, which aims -to topple the country's UN-backed government,- has carried out- hundreds of attacks -in Somalia"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:14:47.995Z",
+        "updated": "2024-02-12T23:14:47.995Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 925.0003646384237,
+            "y": 520
+          }
+        }
+      }
+    },
+    "8668c9e0-c9fc-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:14:51.902Z",
+        "updated": "2024-02-12T23:14:51.902Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1025.0002718636363,
+            "y": 420
+          }
+        }
+      }
+    },
+    "ddecf6a0-c9fc-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "voting will see members of the 275-seat parliament and 54 senators cast ballots inside a hangar within the heavily-guarded airport",
+        "reference": {
+          "resource": "330",
+          "offset": 2703,
+          "text": "voting will see members of the 275-seat parliament and 54 senators cast ballots inside a hangar within the heavily-guarded airport"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:17:18.730Z",
+        "updated": "2024-02-12T23:17:18.730Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 170.50063804738838,
+            "y": 254
+          }
+        }
+      }
+    },
+    "e0331610-c9fc-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:17:22.545Z",
+        "updated": "2024-02-12T23:17:22.545Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 270.5008948243521,
+            "y": 154
+          }
+        }
+      }
+    },
+    "f5fa30a0-c9fc-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "Security and overcoming Somalia's adversarial and divisive politics will top the agenda for whoever wins the vote",
+        "reference": {
+          "resource": "330",
+          "offset": 3571,
+          "text": "Security and overcoming Somalia's adversarial and divisive politics will top the agenda for whoever wins the vote"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:17:59.082Z",
+        "updated": "2024-02-12T23:17:59.082Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1275.0005922790162,
+            "y": 786
+          }
+        }
+      }
+    },
+    "f8765430-c9fc-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:18:03.251Z",
+        "updated": "2024-02-12T23:18:03.251Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1375.0004137846126,
+            "y": 686
+          }
+        }
+      }
+    },
+    "ebb55a50-faf0-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "political infighting and insecurity, mainly due to al-Shabab, already interfered with the previous election",
+        "reference": {
+          "text": "But political infighting and insecurity, mainly due to al-Shabab, which controls swaths of countryside and strikes at will in Mogadishu, saw the plan ditched for a limited vote running months behind schedule"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T06:25:14.869Z",
+        "updated": "2024-04-15T06:25:14.869Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 925.0003135729605,
+            "y": 802
+          }
+        }
+      }
+    },
+    "1ca8c930-faf1-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T06:26:36.995Z",
+        "updated": "2024-04-15T06:26:36.995Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1025.0008731246376,
+            "y": 686
+          }
+        }
+      }
+    },
+    "dde6e3b0-faf2-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "The overthrow of president Siad Barre's military regime in 1991 ushered in decades of anarchy and conflict in a country deeply divided along clan lines",
+        "reference": {
+          "text": "The overthrow of president Siad Barre's military regime in 1991 ushered in decades of anarchy and conflict in a country deeply divided along clan lines"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T06:39:10.699Z",
+        "updated": "2024-04-15T06:39:10.699Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1225.000173645677,
+            "y": 1052
+          }
+        }
+      }
+    },
+    "0384dd20-faf3-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T06:40:13.810Z",
+        "updated": "2024-04-15T06:40:13.810Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1075.000625342986,
+            "y": 952
+          }
+        }
+      }
+    },
+    "79a5a5c0-faf3-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "The clan rivalries and lawlessness provided fertile ground for al-Shabab to take hold and seize territory",
+        "reference": {
+          "text": "The clan rivalries and lawlessness provided fertile ground for al-Shabab to take hold and seize territory"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T06:43:31.996Z",
+        "updated": "2024-04-15T06:43:31.996Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 825.0009345089763,
+            "y": 1052
+          }
+        }
+      }
+    },
+    "89b0db10-faf3-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T06:43:58.913Z",
+        "updated": "2024-04-15T06:43:58.913Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 925.0008903522922,
+            "y": 952
+          }
+        }
+      }
+    },
+    "bc173ae0-faf3-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T06:45:23.470Z",
+        "updated": "2024-04-15T06:45:23.470Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1375.0004447722308,
+            "y": 952
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "fee467e0-c9fb-11ee-b733-854bb707c32b": {
+      "source": "fcfa9940-c9fb-11ee-b733-854bb707c32b",
+      "target": "fee440d0-c9fb-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:11:04.542Z",
+        "updated": "2024-02-12T23:11:04.542Z"
+      },
+      "userdata": {}
+    },
+    "fee467e1-c9fb-11ee-b733-854bb707c32b": {
+      "source": "fee440d0-c9fb-11ee-b733-854bb707c32b",
+      "target": "e71fcfa0-c9fb-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:11:04.542Z",
+        "updated": "2024-02-12T23:11:04.542Z"
+      },
+      "userdata": {}
+    },
+    "0db59691-c9fc-11ee-b733-854bb707c32b": {
+      "source": "0883eff0-c9fc-11ee-b733-854bb707c32b",
+      "target": "0db59690-c9fc-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:11:29.401Z",
+        "updated": "2024-02-12T23:11:29.401Z"
+      },
+      "userdata": {}
+    },
+    "0db59692-c9fc-11ee-b733-854bb707c32b": {
+      "source": "0db59690-c9fc-11ee-b733-854bb707c32b",
+      "target": "fcfa9940-c9fb-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:11:29.401Z",
+        "updated": "2024-02-12T23:11:29.401Z"
+      },
+      "userdata": {}
+    },
+    "25b933a0-c9fc-11ee-b733-854bb707c32b": {
+      "source": "219616d0-c9fc-11ee-b733-854bb707c32b",
+      "target": "25b90c90-c9fc-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:12:09.690Z",
+        "updated": "2024-02-12T23:12:09.690Z"
+      },
+      "userdata": {}
+    },
+    "25b933a1-c9fc-11ee-b733-854bb707c32b": {
+      "source": "25b90c90-c9fc-11ee-b733-854bb707c32b",
+      "target": "fcfa9940-c9fb-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:12:09.690Z",
+        "updated": "2024-02-12T23:12:09.690Z"
+      },
+      "userdata": {}
+    },
+    "2fb97951-c9fc-11ee-b733-854bb707c32b": {
+      "source": "2cdb1180-c9fc-11ee-b733-854bb707c32b",
+      "target": "2fb97950-c9fc-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:12:26.469Z",
+        "updated": "2024-02-12T23:12:26.469Z"
+      },
+      "userdata": {}
+    },
+    "2fb97952-c9fc-11ee-b733-854bb707c32b": {
+      "source": "2fb97950-c9fc-11ee-b733-854bb707c32b",
+      "target": "fcfa9940-c9fb-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:12:26.469Z",
+        "updated": "2024-02-12T23:12:26.469Z"
+      },
+      "userdata": {}
+    },
+    "63ebbf81-c9fc-11ee-b733-854bb707c32b": {
+      "source": "60d86500-c9fc-11ee-b733-854bb707c32b",
+      "target": "63ebbf80-c9fc-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:13:54.040Z",
+        "updated": "2024-02-12T23:13:54.040Z"
+      },
+      "userdata": {}
+    },
+    "63ebbf82-c9fc-11ee-b733-854bb707c32b": {
+      "source": "63ebbf80-c9fc-11ee-b733-854bb707c32b",
+      "target": "e71fcfa0-c9fb-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:13:54.040Z",
+        "updated": "2024-02-12T23:13:54.040Z"
+      },
+      "userdata": {}
+    },
+    "6fa3ee60-c9fc-11ee-b733-854bb707c32b": {
+      "source": "6bc617f0-c9fc-11ee-b733-854bb707c32b",
+      "target": "6fa3c750-c9fc-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:14:13.702Z",
+        "updated": "2024-02-12T23:14:13.702Z"
+      },
+      "userdata": {}
+    },
+    "6fa3ee61-c9fc-11ee-b733-854bb707c32b": {
+      "source": "6fa3c750-c9fc-11ee-b733-854bb707c32b",
+      "target": "e71fcfa0-c9fb-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:14:13.702Z",
+        "updated": "2024-02-12T23:14:13.702Z"
+      },
+      "userdata": {}
+    },
+    "8668c9e1-c9fc-11ee-b733-854bb707c32b": {
+      "source": "8414a0b0-c9fc-11ee-b733-854bb707c32b",
+      "target": "8668c9e0-c9fc-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:14:51.902Z",
+        "updated": "2024-02-12T23:14:51.902Z"
+      },
+      "userdata": {}
+    },
+    "8668c9e2-c9fc-11ee-b733-854bb707c32b": {
+      "source": "8668c9e0-c9fc-11ee-b733-854bb707c32b",
+      "target": "60d86500-c9fc-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:14:51.902Z",
+        "updated": "2024-02-12T23:14:51.902Z"
+      },
+      "userdata": {}
+    },
+    "cd38d721-c9fc-11ee-b733-854bb707c32b": {
+      "source": "c8c21c10-c9fc-11ee-b733-854bb707c32b",
+      "target": "cd38d720-c9fc-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:16:50.706Z",
+        "updated": "2024-02-12T23:16:50.706Z"
+      },
+      "userdata": {}
+    },
+    "cd38d722-c9fc-11ee-b733-854bb707c32b": {
+      "source": "cd38d720-c9fc-11ee-b733-854bb707c32b",
+      "target": "60d86500-c9fc-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:16:50.706Z",
+        "updated": "2024-02-12T23:16:50.706Z"
+      },
+      "userdata": {}
+    },
+    "e0331611-c9fc-11ee-b733-854bb707c32b": {
+      "source": "ddecf6a0-c9fc-11ee-b733-854bb707c32b",
+      "target": "e0331610-c9fc-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:17:22.546Z",
+        "updated": "2024-02-12T23:17:22.546Z"
+      },
+      "userdata": {}
+    },
+    "e0333d20-c9fc-11ee-b733-854bb707c32b": {
+      "source": "e0331610-c9fc-11ee-b733-854bb707c32b",
+      "target": "e71fcfa0-c9fb-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:17:22.546Z",
+        "updated": "2024-02-12T23:17:22.546Z"
+      },
+      "userdata": {}
+    },
+    "f8765431-c9fc-11ee-b733-854bb707c32b": {
+      "source": "f5fa30a0-c9fc-11ee-b733-854bb707c32b",
+      "target": "f8765430-c9fc-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:18:03.251Z",
+        "updated": "2024-02-12T23:18:03.251Z"
+      },
+      "userdata": {}
+    },
+    "f8767b40-c9fc-11ee-b733-854bb707c32b": {
+      "source": "f8765430-c9fc-11ee-b733-854bb707c32b",
+      "target": "6bc617f0-c9fc-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:18:03.252Z",
+        "updated": "2024-02-12T23:18:03.252Z"
+      },
+      "userdata": {}
+    },
+    "1ad800d1-faf1-11ee-aa26-a11ecda1a83c": {
+      "source": "ebb55a50-faf0-11ee-aa26-a11ecda1a83c",
+      "target": "1ad800d0-faf1-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T06:26:33.949Z",
+        "updated": "2024-04-15T06:26:33.949Z"
+      },
+      "userdata": {}
+    },
+    "1ad800d2-faf1-11ee-aa26-a11ecda1a83c": {
+      "source": "1ad800d0-faf1-11ee-aa26-a11ecda1a83c",
+      "target": "c8c21c10-c9fc-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-04-15T06:26:33.949Z",
+        "updated": "2024-04-15T06:26:33.949Z"
+      },
+      "userdata": {}
+    },
+    "1ca8c931-faf1-11ee-aa26-a11ecda1a83c": {
+      "source": "ebb55a50-faf0-11ee-aa26-a11ecda1a83c",
+      "target": "1ca8c930-faf1-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T06:26:36.995Z",
+        "updated": "2024-04-15T06:26:36.995Z"
+      },
+      "userdata": {}
+    },
+    "1ca8c932-faf1-11ee-aa26-a11ecda1a83c": {
+      "source": "1ca8c930-faf1-11ee-aa26-a11ecda1a83c",
+      "target": "8414a0b0-c9fc-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-04-15T06:26:36.995Z",
+        "updated": "2024-04-15T06:26:36.995Z"
+      },
+      "userdata": {}
+    },
+    "0384dd21-faf3-11ee-aa26-a11ecda1a83c": {
+      "source": "dde6e3b0-faf2-11ee-aa26-a11ecda1a83c",
+      "target": "0384dd20-faf3-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T06:40:13.810Z",
+        "updated": "2024-04-15T06:40:13.810Z"
+      },
+      "userdata": {}
+    },
+    "0384dd22-faf3-11ee-aa26-a11ecda1a83c": {
+      "source": "0384dd20-faf3-11ee-aa26-a11ecda1a83c",
+      "target": "ebb55a50-faf0-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T06:40:13.810Z",
+        "updated": "2024-04-15T06:40:13.810Z"
+      },
+      "userdata": {}
+    },
+    "89b0db11-faf3-11ee-aa26-a11ecda1a83c": {
+      "source": "79a5a5c0-faf3-11ee-aa26-a11ecda1a83c",
+      "target": "89b0db10-faf3-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T06:43:58.913Z",
+        "updated": "2024-04-15T06:43:58.913Z"
+      },
+      "userdata": {}
+    },
+    "89b0db12-faf3-11ee-aa26-a11ecda1a83c": {
+      "source": "89b0db10-faf3-11ee-aa26-a11ecda1a83c",
+      "target": "ebb55a50-faf0-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T06:43:58.913Z",
+        "updated": "2024-04-15T06:43:58.913Z"
+      },
+      "userdata": {}
+    },
+    "bc173ae1-faf3-11ee-aa26-a11ecda1a83c": {
+      "source": "dde6e3b0-faf2-11ee-aa26-a11ecda1a83c",
+      "target": "bc173ae0-faf3-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T06:45:23.470Z",
+        "updated": "2024-04-15T06:45:23.470Z"
+      },
+      "userdata": {}
+    },
+    "bc173ae2-faf3-11ee-aa26-a11ecda1a83c": {
+      "source": "bc173ae0-faf3-11ee-aa26-a11ecda1a83c",
+      "target": "f5fa30a0-c9fc-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-04-15T06:45:23.470Z",
+        "updated": "2024-04-15T06:45:23.470Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "330": {
+      "text": "Somalia's capital is on lockdown a day before the parliament meets to elect a new president, with ongoing security concerns and warnings of famine expected to top the agenda for the incoming administration.- Roads in Mogadishu were closed, businesses asked to shut, and schools and universities gave students a two-day break. In the run-up to the election, al-Shabab fighters have stepped up their attacks against government installations and- hotels in the capital .- Bishar Abshir, Mogadishu police chief, told Al Jazeera that security forces were working to ensure that the election is concluded peacefully. \"We appeal to the public to be patient and cooperate with us as we deter the enemies of peace from carrying out attacks,\" he told Al Jazeera. Al-Shabab, which aims -to topple the country's UN-backed government,- has carried out- hundreds of attacks -in Somalia.- INTERACTIVE: Al-Shabab attacks in Somalia (2006-2017) The presidential election had been due to take place in August, four years after the previous vote in which just 135 clan elders chose MPs who then voted for the country's leader. But political infighting and insecurity, mainly due to al-Shabab, which controls swaths of countryside and strikes at will in Mogadishu, saw the plan ditched for a limited vote running months behind schedule. The troubled Horn of Africa nation, which has not had an effective central government in three decades, had been promised a one-person, one-vote election in 2016. Elections instead began in October with an electoral college system that excluded ordinary citizens and instead involved 14,025 delegates voting for candidates for both parliament and a new upper house. President Hassan Sheikh Mohamud of the conservative Peace and Development Party is seeking a second term after more than four years in office, during which he has faced criticism from the public and western donors about corruption. Prime Minister Omar Abdirashid Ali Sharmarke, a former diplomat, and former president Sharif Sheikh Ahmed are also among the 24 candidates registered for the election. About a third of MPs are loyal to the president's party. While this gives Mohamud an advantage in the race, it is not enough to guarantee him victory. The elections have been marred by widespread allegations of vote-buying and intimidation. In a report on Tuesday, Somalia-based anti-corruption watchdog Marqaati said the elections \"were rife with corruption\".  READ MORE: Al-Shabab attack at Mogadishu hotel 'kills 28' While falling well short of the direct election that was promised, the process is more democratic than in the past and is seen as a step towards universal suffrage, now hoped for in 2020. Wednesday's voting will see members of the 275-seat parliament and 54 senators cast ballots inside a hangar within the heavily-guarded airport. No candidate is expected to get the two-thirds majority needed for a first-round win, with two further rounds permitted before a winner is declared. In the absence of political parties, clan remains the organising principle of Somali politics. The overthrow of president Siad Barre's military regime in 1991 ushered in decades of anarchy and conflict in a country deeply divided along clan lines.  The clan rivalries and lawlessness provided fertile ground for al-Shabab to take hold and seize territory, frustrating efforts to set up a central administration. Al-Shabab has been in decline since 2011, but still launches regular, deadly attacks against government, military and civilian targets in the capital Mogadishu and elsewhere. Security and overcoming Somalia's adversarial and divisive politics will top the agenda for whoever wins the vote, as will dealing with a growing humanitarian crisis. The United Nations warned last week of \"possible famine\" in Somalia as a severe drought has pushed nearly three million people to the edge of starvation. After two failed rain seasons, aid workers fear a repeat of a 2010-11 drought which left more than 250,000 dead. \"The levels of suffering in the country, triggered by protracted conflict, seasonal shocks and outbreaks of disease, are typically hard to bear, but the impact of this drought represents a threat of a different scale and magnitude,\" the UN's office for humanitarian affairs said in a statement last week. Source:-Al Jazeera and news agencies",
+      "title": "Somalia beefs up security ahead of presidential vote",
+      "source": "http://www.aljazeera.com/news/2017/02/somalia-presidential-vote-170207084706801.html",
+      "timestamp": "2017-02-07T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-08T09:23:32.580Z",
+        "updated": "2024-02-08T09:23:32.580Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "2c603380-c41a-11ee-a06c-cb1cbb90ffa4": {
+      "name": "annotator0",
+      "email": "s4kibart@uni-trier.de",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "e71fcfa0-c9fb-11ee-b733-854bb707c32b",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-08T09:23:32.580Z",
+    "updated": "2024-04-15T06:47:41.520Z"
+  },
+  "userdata": {}
+}

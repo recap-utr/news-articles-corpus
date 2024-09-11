@@ -1,0 +1,929 @@
+{
+  "nodes": {
+    "c0fac000-c686-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "New red flags for Democrats about Jared Kushner's business dealings have emerged with his recent disclosure of a December meeting he held with the chief of a Russian development bank",
+        "reference": {
+          "resource": "3719",
+          "offset": 0,
+          "text": "New red flags about Jared Kushner's business dealings have emerged with his recent disclosure of a December meeting he held with the chief of a Russian development bank"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:34:16.064Z",
+        "updated": "2024-02-08T13:34:16.064Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 783.4295512641102,
+            "y": 12
+          }
+        }
+      }
+    },
+    "cfed3250-c686-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "\"Mr. Kushner needs to come clean and be fully transparent with the public \"?immediately \"?about all of the businesses that he continues to profit from while he serves in the White House",
+        "reference": {
+          "resource": "3719",
+          "offset": 215,
+          "text": "Mr. Kushner needs to come clean and be fully transparent with the public \"?immediately \"?about all of the businesses that he continues to profit from while he serves in the White House"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:34:41.141Z",
+        "updated": "2024-02-08T13:34:41.141Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1762.0009140448294,
+            "y": 1460
+          }
+        }
+      }
+    },
+    "f4281950-c686-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "Kushner was already facing questions about a December meeting he held with the Russian ambassador to the U.S",
+        "reference": {
+          "resource": "3719",
+          "offset": 669,
+          "text": "Kushner was already facing questions about a December meeting he held with the Russian ambassador to the U.S"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:35:41.925Z",
+        "updated": "2024-02-08T13:35:41.925Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 412.0005798454305,
+            "y": 438
+          }
+        }
+      }
+    },
+    "093d4900-c687-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "the substance of the previously undisclosed meeting remains something of a mystery",
+        "reference": {
+          "resource": "3719",
+          "offset": 986,
+          "text": "the substance of the previously undisclosed meeting remains something of a mystery"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:36:17.296Z",
+        "updated": "2024-02-08T13:36:17.296Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.00048189504025,
+            "y": 796
+          }
+        }
+      }
+    },
+    "153edcf0-c687-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "the conversation was \"general and inconsequential\" and that Kushner took the meeting as part of his campaign role of interfacing with foreign dignitaries",
+        "reference": {
+          "resource": "3719",
+          "offset": 1110,
+          "text": "the conversation was \"general and inconsequential\" and that Kushner took the meeting as part of his campaign role of interfacing with foreign dignitaries"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:36:37.439Z",
+        "updated": "2024-02-08T13:36:37.439Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1112.0006633240314,
+            "y": 398
+          }
+        }
+      }
+    },
+    "1fa5fac0-c687-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "the bank described the discussion to ABC News as a \"negotiation\" in which \"the parties discussed the business practices applied by foreign development banks, as well as most promising business lines and sectors",
+        "reference": {
+          "resource": "3719",
+          "offset": 1269,
+          "text": "the bank described the discussion to ABC News as a \"negotiation\" in which \"the parties discussed the business practices applied by foreign development banks, as well as most promising business lines and sectors"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:36:54.892Z",
+        "updated": "2024-02-08T13:36:54.892Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1112.0009076775586,
+            "y": 760
+          }
+        }
+      }
+    },
+    "3907ef50-c687-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "meeting came as the Kushner Companies, the family's real estate firm, was in the midst of what it has described in public statements as \"active, advanced negotiations ... with a number of potential investors\"",
+        "reference": {
+          "resource": "3719",
+          "offset": 1495,
+          "text": "meeting came as the Kushner Companies, the family's real estate firm, was in the midst of what it has described in public statements as \"active, advanced negotiations ... with a number of potential investors\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:37:37.477Z",
+        "updated": "2024-02-08T13:37:37.477Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0005099539474,
+            "y": 760
+          }
+        }
+      }
+    },
+    "592055c0-c687-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "On Nov. 16, Kushner dined with executives from the China-based Anbang Insurance Group to discuss a possible $4 billion redevelopment of the New York tower \"?a deal that reportedly fell apart this week",
+        "reference": {
+          "resource": "3719",
+          "offset": 1792,
+          "text": "On Nov. 16, Kushner dined with executives from the China-based Anbang Insurance Group to discuss a possible $4 billion redevelopment of the New York tower \"?a deal that reportedly fell apart this week"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:38:31.324Z",
+        "updated": "2024-02-08T13:38:31.324Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1462.0006728810997,
+            "y": 760
+          }
+        }
+      }
+    },
+    "6bbfca80-c687-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "congressional Democrats who expressed concern about the company's entanglements with the Chinese government and about continued uncertainty about the extent to which Kushner has separated himself from the family real estate business, which he oversaw until recently",
+        "reference": {
+          "resource": "3719",
+          "offset": 2081,
+          "text": "congressional Democrats who expressed concern about the company's entanglements with the Chinese government and about continued uncertainty about the extent to which Kushner has separated himself from the family real estate business, which he oversaw until recently"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:39:02.568Z",
+        "updated": "2024-02-08T13:39:02.568Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1462.0009523832634,
+            "y": 1074
+          }
+        }
+      }
+    },
+    "81fbee00-c687-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "Even if Mr. Kushner has in fact divested from 666 Fifth Avenue, it appears his immediate family stands to benefit from a deal with Anbang, potentially violating federal ethics laws that bar 'an employee [from using] his public office for his own private gain ... or for the private gain of friends, relatives or persons with whom the employee is affiliated in a nongovernmental capacity",
+        "reference": {
+          "resource": "3719",
+          "offset": 2349,
+          "text": "Even if Mr. Kushner has in fact divested from 666 Fifth Avenue, it appears his immediate family stands to benefit from a deal with Anbang, potentially violating federal ethics laws that bar 'an employee [from using] his public office for his own private gain ... or for the private gain of friends, relatives or persons with whom the employee is affiliated in a nongovernmental capacity"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:39:39.872Z",
+        "updated": "2024-02-08T13:39:39.872Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1462.0001278594893,
+            "y": 326
+          }
+        }
+      }
+    },
+    "8fb78e00-c687-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": " To date, neither Kushner nor the family real estate firm has explained the nature of the meeting with VEB",
+        "reference": {
+          "resource": "3719",
+          "offset": 2906,
+          "text": " To date, neither Kushner nor the family real estate firm has explained the nature of the meeting with VEB"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:40:02.912Z",
+        "updated": "2024-02-08T13:40:02.912Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.00057012866563,
+            "y": 1074
+          }
+        }
+      }
+    },
+    "9f642890-c687-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "Kushner was the only executive from his family's real estate firm to attend. \"VEB is not providing financing, lending or any other services to Kushner Companies,",
+        "reference": {
+          "resource": "3719",
+          "offset": 3115,
+          "text": "Kushner was the only executive from his family's real estate firm to attend. \"VEB is not providing financing, lending or any other services to Kushner Companies,"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:40:29.209Z",
+        "updated": "2024-02-08T13:40:29.209Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1812.000409629923,
+            "y": 326
+          }
+        }
+      }
+    },
+    "ace49450-c687-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "The bank would not make a conventional choice as a business partner, as it is operating under the shroud of U.S. sanctions imposed after Russian incursions into Ukraine",
+        "reference": {
+          "resource": "3719",
+          "offset": 3297,
+          "text": "The bank would not make a conventional choice as a business partner, as it is operating under the shroud of U.S. sanctions imposed after Russian incursions into Ukraine"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:40:51.861Z",
+        "updated": "2024-02-08T13:40:51.861Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1112.0005122699113,
+            "y": 1074
+          }
+        }
+      }
+    },
+    "baefdaf0-c687-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": " Adding to the troubling optics of the meeting, Democrats said, was the recent involvement of a senior VEB executive, Evgeny Buryakov, in a bungled Russian spy ring in New York",
+        "reference": {
+          "resource": "3719",
+          "offset": 3466,
+          "text": " Adding to the troubling optics of the meeting, Democrats said, was the recent involvement of a senior VEB executive, Evgeny Buryakov, in a bungled Russian spy ring in New York"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:41:15.423Z",
+        "updated": "2024-02-08T13:41:15.423Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000466977311506,
+            "y": 760
+          }
+        }
+      }
+    },
+    "dad08f90-c687-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "Mounting evidence implicates the Trump inner circle in possible collusion with Russian meddling",
+        "reference": {
+          "resource": "3719",
+          "offset": 4106,
+          "text": "Mounting evidence implicates the Trump inner circle in possible collusion with Russian meddling"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:42:08.906Z",
+        "updated": "2024-02-08T13:42:08.906Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000043514609127,
+            "y": 422
+          }
+        }
+      }
+    },
+    "e0689920-c687-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "The Trump White House seems increasingly to be an ethically flawed mix of family businesses, special interests and foreign interference, putting private gain over public interest",
+        "reference": {
+          "resource": "3719",
+          "offset": 4222,
+          "text": "The Trump White House seems increasingly to be an ethically flawed mix of family businesses, special interests and foreign interference, putting private gain over public interest"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:42:18.290Z",
+        "updated": "2024-02-08T13:42:18.290Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1412.0006361083829,
+            "y": 1460
+          }
+        }
+      }
+    },
+    "0597cb30-c688-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:43:20.675Z",
+        "updated": "2024-02-08T13:43:20.675Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 512.0006101351034,
+            "y": 226
+          }
+        }
+      }
+    },
+    "19a94680-c688-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:43:54.344Z",
+        "updated": "2024-02-08T13:43:54.344Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1212.000802326284,
+            "y": 226
+          }
+        }
+      }
+    },
+    "20884f00-c688-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:44:05.872Z",
+        "updated": "2024-02-08T13:44:05.872Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0007320323625,
+            "y": 660
+          }
+        }
+      }
+    },
+    "2e8d05f0-c688-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:44:29.391Z",
+        "updated": "2024-02-08T13:44:29.391Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.00053106056987,
+            "y": 660
+          }
+        }
+      }
+    },
+    "35dcf8b0-c688-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:44:41.659Z",
+        "updated": "2024-02-08T13:44:41.659Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1212.0003310901413,
+            "y": 660
+          }
+        }
+      }
+    },
+    "397e6260-c688-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:44:47.750Z",
+        "updated": "2024-02-08T13:44:47.750Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.0000668371628,
+            "y": 974
+          }
+        }
+      }
+    },
+    "433bf9c0-c688-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:45:04.092Z",
+        "updated": "2024-02-08T13:45:04.092Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1562.0000383733866,
+            "y": 226
+          }
+        }
+      }
+    },
+    "62584cf0-c688-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:45:56.287Z",
+        "updated": "2024-02-08T13:45:56.287Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1912.0009216601788,
+            "y": 226
+          }
+        }
+      }
+    },
+    "6ed55270-c688-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:46:17.239Z",
+        "updated": "2024-02-08T13:46:17.239Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00005148624585,
+            "y": 660
+          }
+        }
+      }
+    },
+    "7d672e30-c688-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:46:41.683Z",
+        "updated": "2024-02-08T13:46:41.683Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00039094609153,
+            "y": 226
+          }
+        }
+      }
+    },
+    "a6be10f0-c688-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:47:51.039Z",
+        "updated": "2024-02-08T13:47:51.039Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1212.00097794182,
+            "y": 974
+          }
+        }
+      }
+    },
+    "b37894a0-c688-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:48:12.394Z",
+        "updated": "2024-02-08T13:48:12.394Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1562.0005602098784,
+            "y": 660
+          }
+        }
+      }
+    },
+    "bdc8f620-c688-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:48:29.698Z",
+        "updated": "2024-02-08T13:48:29.698Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1562.0009112170471,
+            "y": 974
+          }
+        }
+      }
+    },
+    "c4dd3f70-c688-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:48:41.575Z",
+        "updated": "2024-02-08T13:48:41.575Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1862.0002271057797,
+            "y": 1360
+          }
+        }
+      }
+    },
+    "cdddef70-c688-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:48:56.679Z",
+        "updated": "2024-02-08T13:48:56.679Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1512.0007893750785,
+            "y": 1360
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "0597f240-c688-11ee-ba3b-07e43482f0f9": {
+      "source": "f4281950-c686-11ee-ba3b-07e43482f0f9",
+      "target": "0597cb30-c688-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:43:20.676Z",
+        "updated": "2024-02-08T13:43:20.676Z"
+      },
+      "userdata": {}
+    },
+    "0597f241-c688-11ee-ba3b-07e43482f0f9": {
+      "source": "0597cb30-c688-11ee-ba3b-07e43482f0f9",
+      "target": "c0fac000-c686-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:43:20.676Z",
+        "updated": "2024-02-08T13:43:20.676Z"
+      },
+      "userdata": {}
+    },
+    "0c8f64c0-c688-11ee-ba3b-07e43482f0f9": {
+      "source": "ec40a180-c686-11ee-ba3b-07e43482f0f9",
+      "target": "0c8f3db0-c688-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:43:32.364Z",
+        "updated": "2024-02-08T13:43:32.364Z"
+      },
+      "userdata": {}
+    },
+    "0c8f64c1-c688-11ee-ba3b-07e43482f0f9": {
+      "source": "0c8f3db0-c688-11ee-ba3b-07e43482f0f9",
+      "target": "c0fac000-c686-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:43:32.364Z",
+        "updated": "2024-02-08T13:43:32.364Z"
+      },
+      "userdata": {}
+    },
+    "19a94681-c688-11ee-ba3b-07e43482f0f9": {
+      "source": "153edcf0-c687-11ee-ba3b-07e43482f0f9",
+      "target": "19a94680-c688-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:43:54.344Z",
+        "updated": "2024-02-08T13:43:54.344Z"
+      },
+      "userdata": {}
+    },
+    "19a94682-c688-11ee-ba3b-07e43482f0f9": {
+      "source": "19a94680-c688-11ee-ba3b-07e43482f0f9",
+      "target": "c0fac000-c686-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:43:54.344Z",
+        "updated": "2024-02-08T13:43:54.344Z"
+      },
+      "userdata": {}
+    },
+    "20884f01-c688-11ee-ba3b-07e43482f0f9": {
+      "source": "3907ef50-c687-11ee-ba3b-07e43482f0f9",
+      "target": "20884f00-c688-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:44:05.872Z",
+        "updated": "2024-02-08T13:44:05.872Z"
+      },
+      "userdata": {}
+    },
+    "20884f02-c688-11ee-ba3b-07e43482f0f9": {
+      "source": "20884f00-c688-11ee-ba3b-07e43482f0f9",
+      "target": "f4281950-c686-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:44:05.872Z",
+        "updated": "2024-02-08T13:44:05.872Z"
+      },
+      "userdata": {}
+    },
+    "2e8d05f1-c688-11ee-ba3b-07e43482f0f9": {
+      "source": "093d4900-c687-11ee-ba3b-07e43482f0f9",
+      "target": "2e8d05f0-c688-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:44:29.391Z",
+        "updated": "2024-02-08T13:44:29.391Z"
+      },
+      "userdata": {}
+    },
+    "2e8d05f2-c688-11ee-ba3b-07e43482f0f9": {
+      "source": "2e8d05f0-c688-11ee-ba3b-07e43482f0f9",
+      "target": "f4281950-c686-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:44:29.391Z",
+        "updated": "2024-02-08T13:44:29.391Z"
+      },
+      "userdata": {}
+    },
+    "35dcf8b1-c688-11ee-ba3b-07e43482f0f9": {
+      "source": "1fa5fac0-c687-11ee-ba3b-07e43482f0f9",
+      "target": "35dcf8b0-c688-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:44:41.659Z",
+        "updated": "2024-02-08T13:44:41.659Z"
+      },
+      "userdata": {}
+    },
+    "35dcf8b2-c688-11ee-ba3b-07e43482f0f9": {
+      "source": "35dcf8b0-c688-11ee-ba3b-07e43482f0f9",
+      "target": "153edcf0-c687-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:44:41.659Z",
+        "updated": "2024-02-08T13:44:41.659Z"
+      },
+      "userdata": {}
+    },
+    "397e6261-c688-11ee-ba3b-07e43482f0f9": {
+      "source": "8fb78e00-c687-11ee-ba3b-07e43482f0f9",
+      "target": "397e6260-c688-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:44:47.750Z",
+        "updated": "2024-02-08T13:44:47.750Z"
+      },
+      "userdata": {}
+    },
+    "397e6262-c688-11ee-ba3b-07e43482f0f9": {
+      "source": "397e6260-c688-11ee-ba3b-07e43482f0f9",
+      "target": "093d4900-c687-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:44:47.750Z",
+        "updated": "2024-02-08T13:44:47.750Z"
+      },
+      "userdata": {}
+    },
+    "433bf9c1-c688-11ee-ba3b-07e43482f0f9": {
+      "source": "81fbee00-c687-11ee-ba3b-07e43482f0f9",
+      "target": "433bf9c0-c688-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:45:04.092Z",
+        "updated": "2024-02-08T13:45:04.092Z"
+      },
+      "userdata": {}
+    },
+    "433bf9c2-c688-11ee-ba3b-07e43482f0f9": {
+      "source": "433bf9c0-c688-11ee-ba3b-07e43482f0f9",
+      "target": "c0fac000-c686-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:45:04.092Z",
+        "updated": "2024-02-08T13:45:04.092Z"
+      },
+      "userdata": {}
+    },
+    "62584cf1-c688-11ee-ba3b-07e43482f0f9": {
+      "source": "9f642890-c687-11ee-ba3b-07e43482f0f9",
+      "target": "62584cf0-c688-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:45:56.287Z",
+        "updated": "2024-02-08T13:45:56.287Z"
+      },
+      "userdata": {}
+    },
+    "62584cf2-c688-11ee-ba3b-07e43482f0f9": {
+      "source": "62584cf0-c688-11ee-ba3b-07e43482f0f9",
+      "target": "c0fac000-c686-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:45:56.287Z",
+        "updated": "2024-02-08T13:45:56.287Z"
+      },
+      "userdata": {}
+    },
+    "6ed55271-c688-11ee-ba3b-07e43482f0f9": {
+      "source": "baefdaf0-c687-11ee-ba3b-07e43482f0f9",
+      "target": "6ed55270-c688-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:46:17.239Z",
+        "updated": "2024-02-08T13:46:17.239Z"
+      },
+      "userdata": {}
+    },
+    "7d675540-c688-11ee-ba3b-07e43482f0f9": {
+      "source": "dad08f90-c687-11ee-ba3b-07e43482f0f9",
+      "target": "7d672e30-c688-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:46:41.684Z",
+        "updated": "2024-02-08T13:46:41.684Z"
+      },
+      "userdata": {}
+    },
+    "7d675541-c688-11ee-ba3b-07e43482f0f9": {
+      "source": "7d672e30-c688-11ee-ba3b-07e43482f0f9",
+      "target": "c0fac000-c686-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:46:41.684Z",
+        "updated": "2024-02-08T13:46:41.684Z"
+      },
+      "userdata": {}
+    },
+    "800531a0-c688-11ee-ba3b-07e43482f0f9": {
+      "source": "6ed55270-c688-11ee-ba3b-07e43482f0f9",
+      "target": "dad08f90-c687-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:46:46.074Z",
+        "updated": "2024-02-08T13:46:46.074Z"
+      },
+      "userdata": {}
+    },
+    "a6be3800-c688-11ee-ba3b-07e43482f0f9": {
+      "source": "ace49450-c687-11ee-ba3b-07e43482f0f9",
+      "target": "a6be10f0-c688-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:47:51.040Z",
+        "updated": "2024-02-08T13:47:51.040Z"
+      },
+      "userdata": {}
+    },
+    "a6be3801-c688-11ee-ba3b-07e43482f0f9": {
+      "source": "a6be10f0-c688-11ee-ba3b-07e43482f0f9",
+      "target": "1fa5fac0-c687-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:47:51.040Z",
+        "updated": "2024-02-08T13:47:51.040Z"
+      },
+      "userdata": {}
+    },
+    "b37894a1-c688-11ee-ba3b-07e43482f0f9": {
+      "source": "592055c0-c687-11ee-ba3b-07e43482f0f9",
+      "target": "b37894a0-c688-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:48:12.394Z",
+        "updated": "2024-02-08T13:48:12.394Z"
+      },
+      "userdata": {}
+    },
+    "b37894a2-c688-11ee-ba3b-07e43482f0f9": {
+      "source": "b37894a0-c688-11ee-ba3b-07e43482f0f9",
+      "target": "81fbee00-c687-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:48:12.394Z",
+        "updated": "2024-02-08T13:48:12.394Z"
+      },
+      "userdata": {}
+    },
+    "bdc8f621-c688-11ee-ba3b-07e43482f0f9": {
+      "source": "6bbfca80-c687-11ee-ba3b-07e43482f0f9",
+      "target": "bdc8f620-c688-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:48:29.698Z",
+        "updated": "2024-02-08T13:48:29.698Z"
+      },
+      "userdata": {}
+    },
+    "bdc8f622-c688-11ee-ba3b-07e43482f0f9": {
+      "source": "bdc8f620-c688-11ee-ba3b-07e43482f0f9",
+      "target": "592055c0-c687-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:48:29.698Z",
+        "updated": "2024-02-08T13:48:29.698Z"
+      },
+      "userdata": {}
+    },
+    "c4dd3f71-c688-11ee-ba3b-07e43482f0f9": {
+      "source": "cfed3250-c686-11ee-ba3b-07e43482f0f9",
+      "target": "c4dd3f70-c688-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:48:41.575Z",
+        "updated": "2024-02-08T13:48:41.575Z"
+      },
+      "userdata": {}
+    },
+    "c4dd3f72-c688-11ee-ba3b-07e43482f0f9": {
+      "source": "c4dd3f70-c688-11ee-ba3b-07e43482f0f9",
+      "target": "6bbfca80-c687-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:48:41.575Z",
+        "updated": "2024-02-08T13:48:41.575Z"
+      },
+      "userdata": {}
+    },
+    "cdde1680-c688-11ee-ba3b-07e43482f0f9": {
+      "source": "e0689920-c687-11ee-ba3b-07e43482f0f9",
+      "target": "cdddef70-c688-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:48:56.680Z",
+        "updated": "2024-02-08T13:48:56.680Z"
+      },
+      "userdata": {}
+    },
+    "cdde1681-c688-11ee-ba3b-07e43482f0f9": {
+      "source": "cdddef70-c688-11ee-ba3b-07e43482f0f9",
+      "target": "6bbfca80-c687-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:48:56.680Z",
+        "updated": "2024-02-08T13:48:56.680Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "3719": {
+      "text": "New red flags about Jared Kushner's business dealings have emerged with his recent disclosure of a December meeting he held with the chief of a Russian development bank, leading Democratic lawmakers told ABC News. \"Mr. Kushner needs to come clean and be fully transparent with the public \"?immediately \"?about all of the businesses that he continues to profit from while he serves in the White House,\" Rep. Elijah Cummings, the ranking Democrat on the House Oversight Committee, told ABC News. Kushner, 36, who is married to Ivanka Trump, played a central role in his father-in-law's 2016 campaign and has since taken a job as one of President Trump's senior advisers. Kushner was already facing questions about a December meeting he held with the Russian ambassador to the U.S. when reports surfaced this week about a second contact. The White House confirmed that Kushner met in December with Sergei Gorkov of VneshEconomBank, or VEB, at the suggestion of the Russian ambassador. But the substance of the previously undisclosed meeting remains something of a mystery. A senior White House official said that the conversation was \"general and inconsequential\" and that Kushner took the meeting as part of his campaign role of interfacing with foreign dignitaries. But the bank described the discussion to ABC News as a \"negotiation\" in which \"the parties discussed the business practices applied by foreign development banks, as well as most promising business lines and sectors.\" The December meeting came as the Kushner Companies, the family's real estate firm, was in the midst of what it has described in public statements as \"active, advanced negotiations ... with a number of potential investors\" about the redevelopment of the skyscraper it owns at 666 Fifth Avenue in New York City. On Nov. 16, Kushner dined with executives from the China-based Anbang Insurance Group to discuss a possible $4 billion redevelopment of the New York tower \"?a deal that reportedly fell apart this week, according to published reports. The rumored venture prompted a letter on March 24 from congressional Democrats who expressed concern about the company's entanglements with the Chinese government and about continued uncertainty about the extent to which Kushner has separated himself from the family real estate business, which he oversaw until recently. \"Even if Mr. Kushner has in fact divested from 666 Fifth Avenue, it appears his immediate family stands to benefit from a deal with Anbang, potentially violating federal ethics laws that bar 'an employee [from using] his public office for his own private gain ... or for the private gain of friends, relatives or persons with whom the employee is affiliated in a nongovernmental capacity,'\" reads the letter, signed by Cummings and Democratic Sens. Elizabeth Warren of Massachusetts, Tom Carper of Delaware, Sherrod Brown of Ohio and Gary Peters of Michigan. To date, neither Kushner nor the family real estate firm has explained the nature of the meeting with VEB. An official representing the Kushner firm responded to ABC News' questions Wednesday evening, saying Kushner was the only executive from his family's real estate firm to attend. \"VEB is not providing financing, lending or any other services to Kushner Companies,\" the official said. The bank would not make a conventional choice as a business partner, as it is operating under the shroud of U.S. sanctions imposed after Russian incursions into Ukraine. Adding to the troubling optics of the meeting, Democrats said, was the recent involvement of a senior VEB executive, Evgeny Buryakov, in a bungled Russian spy ring in New York. In May he was sentenced to 30 months in prison for gathering intelligence for the Russian Federation as an agent under nonofficial cover, known as NOC. Senators overseeing the Russia investigation have said they expect to ask Kushner about the meeting when he appears before the Intelligence Committee. Sen. Richard Blumenthal, D-Conn., told ABC News he wants Kushner to share more details about the meeting so the public can understand its nature and purpose. \"Mounting evidence implicates the Trump inner circle in possible collusion with Russian meddling,\" Blumenthal said. \"The Trump White House seems increasingly to be an ethically flawed mix of family businesses, special interests and foreign interference, putting private gain over public interest.\"",
+      "title": "Dems: Red flags from Kushner sit-down with Russian banker",
+      "source": "http://abcnews.go.com/Politics/dems-red-flags-kushner-sit-russian-banker/story?id=46461651",
+      "timestamp": "2017-03-29T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-08T09:23:32.574Z",
+        "updated": "2024-02-08T09:23:32.574Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "69ca24d0-c5b2-11ee-bbb2-f78c6e9d2422": {
+      "name": "Martin Hoppe",
+      "email": "mogramming@gmail.com",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "c0fac000-c686-11ee-ba3b-07e43482f0f9",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-08T09:23:32.574Z",
+    "updated": "2024-04-17T08:29:51.025Z"
+  },
+  "userdata": {}
+}

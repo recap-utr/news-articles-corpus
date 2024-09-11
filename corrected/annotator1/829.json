@@ -1,0 +1,576 @@
+{
+  "nodes": {
+    "f2c59430-c8d8-11ee-b4a2-756af494682b": {
+      "atom": {
+        "text": "Ukrainian law enforcement agencies have opened a criminal case over Wednesday's act of hooliganism in front of the Polish Consulate General in Lvov",
+        "reference": {
+          "resource": "829",
+          "offset": 26,
+          "text": "Ukrainian law enforcement agencies have opened a criminal case over Wednesday's act of hooliganism in front of the Polish Consulate General in Lvov"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:27:40.659Z",
+        "updated": "2024-02-11T12:27:40.659Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1438.2635100623154,
+            "y": -103.98247220400006
+          }
+        }
+      }
+    },
+    "f2c59431-c8d8-11ee-b4a2-756af494682b": {
+      "atom": {
+        "text": "\"Law enforcers are seeking to identify the malefactor who left graffiti on the fence of the Polish Consulate in Lvov,\"",
+        "reference": {
+          "resource": "829",
+          "offset": 275,
+          "text": "\"Law enforcers are seeking to identify the malefactor who left graffiti on the fence of the Polish Consulate in Lvov,\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:27:40.659Z",
+        "updated": "2024-02-11T12:27:40.659Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1762.0000418583804,
+            "y": 688
+          }
+        }
+      }
+    },
+    "f2c59432-c8d8-11ee-b4a2-756af494682b": {
+      "atom": {
+        "text": "\"A case citing hooliganism has been opened.\"",
+        "reference": {
+          "resource": "829",
+          "offset": 411,
+          "text": "\"A case citing hooliganism has been opened.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:27:40.659Z",
+        "updated": "2024-02-11T12:27:40.659Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1412.0004280596386,
+            "y": 688
+          }
+        }
+      }
+    },
+    "f2c59433-c8d8-11ee-b4a2-756af494682b": {
+      "atom": {
+        "text": "unknown people painted the slogans saying \"This is our land\"?on the fence of the Polish Consulate General and hurled bottles with red paint at the building",
+        "reference": {
+          "resource": "829",
+          "offset": 478,
+          "text": "unknown people painted the slogans saying \"This is our land\"?on the fence of the Polish Consulate General and hurled bottles with red paint at the building"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:27:40.659Z",
+        "updated": "2024-02-11T12:27:40.659Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.0001034976829,
+            "y": 688
+          }
+        }
+      }
+    },
+    "f2c59434-c8d8-11ee-b4a2-756af494682b": {
+      "atom": {
+        "text": "The Ukrainian Foreign Ministry perceived the covert workings of a mysterious third force in the act",
+        "reference": {
+          "resource": "829",
+          "offset": 635,
+          "text": "The Ukrainian Foreign Ministry perceived the covert workings of a mysterious third force in the act"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:27:40.659Z",
+        "updated": "2024-02-11T12:27:40.659Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0003353979747,
+            "y": 326
+          }
+        }
+      }
+    },
+    "f2c59436-c8d8-11ee-b4a2-756af494682b": {
+      "atom": {
+        "text": "\"The systemic character, with which malefactors commit the acts of vandalism and outrage, testifies to the interestedness of a third party in dealing a blow to Ukrainian-Polish relations.\"",
+        "reference": {
+          "resource": "829",
+          "offset": 917,
+          "text": "\"The systemic character, with which malefactors commit the acts of vandalism and outrage, testifies to the interestedness of a third party in dealing a blow to Ukrainian-Polish relations.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:27:40.659Z",
+        "updated": "2024-02-11T12:27:40.659Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0004463241388,
+            "y": 12
+          }
+        }
+      }
+    },
+    "f2c59439-c8d8-11ee-b4a2-756af494682b": {
+      "atom": {
+        "text": "Jaroslaw Kaczynski, the leader of Poland's ruling Prawo i Sprawiedliwosc (PiS) party said on Tuesday the glorification of the wartime leader of Ukrainian radical nationalism Stepan Bandera might impede the integration of Ukraine in the EU",
+        "reference": {
+          "resource": "829",
+          "offset": 2041,
+          "text": "Jaroslaw Kaczynski, the leader of Poland's ruling Prawo i Sprawiedliwosc (PiS) party said on Tuesday the glorification of the wartime leader of Ukrainian radical nationalism Stepan Bandera might impede the integration of Ukraine in the EU"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:27:40.659Z",
+        "updated": "2024-02-11T12:27:40.659Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0002268414635,
+            "y": 326
+          }
+        }
+      }
+    },
+    "f2c5943a-c8d8-11ee-b4a2-756af494682b": {
+      "atom": {
+        "text": "Bandera not only served a term in a Polish jail before the war for assassinating Polish Interior Minister Bronislaw Pieracki in June 1934",
+        "reference": {
+          "resource": "829",
+          "offset": 2281,
+          "text": "Bandera not only served a term in a Polish jail before the war for assassinating Polish Interior Minister Bronislaw Pieracki in June 1934"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:27:40.659Z",
+        "updated": "2024-02-11T12:27:40.659Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0003532961691,
+            "y": 688
+          }
+        }
+      }
+    },
+    "f2c5943b-c8d8-11ee-b4a2-756af494682b": {
+      "atom": {
+        "text": "He stood at the head of the OUN that is broadly believed to bear the brunt of responsibility for mass exterminations of ethnic Poles ..",
+        "reference": {
+          "resource": "829",
+          "text": "He stood at the head of the OUN that is broadly believed to bear the brunt of responsibility for mass exterminations of ethnic Poles .."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:27:40.659Z",
+        "updated": "2024-02-11T12:27:40.659Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0003889803343,
+            "y": 688
+          }
+        }
+      }
+    },
+    "f2c5943e-c8d8-11ee-b4a2-756af494682b": {
+      "atom": {
+        "text": "The so-called Ukrainian Institute of National Memory says 34 geographic objects... bear Bandera's name now",
+        "reference": {
+          "resource": "829",
+          "text": "The so-called Ukrainian Institute of National Memory says 34 geographic objects... bear Bandera's name now"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:27:40.659Z",
+        "updated": "2024-02-11T12:27:40.659Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000789138406901,
+            "y": 688
+          }
+        }
+      }
+    },
+    "1765f3c3-c8d9-11ee-b4a2-756af494682b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:28:42.108Z",
+        "updated": "2024-02-11T12:28:42.108Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1862.000241982009,
+            "y": 588
+          }
+        }
+      }
+    },
+    "1765f3c6-c8d9-11ee-b4a2-756af494682b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:28:42.108Z",
+        "updated": "2024-02-11T12:28:42.108Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1512.0005569131915,
+            "y": 588
+          }
+        }
+      }
+    },
+    "1765f3c9-c8d9-11ee-b4a2-756af494682b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:28:42.108Z",
+        "updated": "2024-02-11T12:28:42.108Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0007522877995,
+            "y": 588
+          }
+        }
+      }
+    },
+    "1765f3cc-c8d9-11ee-b4a2-756af494682b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:28:42.108Z",
+        "updated": "2024-02-11T12:28:42.108Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0009414401944,
+            "y": 226
+          }
+        }
+      }
+    },
+    "17661ad0-c8d9-11ee-b4a2-756af494682b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:28:42.109Z",
+        "updated": "2024-02-11T12:28:42.109Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.00000749757163,
+            "y": 226
+          }
+        }
+      }
+    },
+    "17661ad3-c8d9-11ee-b4a2-756af494682b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:28:42.109Z",
+        "updated": "2024-02-11T12:28:42.109Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0003848163572,
+            "y": 588
+          }
+        }
+      }
+    },
+    "17661ad6-c8d9-11ee-b4a2-756af494682b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:28:42.109Z",
+        "updated": "2024-02-11T12:28:42.109Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.00059024357256,
+            "y": 588
+          }
+        }
+      }
+    },
+    "17661adf-c8d9-11ee-b4a2-756af494682b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:28:42.109Z",
+        "updated": "2024-02-11T12:28:42.109Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.000818726914,
+            "y": 588
+          }
+        }
+      }
+    },
+    "90b4afe0-fc83-11ee-bacf-6f44838a7611": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-17T06:27:29.375Z",
+        "updated": "2024-04-17T06:27:29.375Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1238.3353699829481,
+            "y": 87.1977388068527
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "1765f3c1-c8d9-11ee-b4a2-756af494682b": {
+      "source": "f2c59430-c8d8-11ee-b4a2-756af494682b",
+      "target": "1765f3c0-c8d9-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:28:42.108Z",
+        "updated": "2024-02-11T12:28:42.108Z"
+      },
+      "userdata": {}
+    },
+    "1765f3c4-c8d9-11ee-b4a2-756af494682b": {
+      "source": "f2c59431-c8d8-11ee-b4a2-756af494682b",
+      "target": "1765f3c3-c8d9-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:28:42.108Z",
+        "updated": "2024-02-11T12:28:42.108Z"
+      },
+      "userdata": {}
+    },
+    "1765f3c5-c8d9-11ee-b4a2-756af494682b": {
+      "source": "1765f3c3-c8d9-11ee-b4a2-756af494682b",
+      "target": "f2c59430-c8d8-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:28:42.108Z",
+        "updated": "2024-02-11T12:28:42.108Z"
+      },
+      "userdata": {}
+    },
+    "1765f3c7-c8d9-11ee-b4a2-756af494682b": {
+      "source": "f2c59432-c8d8-11ee-b4a2-756af494682b",
+      "target": "1765f3c6-c8d9-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:28:42.108Z",
+        "updated": "2024-02-11T12:28:42.108Z"
+      },
+      "userdata": {}
+    },
+    "1765f3c8-c8d9-11ee-b4a2-756af494682b": {
+      "source": "1765f3c6-c8d9-11ee-b4a2-756af494682b",
+      "target": "f2c59430-c8d8-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:28:42.108Z",
+        "updated": "2024-02-11T12:28:42.108Z"
+      },
+      "userdata": {}
+    },
+    "1765f3ca-c8d9-11ee-b4a2-756af494682b": {
+      "source": "f2c59433-c8d8-11ee-b4a2-756af494682b",
+      "target": "1765f3c9-c8d9-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:28:42.108Z",
+        "updated": "2024-02-11T12:28:42.108Z"
+      },
+      "userdata": {}
+    },
+    "1765f3cb-c8d9-11ee-b4a2-756af494682b": {
+      "source": "1765f3c9-c8d9-11ee-b4a2-756af494682b",
+      "target": "f2c59430-c8d8-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:28:42.108Z",
+        "updated": "2024-02-11T12:28:42.108Z"
+      },
+      "userdata": {}
+    },
+    "1765f3cd-c8d9-11ee-b4a2-756af494682b": {
+      "source": "f2c59434-c8d8-11ee-b4a2-756af494682b",
+      "target": "1765f3cc-c8d9-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:28:42.108Z",
+        "updated": "2024-02-11T12:28:42.108Z"
+      },
+      "userdata": {}
+    },
+    "1765f3ce-c8d9-11ee-b4a2-756af494682b": {
+      "source": "1765f3cc-c8d9-11ee-b4a2-756af494682b",
+      "target": "f2c59436-c8d8-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:28:42.108Z",
+        "updated": "2024-02-11T12:28:42.108Z"
+      },
+      "userdata": {}
+    },
+    "17661ad1-c8d9-11ee-b4a2-756af494682b": {
+      "source": "f2c59439-c8d8-11ee-b4a2-756af494682b",
+      "target": "17661ad0-c8d9-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:28:42.109Z",
+        "updated": "2024-02-11T12:28:42.109Z"
+      },
+      "userdata": {}
+    },
+    "17661ad2-c8d9-11ee-b4a2-756af494682b": {
+      "source": "17661ad0-c8d9-11ee-b4a2-756af494682b",
+      "target": "f2c59436-c8d8-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:28:42.109Z",
+        "updated": "2024-02-11T12:28:42.109Z"
+      },
+      "userdata": {}
+    },
+    "17661ad4-c8d9-11ee-b4a2-756af494682b": {
+      "source": "f2c5943a-c8d8-11ee-b4a2-756af494682b",
+      "target": "17661ad3-c8d9-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:28:42.109Z",
+        "updated": "2024-02-11T12:28:42.109Z"
+      },
+      "userdata": {}
+    },
+    "17661ad5-c8d9-11ee-b4a2-756af494682b": {
+      "source": "17661ad3-c8d9-11ee-b4a2-756af494682b",
+      "target": "f2c59439-c8d8-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:28:42.109Z",
+        "updated": "2024-02-11T12:28:42.109Z"
+      },
+      "userdata": {}
+    },
+    "17661ad7-c8d9-11ee-b4a2-756af494682b": {
+      "source": "f2c5943b-c8d8-11ee-b4a2-756af494682b",
+      "target": "17661ad6-c8d9-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:28:42.109Z",
+        "updated": "2024-02-11T12:28:42.109Z"
+      },
+      "userdata": {}
+    },
+    "17661ad8-c8d9-11ee-b4a2-756af494682b": {
+      "source": "17661ad6-c8d9-11ee-b4a2-756af494682b",
+      "target": "f2c59439-c8d8-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:28:42.109Z",
+        "updated": "2024-02-11T12:28:42.109Z"
+      },
+      "userdata": {}
+    },
+    "17661ae0-c8d9-11ee-b4a2-756af494682b": {
+      "source": "f2c5943e-c8d8-11ee-b4a2-756af494682b",
+      "target": "17661adf-c8d9-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:28:42.109Z",
+        "updated": "2024-02-11T12:28:42.109Z"
+      },
+      "userdata": {}
+    },
+    "17661ae1-c8d9-11ee-b4a2-756af494682b": {
+      "source": "17661adf-c8d9-11ee-b4a2-756af494682b",
+      "target": "f2c59439-c8d8-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:28:42.109Z",
+        "updated": "2024-02-11T12:28:42.109Z"
+      },
+      "userdata": {}
+    },
+    "90b4d6f0-fc83-11ee-bacf-6f44838a7611": {
+      "source": "f2c59436-c8d8-11ee-b4a2-756af494682b",
+      "target": "90b4afe0-fc83-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T06:27:29.375Z",
+        "updated": "2024-04-17T06:27:29.375Z"
+      },
+      "userdata": {}
+    },
+    "90b4d6f1-fc83-11ee-bacf-6f44838a7611": {
+      "source": "90b4afe0-fc83-11ee-bacf-6f44838a7611",
+      "target": "f2c59430-c8d8-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-04-17T06:27:29.375Z",
+        "updated": "2024-04-17T06:27:29.375Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "829": {
+      "text": "KIEV, February 9. /TASS/. Ukrainian law enforcement agencies have opened a criminal case over Wednesday's act of hooliganism in front of the Polish Consulate General in Lvov, a western Ukrainian city notorious for the wide spread of rightwing nationalistic sentiments there. \"Law enforcers are seeking to identify the malefactor who left graffiti on the fence of the Polish Consulate in Lvov,\" the report said. \"A case citing hooliganism has been opened.\" Earlier on Wednesday, unknown people painted the slogans saying \"This is our land\"?on the fence of the Polish Consulate General and hurled bottles with red paint at the building. The Ukrainian Foreign Ministry perceived the covert workings of a mysterious third force in the act. \"The Ministry of Foreign Affairs of Ukraine condemns resolutely the act of vandalism against the Polish Consulate General in Lvov committed on February 8,\" it said in a commentary. \"The systemic character, with which malefactors commit the acts of vandalism and outrage, testifies to the interestedness of a third party in dealing a blow to Ukrainian-Polish relations.\" Wednesday's incident followed another two acts of vandalism committed last month. On January 25, 2017, unknown criminals outraged on the Ukrainian and Polish memorials to victims of Stalin's NKVD security service in Bykovna near Kiev. On January 10, a similar incident took place in Guta Peniatska, Lvov region, where \"Gooligans\"?demolished a monument the Poles who died at the Nazis\"?hands in 1944. Poland sent notes of protest to the Ukrainian Foreign Ministry in both cases. Polish politicians issued appeals to Ukrainian Pyotr Poroshenko more than once. Polish President Andrzej Duda asked him to amend a law passed in April 2015, which declared two notorious groupings of the World War II era, the Organization of Ukrainian Nationalists (OUN) and the Ukrainian Insurgent Army, known historically under its Ukrainian acronym as UPA, to be the organizations that fought for Ukraine's independence and hence were entitled to honors. Jaroslaw Kaczynski, the leader of Poland's ruling Prawo i Sprawiedliwosc (PiS) party said on Tuesday the glorification of the wartime leader of Ukrainian radical nationalism Stepan Bandera might impede the integration of Ukraine in the EU. Bandera not only served a term in a Polish jail before the war for assassinating Polish Interior Minister Bronislaw Pieracki in June 1934. He stood at the head of the OUN that is broadly believed to bear the brunt of responsibility for mass exterminations of ethnic Poles in the Volhynia region of what is northwestern Ukraine today in 1943 and 1944. The Polish side puts the number of victims of Volhynia massacres at more than 100,000 people and says more than 500,000 local residents of Polish descent were compelled to flee the area. The so-called Ukrainian Institute of National Memory says 34 geographic objects that were among the 51,500 objects to undergo renaming as part of the nationwide \"decommunization\"?campaign bear Bandera's name now. The campaign started off with the signing of Poroshenko's decree on \"decommunization\"?of Ukrainian society and on public access to the archival documents of the agencies that conducted repressions during \"The Communist totalitarian regime\"?from 1917 through to 1991. The law condemns the Communist regime, prohibits the public display of Soviet emblems, opens the archives of Soviet-era security services, and proclaimed the OUN, the UPA and other such groupings to be fighters for independence. One of the provisions of the highly controversial law says the citizens of Ukraine and foreigners who demonstrate publicly disrespect for those who \"Fought for freedom and independence\"?will stand prosecution. Poroshenko has more than once cites the UPA as an instance of heroism and love for Ukraine, saying the posterity of its militants were defending Ukraine nowadays. He even went as far as posturing in a uniform with a \"Cynical Bandera\"?chevron. Simultaneously, the Ukrainian authorities prohibited the Soviet Banner of Victory and the notion of the Great Patriotic War, which denotes across the former USSR the battles on the Eastern Front of World War II from June 1941 through to May 1945. The latter bans look particularly weird on the background of data from the aforesaid Institute of National Memory suggesting that the number of Ukrainians, who fought on the side of the Red Army during the war, reached 6 million while the number of UPA militants was around 100,000.",
+      "title": "Criminal case over act of hooliganism targeting Polish consulate opened in W Ukraine",
+      "source": "http://tass.com/world/929870",
+      "timestamp": "2017-02-08T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.206Z",
+        "updated": "2024-02-09T13:09:16.206Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "69ca24d0-c5b2-11ee-bbb2-f78c6e9d2422": {
+      "name": "Martin Hoppe",
+      "email": "mogramming@gmail.com",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "f2c59430-c8d8-11ee-b4a2-756af494682b",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.206Z",
+    "updated": "2024-04-17T06:29:35.200Z"
+  },
+  "userdata": {}
+}

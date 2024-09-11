@@ -1,0 +1,748 @@
+{
+  "nodes": {
+    "17fc2bb0-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "Judith Permar, 56, of Mount Carmel, went to a drop-off box in the town of Natalie at around 2:30 a.m",
+        "reference": {
+          "resource": "718",
+          "offset": 136,
+          "text": "Judith Permar, 56, of Mount Carmel, went to a drop-off box in the town of Natalie at around 2:30 a.m"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU provides context about the victim and the timing of the incident, which contributes to understanding the situation's complexity."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 362.00014026916926,
+            "y": 290
+          }
+        }
+      }
+    },
+    "17fc04a0-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "A Pennsylvania woman died Sunday morning night after her arm got stuck in a clothing donation bin, leaving her unable to call for help",
+        "reference": {
+          "resource": "718",
+          "offset": 0,
+          "text": "A Pennsylvania woman died Sunday morning night after her arm got stuck in a clothing donation bin, leaving her unable to call for help"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU provides the central incident that led to the tragic outcome, setting the stage for subsequent details and interpretations.",
+          "mcConfig": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "mcExplanation": "This ADU presents the central incident and tragic outcome around which all other information and interpretations revolve."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 62.000229009679586,
+            "y": 12
+          }
+        }
+      }
+    },
+    "17fc2bba-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Provides context that supports understanding the central incident."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 462.00014534893467,
+            "y": 178
+          }
+        }
+      }
+    },
+    "17fc2bb2-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "The engine on her black Hummer was still running and bags of clothes were scattered near the bin",
+        "reference": {
+          "resource": "718",
+          "offset": 312,
+          "text": "The engine on her black Hummer was still running and bags of clothes were scattered near the bin"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU indicates the events' context, adding to the mystery of the incident and suggesting possible scenarios."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 362.00035073712763,
+            "y": 544
+          }
+        }
+      }
+    },
+    "17fc2bbd-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Adds more context that supports the timing and potential circumstances of the incident."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 462.0008500804479,
+            "y": 444
+          }
+        }
+      }
+    },
+    "17fc2bb3-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "A coroner's report said she died from blunt force trauma and hypothermia. Her injuries included a broken arm and wrist",
+        "reference": {
+          "resource": "718",
+          "offset": 410,
+          "text": "A coroner's report said she died from blunt force trauma and hypothermia. Her injuries included a broken arm and wrist"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Provides medical details about the cause of death, contributing to a fuller understanding of the tragic outcome's circumstances."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 12.000951974207485,
+            "y": 278
+          }
+        }
+      }
+    },
+    "17fc2bc0-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Directly supports the understanding of the tragic outcome's medical causes."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 112.00079486189846,
+            "y": 178
+          }
+        }
+      }
+    },
+    "17fc2bb5-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "Permar's son told WNEP that she always wanted to help the less fortunate and constantly donated to those clothing bins",
+        "reference": {
+          "resource": "718",
+          "offset": 641,
+          "text": "Permar's son told WNEP that she always wanted to help the less fortunate and constantly donated to those clothing bins"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU presents a character testimonial, suggesting the victim's intentions were altruistic."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 624.6282639543048,
+            "y": 794.1421073775732
+          }
+        }
+      }
+    },
+    "17fc2bb4-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "She was reaching into the bin when the step ladder she was standing on collapsed, according to PennLive.com",
+        "reference": {
+          "resource": "718",
+          "offset": 530,
+          "text": "She was reaching into the bin when the step ladder she was standing on collapsed, according to PennLive.com"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Offers a specific account of how the accident occurred, adding key information for understanding the sequence of events."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 75.23365550400626,
+            "y": 798.4245190315963
+          }
+        }
+      }
+    },
+    "17fc2bc3-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Supports the idea that the incident occurred in the context of altruistic actions."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 328.616536482004,
+            "y": 998.6367254225472
+          }
+        }
+      }
+    },
+    "17fc2bb6-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "But investigators believe Permar was actually taking items from the bin",
+        "reference": {
+          "resource": "718",
+          "offset": 761,
+          "text": "But investigators believe Permar was actually taking items from the bin"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Presents a contradictory viewpoint to the altruistic intentions ascribed to the victim, thereby introducing a contentious aspect to the discussion."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 701.757713326044,
+            "y": 1196.9650567430056
+          }
+        }
+      }
+    },
+    "17fc2bc6-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Challenges the notion of altruistic intention, proposing a different perspective on the victim's actions."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 646.5625550348545,
+            "y": 1017.8222595918419
+          }
+        }
+      }
+    },
+    "17fc2bb7-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "Back in November, police received a call about a woman in a black Hummer who was taking items from the bin, according to the New York Daily News",
+        "reference": {
+          "resource": "718",
+          "offset": 1045,
+          "text": "Back in November, police received a call about a woman in a black Hummer who was taking items from the bin, according to the New York Daily News"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Provides circumstantial evidence supporting the claim that Permar might have been removing items from the bin, thereby supporting the investigators' belief."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1082.0001751448324,
+            "y": 532
+          }
+        }
+      }
+    },
+    "17fc2bc9-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Provides evidence that supports the idea that the victim might have been taking items from the bin."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1182.0008392112888,
+            "y": 420
+          }
+        }
+      }
+    },
+    "17fc2bb8-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "Mount Carmel Police Chief Brian Hollenbush told Philly.com. \"she was fishing bags out and the ladder she was standing on gave way,  and she couldn\"t get her hand loose.\"",
+        "reference": {
+          "resource": "718",
+          "text": "Mount Carmel Police Chief Brian Hollenbush told Philly.com. \"she was fishi... and she couldn\"t get her hand loose.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Provides a specific account of the incident from a law enforcement perspective, adding credibility to the investigators' belief."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1082.000498484197,
+            "y": 834
+          }
+        }
+      }
+    },
+    "17fc2bcc-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Further supports the idea of the victim's actions being questionable, as supported by a police account."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1182.000563068655,
+            "y": 734
+          }
+        }
+      }
+    },
+    "17fc2bb9-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "He admits being surprised when he heard she may have removed items from clothing bin. \"It wasn\"t something that I would expect to be seeing,\" he said, according to the Associated Press",
+        "reference": {
+          "resource": "718",
+          "text": "He admits being surprised when he heard she may have removed items from clothing bin. \"It wasn\"t something that I would expect to be seeing,\" he said, according to the Associated Press"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU shows the police chief's personal disbelief in the allegations, showing that even authoritative figures have their biases."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 732.0003975022483,
+            "y": 520
+          }
+        }
+      }
+    },
+    "17fc2bcf-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Although expressing disbelief, indirectly supports the complexity of the situation, suggesting that the victim's actions might not have been straightforwardly altruistic or malicious."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 832.0003209250755,
+            "y": 420
+          }
+        }
+      }
+    },
+    "2f22d640-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:52:38.436Z",
+        "updated": "2024-02-13T00:52:38.436Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 91.19458780863397,
+            "y": 664.1521291116054
+          }
+        }
+      }
+    },
+    "84f2c350-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "Permar was discovered around 8:30 a.m. and pronounced dead at the scene",
+        "reference": {
+          "resource": "718",
+          "offset": 238,
+          "text": "Permar was discovered around 8:30 a.m. and pronounced dead at the scene"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:55:02.405Z",
+        "updated": "2024-02-13T00:55:02.405Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 822.8550834150612,
+            "y": 258.6401555320373
+          }
+        }
+      }
+    },
+    "88925840-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:55:08.484Z",
+        "updated": "2024-02-13T00:55:08.484Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 700.1761669407504,
+            "y": 359.67932271428793
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "17fc2bbb-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bb0-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc2bba-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {}
+    },
+    "17fc2bbc-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bba-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc04a0-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {}
+    },
+    "17fc2bbe-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bb2-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc2bbd-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {}
+    },
+    "17fc2bbf-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bbd-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc2bb0-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {}
+    },
+    "17fc2bc1-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bb3-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc2bc0-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {}
+    },
+    "17fc2bc2-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bc0-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc04a0-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {}
+    },
+    "17fc2bc4-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bb5-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc2bc3-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {}
+    },
+    "17fc2bc5-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bc3-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc2bb4-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {}
+    },
+    "17fc2bc7-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bb6-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc2bc6-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {}
+    },
+    "17fc2bca-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bb7-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc2bc9-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {}
+    },
+    "17fc2bcb-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bc9-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc2bb6-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {}
+    },
+    "17fc2bcd-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bb8-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc2bcc-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {}
+    },
+    "17fc2bce-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bcc-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc2bb7-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {}
+    },
+    "17fc2bd0-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bb9-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc2bcf-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {}
+    },
+    "17fc2bd1-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bcf-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc2bb6-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:51:59.595Z",
+        "updated": "2024-02-13T00:51:59.595Z"
+      },
+      "userdata": {}
+    },
+    "2cefc9a0-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bc6-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc2bb5-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:52:34.746Z",
+        "updated": "2024-02-13T00:52:34.746Z"
+      },
+      "userdata": {}
+    },
+    "2f22d641-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "17fc2bb4-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "2f22d640-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:52:38.436Z",
+        "updated": "2024-02-13T00:52:38.436Z"
+      },
+      "userdata": {}
+    },
+    "2f22d642-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "2f22d640-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc2bb3-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:52:38.436Z",
+        "updated": "2024-02-13T00:52:38.436Z"
+      },
+      "userdata": {}
+    },
+    "88925841-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "84f2c350-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "88925840-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:55:08.484Z",
+        "updated": "2024-02-13T00:55:08.484Z"
+      },
+      "userdata": {}
+    },
+    "88925842-ca0a-11ee-ab2a-4dc8d1f5b568": {
+      "source": "88925840-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "target": "17fc2bb0-ca0a-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:55:08.484Z",
+        "updated": "2024-02-13T00:55:08.484Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "718": {
+      "text": "A Pennsylvania woman died Sunday morning night after her arm got stuck in a clothing donation bin, leaving her unable to call for help. Judith Permar, 56, of Mount Carmel, went to a drop-off box in the town of Natalie at around 2:30 a.m.-Permar was discovered around 8:30 a.m. and pronounced dead at the scene.- The engine on her black Hummer was still running and bags of clothes were scattered near the bin.-A coroner's report said she died from blunt force trauma and hypothermia. Her injuries included a broken arm and wrist. She was reaching into the bin when the step ladder she was standing on collapsed, according to PennLive.com.-- Permar's son told WNEP that she always wanted to help the less fortunate and constantly donated to those clothing bins. But investigators believe Permar was actually taking items from the bin \"?and it may not have been the first time. \"she was fishing bags out and the ladder she was standing on gave way, and she couldn\"t get her hand loose,\"?Mount Carmel Police Chief Brian Hollenbush told Philly.com. Back in November, police received a call about a woman in a black Hummer who was taking items from the bin, according to the New York Daily News. Hollenbush said he knew Permar and told the Associated Press she was a very nice woman.-He admits being surprised when he heard she may have removed items from clothing bin. \"It wasn\"t something that I would expect to be seeing,\"?he said, according to the Associated Press. Funeral services for Permar are scheduled for Friday. Permar's family did not respond to HuffPost about the allegations she was taking donated items from the bin.",
+      "title": "Woman Dies After Getting Arm Stuck In Donation Box",
+      "source": "http://www.huffingtonpost.com/2017/02/09/judith-permar-arm-stuck-in-donation-box_n_14661108.html",
+      "timestamp": "2017-02-09T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.200Z",
+        "updated": "2024-02-09T13:09:16.200Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "17fc04a0-ca0a-11ee-ab2a-4dc8d1f5b568",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.200Z",
+    "updated": "2024-02-13T00:55:15.638Z"
+  }
+}

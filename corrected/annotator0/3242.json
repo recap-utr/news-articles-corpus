@@ -1,0 +1,795 @@
+{
+  "nodes": {
+    "d616ffd0-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "A dancing zebra became an overnight sensation after John Oliver released a 23-minute clip of the zebra dancing in front of a green screen",
+        "reference": {
+          "resource": "3242",
+          "text": "A dancing zebra became an overnight sensation after John Oliver released a 23-minute clip of the zebra dancing in front of a green screen"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:18:23.309Z",
+        "updated": "2024-02-13T09:18:23.309Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1392.0003970428374,
+            "y": 254
+          }
+        }
+      }
+    },
+    "d616ffd5-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "John Oliver's Weird Trump-Crashing Zebra Is The New Meme You'll See Everywhere",
+        "reference": {
+          "resource": "3242",
+          "text": "John Oliver's Weird Trump-Crashing Zebra Is The New Meme You'll See Everywhere"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:18:23.309Z",
+        "updated": "2024-02-13T09:18:23.309Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 412.00075689834824,
+            "y": 12
+          }
+        }
+      }
+    },
+    "d616ffd6-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:18:23.309Z",
+        "updated": "2024-02-13T09:18:23.309Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1492.0001329090849,
+            "y": 154
+          }
+        }
+      }
+    },
+    "d616ffd1-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "This allowed fans to add the zebra to footage of just about anything",
+        "reference": {
+          "resource": "3242",
+          "offset": 228,
+          "text": "This allowed fans to add the zebra to footage of just about anything"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:18:23.309Z",
+        "updated": "2024-02-13T09:18:23.309Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1362.0005768015326,
+            "y": 556
+          }
+        }
+      }
+    },
+    "d616ffd9-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:18:23.309Z",
+        "updated": "2024-02-13T09:18:23.309Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1462.0001039482695,
+            "y": 420
+          }
+        }
+      }
+    },
+    "d616ffd2-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Everything is better with a zebra",
+        "reference": {
+          "resource": "3242",
+          "offset": 707,
+          "text": "Everything is better with a zebra"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:18:23.309Z",
+        "updated": "2024-02-13T09:18:23.309Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.000601107653,
+            "y": 520
+          }
+        }
+      }
+    },
+    "d616ffdc-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:18:23.309Z",
+        "updated": "2024-02-13T09:18:23.309Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 787.0009074097909,
+            "y": 420
+          }
+        }
+      }
+    },
+    "d616ffd3-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "possibly the greatest thing ever to appear on TV",
+        "reference": {
+          "resource": "3242",
+          "offset": 932,
+          "text": "possibly the greatest thing ever to appear on TV"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:18:23.309Z",
+        "updated": "2024-02-13T09:18:23.309Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1712.0007770392174,
+            "y": 520
+          }
+        }
+      }
+    },
+    "d616ffdf-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:18:23.309Z",
+        "updated": "2024-02-13T09:18:23.309Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1812.0008883895177,
+            "y": 420
+          }
+        }
+      }
+    },
+    "d616ffd4-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Maybe it's just what this country needs at the moment!",
+        "reference": {
+          "resource": "3242",
+          "offset": 1445,
+          "text": "Maybe it's just what this country needs at the moment!"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:18:23.309Z",
+        "updated": "2024-02-13T09:18:23.309Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0005059652296,
+            "y": 520
+          }
+        }
+      }
+    },
+    "d616ffe2-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:18:23.309Z",
+        "updated": "2024-02-13T09:18:23.309Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.00028872884064,
+            "y": 420
+          }
+        }
+      }
+    },
+    "eaed9fe0-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "\"?so far, mostly clips of President Donald Trump \"?along with the #JustAddZebras-hashtag",
+        "reference": {
+          "resource": "3242",
+          "offset": 297,
+          "text": "\"?so far, mostly clips of President Donald Trump \"?along with the #JustAddZebras-hashtag"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:18:58.270Z",
+        "updated": "2024-02-13T09:18:58.270Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0007559484446,
+            "y": 272
+          }
+        }
+      }
+    },
+    "ed0200f0-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:19:01.759Z",
+        "updated": "2024-02-13T09:19:01.759Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.00040557894476,
+            "y": 154
+          }
+        }
+      }
+    },
+    "29006ec0-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Not all of the #JustAddZebras went into Trump pics and videos",
+        "reference": {
+          "resource": "3242",
+          "offset": 1982,
+          "text": "Not all of the #JustAddZebras went into Trump pics and videos"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:20:42.412Z",
+        "updated": "2024-02-13T09:20:42.412Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000787253123942,
+            "y": 544
+          }
+        }
+      }
+    },
+    "2bee18d0-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:20:47.325Z",
+        "updated": "2024-02-13T09:20:47.325Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00016175587113,
+            "y": 420
+          }
+        }
+      }
+    },
+    "30f701c0-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Zebras can really be added to anything and everything",
+        "reference": {
+          "resource": "3242",
+          "offset": 2045,
+          "text": "Zebras can really be added to anything and everything"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:20:55.772Z",
+        "updated": "2024-02-13T09:20:55.772Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000350865226746,
+            "y": 786
+          }
+        }
+      }
+    },
+    "3422c640-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:21:01.092Z",
+        "updated": "2024-02-13T09:21:01.092Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00002818838408,
+            "y": 686
+          }
+        }
+      }
+    },
+    "44f1c0c0-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "#justaddzebras just learnt how to use green screen",
+        "reference": {
+          "resource": "3242",
+          "offset": 1751,
+          "text": "#justaddzebras just learnt how to use green screen"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:21:29.292Z",
+        "updated": "2024-02-13T09:21:29.292Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1712.000903765404,
+            "y": 786
+          }
+        }
+      }
+    },
+    "47a56f10-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:21:33.825Z",
+        "updated": "2024-02-13T09:21:33.825Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1812.00015179936,
+            "y": 686
+          }
+        }
+      }
+    },
+    "4d8eccf0-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Decided to teach myself how to use green screen on iMovie",
+        "reference": {
+          "resource": "3242",
+          "offset": 1829,
+          "text": "Decided to teach myself how to use green screen on iMovie"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:21:43.743Z",
+        "updated": "2024-02-13T09:21:43.743Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1362.000819513711,
+            "y": 786
+          }
+        }
+      }
+    },
+    "5100c230-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:21:49.523Z",
+        "updated": "2024-02-13T09:21:49.523Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1462.0009638298725,
+            "y": 686
+          }
+        }
+      }
+    },
+    "606de2c0-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Thank you @LastWeekTonight for always ending my weekends perfectly. This week you knew the solution was to #JustAddZebras. #Brilliance",
+        "reference": {
+          "resource": "3242",
+          "offset": 2262,
+          "text": "Thank you @LastWeekTonight for always ending my weekends perfectly. This week you knew the solution was to #JustAddZebras. #Brilliance"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:22:15.404Z",
+        "updated": "2024-02-13T09:22:15.404Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2062.0008821880247,
+            "y": 520
+          }
+        }
+      }
+    },
+    "636e7890-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:22:20.441Z",
+        "updated": "2024-02-13T09:22:20.441Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2162.0008949908583,
+            "y": 420
+          }
+        }
+      }
+    },
+    "70e6f510-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "#justaddzebras I just learnt to use green screen",
+        "reference": {
+          "resource": "3242",
+          "offset": 981,
+          "text": "#justaddzebras I just learnt to use green screen"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:22:43.041Z",
+        "updated": "2024-02-13T09:22:43.041Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1012.0005242608487,
+            "y": 786
+          }
+        }
+      }
+    },
+    "73a837f0-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:22:47.663Z",
+        "updated": "2024-02-13T09:22:47.663Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1112.0000958922028,
+            "y": 686
+          }
+        }
+      }
+    },
+    "7df7fd30-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "I never realized how much I needed #JustAddZebras in my life until now. Thanks @iamjohnoliver and @LastWeekTonight ",
+        "reference": {
+          "resource": "3242",
+          "offset": 1086,
+          "text": "I never realized how much I needed #JustAddZebras in my life until now. Thanks @iamjohnoliver and @LastWeekTonight "
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:23:04.963Z",
+        "updated": "2024-02-13T09:23:04.963Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1012.0008358900935,
+            "y": 520
+          }
+        }
+      }
+    },
+    "82bcb130-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:23:12.963Z",
+        "updated": "2024-02-13T09:23:12.963Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1112.0008581615737,
+            "y": 420
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "d616ffd7-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "source": "d616ffd0-ca50-11ee-b5b8-bbee0a74ec6f",
+      "target": "d616ffd6-ca50-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:18:23.309Z",
+        "updated": "2024-02-13T09:18:23.309Z"
+      },
+      "userdata": {}
+    },
+    "d616ffd8-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "source": "d616ffd6-ca50-11ee-b5b8-bbee0a74ec6f",
+      "target": "d616ffd5-ca50-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:18:23.309Z",
+        "updated": "2024-02-13T09:18:23.309Z"
+      },
+      "userdata": {}
+    },
+    "d616ffda-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "source": "d616ffd1-ca50-11ee-b5b8-bbee0a74ec6f",
+      "target": "d616ffd9-ca50-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:18:23.309Z",
+        "updated": "2024-02-13T09:18:23.309Z"
+      },
+      "userdata": {}
+    },
+    "d616ffdb-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "source": "d616ffd9-ca50-11ee-b5b8-bbee0a74ec6f",
+      "target": "d616ffd0-ca50-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:18:23.309Z",
+        "updated": "2024-02-13T09:18:23.309Z"
+      },
+      "userdata": {}
+    },
+    "d616ffdd-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "source": "d616ffd2-ca50-11ee-b5b8-bbee0a74ec6f",
+      "target": "d616ffdc-ca50-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:18:23.309Z",
+        "updated": "2024-02-13T09:18:23.309Z"
+      },
+      "userdata": {}
+    },
+    "d616ffe0-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "source": "d616ffd3-ca50-11ee-b5b8-bbee0a74ec6f",
+      "target": "d616ffdf-ca50-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:18:23.309Z",
+        "updated": "2024-02-13T09:18:23.309Z"
+      },
+      "userdata": {}
+    },
+    "d616ffe3-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "source": "d616ffd4-ca50-11ee-b5b8-bbee0a74ec6f",
+      "target": "d616ffe2-ca50-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:18:23.309Z",
+        "updated": "2024-02-13T09:18:23.309Z"
+      },
+      "userdata": {}
+    },
+    "ed0200f1-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "source": "eaed9fe0-ca50-11ee-b5b8-bbee0a74ec6f",
+      "target": "ed0200f0-ca50-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:19:01.759Z",
+        "updated": "2024-02-13T09:19:01.759Z"
+      },
+      "userdata": {}
+    },
+    "ed0200f2-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "source": "ed0200f0-ca50-11ee-b5b8-bbee0a74ec6f",
+      "target": "d616ffd5-ca50-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:19:01.759Z",
+        "updated": "2024-02-13T09:19:01.759Z"
+      },
+      "userdata": {}
+    },
+    "f3a62350-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "source": "d616ffdc-ca50-11ee-b5b8-bbee0a74ec6f",
+      "target": "eaed9fe0-ca50-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:19:12.901Z",
+        "updated": "2024-02-13T09:19:12.901Z"
+      },
+      "userdata": {}
+    },
+    "01fd4000-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "source": "d616ffdf-ca50-11ee-b5b8-bbee0a74ec6f",
+      "target": "d616ffd0-ca50-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:19:36.960Z",
+        "updated": "2024-02-13T09:19:36.960Z"
+      },
+      "userdata": {}
+    },
+    "0e708180-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "source": "d616ffe2-ca50-11ee-b5b8-bbee0a74ec6f",
+      "target": "eaed9fe0-ca50-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:19:57.848Z",
+        "updated": "2024-02-13T09:19:57.848Z"
+      },
+      "userdata": {}
+    },
+    "2bee18d1-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "source": "29006ec0-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "2bee18d0-ca51-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:20:47.326Z",
+        "updated": "2024-02-13T09:20:47.326Z"
+      },
+      "userdata": {}
+    },
+    "2bee3fe0-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "source": "2bee18d0-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "eaed9fe0-ca50-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:20:47.326Z",
+        "updated": "2024-02-13T09:20:47.326Z"
+      },
+      "userdata": {}
+    },
+    "3422c641-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "source": "30f701c0-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "3422c640-ca51-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:21:01.092Z",
+        "updated": "2024-02-13T09:21:01.092Z"
+      },
+      "userdata": {}
+    },
+    "3422c642-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "source": "3422c640-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "29006ec0-ca51-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:21:01.092Z",
+        "updated": "2024-02-13T09:21:01.092Z"
+      },
+      "userdata": {}
+    },
+    "47a56f11-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "source": "44f1c0c0-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "47a56f10-ca51-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:21:33.825Z",
+        "updated": "2024-02-13T09:21:33.825Z"
+      },
+      "userdata": {}
+    },
+    "47a56f12-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "source": "47a56f10-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "d616ffd1-ca50-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:21:33.825Z",
+        "updated": "2024-02-13T09:21:33.825Z"
+      },
+      "userdata": {}
+    },
+    "5100c231-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "source": "4d8eccf0-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "5100c230-ca51-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:21:49.523Z",
+        "updated": "2024-02-13T09:21:49.523Z"
+      },
+      "userdata": {}
+    },
+    "5100c232-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "source": "5100c230-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "d616ffd1-ca50-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:21:49.523Z",
+        "updated": "2024-02-13T09:21:49.523Z"
+      },
+      "userdata": {}
+    },
+    "636e7891-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "source": "606de2c0-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "636e7890-ca51-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:22:20.441Z",
+        "updated": "2024-02-13T09:22:20.441Z"
+      },
+      "userdata": {}
+    },
+    "636e7892-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "source": "636e7890-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "d616ffd0-ca50-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:22:20.441Z",
+        "updated": "2024-02-13T09:22:20.441Z"
+      },
+      "userdata": {}
+    },
+    "73a837f1-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "source": "70e6f510-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "73a837f0-ca51-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:22:47.663Z",
+        "updated": "2024-02-13T09:22:47.663Z"
+      },
+      "userdata": {}
+    },
+    "73a837f2-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "source": "73a837f0-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "d616ffd1-ca50-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:22:47.663Z",
+        "updated": "2024-02-13T09:22:47.663Z"
+      },
+      "userdata": {}
+    },
+    "82bcb131-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "source": "7df7fd30-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "82bcb130-ca51-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:23:12.963Z",
+        "updated": "2024-02-13T09:23:12.963Z"
+      },
+      "userdata": {}
+    },
+    "82bcb132-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "source": "82bcb130-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "d616ffd0-ca50-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:23:12.963Z",
+        "updated": "2024-02-13T09:23:12.963Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "3242": {
+      "text": "Blame John Oliver. A dancing zebra became an overnight sensation on Sunday after the host of HBO's \"Last Week Tonight\"?released a 23-minute clip of the-zebra dancing, sitting, gesturing and more, all in front of a green screen. This allowed fans to add the zebra to footage of just about anything \"?so far, mostly clips of President Donald Trump \"?along with the #JustAddZebras-hashtag.- Why? Partially because of a program in Bolivia where people dressed as zebras and directed traffic. But mostly because it's a dancing zebra. Is there anything better than that? Here's a sampling:- Zebra makes Trump appears to ignore requests for a handshake with Angela Merkel #JustAddZebras pic.twitter.com/3mdWSmbBEd Everything is better with a zebra! #justaddzebras .@LastWeekTonight I haven't laughed so hard in a very long time..and off the couch!#justaddzebras also this:https://t.co/UBXKhap5Ye thank you @LastWeekTonight #justaddzebras. possibly the greatest thing ever to appear on TV #justaddzebras I just learnt to use green screen. I think I made a cool video pic.twitter.com/BAOIdCYrow I never realized how much I needed #JustAddZebras in my life until now. Thanks @iamjohnoliver and @LastWeekTonight https://t.co/b84yNV02r2 #justaddzebras I don't get it but it's funny #JustAddZebras Mr zebra makes this dystopian scene more palatable, BTW this band sued Trump campaign @LastWeekTonight @iamjohnoliver #JustAddZebras pic.twitter.com/4B6bxX41dF Maybe it's just what this country needs at the moment! #JustAddZebras #LastWeekTonight Thank you @LastWeekTonight for making things a little bit better #justaddzebras pic.twitter.com/01jrHaYstO #justaddzebras is the next best thing You know what Uranium is right? #justaddzebras pic.twitter.com/Emo56oRyjM #justaddzebras just learnt how to use green screen pic.twitter.com/odQOzLhzLQ Decided to teach myself how to use green screen on iMovie. #JustAddZebras to the meme about the gun-toting son of the racist. pic.twitter.com/6vxFwB5NV0 Not all of the #JustAddZebras went into Trump pics and videos. Zebras can really be added to anything and everything:- #justaddzebras Go Johnny Go!#lastweektonight pic.twitter.com/CBhkUtSP9P There's something new in \"The Princess Bride\"! #JustAddZebras pic.twitter.com/j3XwghclgD Thank you @LastWeekTonight for always ending my weekends perfectly. This week you knew the solution was to #JustAddZebras. #Brilliance @HBO pic.twitter.com/QpJr4WjfCm Share this slide: Don\"t be the last to watch the viral video everyone is talking about. Learn more",
+      "title": "John Oliver's Weird Trump-Crashing Zebra Is The New Meme You'll See Everywhere",
+      "source": "http://www.huffingtonpost.com/2017/03/20/zebra-meme-john-oliver_n_15484498.html",
+      "timestamp": "2017-03-20T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.195Z",
+        "updated": "2024-02-09T13:09:16.195Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "2c603380-c41a-11ee-a06c-cb1cbb90ffa4": {
+      "name": "annotator0",
+      "email": "s4kibart@uni-trier.de",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "d616ffd5-ca50-11ee-b5b8-bbee0a74ec6f",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.195Z",
+    "updated": "2024-04-15T14:04:50.054Z"
+  },
+  "userdata": {}
+}

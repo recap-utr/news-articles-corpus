@@ -1,0 +1,162 @@
+{
+  "nodes": {
+    "038ad670-c683-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "You may talk dirty in the moment but once the deed is done, the conversation tends to be considerably less sexy",
+        "reference": {
+          "resource": "1345",
+          "offset": 26,
+          "text": "You may talk dirty in the moment but once the deed is done, the conversation tends to be considerably less sexy"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:07:29.751Z",
+        "updated": "2024-02-08T13:07:29.751Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 40.00071096021704,
+            "y": 40
+          }
+        }
+      }
+    },
+    "07f55c80-c683-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "if you're never said \"you hungry?\"?after sex, you'r lying",
+        "reference": {
+          "resource": "1345",
+          "offset": 151,
+          "text": "if you're never said \"you hungry?\"?after sex, you'r lying"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:07:37.160Z",
+        "updated": "2024-02-08T13:07:37.160Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -30.684346710133866,
+            "y": 294.74478207657046
+          }
+        }
+      }
+    },
+    "09a5a490-c683-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:07:39.993Z",
+        "updated": "2024-02-08T13:07:39.993Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 34.1714459248837,
+            "y": 208.69096035806416
+          }
+        }
+      }
+    },
+    "1769d010-c683-11ee-ba3b-07e43482f0f9": {
+      "atom": {
+        "text": "proof of how unsexy post-coital convo can be, look no further than the-#ThingsISayAfterSex tweets people are currently sharing on Twitter",
+        "reference": {
+          "resource": "1345",
+          "offset": 215,
+          "text": "proof of how unsexy post-coital convo can be, look no further than the-#ThingsISayAfterSex tweets people are currently sharing on Twitter"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:08:03.089Z",
+        "updated": "2024-02-08T13:08:03.089Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 320.8721628782433,
+            "y": 297.1528574739285
+          }
+        }
+      }
+    },
+    "19cffaa0-c683-11ee-ba3b-07e43482f0f9": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:08:07.114Z",
+        "updated": "2024-02-08T13:08:07.114Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 263.811407153784,
+            "y": 203.25451370177873
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "09a5a491-c683-11ee-ba3b-07e43482f0f9": {
+      "source": "07f55c80-c683-11ee-ba3b-07e43482f0f9",
+      "target": "09a5a490-c683-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:07:39.994Z",
+        "updated": "2024-02-08T13:07:39.994Z"
+      },
+      "userdata": {}
+    },
+    "09a5cba0-c683-11ee-ba3b-07e43482f0f9": {
+      "source": "09a5a490-c683-11ee-ba3b-07e43482f0f9",
+      "target": "038ad670-c683-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:07:39.994Z",
+        "updated": "2024-02-08T13:07:39.994Z"
+      },
+      "userdata": {}
+    },
+    "19cffaa1-c683-11ee-ba3b-07e43482f0f9": {
+      "source": "1769d010-c683-11ee-ba3b-07e43482f0f9",
+      "target": "19cffaa0-c683-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:08:07.114Z",
+        "updated": "2024-02-08T13:08:07.114Z"
+      },
+      "userdata": {}
+    },
+    "19cffaa2-c683-11ee-ba3b-07e43482f0f9": {
+      "source": "19cffaa0-c683-11ee-ba3b-07e43482f0f9",
+      "target": "038ad670-c683-11ee-ba3b-07e43482f0f9",
+      "metadata": {
+        "created": "2024-02-08T13:08:07.114Z",
+        "updated": "2024-02-08T13:08:07.114Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "1345": {
+      "text": "Let\"?be honest about sex: You may talk dirty in the moment but once the deed is done, the conversation tends to be considerably less sexy.-(Seriously, if you're never said \"you hungry?\"?after sex, you'r lying.) For proof of how unsexy post-coital convo can be, look no further than the-#ThingsISayAfterSex tweets people are currently sharing on Twitter. Below, some of the funniest responses. that was good, now where's the remote #ThingsISayAfterSex #ThingsISayAfterSex ... you hungry? Good game #ThingsISayAfterSex #ThingsIsayAfterSex okay but Hillary won the popular vote Don't let this good D distract you that the Falcons blew a 25 point lead to my Patriots #ThingsISayAfterSex I need to pee. #ThingsISayAfterSex him: did you come? me: #ThingsISayAfterSex pic.twitter.com/vxb4WwtPEe You can stay but I'm going to sleep #thingsisayaftersex Has the cat been watching the entire time? #ThingsISayAfterSex #ThingsISayAfterSex Is that it? Uh, yeah I came. I gotta go now. #ThingsISayAfterSex #thingsisayaftersex \" What's for dinner tonight???\" nothing because hands don't talk#ThingsISayAfterSex be sure to like, subscribe #ThingsISayAfterSex we still 'just friends' ? #ThingsISayAfterSex #ThingsISayAfterSex \"Thank you; come again.\" #ThingsISayAfterSex I need a bacon cheeseburger NOW #ThingsISayAfterSex DOESN'T MATTER, HAD SEX Go team! *high fives*#thingsisayaftersex \"Go ahead and talk, I'm just resting my eyes, promise.\"#thingsIsayaftersex CNN is FAKE NEWS#ThingsISayAfterSex Do you mind if I use you as a reference ? #ThingsISayAfterSex Are there any Go-Gurts left? #ThingsISayAfterSex HuffPost Lifestyle is a daily newsletter that will make you happier and healthier \"?one email at a time. Learn more",
+      "title": "23 Honest Things People Say After Having Sex",
+      "source": "http://www.huffingtonpost.com/2017/02/23/good-sex-but-now-im-hungry_n_14968006.html",
+      "timestamp": "2017-02-23T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-08T09:23:32.569Z",
+        "updated": "2024-02-08T09:23:32.569Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-08T09:23:32.568Z",
+    "updated": "2024-02-08T13:11:01.220Z"
+  }
+}

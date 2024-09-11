@@ -1,0 +1,505 @@
+{
+  "nodes": {
+    "df5f6fe0-c66e-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "'Ireland, You Are' was the theme of the-St Patrick's parade in Dublin. Theatrical groups from across the country were invited to respond to the theme, and-included Bui Bolg, Dowtcha puppets and Brighter Futures.",
+        "reference": {
+          "resource": "2802",
+          "offset": 121,
+          "text": "'Ireland, You Are' was the theme of the-St Patrick's parade in Dublin. Theatrical groups from across the country were invited to respond to the theme, and-included Bui Bolg, Dowtcha puppets and Brighter Futures."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T10:43:19.135Z",
+        "updated": "2024-02-08T10:43:19.135Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.000044479069,
+            "y": 301
+          }
+        }
+      }
+    },
+    "f5492da0-c66e-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "Despite the cold and wet conditions,-thousands of people from home and abroad-lined-the parade route",
+        "reference": {
+          "resource": "2802",
+          "offset": 406,
+          "text": "Despite the cold and wet conditions,-thousands of people from home and abroad-lined-the parade route"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T10:43:55.898Z",
+        "updated": "2024-02-08T10:43:55.898Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.00026146574,
+            "y": 662
+          }
+        }
+      }
+    },
+    "f94ab8b0-c66e-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T10:44:02.619Z",
+        "updated": "2024-02-08T10:44:02.619Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.00051027164386,
+            "y": 562
+          }
+        }
+      }
+    },
+    "2c211860-c66f-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "Hundreds of thousands of people are taking part in St Patrick's Day festivities in dozens of parades around the country.",
+        "reference": {
+          "resource": "2802",
+          "offset": 0,
+          "text": "Hundreds of thousands of people are taking part in St Patrick's Day festivities in dozens of parades around the country."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T10:45:27.911Z",
+        "updated": "2024-02-08T10:45:27.911Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 733.4288142024612,
+            "y": 12
+          }
+        }
+      }
+    },
+    "399e4fd0-c66f-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T10:45:50.541Z",
+        "updated": "2024-02-08T10:45:50.541Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.0003064812361,
+            "y": 177
+          }
+        }
+      }
+    },
+    "4fb5fb60-c66f-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "Other parades around the country were not so lucky - with some events-cancelled because of wet and windy weather.",
+        "reference": {
+          "resource": "2802",
+          "offset": 508,
+          "text": "Other parades around the country were not so lucky - with some events-cancelled because of wet and windy weather."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T10:46:27.606Z",
+        "updated": "2024-02-08T10:46:27.606Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0005985103741,
+            "y": 337
+          }
+        }
+      }
+    },
+    "6b18c900-c66f-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T10:47:13.552Z",
+        "updated": "2024-02-08T10:47:13.552Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0005264012001,
+            "y": 177
+          }
+        }
+      }
+    },
+    "9475c640-c66f-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "The parade is just one of a series of events taking place over the weekend, including-the Lee Sessions Trad Trail, a pop-up food festival and a St-Patrick's Hill Ball Run.",
+        "reference": {
+          "resource": "2802",
+          "offset": 1295,
+          "text": "The parade is just one of a series of events taking place over the weekend, including-the Lee Sessions Trad Trail, a pop-up food festival and a St-Patrick's Hill Ball Run."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T10:48:22.948Z",
+        "updated": "2024-02-08T10:48:22.948Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.0007583182892,
+            "y": 277
+          }
+        }
+      }
+    },
+    "976210c0-c66f-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T10:48:27.852Z",
+        "updated": "2024-02-08T10:48:27.852Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0005205919451,
+            "y": 177
+          }
+        }
+      }
+    },
+    "a27e4dc0-c66f-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "There are also over 15 parades in the county.",
+        "reference": {
+          "resource": "2802",
+          "offset": 1467,
+          "text": "There are also over 15 parades in the county."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T10:48:46.492Z",
+        "updated": "2024-02-08T10:48:46.492Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1412.0001940007762,
+            "y": 277
+          }
+        }
+      }
+    },
+    "a4793360-c66f-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T10:48:49.815Z",
+        "updated": "2024-02-08T10:48:49.815Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1512.0008305496426,
+            "y": 177
+          }
+        }
+      }
+    },
+    "c24fc020-c66f-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "Meanwhile in Limerick, thousands came-out in very poor weather conditions to view this year's parade.",
+        "reference": {
+          "resource": "2802",
+          "offset": 2015,
+          "text": "Meanwhile in Limerick, thousands came-out in very poor weather conditions to view this year's parade."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T10:49:39.874Z",
+        "updated": "2024-02-08T10:49:39.874Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1762.0007619224964,
+            "y": 277
+          }
+        }
+      }
+    },
+    "c5e12440-c66f-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T10:49:45.860Z",
+        "updated": "2024-02-08T10:49:45.860Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1862.0002084264918,
+            "y": 177
+          }
+        }
+      }
+    },
+    "f22981a0-c66f-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "14-year-old Luke Culhane, Limerick Person of the Year, leads the city's parade today The parade is being lead by 14-year-old Luke Culhane, who has won a number of awards, and has been named Limerick person of the -year for his video which tackled cyber bullying and has been viewed over 5m times on social media.",
+        "reference": {
+          "resource": "2802",
+          "offset": 2882,
+          "text": "14-year-old Luke Culhane, Limerick Person of the Year, leads the city's parade today The parade is being lead by 14-year-old Luke Culhane, who has won a number of awards, and has been named Limerick person of the -year for his video which tackled cyber bullying and has been viewed over 5m times on social media."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T10:51:00.154Z",
+        "updated": "2024-02-08T10:51:00.154Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000411967590045,
+            "y": 277
+          }
+        }
+      }
+    },
+    "f572b930-c66f-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T10:51:05.667Z",
+        "updated": "2024-02-08T10:51:05.667Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00079536838443,
+            "y": 177
+          }
+        }
+      }
+    },
+    "137d7550-c670-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "Elsewhere, parades in Gaoth Dobhair, Dunfanaghy and An F¨¢l Carrach in Co-Donegal, and Cill Chiar¨¢in in Conamara were cancelled due to-to very wet and windy weather.",
+        "reference": {
+          "resource": "2802",
+          "offset": 3575,
+          "text": "Elsewhere, parades in Gaoth Dobhair, Dunfanaghy and An F¨¢l Carrach in Co-Donegal, and Cill Chiar¨¢in in Conamara were cancelled due to-to very wet and windy weather."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T10:51:56.069Z",
+        "updated": "2024-02-08T10:51:56.069Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0008651365636,
+            "y": 662
+          }
+        }
+      }
+    },
+    "1b516520-c670-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T10:52:09.202Z",
+        "updated": "2024-02-08T10:52:09.202Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0003973932803,
+            "y": 562
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "f94adfc0-c66e-11ee-bb24-29eae2ae94d0": {
+      "source": "f5492da0-c66e-11ee-bb24-29eae2ae94d0",
+      "target": "f94ab8b0-c66e-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:44:02.620Z",
+        "updated": "2024-02-08T10:44:02.620Z"
+      },
+      "userdata": {}
+    },
+    "f94adfc1-c66e-11ee-bb24-29eae2ae94d0": {
+      "source": "f94ab8b0-c66e-11ee-bb24-29eae2ae94d0",
+      "target": "df5f6fe0-c66e-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:44:02.620Z",
+        "updated": "2024-02-08T10:44:02.620Z"
+      },
+      "userdata": {}
+    },
+    "399e4fd1-c66f-11ee-bb24-29eae2ae94d0": {
+      "source": "df5f6fe0-c66e-11ee-bb24-29eae2ae94d0",
+      "target": "399e4fd0-c66f-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:45:50.541Z",
+        "updated": "2024-02-08T10:45:50.541Z"
+      },
+      "userdata": {}
+    },
+    "399e4fd2-c66f-11ee-bb24-29eae2ae94d0": {
+      "source": "399e4fd0-c66f-11ee-bb24-29eae2ae94d0",
+      "target": "2c211860-c66f-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:45:50.541Z",
+        "updated": "2024-02-08T10:45:50.541Z"
+      },
+      "userdata": {}
+    },
+    "6b18c901-c66f-11ee-bb24-29eae2ae94d0": {
+      "source": "4fb5fb60-c66f-11ee-bb24-29eae2ae94d0",
+      "target": "6b18c900-c66f-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:47:13.552Z",
+        "updated": "2024-02-08T10:47:13.552Z"
+      },
+      "userdata": {}
+    },
+    "6b18c902-c66f-11ee-bb24-29eae2ae94d0": {
+      "source": "6b18c900-c66f-11ee-bb24-29eae2ae94d0",
+      "target": "2c211860-c66f-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:47:13.552Z",
+        "updated": "2024-02-08T10:47:13.552Z"
+      },
+      "userdata": {}
+    },
+    "976210c1-c66f-11ee-bb24-29eae2ae94d0": {
+      "source": "9475c640-c66f-11ee-bb24-29eae2ae94d0",
+      "target": "976210c0-c66f-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:48:27.852Z",
+        "updated": "2024-02-08T10:48:27.852Z"
+      },
+      "userdata": {}
+    },
+    "976237d0-c66f-11ee-bb24-29eae2ae94d0": {
+      "source": "976210c0-c66f-11ee-bb24-29eae2ae94d0",
+      "target": "2c211860-c66f-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:48:27.853Z",
+        "updated": "2024-02-08T10:48:27.853Z"
+      },
+      "userdata": {}
+    },
+    "a4795a70-c66f-11ee-bb24-29eae2ae94d0": {
+      "source": "a27e4dc0-c66f-11ee-bb24-29eae2ae94d0",
+      "target": "a4793360-c66f-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:48:49.815Z",
+        "updated": "2024-02-08T10:48:49.815Z"
+      },
+      "userdata": {}
+    },
+    "a4795a71-c66f-11ee-bb24-29eae2ae94d0": {
+      "source": "a4793360-c66f-11ee-bb24-29eae2ae94d0",
+      "target": "2c211860-c66f-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:48:49.815Z",
+        "updated": "2024-02-08T10:48:49.815Z"
+      },
+      "userdata": {}
+    },
+    "c5e12441-c66f-11ee-bb24-29eae2ae94d0": {
+      "source": "c24fc020-c66f-11ee-bb24-29eae2ae94d0",
+      "target": "c5e12440-c66f-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:49:45.860Z",
+        "updated": "2024-02-08T10:49:45.860Z"
+      },
+      "userdata": {}
+    },
+    "c5e12442-c66f-11ee-bb24-29eae2ae94d0": {
+      "source": "c5e12440-c66f-11ee-bb24-29eae2ae94d0",
+      "target": "2c211860-c66f-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:49:45.860Z",
+        "updated": "2024-02-08T10:49:45.860Z"
+      },
+      "userdata": {}
+    },
+    "f572b931-c66f-11ee-bb24-29eae2ae94d0": {
+      "source": "f22981a0-c66f-11ee-bb24-29eae2ae94d0",
+      "target": "f572b930-c66f-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:51:05.667Z",
+        "updated": "2024-02-08T10:51:05.667Z"
+      },
+      "userdata": {}
+    },
+    "f572b932-c66f-11ee-bb24-29eae2ae94d0": {
+      "source": "f572b930-c66f-11ee-bb24-29eae2ae94d0",
+      "target": "2c211860-c66f-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:51:05.667Z",
+        "updated": "2024-02-08T10:51:05.667Z"
+      },
+      "userdata": {}
+    },
+    "1b516521-c670-11ee-bb24-29eae2ae94d0": {
+      "source": "137d7550-c670-11ee-bb24-29eae2ae94d0",
+      "target": "1b516520-c670-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:52:09.202Z",
+        "updated": "2024-02-08T10:52:09.202Z"
+      },
+      "userdata": {}
+    },
+    "1b516522-c670-11ee-bb24-29eae2ae94d0": {
+      "source": "1b516520-c670-11ee-bb24-29eae2ae94d0",
+      "target": "4fb5fb60-c66f-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:52:09.202Z",
+        "updated": "2024-02-08T10:52:09.202Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "2802": {
+      "text": "Hundreds of thousands of people are taking part in St Patrick's Day festivities in dozens of parades around the country. 'Ireland, You Are' was the theme of the-St Patrick's parade in Dublin. Theatrical groups from across the country were invited to respond to the theme, and-included Bui Bolg, Dowtcha puppets and Brighter Futures. This year's-Grand Marshall was Olympic Silver Medalist Annaleise Murphy. Despite the cold and wet conditions,-thousands of people from home and abroad-lined-the parade route. Other parades around the country were not so lucky - with some events-cancelled because of wet and windy weather. Follow St Patrick's Day celebrations Live Over 60 community groups, including Cork Community Artlink, Macnas, Spraoi and-Dowtcha Puppets took park in the Cork parade, which was-led by Captain Brian Prendergast and-by the Army Band of the 1st Brigade. This year's Grand Marshall was celebrity chef Rachel Allen who was-driven in a 1926 Ford Model T Tourer Car accompanied by the city Lord Mayor-Des Cahill, who was at the Shamrock Ceremony at the White House yesterday. The Model T was-among a number of Ford cars in the parade as the company celebrates its 100-year-old ties with the city having established its first purpose-built factory outside of the US there in 1917. The parade is just one of a series of events taking place over the weekend, including-the Lee Sessions Trad Trail, a pop-up food festival and a St-Patrick's Hill Ball Run. There are also over 15 parades in the county. Adventurer Gavan Hennigan is guest of honour at Galway parade In Galway, the city's 114th St Patrick's Day parade was led by local man and adventurer, Gavan Hennigan, who recently returned from rowing solo across the Atlantic. This year's procession gave locals a platform to showcase the talents of artists and various community groups. Saint Patrick is looking forward to having a poached egg after today's parade #StPatricksDay âï¸ pic.twitter.com/C5DIS2QZWM \"?RT? News (@rtenews) March 17, 2017 Meanwhile in Limerick, thousands came-out in very poor weather conditions to view this year's parade. The theme is 'Telling Stories' and voluntary, community and sports groups were encouraged to tell and share their own stories, celebrate their history, and look to the future. A special feature this year is a presentation by the Limerick street theatre company Lumen, who told the story of the River Shannon, which runs through the city. In his traditional St Patrick's Day mass for the Defence Forces, Bishop of Limerick Brendan Leahy remembered in particular the heroism and mission of Irish Coastguard pilot Dara FitzPatrick and her colleagues who perished in a helicopter crash off the Mayo coast earlier this week. Bishop Leahy-said they had-displayed the message of St Patrick in how they sacrificed so much and dedicated their lives so fearlessly to others. 14-year-old Luke Culhane, Limerick Person of the Year, leads the city's parade today The parade is being lead by 14-year-old Luke Culhane, who has won a number of awards, and has been named Limerick person of the -year for his video which tackled cyber bullying and has been viewed over 5m times on social media. Archbishop of Armagh and Primate of All Ireland Eamon Martin also paid tribute to the crew of Rescue 116 in his St Patrick's Day message. He paid tribute to the work of the Irish Navy in their humanitarian efforts in the Mediterranean where they have helped rescue thousands of migrants and refugees, remembering that St Patrick once described himself as the \"unlearned refugee\". Elsewhere, parades in Gaoth Dobhair, Dunfanaghy and An F¨¢l Carrach in Co-Donegal, and Cill Chiar¨¢in in Conamara were cancelled due to-to very wet and windy weather. Comprehensive reports of parades at home and abroad will be carried on RT?'s-Six One news this evening.- The St-Patrick's Day celebrations are also available to watch free worldwide on the RT? Player. RT? News Online also has-a live blog on the parades throughout the day, people-can email photos to yourphotos@rte.ie-or-tweet to @rtenews Watch #StPatricksDay Parades from your hometown with regional parades available on-demand on @RTEPlayer https://t.co/UysoBwT3DD pic.twitter.com/gua6s4a94J \"?RTE Digital (@RTEDigital) March 17, 2017",
+      "title": "Parades mark St Patrick's Day across Ireland",
+      "source": "http://www.rte.ie/news/2017/0317/860475-st-patricks-day/",
+      "timestamp": "2024-02-08T10:40:41.398Z",
+      "metadata": {
+        "created": "2024-02-05T09:49:22.076Z",
+        "updated": "2024-02-05T09:49:22.076Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "2c211860-c66f-11ee-bb24-29eae2ae94d0",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-05T09:49:22.076Z",
+    "updated": "2024-02-08T10:52:35.346Z"
+  }
+}

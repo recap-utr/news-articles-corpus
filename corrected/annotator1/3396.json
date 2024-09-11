@@ -1,0 +1,398 @@
+{
+  "nodes": {
+    "11cd0230-c42b-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "The body of an Irishwoman killed at a tourist resort in India has been flown home",
+        "reference": {
+          "resource": "3396",
+          "offset": 0,
+          "text": "The body of an Irishwoman killed at a tourist resort in India has been flown home"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:32:55.635Z",
+        "updated": "2024-02-05T13:32:55.635Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 392.0003085985834,
+            "y": 12
+          }
+        }
+      }
+    },
+    "21365230-c42b-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Danielle McLaughlin will undergo a further post-mortem examination in Dublin after a post mortem-in India showed she had suffered cerebral damage and constriction to the neck",
+        "reference": {
+          "resource": "3396",
+          "offset": 83,
+          "text": "Danielle McLaughlin will undergo a further post-mortem examination in Dublin after a post mortem-in India showed she had suffered cerebral damage and constriction to the neck"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:33:21.491Z",
+        "updated": "2024-02-05T13:33:21.491Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0008780069573,
+            "y": 254
+          }
+        }
+      }
+    },
+    "238c0200-c42b-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:33:25.408Z",
+        "updated": "2024-02-05T13:33:25.408Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.0003775039685,
+            "y": 154
+          }
+        }
+      }
+    },
+    "41596700-c42b-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "The 28-year-old, from Buncrana, Co Donegal, was found dead in a secluded spot in Canacona, a popular area for holidaymakers in Goa on the west coast, on Tuesday 14 March",
+        "reference": {
+          "resource": "3396",
+          "offset": 259,
+          "text": "The 28-year-old, from Buncrana, Co Donegal, was found dead in a secluded spot in Canacona, a popular area for holidaymakers in Goa on the west coast, on Tuesday 14 March"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:34:15.408Z",
+        "updated": "2024-02-05T13:34:15.408Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0001690110765,
+            "y": 254
+          }
+        }
+      }
+    },
+    "429c4740-c42b-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:34:17.524Z",
+        "updated": "2024-02-05T13:34:17.524Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.000696285245,
+            "y": 154
+          }
+        }
+      }
+    },
+    "48b5dce0-c42b-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "She won't be in Buncrana until next week. She is going for another post mortem",
+        "reference": {
+          "resource": "3396",
+          "offset": 507,
+          "text": "She won't be in Buncrana until next week. She is going for another post mortem"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:34:27.758Z",
+        "updated": "2024-02-05T13:34:27.758Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 662.0008434074291,
+            "y": 544
+          }
+        }
+      }
+    },
+    "4b2d93a0-c42b-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:34:31.898Z",
+        "updated": "2024-02-05T13:34:31.898Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 762.0002976551251,
+            "y": 444
+          }
+        }
+      }
+    },
+    "655a5240-c42b-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "was discovered unclothed and had marks on her head and face",
+        "reference": {
+          "resource": "3396",
+          "offset": 666,
+          "text": "was discovered unclothed and had marks on her head and face"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:35:15.812Z",
+        "updated": "2024-02-05T13:35:15.812Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 312.0006951384741,
+            "y": 544
+          }
+        }
+      }
+    },
+    "76d03b20-c42b-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:35:45.106Z",
+        "updated": "2024-02-05T13:35:45.106Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 412.0003678435851,
+            "y": 444
+          }
+        }
+      }
+    },
+    "a789ae40-c42b-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "She had travelled to Goa with an Australian female friend and the pair were staying in a beach hut. They had been celebrating Holi, a Hindu spring festival,-in a nearby village",
+        "reference": {
+          "resource": "3396",
+          "offset": 855,
+          "text": "She had travelled to Goa with an Australian female friend and the pair were staying in a beach hut. They had been celebrating Holi, a Hindu spring festival,-in a nearby village"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:37:06.852Z",
+        "updated": "2024-02-05T13:37:06.852Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.000481063197,
+            "y": 254
+          }
+        }
+      }
+    },
+    "ac202650-c42b-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:37:14.549Z",
+        "updated": "2024-02-05T13:37:14.549Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.000967657545,
+            "y": 154
+          }
+        }
+      }
+    },
+    "b49d2760-c42b-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": " She left the village late at night and her body was found the next day",
+        "reference": {
+          "resource": "3396",
+          "offset": 1032,
+          "text": " She left the village late at night and her body was found the next day"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:37:28.790Z",
+        "updated": "2024-02-05T13:37:28.790Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.00001106626461,
+            "y": 254
+          }
+        }
+      }
+    },
+    "b926ce30-c42b-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:37:36.403Z",
+        "updated": "2024-02-05T13:37:36.403Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00050201147326,
+            "y": 154
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "238c0201-c42b-11ee-a06c-cb1cbb90ffa4": {
+      "source": "21365230-c42b-11ee-a06c-cb1cbb90ffa4",
+      "target": "238c0200-c42b-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:33:25.408Z",
+        "updated": "2024-02-05T13:33:25.408Z"
+      },
+      "userdata": {}
+    },
+    "238c0202-c42b-11ee-a06c-cb1cbb90ffa4": {
+      "source": "238c0200-c42b-11ee-a06c-cb1cbb90ffa4",
+      "target": "11cd0230-c42b-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:33:25.408Z",
+        "updated": "2024-02-05T13:33:25.408Z"
+      },
+      "userdata": {}
+    },
+    "429c4741-c42b-11ee-a06c-cb1cbb90ffa4": {
+      "source": "41596700-c42b-11ee-a06c-cb1cbb90ffa4",
+      "target": "429c4740-c42b-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:34:17.524Z",
+        "updated": "2024-02-05T13:34:17.524Z"
+      },
+      "userdata": {}
+    },
+    "429c4742-c42b-11ee-a06c-cb1cbb90ffa4": {
+      "source": "429c4740-c42b-11ee-a06c-cb1cbb90ffa4",
+      "target": "11cd0230-c42b-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:34:17.524Z",
+        "updated": "2024-02-05T13:34:17.524Z"
+      },
+      "userdata": {}
+    },
+    "4b2d93a1-c42b-11ee-a06c-cb1cbb90ffa4": {
+      "source": "48b5dce0-c42b-11ee-a06c-cb1cbb90ffa4",
+      "target": "4b2d93a0-c42b-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:34:31.898Z",
+        "updated": "2024-02-05T13:34:31.898Z"
+      },
+      "userdata": {}
+    },
+    "4b2d93a2-c42b-11ee-a06c-cb1cbb90ffa4": {
+      "source": "4b2d93a0-c42b-11ee-a06c-cb1cbb90ffa4",
+      "target": "21365230-c42b-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:34:31.898Z",
+        "updated": "2024-02-05T13:34:31.898Z"
+      },
+      "userdata": {}
+    },
+    "76d06230-c42b-11ee-a06c-cb1cbb90ffa4": {
+      "source": "655a5240-c42b-11ee-a06c-cb1cbb90ffa4",
+      "target": "76d03b20-c42b-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:35:45.107Z",
+        "updated": "2024-02-05T13:35:45.107Z"
+      },
+      "userdata": {}
+    },
+    "76d06231-c42b-11ee-a06c-cb1cbb90ffa4": {
+      "source": "76d03b20-c42b-11ee-a06c-cb1cbb90ffa4",
+      "target": "21365230-c42b-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:35:45.107Z",
+        "updated": "2024-02-05T13:35:45.107Z"
+      },
+      "userdata": {}
+    },
+    "ac202651-c42b-11ee-a06c-cb1cbb90ffa4": {
+      "source": "a789ae40-c42b-11ee-a06c-cb1cbb90ffa4",
+      "target": "ac202650-c42b-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:37:14.549Z",
+        "updated": "2024-02-05T13:37:14.549Z"
+      },
+      "userdata": {}
+    },
+    "ac202652-c42b-11ee-a06c-cb1cbb90ffa4": {
+      "source": "ac202650-c42b-11ee-a06c-cb1cbb90ffa4",
+      "target": "11cd0230-c42b-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:37:14.549Z",
+        "updated": "2024-02-05T13:37:14.549Z"
+      },
+      "userdata": {}
+    },
+    "b926ce31-c42b-11ee-a06c-cb1cbb90ffa4": {
+      "source": "b49d2760-c42b-11ee-a06c-cb1cbb90ffa4",
+      "target": "b926ce30-c42b-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:37:36.403Z",
+        "updated": "2024-02-05T13:37:36.403Z"
+      },
+      "userdata": {}
+    },
+    "b926ce32-c42b-11ee-a06c-cb1cbb90ffa4": {
+      "source": "b926ce30-c42b-11ee-a06c-cb1cbb90ffa4",
+      "target": "11cd0230-c42b-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:37:36.403Z",
+        "updated": "2024-02-05T13:37:36.403Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "3396": {
+      "text": "The body of an Irishwoman killed at a tourist resort in India has been flown home. Danielle McLaughlin will undergo a further post-mortem examination in Dublin after a post mortem-in India showed she had suffered cerebral damage and constriction to the neck. The 28-year-old, from Buncrana, Co Donegal, was found dead in a secluded spot in Canacona, a popular area for holidaymakers in Goa on the west coast, on Tuesday 14 March. The Kevin Bell Repatriation Trust organised the transfer. A spokesman said: \"She won't be in Buncrana until next week. She is going for another post mortem.\" Local media reported that the former Liverpool John Moores University student was discovered unclothed and had marks on her head and face. Indian police said a farmer found Ms McLaughlin's body. A vigil was held close to the spot where Ms McLaughlin's body was found She had travelled to Goa with an Australian female friend and the pair were staying in a beach hut. They had been celebrating Holi, a Hindu spring festival,-in a nearby village. She left the village late at night and her body was found the next day, police said. Ms McLaughlin was the the eldest of five daughters.",
+      "title": "Body of Irishwoman killed in India flown home",
+      "source": "http://www.rte.ie/news/2017/0324/862293-danielle-mclaughlin/",
+      "timestamp": "2024-02-05T13:32:35.417Z",
+      "metadata": {
+        "created": "2024-02-05T09:49:22.010Z",
+        "updated": "2024-02-05T09:49:22.010Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "69ca24d0-c5b2-11ee-bbb2-f78c6e9d2422": {
+      "name": "Martin Hoppe",
+      "email": "mogramming@gmail.com",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "11cd0230-c42b-11ee-a06c-cb1cbb90ffa4",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-05T09:49:22.010Z",
+    "updated": "2024-04-17T08:08:06.223Z"
+  },
+  "userdata": {}
+}

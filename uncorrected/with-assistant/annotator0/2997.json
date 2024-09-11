@@ -1,0 +1,488 @@
+{
+  "nodes": {
+    "74cd9900-c77b-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Bruce Springsteen, Ringo Starr, Questlove, Slash, Mick Jagger and others remembered Berry for his guitar style, his lyrics, and his inspiration",
+        "reference": {
+          "resource": "2997",
+          "offset": 162,
+          "text": "Bruce Springsteen, Ringo Starr, Questlove, Slash, Mick Jagger and others remembered Berry for his guitar style, his lyrics, and his inspiration"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:45:54.960Z",
+        "updated": "2024-02-09T18:45:54.960Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement serves as an ADU because it highlights the collective remembrance and praise from various artists for Chuck Berry's influence in the music industry, specifically mentioning aspects like guitar style, lyrics, and inspiration."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1412.0003677335105,
+            "y": 302
+          }
+        }
+      }
+    },
+    "74cd9901-c77b-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "I am so sad to hear of Chuck Berry's passing. I want to thank him for all the inspirational music he gave to us",
+        "reference": {
+          "resource": "2997",
+          "offset": 310,
+          "text": "I am so sad to hear of Chuck Berry's passing. I want to thank him for all the inspirational music he gave to us"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:45:54.960Z",
+        "updated": "2024-02-09T18:45:54.960Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU expresses a personal sentiment of sadness over Chuck Berry's death and acknowledges the inspirational impact of his music."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 712.0009756986691,
+            "y": 302
+          }
+        }
+      }
+    },
+    "74cd9902-c77b-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Chuck Berry was rock's greatest practitioner, guitarist, and the greatest pure rock 'n' roll writer who ever lived",
+        "reference": {
+          "resource": "2997",
+          "offset": 456,
+          "text": "Chuck Berry was rock's greatest practitioner, guitarist, and the greatest pure rock 'n' roll writer who ever lived"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:45:54.960Z",
+        "updated": "2024-02-09T18:45:54.960Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement provides an assertion of Chuck Berry's unparalleled stature and influence in the rock 'n' roll genre as seen by the speaker.",
+          "mcConfig": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "mcExplanation": "This ADU clearly states Chuck Berry's significance in the realm of rock music, identifying him as the greatest practitioner, guitarist, and writer in rock 'n' roll. It serves as a major claim around which the other ADUs add supporting points, expressing sentiments of loss, gratitude, and acknowledgment of Berry's unparalleled contribution to music."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 362.0003262555715,
+            "y": 302
+          }
+        }
+      }
+    },
+    "74cd9903-c77b-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Heart broken to hear of the passing of Chuck Berry. He was undisputedly the king",
+        "reference": {
+          "resource": "2997",
+          "offset": 858,
+          "text": "Heart broken to hear of the passing of Chuck Berry. He was undisputedly the king"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:45:54.960Z",
+        "updated": "2024-02-09T18:45:54.960Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU conveys a personal emotional reaction to Chuck Berry's passing and recognizes his undeniable status in the industry."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1062.0001483110448,
+            "y": 302
+          }
+        }
+      }
+    },
+    "74cd9904-c77b-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Chuck Berry merged blues & swing into the phenomenon of early rock'n'roll. In music, he cast one of the longest shadows",
+        "reference": {
+          "resource": "2997",
+          "offset": 1236,
+          "text": "Chuck Berry merged blues & swing into the phenomenon of early rock'n'roll. In music, he cast one of the longest shadows"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:45:54.960Z",
+        "updated": "2024-02-09T18:45:54.960Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement is an ADU because it details the significant musical innovation Chuck Berry made by merging blues and swing, which contributed to the formation of early rock'n'roll."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1762.000913087666,
+            "y": 302
+          }
+        }
+      }
+    },
+    "88e52ed0-c77b-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Some of the music world's biggest stars tweeted tonight singing the praises of one of the legends of rock 'n' roll, Chuck Berry, who died today at the age of 90",
+        "reference": {
+          "resource": "2997",
+          "offset": 0,
+          "text": "Some of the music world's biggest stars tweeted tonight singing the praises of one of the legends of rock 'n' roll, Chuck Berry, who died today at the age of 90"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:46:28.669Z",
+        "updated": "2024-02-09T18:46:28.669Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.000946030833,
+            "y": 12
+          }
+        }
+      }
+    },
+    "8c0b9c20-c77b-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:46:33.954Z",
+        "updated": "2024-02-09T18:46:33.954Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.00054306253054,
+            "y": 202
+          }
+        }
+      }
+    },
+    "90d66aa0-c77b-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:46:41.994Z",
+        "updated": "2024-02-09T18:46:41.994Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0007907600844,
+            "y": 202
+          }
+        }
+      }
+    },
+    "943462b0-c77b-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:46:47.643Z",
+        "updated": "2024-02-09T18:46:47.643Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0000676405389,
+            "y": 202
+          }
+        }
+      }
+    },
+    "9862ca20-c77b-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:46:54.658Z",
+        "updated": "2024-02-09T18:46:54.658Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1512.0009044765031,
+            "y": 202
+          }
+        }
+      }
+    },
+    "9cccdb00-c77b-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:47:02.064Z",
+        "updated": "2024-02-09T18:47:02.064Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1862.0003083898182,
+            "y": 202
+          }
+        }
+      }
+    },
+    "cad9f2d0-c77b-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Thank you for the poetry, the passion and the potency",
+        "reference": {
+          "resource": "2997",
+          "offset": 1000,
+          "text": "Thank you for the poetry, the passion and the potency"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:48:19.325Z",
+        "updated": "2024-02-09T18:48:19.325Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2112.00020284947,
+            "y": 302
+          }
+        }
+      }
+    },
+    "cc944d00-c77b-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:48:22.224Z",
+        "updated": "2024-02-09T18:48:22.224Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2212.0006823059443,
+            "y": 202
+          }
+        }
+      }
+    },
+    "d7853440-c77b-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "He had a gtr style that influenced so many generations of players. Oh yes and how to write a great RnR song",
+        "reference": {
+          "resource": "2997",
+          "offset": 1076,
+          "text": "He had a gtr style that influenced so many generations of players. Oh yes and how to write a great RnR song"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:48:40.580Z",
+        "updated": "2024-02-09T18:48:40.580Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000171068690632,
+            "y": 302
+          }
+        }
+      }
+    },
+    "d8f4f0e0-c77b-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:48:42.990Z",
+        "updated": "2024-02-09T18:48:42.990Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00051723794635,
+            "y": 202
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "8c0b9c21-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "74cd9902-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "8c0b9c20-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:46:33.954Z",
+        "updated": "2024-02-09T18:46:33.954Z"
+      },
+      "userdata": {}
+    },
+    "8c0b9c22-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "8c0b9c20-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "88e52ed0-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:46:33.954Z",
+        "updated": "2024-02-09T18:46:33.954Z"
+      },
+      "userdata": {}
+    },
+    "90d66aa1-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "74cd9901-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "90d66aa0-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:46:41.994Z",
+        "updated": "2024-02-09T18:46:41.994Z"
+      },
+      "userdata": {}
+    },
+    "90d66aa2-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "90d66aa0-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "88e52ed0-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:46:41.994Z",
+        "updated": "2024-02-09T18:46:41.994Z"
+      },
+      "userdata": {}
+    },
+    "943462b1-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "74cd9903-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "943462b0-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:46:47.643Z",
+        "updated": "2024-02-09T18:46:47.643Z"
+      },
+      "userdata": {}
+    },
+    "943462b2-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "943462b0-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "88e52ed0-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:46:47.643Z",
+        "updated": "2024-02-09T18:46:47.643Z"
+      },
+      "userdata": {}
+    },
+    "9862ca21-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "74cd9900-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "9862ca20-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:46:54.658Z",
+        "updated": "2024-02-09T18:46:54.658Z"
+      },
+      "userdata": {}
+    },
+    "9862ca22-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "9862ca20-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "88e52ed0-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:46:54.658Z",
+        "updated": "2024-02-09T18:46:54.658Z"
+      },
+      "userdata": {}
+    },
+    "9cccdb01-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "74cd9904-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "9cccdb00-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:47:02.064Z",
+        "updated": "2024-02-09T18:47:02.064Z"
+      },
+      "userdata": {}
+    },
+    "9cccdb02-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "9cccdb00-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "88e52ed0-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:47:02.064Z",
+        "updated": "2024-02-09T18:47:02.064Z"
+      },
+      "userdata": {}
+    },
+    "cc944d01-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "cad9f2d0-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "cc944d00-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:48:22.224Z",
+        "updated": "2024-02-09T18:48:22.224Z"
+      },
+      "userdata": {}
+    },
+    "cc944d02-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "cc944d00-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "88e52ed0-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:48:22.224Z",
+        "updated": "2024-02-09T18:48:22.224Z"
+      },
+      "userdata": {}
+    },
+    "d8f4f0e1-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "d7853440-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "d8f4f0e0-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:48:42.990Z",
+        "updated": "2024-02-09T18:48:42.990Z"
+      },
+      "userdata": {}
+    },
+    "d8f4f0e2-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "d8f4f0e0-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "88e52ed0-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:48:42.990Z",
+        "updated": "2024-02-09T18:48:42.990Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "2997": {
+      "text": "Some of the music world's biggest stars tweeted tonight singing the praises of one of the legends of rock 'n' roll, Chuck Berry, who died today at the age of 90. Bruce Springsteen, Ringo Starr, Questlove, Slash, Mick Jagger and others remembered Berry for his guitar style, his lyrics, and his inspiration.    I am so sad to hear of Chuck Berry's passing. I want to thank him for all the inspirational music he gave to us. 1/3 pic.twitter.com/9zQbH5bo9V   Chuck Berry was rock's greatest practitioner, guitarist, and the greatest pure rock 'n' roll writer who ever lived.   Just let me hear some of that rock 'n' roll music any old way you use it I am playing I'm talking about you. God bless Chuck Berry Chuck ?? pic.twitter.com/XmwmaGzGpL   Thou Shall Have No Other Rock Gods Before Him #ChuckBerry rip @ Rock & Roll Hall of Fame https://t.co/bU22p2cywb   Heart broken to hear of the passing of Chuck Berry. He was undisputedly the king. A moment of\"?https://t.co/sR8A2YMnq0   RIP Chuck Berry !!!! Thank you for the poetry, the passion and the potency! GO JOHNNY GO. - KU   He had a gtr style that influenced so many generations of players. Oh yes and how to write a great RnR song. Rest in peace dear Chuck https://t.co/bWQogYSyqw   Chuck Berry merged blues & swing into the phenomenon of early rock'n'roll. In music, he cast one of the longest shadows. Thank You Chuck. pic.twitter.com/0TwpdDmw9e ",
+      "title": "Music world remembers Chuck Berry",
+      "source": "http://abcnews.go.com/Entertainment/music-world-remembers-chuck-berry/story?id=46231048",
+      "timestamp": "2017-03-19T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.150Z",
+        "updated": "2024-02-09T13:09:16.150Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "88e52ed0-c77b-11ee-a75d-3d21b0b510a2",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.150Z",
+    "updated": "2024-02-09T18:48:52.964Z"
+  }
+}

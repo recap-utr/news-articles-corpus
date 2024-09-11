@@ -1,0 +1,568 @@
+{
+  "nodes": {
+    "da226980-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "The spat erupted as citizens prepare to cast their ballots in votes that could radically alter the political landscape in both countries",
+        "reference": {
+          "resource": "2130",
+          "offset": 71,
+          "text": "The spat erupted as citizens prepare to cast their ballots in votes that could radically alter the political landscape in both countries"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:02:46.808Z",
+        "updated": "2024-02-11T13:02:46.808Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0001768861399,
+            "y": 230
+          }
+        }
+      }
+    },
+    "da226985-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Erdogan said the Netherlands is \"sacrificing Turkish-Dutch relations.\"",
+        "reference": {
+          "resource": "2130",
+          "offset": 1496,
+          "text": "Erdogan said the Netherlands is \"sacrificing Turkish-Dutch relations.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:02:46.808Z",
+        "updated": "2024-02-11T13:02:46.808Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.000591935183,
+            "y": 12
+          }
+        }
+      }
+    },
+    "da22698c-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:02:46.808Z",
+        "updated": "2024-02-11T13:02:46.808Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.00014793680816,
+            "y": 130
+          }
+        }
+      }
+    },
+    "da226981-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Germany, Austria and Switzerland sought to prevent referendum rallies taking place on their soil -- citing security and overcrowding concerns",
+        "reference": {
+          "resource": "2130",
+          "offset": 646,
+          "text": "Germany, Austria and Switzerland sought to prevent referendum rallies taking place on their soil -- citing security and overcrowding concerns"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:02:46.808Z",
+        "updated": "2024-02-11T13:02:46.808Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1762.0003893333285,
+            "y": 810
+          }
+        }
+      }
+    },
+    "da226982-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "The Dutch barred the diplomat from entering, also pointing to security concerns",
+        "reference": {
+          "resource": "2130",
+          "offset": 929,
+          "text": "The Dutch barred the diplomat from entering, also pointing to security concerns"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:02:46.808Z",
+        "updated": "2024-02-11T13:02:46.808Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1762.0007436028682,
+            "y": 568
+          }
+        }
+      }
+    },
+    "da22698f-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:02:46.808Z",
+        "updated": "2024-02-11T13:02:46.808Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1862.0003450812724,
+            "y": 710
+          }
+        }
+      }
+    },
+    "da226992-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:02:46.808Z",
+        "updated": "2024-02-11T13:02:46.808Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1862.0003755806117,
+            "y": 468
+          }
+        }
+      }
+    },
+    "da226984-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Cavusoglu has promised \"tenfold\" retaliation against the Netherlands",
+        "reference": {
+          "resource": "2130",
+          "offset": 1151,
+          "text": "Cavusoglu has promised \"tenfold\" retaliation against the Netherlands"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:02:46.808Z",
+        "updated": "2024-02-11T13:02:46.808Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0007599172569,
+            "y": 230
+          }
+        }
+      }
+    },
+    "da226998-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:02:46.808Z",
+        "updated": "2024-02-11T13:02:46.808Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0008272767595,
+            "y": 130
+          }
+        }
+      }
+    },
+    "da226986-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "He accused the country of Nazism and likened the Netherlands to a \"banana republic.\"",
+        "reference": {
+          "resource": "2130",
+          "offset": 1567,
+          "text": "He accused the country of Nazism and likened the Netherlands to a \"banana republic.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:02:46.808Z",
+        "updated": "2024-02-11T13:02:46.808Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.000408706245,
+            "y": 230
+          }
+        }
+      }
+    },
+    "da22699b-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:02:46.808Z",
+        "updated": "2024-02-11T13:02:46.808Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0000230990343,
+            "y": 130
+          }
+        }
+      }
+    },
+    "da226989-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Erdogan is trying to show Turks that he had the power to influence Europe",
+        "reference": {
+          "resource": "2130",
+          "text": "Erdogan is trying to show Turks that he had the power to influence Europe"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:02:46.808Z",
+        "updated": "2024-02-11T13:02:46.808Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1412.0003159334947,
+            "y": 230
+          }
+        }
+      }
+    },
+    "da2269a1-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:02:46.808Z",
+        "updated": "2024-02-11T13:02:46.808Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1512.000820648018,
+            "y": 130
+          }
+        }
+      }
+    },
+    "3f82bb50-fc8b-11ee-bacf-6f44838a7611": {
+      "atom": {
+        "text": "Turkish Foreign Minister Mevlut Cavusoglu attempted to enter the Netherlands to address a rally in the port city of Rotterdam",
+        "reference": {
+          "resource": "2130",
+          "offset": 802,
+          "text": "Turkish Foreign Minister Mevlut Cavusoglu attempted to enter the Netherlands to address a rally in the port city of Rotterdam"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-17T07:22:29.125Z",
+        "updated": "2024-04-17T07:22:29.125Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1762.000865262076,
+            "y": 266
+          }
+        }
+      }
+    },
+    "4474e7f0-fc8b-11ee-bacf-6f44838a7611": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-17T07:22:37.423Z",
+        "updated": "2024-04-17T07:22:37.423Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1862.0005962472667,
+            "y": 130
+          }
+        }
+      }
+    },
+    "5f62d3b0-fc8b-11ee-bacf-6f44838a7611": {
+      "atom": {
+        "text": "Another minister was barred from entering the Turkish consulate in Rotterdam",
+        "reference": {
+          "resource": "2130",
+          "offset": 1010,
+          "text": "Another minister was barred from entering the Turkish consulate in Rotterdam"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-17T07:23:22.603Z",
+        "updated": "2024-04-17T07:23:22.603Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2112.0002786948694,
+            "y": 230
+          }
+        }
+      }
+    },
+    "63017e40-fc8b-11ee-bacf-6f44838a7611": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-17T07:23:28.676Z",
+        "updated": "2024-04-17T07:23:28.676Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2212.000506381913,
+            "y": 130
+          }
+        }
+      }
+    },
+    "86f32740-fc8b-11ee-bacf-6f44838a7611": {
+      "atom": {
+        "text": "Dutch diplomatic missions in Ankara and Istanbul had been closed off due to security concerns. The Turkish foreign ministry has told the Dutch ambassador, who is presently on leave and out of the country, he need not return \"for a while.\"",
+        "reference": {
+          "resource": "2130",
+          "offset": 1257,
+          "text": "Dutch diplomatic missions in Ankara and Istanbul had been closed off due to security concerns. The Turkish foreign ministry has told the Dutch ambassador, who is presently on leave and out of the country, he need not return \"for a while.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-04-17T07:24:28.980Z",
+        "updated": "2024-04-17T07:24:28.980Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000858917965134,
+            "y": 230
+          }
+        }
+      }
+    },
+    "890edb50-fc8b-11ee-bacf-6f44838a7611": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-17T07:24:32.517Z",
+        "updated": "2024-04-17T07:24:32.517Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00055390666031,
+            "y": 130
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "da22698d-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "da226980-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "da22698c-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:02:46.808Z",
+        "updated": "2024-02-11T13:02:46.808Z"
+      },
+      "userdata": {}
+    },
+    "da22698e-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "da22698c-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "da226985-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:02:46.808Z",
+        "updated": "2024-02-11T13:02:46.808Z"
+      },
+      "userdata": {}
+    },
+    "da226990-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "da226981-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "da22698f-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:02:46.808Z",
+        "updated": "2024-02-11T13:02:46.808Z"
+      },
+      "userdata": {}
+    },
+    "da226991-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "da22698f-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "da226982-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:02:46.808Z",
+        "updated": "2024-02-11T13:02:46.808Z"
+      },
+      "userdata": {}
+    },
+    "da226993-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "da226982-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "da226992-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:02:46.808Z",
+        "updated": "2024-02-11T13:02:46.808Z"
+      },
+      "userdata": {}
+    },
+    "da226999-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "da226984-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "da226998-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:02:46.808Z",
+        "updated": "2024-02-11T13:02:46.808Z"
+      },
+      "userdata": {}
+    },
+    "da22699a-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "da226998-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "da226985-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:02:46.808Z",
+        "updated": "2024-02-11T13:02:46.808Z"
+      },
+      "userdata": {}
+    },
+    "da22699c-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "da226986-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "da22699b-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:02:46.808Z",
+        "updated": "2024-02-11T13:02:46.808Z"
+      },
+      "userdata": {}
+    },
+    "da22699d-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "da22699b-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "da226985-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:02:46.808Z",
+        "updated": "2024-02-11T13:02:46.808Z"
+      },
+      "userdata": {}
+    },
+    "da2269a2-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "da226989-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "da2269a1-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:02:46.808Z",
+        "updated": "2024-02-11T13:02:46.808Z"
+      },
+      "userdata": {}
+    },
+    "da2269a3-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "da2269a1-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "da226985-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:02:46.808Z",
+        "updated": "2024-02-11T13:02:46.808Z"
+      },
+      "userdata": {}
+    },
+    "4474e7f1-fc8b-11ee-bacf-6f44838a7611": {
+      "source": "3f82bb50-fc8b-11ee-bacf-6f44838a7611",
+      "target": "4474e7f0-fc8b-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T07:22:37.423Z",
+        "updated": "2024-04-17T07:22:37.423Z"
+      },
+      "userdata": {}
+    },
+    "4474e7f2-fc8b-11ee-bacf-6f44838a7611": {
+      "source": "4474e7f0-fc8b-11ee-bacf-6f44838a7611",
+      "target": "da226985-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-04-17T07:22:37.423Z",
+        "updated": "2024-04-17T07:22:37.423Z"
+      },
+      "userdata": {}
+    },
+    "48f762d0-fc8b-11ee-bacf-6f44838a7611": {
+      "source": "da226992-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "3f82bb50-fc8b-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T07:22:44.989Z",
+        "updated": "2024-04-17T07:22:44.989Z"
+      },
+      "userdata": {}
+    },
+    "63017e41-fc8b-11ee-bacf-6f44838a7611": {
+      "source": "5f62d3b0-fc8b-11ee-bacf-6f44838a7611",
+      "target": "63017e40-fc8b-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T07:23:28.676Z",
+        "updated": "2024-04-17T07:23:28.676Z"
+      },
+      "userdata": {}
+    },
+    "63017e42-fc8b-11ee-bacf-6f44838a7611": {
+      "source": "63017e40-fc8b-11ee-bacf-6f44838a7611",
+      "target": "da226985-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-04-17T07:23:28.676Z",
+        "updated": "2024-04-17T07:23:28.676Z"
+      },
+      "userdata": {}
+    },
+    "890edb51-fc8b-11ee-bacf-6f44838a7611": {
+      "source": "86f32740-fc8b-11ee-bacf-6f44838a7611",
+      "target": "890edb50-fc8b-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T07:24:32.517Z",
+        "updated": "2024-04-17T07:24:32.517Z"
+      },
+      "userdata": {}
+    },
+    "890edb52-fc8b-11ee-bacf-6f44838a7611": {
+      "source": "890edb50-fc8b-11ee-bacf-6f44838a7611",
+      "target": "da226985-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-04-17T07:24:32.517Z",
+        "updated": "2024-04-17T07:24:32.517Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "2130": {
+      "text": "That set off ugly diplomatic feuding, name-calling and popular unrest. The spat erupted as citizens prepare to cast their ballots in votes that could radically alter the political landscape in both countries. What's going on? How did the quarrel begin? Turkish President Recep Tayyip Erdogan has been intent on rallying the roughly 4.6 million expatriate Turks living in western Europe to vote in an upcoming Turkish constitutional referendum. If passed, the referendum would transform Turkey's parliamentary system into a presidential one, effectively consolidating the power of three legislative bodies into one executive branch under Erdogan. Germany, Austria and Switzerland sought to prevent referendum rallies taking place on their soil -- citing security and overcrowding concerns. On Saturday, Turkish Foreign Minister Mevlut Cavusoglu attempted to enter the Netherlands to address a rally in the port city of Rotterdam. The Dutch barred the diplomat from entering, also pointing to security concerns. Another minister was barred from entering the Turkish consulate in Rotterdam. How did the Turks react? Protests broke out in both countries. Cavusoglu has promised \"tenfold\" retaliation against the Netherlands According to Turkish state-run news, Dutch diplomatic missions in Ankara and Istanbul had been closed off due to security concerns. The Turkish foreign ministry has told the Dutch ambassador, who is presently on leave and out of the country, he need not return \"for a while.\" Erdogan said the Netherlands is \"sacrificing Turkish-Dutch relations.\" He accused the country of Nazism and likened the Netherlands to a \"banana republic.\" He also called for sanctions. \"Nazism is still widespread in Europe, \" he said. Dutch Prime Minister Mark Rutte said the remarks were inflammatory and demanded an apology. Turkey's \"current rhetorical attacks\" against the Netherlands led Denmark's Prime Minister Lars LÃ¸kke Rasmussen to postpone a meeting with his Turkish counterpart. Is the Dutch move tied to its domestic politics? The dispute comes ahead of the Netherlands' general election Wednesday, with immigration from Muslim countries a key issue. The election campaign has pitted two party leaders against each other, liberal incumbent Prime Minister Mark Rutte and populist far-right figure Geert Wilders. As leader of the Freedom Party, Wilders wants to stop immigration from Muslim countries, close mosques, ban the burqa and imprison radical Muslims who have committed no crimes on a \"preventative\" basis. Rutte appears to have pushed himself to the right to compete with Wilders, in January writing an open letter in which he said immigrants who did not assimilate in the Netherlands should \"behave normally, or go away.\" Freelance journalist David Chesal told CNN the Dutch government's move was effectively \"election-time grandstanding.\" \"Prime Minister Rutte could not possibly allow a huge Turkish campaign to take place in the city of Rotterdam or anywhere else in the Netherlands,\" Chesal said. Meantime he said Erdogan was trying to show Turks that he had the power to influence Europe. \"So clearly Erdogan is making full use of this to position Europe as an enemy of Turkey to try to gain as much possible support for his referendum for more political power,\" Chesal told CNN. How do European governments view Erdogan? European governments have been critical of Erdogan's commitment to basic freedoms since a failed coup attempt earlier this year. Since then, Erdogan has cracked down on opposition, particularly journalists, academics and the public service sector. Also, nearly 140 media outlets have been shuttered, more than 41,000 people have been arrested and about 100,000 workers have been dismissed from public service positions. The country, a NATO member, jailed more journalists than any other country in 2016, according to the Committee to Protect Journalists. Critics call the referendum proposal anti-democratic and say it's indicative of Erdogan's drift toward authoritarian rule. German Chancellor Angela Merkel warned last week that Turkey's approach to democracy and the rule of law are \"deeply problematic\" to the country's future cooperation with the European Union.",
+      "title": "Why are Turkey and the Netherlands clashing?",
+      "source": "http://www.cnn.com/2017/03/13/europe/turkish-dutch-tensions-explained/index.html",
+      "timestamp": "2017-03-13T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.229Z",
+        "updated": "2024-02-09T13:09:16.229Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "69ca24d0-c5b2-11ee-bbb2-f78c6e9d2422": {
+      "name": "Martin Hoppe",
+      "email": "mogramming@gmail.com",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "da226985-c8dd-11ee-a7b6-0184e7d3dd10",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.229Z",
+    "updated": "2024-04-17T07:26:01.454Z"
+  },
+  "userdata": {}
+}

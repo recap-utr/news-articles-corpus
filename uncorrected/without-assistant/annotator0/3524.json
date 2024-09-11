@@ -1,0 +1,716 @@
+{
+  "nodes": {
+    "8a5c7980-c42e-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Election Day is April 18 and it's a close race",
+        "reference": {
+          "resource": "3524",
+          "offset": 104,
+          "text": "Election Day is April 18 and it's a close race"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:57:46.393Z",
+        "updated": "2024-02-05T13:57:46.393Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 6.700943112646087,
+            "y": 133.39953084574998
+          }
+        }
+      }
+    },
+    "f442c3e0-c42e-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "It's a rather crowded field -- 18 candidates are running to fill the vacant seat left by Price",
+        "reference": {
+          "resource": "3524",
+          "offset": 594,
+          "text": "It's a rather crowded field -- 18 candidates are running to fill the vacant seat left by Price"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T14:00:44.062Z",
+        "updated": "2024-02-05T14:00:44.062Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 476.16167292092814,
+            "y": 77.61419277052966
+          }
+        }
+      }
+    },
+    "043b3480-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Out of the 11 Republicans, former state Sen. Dan Moody, who has the support of aides tied to Georgia's Perdue family, and former Georgia Secretary of State Karen Handel have emerged as front-runners",
+        "reference": {
+          "resource": "3524",
+          "offset": 690,
+          "text": "Out of the 11 Republicans, former state Sen. Dan Moody, who has the support of aides tied to Georgia's Perdue family, and former Georgia Secretary of State Karen Handel have emerged as front-runners"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T14:01:10.856Z",
+        "updated": "2024-02-05T14:01:10.856Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -105.16313856907357,
+            "y": 555.2628365648918
+          }
+        }
+      }
+    },
+    "15bf7540-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Jon Ossoff has emerged from the field of five Democratic candidates, despite not being a district resident",
+        "reference": {
+          "resource": "3524",
+          "offset": 969,
+          "text": "Jon Ossoff has emerged from the field of five Democratic candidates, despite not being a district resident"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T14:01:40.244Z",
+        "updated": "2024-02-05T14:01:40.244Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 383.5239465160166,
+            "y": 574.5811490858559
+          }
+        }
+      }
+    },
+    "30100f90-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "The Congressional Leadership Fund, a House Republican super PAC, made an attack ad against the 30-year-old Democratic candidate, using old college videos of Ossoff in college dressed up as Han Solo and singing parody songs, in an attempt to portray him as inexperienced",
+        "reference": {
+          "resource": "3524",
+          "offset": 1077,
+          "text": "The Congressional Leadership Fund, a House Republican super PAC, made an attack ad against the 30-year-old Democratic candidate, using old college videos of Ossoff in college dressed up as Han Solo and singing parody songs, in an attempt to portray him as inexperienced"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T14:02:24.393Z",
+        "updated": "2024-02-05T14:02:24.393Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1091.880585882506,
+            "y": 581.0698765096201
+          }
+        }
+      }
+    },
+    "366d16d0-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Two independent candidates, Andre Pollard and Alexander Hernandez, are also on the ballot",
+        "reference": {
+          "resource": "3524",
+          "offset": 1348,
+          "text": "Two independent candidates, Andre Pollard and Alexander Hernandez, are also on the ballot"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T14:02:35.069Z",
+        "updated": "2024-02-05T14:02:35.069Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 743.3574516804376,
+            "y": 577.3960967436242
+          }
+        }
+      }
+    },
+    "445bfbd0-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Democrats, who see this race as a referendum on Trump's presidency, are making an effort to flip the seat",
+        "reference": {
+          "resource": "3524",
+          "offset": 1440,
+          "text": "Democrats, who see this race as a referendum on Trump's presidency, are making an effort to flip the seat"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T14:02:58.445Z",
+        "updated": "2024-02-05T14:02:58.445Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 369.76810465941344,
+            "y": 795.6417242211622
+          }
+        }
+      }
+    },
+    "5e19a4f0-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T14:03:41.632Z",
+        "updated": "2024-02-05T14:03:41.632Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 374.50519110682797,
+            "y": 932.2277167882814
+          }
+        }
+      }
+    },
+    "7a8fb750-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Obviously, one seat is not enough for Democrats to tip the majority",
+        "reference": {
+          "resource": "3524",
+          "offset": 1970,
+          "text": "Obviously, one seat is not enough for Democrats to tip the majority"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T14:04:29.381Z",
+        "updated": "2024-02-05T14:04:29.381Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 813.4752019005747,
+            "y": 1062.4975940921809
+          }
+        }
+      }
+    },
+    "7c5e0eb0-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T14:04:32.411Z",
+        "updated": "2024-02-05T14:04:32.411Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 591.621653279994,
+            "y": 929.0696591566716
+          }
+        }
+      }
+    },
+    "833d6550-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "For Republicans, however, it could prove to be a small help when it comes down to the slim number needed to pass legislation in the House",
+        "reference": {
+          "resource": "3524",
+          "offset": 2039,
+          "text": "For Republicans, however, it could prove to be a small help when it comes down to the slim number needed to pass legislation in the House"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T14:04:43.941Z",
+        "updated": "2024-02-05T14:04:43.941Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 819.7913171637941,
+            "y": 1256.718138436177
+          }
+        }
+      }
+    },
+    "84f4d950-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T14:04:46.821Z",
+        "updated": "2024-02-05T14:04:46.821Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 816.6332595321844,
+            "y": 1159.607866264179
+          }
+        }
+      }
+    },
+    "996d2cc0-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T14:05:21.164Z",
+        "updated": "2024-02-05T14:05:21.164Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 38.294580065820014,
+            "y": 434.7633737204208
+          }
+        }
+      }
+    },
+    "a65f8950-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T14:05:42.885Z",
+        "updated": "2024-02-05T14:05:42.885Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 288.69298859524656,
+            "y": 458.5865347820161
+          }
+        }
+      }
+    },
+    "abbf1dc0-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T14:05:51.900Z",
+        "updated": "2024-02-05T14:05:51.900Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 544.0925880407814,
+            "y": 452.7185534915436
+          }
+        }
+      }
+    },
+    "af1351d0-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T14:05:57.485Z",
+        "updated": "2024-02-05T14:05:57.485Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 802.0218890144162,
+            "y": 432.72907801647193
+          }
+        }
+      }
+    },
+    "bc4660e0-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T14:06:19.630Z",
+        "updated": "2024-02-05T14:06:19.630Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 220.88313104233362,
+            "y": 610.9506892859694
+          }
+        }
+      }
+    },
+    "b25c00f0-c59f-11ee-8a5f-e9414857ffc5": {
+      "atom": {
+        "text": "Tom Price gave up his House seat and the elections for his successor are heavily contested"
+      },
+      "metadata": {
+        "created": "2024-02-07T10:00:17.791Z",
+        "updated": "2024-02-07T10:00:17.791Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 184.60962282504317,
+            "y": -147.89607158906114
+          }
+        }
+      }
+    },
+    "ea0b8700-c59f-11ee-8a5f-e9414857ffc5": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T10:01:51.216Z",
+        "updated": "2024-02-07T10:01:51.216Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 153.83889980378763,
+            "y": 19.215086494623648
+          }
+        }
+      }
+    },
+    "eecd54d0-c59f-11ee-8a5f-e9414857ffc5": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T10:01:59.197Z",
+        "updated": "2024-02-07T10:01:59.197Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 422.76903013080346,
+            "y": 4.622326232576
+          }
+        }
+      }
+    },
+    "2ad1b610-c5a0-11ee-8a5f-e9414857ffc5": {
+      "atom": {
+        "text": "Ossoff has the backing of prominent Georgia House members, Reps. John Lewis and Hank Johnson, as well as Democrats' congressional strong arm, the Democratic Congressional Campaign Committee",
+        "reference": {
+          "resource": "3524",
+          "offset": 1547,
+          "text": "Ossoff has the backing of prominent Georgia House members, Reps. John Lewis and Hank Johnson, as well as Democrats' congressional strong arm, the Democratic Congressional Campaign Committee"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T10:03:39.889Z",
+        "updated": "2024-02-07T10:03:39.889Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 269.9471088920966,
+            "y": 1069.2262286620082
+          }
+        }
+      }
+    },
+    "306504b0-c5a0-11ee-8a5f-e9414857ffc5": {
+      "atom": {
+        "text": "\"We should unite behind him and send a clear message that Donald Trump doesn\"t represent our values,\"",
+        "reference": {
+          "resource": "3524",
+          "offset": 1738,
+          "text": "\"We should unite behind him and send a clear message that Donald Trump doesn\"t represent our values,\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T10:03:49.243Z",
+        "updated": "2024-02-07T10:03:49.243Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 273.6765308155366,
+            "y": 1366.3368418960583
+          }
+        }
+      }
+    },
+    "3210dff0-c5a0-11ee-8a5f-e9414857ffc5": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T10:03:52.047Z",
+        "updated": "2024-02-07T10:03:52.047Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 317.8080235762427,
+            "y": 1268.750301566046
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "eadc7441-c42e-11ee-a06c-cb1cbb90ffa4": {
+      "source": "e7afec70-c42e-11ee-a06c-cb1cbb90ffa4",
+      "target": "eadc7440-c42e-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T14:00:28.292Z",
+        "updated": "2024-02-05T14:00:28.292Z"
+      },
+      "userdata": {}
+    },
+    "eadc7442-c42e-11ee-a06c-cb1cbb90ffa4": {
+      "source": "eadc7440-c42e-11ee-a06c-cb1cbb90ffa4",
+      "target": "e2eac340-c42e-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T14:00:28.292Z",
+        "updated": "2024-02-05T14:00:28.292Z"
+      },
+      "userdata": {}
+    },
+    "5e19cc00-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "source": "5b41a5c0-c42f-11ee-a06c-cb1cbb90ffa4",
+      "target": "5e19a4f0-c42f-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T14:03:41.632Z",
+        "updated": "2024-02-05T14:03:41.632Z"
+      },
+      "userdata": {}
+    },
+    "5e19cc01-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "source": "5e19a4f0-c42f-11ee-a06c-cb1cbb90ffa4",
+      "target": "445bfbd0-c42f-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T14:03:41.632Z",
+        "updated": "2024-02-05T14:03:41.632Z"
+      },
+      "userdata": {}
+    },
+    "7c5e0eb1-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "source": "7a8fb750-c42f-11ee-a06c-cb1cbb90ffa4",
+      "target": "7c5e0eb0-c42f-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T14:04:32.411Z",
+        "updated": "2024-02-05T14:04:32.411Z"
+      },
+      "userdata": {}
+    },
+    "7c5e0eb2-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "source": "7c5e0eb0-c42f-11ee-a06c-cb1cbb90ffa4",
+      "target": "445bfbd0-c42f-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T14:04:32.411Z",
+        "updated": "2024-02-05T14:04:32.411Z"
+      },
+      "userdata": {}
+    },
+    "84f4d951-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "source": "833d6550-c42f-11ee-a06c-cb1cbb90ffa4",
+      "target": "84f4d950-c42f-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T14:04:46.822Z",
+        "updated": "2024-02-05T14:04:46.822Z"
+      },
+      "userdata": {}
+    },
+    "84f50060-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "source": "84f4d950-c42f-11ee-a06c-cb1cbb90ffa4",
+      "target": "7a8fb750-c42f-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T14:04:46.822Z",
+        "updated": "2024-02-05T14:04:46.822Z"
+      },
+      "userdata": {}
+    },
+    "8c64b021-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "source": "f442c3e0-c42e-11ee-a06c-cb1cbb90ffa4",
+      "target": "8c64b020-c42f-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T14:04:59.298Z",
+        "updated": "2024-02-05T14:04:59.298Z"
+      },
+      "userdata": {}
+    },
+    "8c64b022-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "source": "8c64b020-c42f-11ee-a06c-cb1cbb90ffa4",
+      "target": "8a5c7980-c42e-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T14:04:59.298Z",
+        "updated": "2024-02-05T14:04:59.298Z"
+      },
+      "userdata": {}
+    },
+    "996d2cc1-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "source": "043b3480-c42f-11ee-a06c-cb1cbb90ffa4",
+      "target": "996d2cc0-c42f-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T14:05:21.164Z",
+        "updated": "2024-02-05T14:05:21.164Z"
+      },
+      "userdata": {}
+    },
+    "996d2cc2-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "source": "996d2cc0-c42f-11ee-a06c-cb1cbb90ffa4",
+      "target": "f442c3e0-c42e-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T14:05:21.164Z",
+        "updated": "2024-02-05T14:05:21.164Z"
+      },
+      "userdata": {}
+    },
+    "a65f8951-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "source": "15bf7540-c42f-11ee-a06c-cb1cbb90ffa4",
+      "target": "a65f8950-c42f-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T14:05:42.885Z",
+        "updated": "2024-02-05T14:05:42.885Z"
+      },
+      "userdata": {}
+    },
+    "a65f8952-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "source": "a65f8950-c42f-11ee-a06c-cb1cbb90ffa4",
+      "target": "f442c3e0-c42e-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T14:05:42.886Z",
+        "updated": "2024-02-05T14:05:42.886Z"
+      },
+      "userdata": {}
+    },
+    "abbf1dc1-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "source": "366d16d0-c42f-11ee-a06c-cb1cbb90ffa4",
+      "target": "abbf1dc0-c42f-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T14:05:51.900Z",
+        "updated": "2024-02-05T14:05:51.900Z"
+      },
+      "userdata": {}
+    },
+    "abbf1dc2-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "source": "abbf1dc0-c42f-11ee-a06c-cb1cbb90ffa4",
+      "target": "f442c3e0-c42e-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T14:05:51.901Z",
+        "updated": "2024-02-05T14:05:51.901Z"
+      },
+      "userdata": {}
+    },
+    "af1351d1-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "source": "30100f90-c42f-11ee-a06c-cb1cbb90ffa4",
+      "target": "af1351d0-c42f-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T14:05:57.485Z",
+        "updated": "2024-02-05T14:05:57.485Z"
+      },
+      "userdata": {}
+    },
+    "af1351d2-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "source": "af1351d0-c42f-11ee-a06c-cb1cbb90ffa4",
+      "target": "f442c3e0-c42e-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T14:05:57.485Z",
+        "updated": "2024-02-05T14:05:57.485Z"
+      },
+      "userdata": {}
+    },
+    "bc4660e1-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "source": "445bfbd0-c42f-11ee-a06c-cb1cbb90ffa4",
+      "target": "bc4660e0-c42f-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T14:06:19.630Z",
+        "updated": "2024-02-05T14:06:19.630Z"
+      },
+      "userdata": {}
+    },
+    "bc4660e2-c42f-11ee-a06c-cb1cbb90ffa4": {
+      "source": "bc4660e0-c42f-11ee-a06c-cb1cbb90ffa4",
+      "target": "f442c3e0-c42e-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T14:06:19.630Z",
+        "updated": "2024-02-05T14:06:19.630Z"
+      },
+      "userdata": {}
+    },
+    "ea0b8701-c59f-11ee-8a5f-e9414857ffc5": {
+      "source": "8a5c7980-c42e-11ee-a06c-cb1cbb90ffa4",
+      "target": "ea0b8700-c59f-11ee-8a5f-e9414857ffc5",
+      "metadata": {
+        "created": "2024-02-07T10:01:51.216Z",
+        "updated": "2024-02-07T10:01:51.216Z"
+      },
+      "userdata": {}
+    },
+    "ea0b8702-c59f-11ee-8a5f-e9414857ffc5": {
+      "source": "ea0b8700-c59f-11ee-8a5f-e9414857ffc5",
+      "target": "b25c00f0-c59f-11ee-8a5f-e9414857ffc5",
+      "metadata": {
+        "created": "2024-02-07T10:01:51.216Z",
+        "updated": "2024-02-07T10:01:51.216Z"
+      },
+      "userdata": {}
+    },
+    "eecd54d1-c59f-11ee-8a5f-e9414857ffc5": {
+      "source": "f442c3e0-c42e-11ee-a06c-cb1cbb90ffa4",
+      "target": "eecd54d0-c59f-11ee-8a5f-e9414857ffc5",
+      "metadata": {
+        "created": "2024-02-07T10:01:59.197Z",
+        "updated": "2024-02-07T10:01:59.197Z"
+      },
+      "userdata": {}
+    },
+    "eecd54d2-c59f-11ee-8a5f-e9414857ffc5": {
+      "source": "eecd54d0-c59f-11ee-8a5f-e9414857ffc5",
+      "target": "b25c00f0-c59f-11ee-8a5f-e9414857ffc5",
+      "metadata": {
+        "created": "2024-02-07T10:01:59.197Z",
+        "updated": "2024-02-07T10:01:59.197Z"
+      },
+      "userdata": {}
+    },
+    "2ca082a0-c5a0-11ee-8a5f-e9414857ffc5": {
+      "source": "2ad1b610-c5a0-11ee-8a5f-e9414857ffc5",
+      "target": "5e19a4f0-c42f-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-07T10:03:42.922Z",
+        "updated": "2024-02-07T10:03:42.922Z"
+      },
+      "userdata": {}
+    },
+    "3210dff1-c5a0-11ee-8a5f-e9414857ffc5": {
+      "source": "306504b0-c5a0-11ee-8a5f-e9414857ffc5",
+      "target": "3210dff0-c5a0-11ee-8a5f-e9414857ffc5",
+      "metadata": {
+        "created": "2024-02-07T10:03:52.047Z",
+        "updated": "2024-02-07T10:03:52.047Z"
+      },
+      "userdata": {}
+    },
+    "3210dff2-c5a0-11ee-8a5f-e9414857ffc5": {
+      "source": "3210dff0-c5a0-11ee-8a5f-e9414857ffc5",
+      "target": "2ad1b610-c5a0-11ee-8a5f-e9414857ffc5",
+      "metadata": {
+        "created": "2024-02-07T10:03:52.047Z",
+        "updated": "2024-02-07T10:03:52.047Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "3524": {
+      "text": "The polls open today for early voting in the special election for Georgia's 6th congressional district. Election Day is April 18 and it's a close race. The 6th congressional district includes parts of Cobb, DeKalb and Fulton counties north of the city of Atlanta.  The seat was formerly held by Tom Price, who is now the secretary of Health and Human Services. Price was elected to a sixth term in the 2016 election. But then President Donald Trump tapped Price to lead the Department of Health and Human Services. Price was confirmed by the Senate on Feb. 10, leaving a vacancy in the House.  It's a rather crowded field -- 18 candidates are running to fill the vacant seat left by Price. Out of the 11 Republicans, former state Sen. Dan Moody, who has the support of aides tied to Georgia's Perdue family, and former Georgia Secretary of State Karen Handel have emerged as front-runners. Handel had launched unsuccessful bids for Georgia governor and for the Senate. Jon Ossoff has emerged from the field of five Democratic candidates, despite not being a district resident. The Congressional Leadership Fund, a House Republican super PAC, made an attack ad against the 30-year-old Democratic candidate, using old college videos of Ossoff in college dressed up as Han Solo and singing parody songs, in an attempt to portray him as inexperienced. Two independent candidates, Andre Pollard and Alexander Hernandez, are also on the ballot.  Democrats, who see this race as a referendum on Trump's presidency, are making an effort to flip the seat. Ossoff has the backing of prominent Georgia House members, Reps. John Lewis and Hank Johnson, as well as Democrats' congressional strong arm, the Democratic Congressional Campaign Committee. \"We should unite behind him and send a clear message that Donald Trump doesn\"t represent our values,\" Lewis said, according to the Atlanta Journal-Constitution. As of now, Republicans hold 237 seats in the House of Representatives. Obviously, one seat is not enough for Democrats to tip the majority. For Republicans, however, it could prove to be a small help when it comes down to the slim number needed to pass legislation in the House. If necessary, a run-off election between the two top candidates will be held on June 20.",
+      "title": "Inside Georgia's special election to fill Tom Price's House seat",
+      "source": "http://abcnews.go.com/Politics/inside-georgias-special-election-fill-tom-prices-house/story?id=46402759",
+      "timestamp": "2024-02-05T13:57:03.256Z",
+      "metadata": {
+        "created": "2024-02-05T09:49:22.032Z",
+        "updated": "2024-02-05T09:49:22.032Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "b25c00f0-c59f-11ee-8a5f-e9414857ffc5",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-05T09:49:22.032Z",
+    "updated": "2024-02-07T10:04:00.493Z"
+  }
+}

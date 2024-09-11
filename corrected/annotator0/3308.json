@@ -1,0 +1,339 @@
+{
+  "nodes": {
+    "04321824-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Counterfeit contraceptives, unlike legitimate ones, are not subject to strict quality controls and may contain substances that could lead to long-term health problems",
+        "reference": {
+          "resource": "3308",
+          "text": "Counterfeit contraceptives, unlike legitimate ones, are not subject to strict quality controls and may contain substances that could lead to long-term health problems"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:32:35.362Z",
+        "updated": "2024-02-11T13:32:35.362Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0003344809433,
+            "y": 740
+          }
+        }
+      }
+    },
+    "04321823-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Federal officials warned that counterfeit condoms will likely not protect against pregnancy and sexually transmitted diseases, and the materials they are made with can also cause health problems",
+        "reference": {
+          "resource": "3308",
+          "offset": 420,
+          "text": "Federal officials warned that counterfeit condoms will likely not protect against pregnancy and sexually transmitted diseases, and the materials they are made with can also cause health problems"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:32:35.362Z",
+        "updated": "2024-02-11T13:32:35.362Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.00005716971816,
+            "y": 414
+          }
+        }
+      }
+    },
+    "04321830-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:32:35.362Z",
+        "updated": "2024-02-11T13:32:35.362Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0001224369129,
+            "y": 628
+          }
+        }
+      }
+    },
+    "04321825-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "In the past, seized cosmetics have been found to contain hazardous substances including cyanide, arsenic, mercury, lead, urine and rat droppings",
+        "reference": {
+          "resource": "3308",
+          "offset": 857,
+          "text": "In the past, seized cosmetics have been found to contain hazardous substances including cyanide, arsenic, mercury, lead, urine and rat droppings"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:32:35.362Z",
+        "updated": "2024-02-11T13:32:35.362Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0004653994324,
+            "y": 1042
+          }
+        }
+      }
+    },
+    "04321833-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:32:35.362Z",
+        "updated": "2024-02-11T13:32:35.362Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.00045558597,
+            "y": 942
+          }
+        }
+      }
+    },
+    "04321829-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "When we tested those condoms, we found that they are poor quality, can burst in the course of sexual activity, and have holes which expose the users to unwanted pregnancy and sexually transmitted disease",
+        "reference": {
+          "resource": "3308",
+          "offset": 1688,
+          "text": "When we tested those condoms, we found that they are poor quality, can burst in the course of sexual activity, and have holes which expose the users to unwanted pregnancy and sexually transmitted disease"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:32:35.362Z",
+        "updated": "2024-02-11T13:32:35.362Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000283532654432,
+            "y": 728
+          }
+        }
+      }
+    },
+    "04321836-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:32:35.363Z",
+        "updated": "2024-02-11T13:32:35.363Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00092558286376,
+            "y": 628
+          }
+        }
+      }
+    },
+    "04321826-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "The trafficking of counterfeit goods is illegal and, in some cases, a public health problem",
+        "reference": {
+          "resource": "3308",
+          "text": "The trafficking of counterfeit goods is illegal and, in some cases, a public health problem"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:32:35.362Z",
+        "updated": "2024-02-11T13:32:35.362Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0004901418505,
+            "y": 728
+          }
+        }
+      }
+    },
+    "04323f32-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:32:35.363Z",
+        "updated": "2024-02-11T13:32:35.363Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.0008896749552,
+            "y": 628
+          }
+        }
+      }
+    },
+    "04321827-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "A massive international underground ring of counterfeit condom manufacturers was shut down in China after almost 5 million condoms with fake brand names were found",
+        "reference": {
+          "resource": "3308",
+          "offset": 1261,
+          "text": "A massive international underground ring of counterfeit condom manufacturers was shut down in China after almost 5 million condoms with fake brand names were found"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T13:32:35.362Z",
+        "updated": "2024-02-11T13:32:35.362Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1064.795447808001,
+            "y": 1018.4658536585359
+          }
+        }
+      }
+    },
+    "04323f35-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T13:32:35.363Z",
+        "updated": "2024-02-11T13:32:35.363Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1121.471367349854,
+            "y": 629.1707317073166
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "04321831-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "source": "04321824-c8e2-11ee-a7b6-0184e7d3dd10",
+      "target": "04321830-c8e2-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:32:35.362Z",
+        "updated": "2024-02-11T13:32:35.362Z"
+      },
+      "userdata": {}
+    },
+    "04321832-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "source": "04321830-c8e2-11ee-a7b6-0184e7d3dd10",
+      "target": "04321823-c8e2-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:32:35.362Z",
+        "updated": "2024-02-11T13:32:35.362Z"
+      },
+      "userdata": {}
+    },
+    "04321834-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "source": "04321825-c8e2-11ee-a7b6-0184e7d3dd10",
+      "target": "04321833-c8e2-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:32:35.362Z",
+        "updated": "2024-02-11T13:32:35.362Z"
+      },
+      "userdata": {}
+    },
+    "04321835-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "source": "04321833-c8e2-11ee-a7b6-0184e7d3dd10",
+      "target": "04321824-c8e2-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:32:35.362Z",
+        "updated": "2024-02-11T13:32:35.362Z"
+      },
+      "userdata": {}
+    },
+    "04323f30-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "source": "04321829-c8e2-11ee-a7b6-0184e7d3dd10",
+      "target": "04321836-c8e2-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:32:35.363Z",
+        "updated": "2024-02-11T13:32:35.363Z"
+      },
+      "userdata": {}
+    },
+    "04323f31-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "source": "04321836-c8e2-11ee-a7b6-0184e7d3dd10",
+      "target": "04321823-c8e2-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:32:35.363Z",
+        "updated": "2024-02-11T13:32:35.363Z"
+      },
+      "userdata": {}
+    },
+    "04323f33-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "source": "04321826-c8e2-11ee-a7b6-0184e7d3dd10",
+      "target": "04323f32-c8e2-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:32:35.363Z",
+        "updated": "2024-02-11T13:32:35.363Z"
+      },
+      "userdata": {}
+    },
+    "04323f34-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "source": "04323f32-c8e2-11ee-a7b6-0184e7d3dd10",
+      "target": "04321823-c8e2-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:32:35.363Z",
+        "updated": "2024-02-11T13:32:35.363Z"
+      },
+      "userdata": {}
+    },
+    "04323f36-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "source": "04321827-c8e2-11ee-a7b6-0184e7d3dd10",
+      "target": "04323f35-c8e2-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:32:35.363Z",
+        "updated": "2024-02-11T13:32:35.363Z"
+      },
+      "userdata": {}
+    },
+    "3929f840-c8e2-11ee-a7b6-0184e7d3dd10": {
+      "source": "04323f35-c8e2-11ee-a7b6-0184e7d3dd10",
+      "target": "04321823-c8e2-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T13:34:04.228Z",
+        "updated": "2024-02-11T13:34:04.228Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "3308": {
+      "text": "U.S. federal agents have confiscated 40,000 items that consumers hope are never fake: condoms. The counterfeits were seized in San Juan, Puerto Rico, officials said. The condoms were manufactured in China, according to a U.S. Customs and Border Protection statement-Thursday. They were seized over a period of five days by Food and Drug Administration and Homeland Security officials and Immigration and customs agents. Federal officials warned that counterfeit condoms will likely not protect against pregnancy and sexually transmitted diseases, and the materials they are made with can also cause health problems. \"Counterfeit condoms, as well as cosmetics and beauty products, unlike legitimate brands, are not subject to strict quality controls and may contain substances that could lead to long-term health problems,\"?said the statement from customs. \"In the past, seized cosmetics have been found to contain hazardous substances including cyanide, arsenic, mercury, lead, urine and rat droppings.\"?Ricardo Mayoral, a special agent who oversees Homeland Security investigations throughout Puerto Rico and the U.S., added, \"the trafficking of counterfeit goods is simply illegal, and in some cases, as this, it becomes a problem of public health.\"?In 2013--a massive international underground ring of counterfeit condom manufacturers was shut down in China after almost 5 million condoms with fake brand names were found as they were-about to be shipped out of China, reported ABC News.- That same year,-110 million counterfeit condoms shipped to Ghana from China were confiscated. At least 1 million had been delivered to Ghana's health agency to distribute, The Guardian reported. \"When we tested those condoms, we found that they are poor quality, can burst in the course of sexual activity, and have holes which expose the users to unwanted pregnancy and sexually transmitted disease,\"?a Ghana official told The Guardian. Don\"t miss out \"?be the first to know all the latest and breaking news. Learn more",
+      "title": "U.S. Agents Seize 40,000 Counterfeit Condoms In Puerto Rico",
+      "source": "http://www.huffingtonpost.com/2017/03/24/china-counterfeit-condoms_n_15597402.html",
+      "timestamp": "2017-03-24T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.212Z",
+        "updated": "2024-02-09T13:09:16.212Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "2c603380-c41a-11ee-a06c-cb1cbb90ffa4": {
+      "name": "annotator0",
+      "email": "s4kibart@uni-trier.de",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "04321823-c8e2-11ee-a7b6-0184e7d3dd10",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.212Z",
+    "updated": "2024-04-15T14:39:08.594Z"
+  },
+  "userdata": {}
+}

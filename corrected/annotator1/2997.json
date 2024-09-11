@@ -1,0 +1,683 @@
+{
+  "nodes": {
+    "74cd9900-c77b-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Bruce Springsteen, Ringo Starr, Questlove, Slash, Mick Jagger and others remembered Berry for his guitar style, his lyrics, and his inspiration",
+        "reference": {
+          "resource": "2997",
+          "offset": 162,
+          "text": "Bruce Springsteen, Ringo Starr, Questlove, Slash, Mick Jagger and others remembered Berry for his guitar style, his lyrics, and his inspiration"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:45:54.960Z",
+        "updated": "2024-02-09T18:45:54.960Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1262.0007587469415,
+            "y": 312
+          }
+        }
+      }
+    },
+    "74cd9901-c77b-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "I am so sad to hear of Chuck Berry's passing. I want to thank him for all the inspirational music he gave to us",
+        "reference": {
+          "resource": "2997",
+          "offset": 310,
+          "text": "I am so sad to hear of Chuck Berry's passing. I want to thank him for all the inspirational music he gave to us"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:45:54.960Z",
+        "updated": "2024-02-09T18:45:54.960Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 562.0002716311103,
+            "y": 312
+          }
+        }
+      }
+    },
+    "74cd9902-c77b-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Chuck Berry was rock's greatest practitioner, guitarist, and the greatest pure rock 'n' roll writer who ever lived",
+        "reference": {
+          "resource": "2997",
+          "offset": 456,
+          "text": "Chuck Berry was rock's greatest practitioner, guitarist, and the greatest pure rock 'n' roll writer who ever lived"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:45:54.960Z",
+        "updated": "2024-02-09T18:45:54.960Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 212.0000347876024,
+            "y": 312
+          }
+        }
+      }
+    },
+    "74cd9903-c77b-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Heart broken to hear of the passing of Chuck Berry. He was undisputedly the king",
+        "reference": {
+          "resource": "2997",
+          "offset": 858,
+          "text": "Heart broken to hear of the passing of Chuck Berry. He was undisputedly the king"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:45:54.960Z",
+        "updated": "2024-02-09T18:45:54.960Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 912.0009828151125,
+            "y": 312
+          }
+        }
+      }
+    },
+    "74cd9904-c77b-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Chuck Berry merged blues & swing into the phenomenon of early rock'n'roll. In music, he cast one of the longest shadows",
+        "reference": {
+          "resource": "2997",
+          "offset": 1236,
+          "text": "Chuck Berry merged blues & swing into the phenomenon of early rock'n'roll. In music, he cast one of the longest shadows"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:45:54.960Z",
+        "updated": "2024-02-09T18:45:54.960Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1612.0006859046653,
+            "y": 312
+          }
+        }
+      }
+    },
+    "88e52ed0-c77b-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Some of the music world's biggest stars tweeted tonight singing the praises of one of the legends of rock 'n' roll, Chuck Berry, who died today at the age of 90",
+        "reference": {
+          "resource": "2997",
+          "offset": 0,
+          "text": "Some of the music world's biggest stars tweeted tonight singing the praises of one of the legends of rock 'n' roll, Chuck Berry, who died today at the age of 90"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:46:28.669Z",
+        "updated": "2024-02-09T18:46:28.669Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1612.000688281881,
+            "y": 12
+          }
+        }
+      }
+    },
+    "8c0b9c20-c77b-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:46:33.954Z",
+        "updated": "2024-02-09T18:46:33.954Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 312.00078730378584,
+            "y": 212
+          }
+        }
+      }
+    },
+    "90d66aa0-c77b-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:46:41.994Z",
+        "updated": "2024-02-09T18:46:41.994Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 662.0003626682933,
+            "y": 212
+          }
+        }
+      }
+    },
+    "943462b0-c77b-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:46:47.643Z",
+        "updated": "2024-02-09T18:46:47.643Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1012.0000430161498,
+            "y": 212
+          }
+        }
+      }
+    },
+    "9862ca20-c77b-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:46:54.658Z",
+        "updated": "2024-02-09T18:46:54.658Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1362.0001283407767,
+            "y": 212
+          }
+        }
+      }
+    },
+    "9cccdb00-c77b-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:47:02.064Z",
+        "updated": "2024-02-09T18:47:02.064Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1712.0009788895627,
+            "y": 212
+          }
+        }
+      }
+    },
+    "cad9f2d0-c77b-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "Thank you for the poetry, the passion and the potency",
+        "reference": {
+          "resource": "2997",
+          "offset": 1000,
+          "text": "Thank you for the poetry, the passion and the potency"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:48:19.325Z",
+        "updated": "2024-02-09T18:48:19.325Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1962.0004892303532,
+            "y": 312
+          }
+        }
+      }
+    },
+    "cc944d00-c77b-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:48:22.224Z",
+        "updated": "2024-02-09T18:48:22.224Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2062.000430861463,
+            "y": 212
+          }
+        }
+      }
+    },
+    "d7853440-c77b-11ee-a75d-3d21b0b510a2": {
+      "atom": {
+        "text": "He had a gtr style that influenced so many generations of players. Oh yes and how to write a great RnR song",
+        "reference": {
+          "resource": "2997",
+          "offset": 1076,
+          "text": "He had a gtr style that influenced so many generations of players. Oh yes and how to write a great RnR song"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-09T18:48:40.580Z",
+        "updated": "2024-02-09T18:48:40.580Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2312.0004852022453,
+            "y": 312
+          }
+        }
+      }
+    },
+    "d8f4f0e0-c77b-11ee-a75d-3d21b0b510a2": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-09T18:48:42.990Z",
+        "updated": "2024-02-09T18:48:42.990Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2412.00002491189,
+            "y": 212
+          }
+        }
+      }
+    },
+    "cde601f0-fc8f-11ee-bacf-6f44838a7611": {
+      "atom": {
+        "text": "Just let me hear some of that rock 'n' roll music any old way you use it I am playing I'm talking about you. God bless Chuck Berry",
+        "reference": {
+          "resource": "2997",
+          "offset": 574,
+          "text": "Just let me hear some of that rock 'n' roll music any old way you use it I am playing I'm talking about you. God bless Chuck Berry"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-17T07:55:05.999Z",
+        "updated": "2024-04-17T07:55:05.999Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2662.000921292969,
+            "y": 312
+          }
+        }
+      }
+    },
+    "d0c52d10-fc8f-11ee-bacf-6f44838a7611": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-17T07:55:10.817Z",
+        "updated": "2024-04-17T07:55:10.817Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2762.000493237326,
+            "y": 212
+          }
+        }
+      }
+    },
+    "db0b5560-fc8f-11ee-bacf-6f44838a7611": {
+      "atom": {
+        "text": "Rest in peace dear Chuck",
+        "reference": {
+          "resource": "2997",
+          "offset": 1185,
+          "text": "Rest in peace dear Chuck"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-17T07:55:28.054Z",
+        "updated": "2024-04-17T07:55:28.054Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 3012.0005495491146,
+            "y": 312
+          }
+        }
+      }
+    },
+    "de973b40-fc8f-11ee-bacf-6f44838a7611": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-17T07:55:34.004Z",
+        "updated": "2024-04-17T07:55:34.004Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 3063.500684266134,
+            "y": 212
+          }
+        }
+      }
+    },
+    "ea045760-fc8f-11ee-bacf-6f44838a7611": {
+      "atom": {
+        "text": "Thou Shall Have No Other Rock Gods Before Him #ChuckBerry rip",
+        "reference": {
+          "resource": "2997",
+          "offset": 743,
+          "text": "Thou Shall Have No Other Rock Gods Before Him #ChuckBerry rip"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-17T07:55:53.174Z",
+        "updated": "2024-04-17T07:55:53.174Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 3265.000899610731,
+            "y": 312
+          }
+        }
+      }
+    },
+    "edc249c0-fc8f-11ee-bacf-6f44838a7611": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-17T07:55:59.452Z",
+        "updated": "2024-04-17T07:55:59.452Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 3365.000594961383,
+            "y": 212
+          }
+        }
+      }
+    },
+    "f26c97f0-fc8f-11ee-bacf-6f44838a7611": {
+      "atom": {
+        "text": "Thank You Chuck. ",
+        "reference": {
+          "resource": "2997",
+          "offset": 1357,
+          "text": "Thank You Chuck. "
+        }
+      },
+      "metadata": {
+        "created": "2024-04-17T07:56:07.279Z",
+        "updated": "2024-04-17T07:56:07.279Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000482330682443,
+            "y": 312
+          }
+        }
+      }
+    },
+    "f599bc00-fc8f-11ee-bacf-6f44838a7611": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-17T07:56:12.608Z",
+        "updated": "2024-04-17T07:56:12.608Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 37.000520810294155,
+            "y": 212
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "8c0b9c21-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "74cd9902-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "8c0b9c20-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:46:33.954Z",
+        "updated": "2024-02-09T18:46:33.954Z"
+      },
+      "userdata": {}
+    },
+    "8c0b9c22-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "8c0b9c20-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "88e52ed0-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:46:33.954Z",
+        "updated": "2024-02-09T18:46:33.954Z"
+      },
+      "userdata": {}
+    },
+    "90d66aa1-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "74cd9901-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "90d66aa0-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:46:41.994Z",
+        "updated": "2024-02-09T18:46:41.994Z"
+      },
+      "userdata": {}
+    },
+    "90d66aa2-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "90d66aa0-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "88e52ed0-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:46:41.994Z",
+        "updated": "2024-02-09T18:46:41.994Z"
+      },
+      "userdata": {}
+    },
+    "943462b1-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "74cd9903-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "943462b0-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:46:47.643Z",
+        "updated": "2024-02-09T18:46:47.643Z"
+      },
+      "userdata": {}
+    },
+    "943462b2-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "943462b0-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "88e52ed0-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:46:47.643Z",
+        "updated": "2024-02-09T18:46:47.643Z"
+      },
+      "userdata": {}
+    },
+    "9862ca21-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "74cd9900-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "9862ca20-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:46:54.658Z",
+        "updated": "2024-02-09T18:46:54.658Z"
+      },
+      "userdata": {}
+    },
+    "9862ca22-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "9862ca20-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "88e52ed0-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:46:54.658Z",
+        "updated": "2024-02-09T18:46:54.658Z"
+      },
+      "userdata": {}
+    },
+    "9cccdb01-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "74cd9904-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "9cccdb00-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:47:02.064Z",
+        "updated": "2024-02-09T18:47:02.064Z"
+      },
+      "userdata": {}
+    },
+    "9cccdb02-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "9cccdb00-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "88e52ed0-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:47:02.064Z",
+        "updated": "2024-02-09T18:47:02.064Z"
+      },
+      "userdata": {}
+    },
+    "cc944d01-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "cad9f2d0-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "cc944d00-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:48:22.224Z",
+        "updated": "2024-02-09T18:48:22.224Z"
+      },
+      "userdata": {}
+    },
+    "cc944d02-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "cc944d00-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "88e52ed0-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:48:22.224Z",
+        "updated": "2024-02-09T18:48:22.224Z"
+      },
+      "userdata": {}
+    },
+    "d8f4f0e1-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "d7853440-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "d8f4f0e0-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:48:42.990Z",
+        "updated": "2024-02-09T18:48:42.990Z"
+      },
+      "userdata": {}
+    },
+    "d8f4f0e2-c77b-11ee-a75d-3d21b0b510a2": {
+      "source": "d8f4f0e0-c77b-11ee-a75d-3d21b0b510a2",
+      "target": "88e52ed0-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-02-09T18:48:42.990Z",
+        "updated": "2024-02-09T18:48:42.990Z"
+      },
+      "userdata": {}
+    },
+    "d0c52d11-fc8f-11ee-bacf-6f44838a7611": {
+      "source": "cde601f0-fc8f-11ee-bacf-6f44838a7611",
+      "target": "d0c52d10-fc8f-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T07:55:10.817Z",
+        "updated": "2024-04-17T07:55:10.817Z"
+      },
+      "userdata": {}
+    },
+    "d0c52d12-fc8f-11ee-bacf-6f44838a7611": {
+      "source": "d0c52d10-fc8f-11ee-bacf-6f44838a7611",
+      "target": "88e52ed0-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-04-17T07:55:10.817Z",
+        "updated": "2024-04-17T07:55:10.817Z"
+      },
+      "userdata": {}
+    },
+    "de973b41-fc8f-11ee-bacf-6f44838a7611": {
+      "source": "db0b5560-fc8f-11ee-bacf-6f44838a7611",
+      "target": "de973b40-fc8f-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T07:55:34.004Z",
+        "updated": "2024-04-17T07:55:34.004Z"
+      },
+      "userdata": {}
+    },
+    "de973b42-fc8f-11ee-bacf-6f44838a7611": {
+      "source": "de973b40-fc8f-11ee-bacf-6f44838a7611",
+      "target": "88e52ed0-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-04-17T07:55:34.004Z",
+        "updated": "2024-04-17T07:55:34.004Z"
+      },
+      "userdata": {}
+    },
+    "edc249c1-fc8f-11ee-bacf-6f44838a7611": {
+      "source": "ea045760-fc8f-11ee-bacf-6f44838a7611",
+      "target": "edc249c0-fc8f-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T07:55:59.452Z",
+        "updated": "2024-04-17T07:55:59.452Z"
+      },
+      "userdata": {}
+    },
+    "edc249c2-fc8f-11ee-bacf-6f44838a7611": {
+      "source": "edc249c0-fc8f-11ee-bacf-6f44838a7611",
+      "target": "88e52ed0-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-04-17T07:55:59.452Z",
+        "updated": "2024-04-17T07:55:59.452Z"
+      },
+      "userdata": {}
+    },
+    "f599bc01-fc8f-11ee-bacf-6f44838a7611": {
+      "source": "f26c97f0-fc8f-11ee-bacf-6f44838a7611",
+      "target": "f599bc00-fc8f-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T07:56:12.608Z",
+        "updated": "2024-04-17T07:56:12.608Z"
+      },
+      "userdata": {}
+    },
+    "f599bc02-fc8f-11ee-bacf-6f44838a7611": {
+      "source": "f599bc00-fc8f-11ee-bacf-6f44838a7611",
+      "target": "88e52ed0-c77b-11ee-a75d-3d21b0b510a2",
+      "metadata": {
+        "created": "2024-04-17T07:56:12.608Z",
+        "updated": "2024-04-17T07:56:12.608Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "2997": {
+      "text": "Some of the music world's biggest stars tweeted tonight singing the praises of one of the legends of rock 'n' roll, Chuck Berry, who died today at the age of 90. Bruce Springsteen, Ringo Starr, Questlove, Slash, Mick Jagger and others remembered Berry for his guitar style, his lyrics, and his inspiration.    I am so sad to hear of Chuck Berry's passing. I want to thank him for all the inspirational music he gave to us. 1/3 pic.twitter.com/9zQbH5bo9V   Chuck Berry was rock's greatest practitioner, guitarist, and the greatest pure rock 'n' roll writer who ever lived.   Just let me hear some of that rock 'n' roll music any old way you use it I am playing I'm talking about you. God bless Chuck Berry Chuck ?? pic.twitter.com/XmwmaGzGpL   Thou Shall Have No Other Rock Gods Before Him #ChuckBerry rip @ Rock & Roll Hall of Fame https://t.co/bU22p2cywb   Heart broken to hear of the passing of Chuck Berry. He was undisputedly the king. A moment of\"?https://t.co/sR8A2YMnq0   RIP Chuck Berry !!!! Thank you for the poetry, the passion and the potency! GO JOHNNY GO. - KU   He had a gtr style that influenced so many generations of players. Oh yes and how to write a great RnR song. Rest in peace dear Chuck https://t.co/bWQogYSyqw   Chuck Berry merged blues & swing into the phenomenon of early rock'n'roll. In music, he cast one of the longest shadows. Thank You Chuck. pic.twitter.com/0TwpdDmw9e ",
+      "title": "Music world remembers Chuck Berry",
+      "source": "http://abcnews.go.com/Entertainment/music-world-remembers-chuck-berry/story?id=46231048",
+      "timestamp": "2017-03-19T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.150Z",
+        "updated": "2024-02-09T13:09:16.150Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "69ca24d0-c5b2-11ee-bbb2-f78c6e9d2422": {
+      "name": "Martin Hoppe",
+      "email": "mogramming@gmail.com",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "88e52ed0-c77b-11ee-a75d-3d21b0b510a2",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.150Z",
+    "updated": "2024-04-17T07:56:34.144Z"
+  },
+  "userdata": {}
+}

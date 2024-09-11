@@ -1,0 +1,858 @@
+{
+  "nodes": {
+    "c17a8250-c60d-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": " Right now it looks like a two-speed Europe will be part of this vision",
+        "reference": {
+          "resource": "906",
+          "offset": 1554,
+          "text": " Right now it looks like a two-speed Europe will be part of this vision"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:08:07.797Z",
+        "updated": "2024-02-07T23:08:07.797Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.0003729129073,
+            "y": 278
+          }
+        }
+      }
+    },
+    "d9c7ab80-c60d-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": " Even though such a structure would allow every country the freedom to join - or not join - a project based on national decisions, many feel uneasy about it",
+        "reference": {
+          "resource": "906",
+          "offset": 1626,
+          "text": " Even though such a structure would allow every country the freedom to join - or not join - a project based on national decisions, many feel uneasy about it"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:08:48.568Z",
+        "updated": "2024-02-07T23:08:48.568Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.000916341217,
+            "y": 516
+          }
+        }
+      }
+    },
+    "ddd21030-c60d-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T23:08:55.347Z",
+        "updated": "2024-02-07T23:08:55.347Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0002549978549,
+            "y": 396
+          }
+        }
+      }
+    },
+    "0ef7d9b0-c60e-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "The history of recent years has shown that there will be a multi-speed EU, and not all members will participate in the same steps of integration",
+        "reference": {
+          "resource": "906",
+          "offset": 425,
+          "text": "The history of recent years has shown that there will be a multi-speed EU, and not all members will participate in the same steps of integration"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:10:17.803Z",
+        "updated": "2024-02-07T23:10:17.803Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00056171397816,
+            "y": 12
+          }
+        }
+      }
+    },
+    "146e5180-c60e-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T23:10:26.968Z",
+        "updated": "2024-02-07T23:10:26.968Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0002608985653,
+            "y": 178
+          }
+        }
+      }
+    },
+    "46a14540-c60e-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "Europe has worked at different speeds for decades",
+        "reference": {
+          "resource": "906",
+          "offset": 2019,
+          "text": "Europe has worked at different speeds for decades"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:11:51.188Z",
+        "updated": "2024-02-07T23:11:51.188Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 62.00008236261935,
+            "y": 278
+          }
+        }
+      }
+    },
+    "4b1d0960-c60e-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T23:11:58.710Z",
+        "updated": "2024-02-07T23:11:58.710Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 162.00097795144956,
+            "y": 178
+          }
+        }
+      }
+    },
+    "6f274370-c60e-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "The eurozone, the freedom of movement embedded in the Schengen agreement and the Maastricht Social Protocol are already part of a \"phased integration\" in which not all EU member states take part",
+        "reference": {
+          "resource": "906",
+          "offset": 2070,
+          "text": "The eurozone, the freedom of movement embedded in the Schengen agreement and the Maastricht Social Protocol are already part of a \"phased integration\" in which not all EU member states take part"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:12:59.175Z",
+        "updated": "2024-02-07T23:12:59.175Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.00012871947405,
+            "y": 496
+          }
+        }
+      }
+    },
+    "7718a650-c60e-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T23:13:12.501Z",
+        "updated": "2024-02-07T23:13:12.501Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.0005064662394,
+            "y": 396
+          }
+        }
+      }
+    },
+    "84f1e070-c60e-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "In the future, different combinations are conceivable, like the eurozone, a core Europe driven by Germany and France or a circle of the EU's founding members",
+        "reference": {
+          "resource": "906",
+          "offset": 2266,
+          "text": "In the future, different combinations are conceivable, like the eurozone, a core Europe driven by Germany and France or a circle of the EU's founding members"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:13:35.735Z",
+        "updated": "2024-02-07T23:13:35.735Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000202097313622,
+            "y": 508
+          }
+        }
+      }
+    },
+    "8816a010-c60e-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T23:13:41.009Z",
+        "updated": "2024-02-07T23:13:41.009Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00043516973518,
+            "y": 396
+          }
+        }
+      }
+    },
+    "965504a0-c60e-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "At some point we will have a situation in which the decisions of a core group are not compatible with the positions of the others",
+        "reference": {
+          "resource": "906",
+          "offset": 2553,
+          "text": "At some point we will have a situation in which the decisions of a core group are not compatible with the positions of the others"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:14:04.906Z",
+        "updated": "2024-02-07T23:14:04.906Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000939605717873,
+            "y": 810
+          }
+        }
+      }
+    },
+    "99e927e0-c60e-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T23:14:10.910Z",
+        "updated": "2024-02-07T23:14:10.910Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00014499946745,
+            "y": 710
+          }
+        }
+      }
+    },
+    "ca866070-c60e-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "a Slovenian social democrat who fears that her small country on the eastern edge of the bloc will fall apart in a multi-speed Europe",
+        "reference": {
+          "resource": "906",
+          "offset": 3142,
+          "text": "a Slovenian social democrat who fears that her small country on the eastern edge of the bloc will fall apart in a multi-speed Europe"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:15:32.471Z",
+        "updated": "2024-02-07T23:15:32.471Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0001457645288,
+            "y": 810
+          }
+        }
+      }
+    },
+    "cf19cb40-c60e-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T23:15:40.148Z",
+        "updated": "2024-02-07T23:15:40.148Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0006023049382,
+            "y": 710
+          }
+        }
+      }
+    },
+    "db817400-c60e-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "The basic idea was actually that we are equal partners and benefit from common policies",
+        "reference": {
+          "resource": "906",
+          "offset": 3388,
+          "text": "The basic idea was actually that we are equal partners and benefit from common policies"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:16:00.960Z",
+        "updated": "2024-02-07T23:16:00.960Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.0009599155248,
+            "y": 822
+          }
+        }
+      }
+    },
+    "df505650-c60e-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T23:16:07.349Z",
+        "updated": "2024-02-07T23:16:07.349Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.000195986891,
+            "y": 710
+          }
+        }
+      }
+    },
+    "0565a2a0-c60f-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "What is the bloc worth if solidarity is officially ruled out in favor of a Europe a la carte",
+        "reference": {
+          "resource": "906",
+          "offset": 3687,
+          "text": "What is the bloc worth if solidarity is officially ruled out in favor of a Europe a la carte"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:17:11.242Z",
+        "updated": "2024-02-07T23:17:11.242Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 559.4230277459317,
+            "y": 1079.0328143079876
+          }
+        }
+      }
+    },
+    "756c1250-c60f-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "the strategic focus has been lost",
+        "reference": {
+          "resource": "906",
+          "offset": 3490,
+          "text": "the strategic focus has been lost"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:20:19.189Z",
+        "updated": "2024-02-07T23:20:19.189Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1412.0006933197826,
+            "y": 810
+          }
+        }
+      }
+    },
+    "7d7988b0-c60f-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T23:20:32.699Z",
+        "updated": "2024-02-07T23:20:32.699Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1512.0002086591817,
+            "y": 710
+          }
+        }
+      }
+    },
+    "98c572f0-c60f-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "But now, some countries, like Hungary, refuse to cooperate when it comes to sensitive topics",
+        "reference": {
+          "resource": "906",
+          "offset": 3535,
+          "text": "But now, some countries, like Hungary, refuse to cooperate when it comes to sensitive topics"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:21:18.495Z",
+        "updated": "2024-02-07T23:21:18.495Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.0001448354897,
+            "y": 1076
+          }
+        }
+      }
+    },
+    "9e24e050-c60f-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T23:21:27.509Z",
+        "updated": "2024-02-07T23:21:27.509Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0000217922893,
+            "y": 976
+          }
+        }
+      }
+    },
+    "39a78800-fafb-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "\"A few years ago, I would have thought it was a bad idea [...] You see the challenges, don't you?\"",
+        "reference": {
+          "text": "\"A few years ago, I would have thought it was a bad idea,\" he told DW. \"You see the challenges, don't you?\""
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T07:39:00.608Z",
+        "updated": "2024-04-15T07:39:00.608Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1762.0007777785293,
+            "y": 810
+          }
+        }
+      }
+    },
+    "4217b7d0-fafb-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T07:39:14.765Z",
+        "updated": "2024-04-15T07:39:14.765Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1862.0007231958893,
+            "y": 710
+          }
+        }
+      }
+    },
+    "5fe03ad0-fafb-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "Are national interests driving the EU further apart because the bonds have loosened?",
+        "reference": {
+          "text": "Are national interests driving the EU further apart because the bonds have loosened?"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T07:40:04.733Z",
+        "updated": "2024-04-15T07:40:04.733Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.00026580943756,
+            "y": 810
+          }
+        }
+      }
+    },
+    "61be2290-fafb-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T07:40:07.865Z",
+        "updated": "2024-04-15T07:40:07.865Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.00024205190397,
+            "y": 710
+          }
+        }
+      }
+    },
+    "289aa4b0-fafc-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T07:45:41.499Z",
+        "updated": "2024-04-15T07:45:41.499Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 460.7116467776846,
+            "y": 944.5164071539938
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "ddd21031-c60d-11ee-bbb2-f78c6e9d2422": {
+      "source": "d9c7ab80-c60d-11ee-bbb2-f78c6e9d2422",
+      "target": "ddd21030-c60d-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:08:55.347Z",
+        "updated": "2024-02-07T23:08:55.347Z"
+      },
+      "userdata": {}
+    },
+    "ddd21032-c60d-11ee-bbb2-f78c6e9d2422": {
+      "source": "ddd21030-c60d-11ee-bbb2-f78c6e9d2422",
+      "target": "c17a8250-c60d-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:08:55.347Z",
+        "updated": "2024-02-07T23:08:55.347Z"
+      },
+      "userdata": {}
+    },
+    "f288f341-c60d-11ee-bbb2-f78c6e9d2422": {
+      "source": "ef879a20-c60d-11ee-bbb2-f78c6e9d2422",
+      "target": "f288f340-c60d-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:09:30.100Z",
+        "updated": "2024-02-07T23:09:30.100Z"
+      },
+      "userdata": {}
+    },
+    "f288f342-c60d-11ee-bbb2-f78c6e9d2422": {
+      "source": "f288f340-c60d-11ee-bbb2-f78c6e9d2422",
+      "target": "c17a8250-c60d-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:09:30.100Z",
+        "updated": "2024-02-07T23:09:30.100Z"
+      },
+      "userdata": {}
+    },
+    "146e5181-c60e-11ee-bbb2-f78c6e9d2422": {
+      "source": "c17a8250-c60d-11ee-bbb2-f78c6e9d2422",
+      "target": "146e5180-c60e-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:10:26.968Z",
+        "updated": "2024-02-07T23:10:26.968Z"
+      },
+      "userdata": {}
+    },
+    "146e5182-c60e-11ee-bbb2-f78c6e9d2422": {
+      "source": "146e5180-c60e-11ee-bbb2-f78c6e9d2422",
+      "target": "0ef7d9b0-c60e-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:10:26.968Z",
+        "updated": "2024-02-07T23:10:26.968Z"
+      },
+      "userdata": {}
+    },
+    "4b1d0961-c60e-11ee-bbb2-f78c6e9d2422": {
+      "source": "46a14540-c60e-11ee-bbb2-f78c6e9d2422",
+      "target": "4b1d0960-c60e-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:11:58.710Z",
+        "updated": "2024-02-07T23:11:58.710Z"
+      },
+      "userdata": {}
+    },
+    "4b1d0962-c60e-11ee-bbb2-f78c6e9d2422": {
+      "source": "4b1d0960-c60e-11ee-bbb2-f78c6e9d2422",
+      "target": "0ef7d9b0-c60e-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:11:58.710Z",
+        "updated": "2024-02-07T23:11:58.710Z"
+      },
+      "userdata": {}
+    },
+    "7718a651-c60e-11ee-bbb2-f78c6e9d2422": {
+      "source": "6f274370-c60e-11ee-bbb2-f78c6e9d2422",
+      "target": "7718a650-c60e-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:13:12.501Z",
+        "updated": "2024-02-07T23:13:12.501Z"
+      },
+      "userdata": {}
+    },
+    "7718a652-c60e-11ee-bbb2-f78c6e9d2422": {
+      "source": "7718a650-c60e-11ee-bbb2-f78c6e9d2422",
+      "target": "46a14540-c60e-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:13:12.501Z",
+        "updated": "2024-02-07T23:13:12.501Z"
+      },
+      "userdata": {}
+    },
+    "8816c720-c60e-11ee-bbb2-f78c6e9d2422": {
+      "source": "84f1e070-c60e-11ee-bbb2-f78c6e9d2422",
+      "target": "8816a010-c60e-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:13:41.010Z",
+        "updated": "2024-02-07T23:13:41.010Z"
+      },
+      "userdata": {}
+    },
+    "8816c721-c60e-11ee-bbb2-f78c6e9d2422": {
+      "source": "8816a010-c60e-11ee-bbb2-f78c6e9d2422",
+      "target": "46a14540-c60e-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:13:41.010Z",
+        "updated": "2024-02-07T23:13:41.010Z"
+      },
+      "userdata": {}
+    },
+    "99e927e1-c60e-11ee-bbb2-f78c6e9d2422": {
+      "source": "965504a0-c60e-11ee-bbb2-f78c6e9d2422",
+      "target": "99e927e0-c60e-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:14:10.910Z",
+        "updated": "2024-02-07T23:14:10.910Z"
+      },
+      "userdata": {}
+    },
+    "99e927e2-c60e-11ee-bbb2-f78c6e9d2422": {
+      "source": "99e927e0-c60e-11ee-bbb2-f78c6e9d2422",
+      "target": "84f1e070-c60e-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:14:10.910Z",
+        "updated": "2024-02-07T23:14:10.910Z"
+      },
+      "userdata": {}
+    },
+    "cf19cb41-c60e-11ee-bbb2-f78c6e9d2422": {
+      "source": "ca866070-c60e-11ee-bbb2-f78c6e9d2422",
+      "target": "cf19cb40-c60e-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:15:40.148Z",
+        "updated": "2024-02-07T23:15:40.148Z"
+      },
+      "userdata": {}
+    },
+    "cf19cb42-c60e-11ee-bbb2-f78c6e9d2422": {
+      "source": "cf19cb40-c60e-11ee-bbb2-f78c6e9d2422",
+      "target": "d9c7ab80-c60d-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:15:40.148Z",
+        "updated": "2024-02-07T23:15:40.148Z"
+      },
+      "userdata": {}
+    },
+    "df505651-c60e-11ee-bbb2-f78c6e9d2422": {
+      "source": "db817400-c60e-11ee-bbb2-f78c6e9d2422",
+      "target": "df505650-c60e-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:16:07.349Z",
+        "updated": "2024-02-07T23:16:07.349Z"
+      },
+      "userdata": {}
+    },
+    "df505652-c60e-11ee-bbb2-f78c6e9d2422": {
+      "source": "df505650-c60e-11ee-bbb2-f78c6e9d2422",
+      "target": "d9c7ab80-c60d-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:16:07.349Z",
+        "updated": "2024-02-07T23:16:07.349Z"
+      },
+      "userdata": {}
+    },
+    "08b4cda1-c60f-11ee-bbb2-f78c6e9d2422": {
+      "source": "0565a2a0-c60f-11ee-bbb2-f78c6e9d2422",
+      "target": "08b4cda0-c60f-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:17:16.794Z",
+        "updated": "2024-02-07T23:17:16.794Z"
+      },
+      "userdata": {}
+    },
+    "396d7d70-c60f-11ee-bbb2-f78c6e9d2422": {
+      "source": "08b4cda0-c60f-11ee-bbb2-f78c6e9d2422",
+      "target": "965504a0-c60e-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:18:38.535Z",
+        "updated": "2024-02-07T23:18:38.535Z"
+      },
+      "userdata": {}
+    },
+    "7d7988b1-c60f-11ee-bbb2-f78c6e9d2422": {
+      "source": "756c1250-c60f-11ee-bbb2-f78c6e9d2422",
+      "target": "7d7988b0-c60f-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:20:32.699Z",
+        "updated": "2024-02-07T23:20:32.699Z"
+      },
+      "userdata": {}
+    },
+    "7d7988b2-c60f-11ee-bbb2-f78c6e9d2422": {
+      "source": "7d7988b0-c60f-11ee-bbb2-f78c6e9d2422",
+      "target": "d9c7ab80-c60d-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:20:32.699Z",
+        "updated": "2024-02-07T23:20:32.699Z"
+      },
+      "userdata": {}
+    },
+    "9e24e051-c60f-11ee-bbb2-f78c6e9d2422": {
+      "source": "98c572f0-c60f-11ee-bbb2-f78c6e9d2422",
+      "target": "9e24e050-c60f-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:21:27.509Z",
+        "updated": "2024-02-07T23:21:27.509Z"
+      },
+      "userdata": {}
+    },
+    "9e24e052-c60f-11ee-bbb2-f78c6e9d2422": {
+      "source": "9e24e050-c60f-11ee-bbb2-f78c6e9d2422",
+      "target": "db817400-c60e-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:21:27.509Z",
+        "updated": "2024-02-07T23:21:27.509Z"
+      },
+      "userdata": {}
+    },
+    "af2f5d31-c60f-11ee-bbb2-f78c6e9d2422": {
+      "source": "acc53b00-c60f-11ee-bbb2-f78c6e9d2422",
+      "target": "af2f5d30-c60f-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:21:56.099Z",
+        "updated": "2024-02-07T23:21:56.099Z"
+      },
+      "userdata": {}
+    },
+    "4217b7d1-fafb-11ee-aa26-a11ecda1a83c": {
+      "source": "39a78800-fafb-11ee-aa26-a11ecda1a83c",
+      "target": "4217b7d0-fafb-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T07:39:14.765Z",
+        "updated": "2024-04-15T07:39:14.765Z"
+      },
+      "userdata": {}
+    },
+    "4217b7d2-fafb-11ee-aa26-a11ecda1a83c": {
+      "source": "4217b7d0-fafb-11ee-aa26-a11ecda1a83c",
+      "target": "d9c7ab80-c60d-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-04-15T07:39:14.765Z",
+        "updated": "2024-04-15T07:39:14.765Z"
+      },
+      "userdata": {}
+    },
+    "61be2291-fafb-11ee-aa26-a11ecda1a83c": {
+      "source": "5fe03ad0-fafb-11ee-aa26-a11ecda1a83c",
+      "target": "61be2290-fafb-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T07:40:07.865Z",
+        "updated": "2024-04-15T07:40:07.865Z"
+      },
+      "userdata": {}
+    },
+    "61be2292-fafb-11ee-aa26-a11ecda1a83c": {
+      "source": "61be2290-fafb-11ee-aa26-a11ecda1a83c",
+      "target": "d9c7ab80-c60d-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-04-15T07:40:07.865Z",
+        "updated": "2024-04-15T07:40:07.865Z"
+      },
+      "userdata": {}
+    },
+    "289aa4b1-fafc-11ee-aa26-a11ecda1a83c": {
+      "source": "0565a2a0-c60f-11ee-bbb2-f78c6e9d2422",
+      "target": "289aa4b0-fafc-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T07:45:41.499Z",
+        "updated": "2024-04-15T07:45:41.499Z"
+      },
+      "userdata": {}
+    },
+    "289aa4b2-fafc-11ee-aa26-a11ecda1a83c": {
+      "source": "289aa4b0-fafc-11ee-aa26-a11ecda1a83c",
+      "target": "5fe03ad0-fafb-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T07:45:41.499Z",
+        "updated": "2024-04-15T07:45:41.499Z"
+      },
+      "userdata": {}
+    },
+    "3064d081-fafc-11ee-aa26-a11ecda1a83c": {
+      "source": "0565a2a0-c60f-11ee-bbb2-f78c6e9d2422",
+      "target": "3064d080-fafc-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T07:45:54.568Z",
+        "updated": "2024-04-15T07:45:54.568Z"
+      },
+      "userdata": {}
+    },
+    "3064d082-fafc-11ee-aa26-a11ecda1a83c": {
+      "source": "3064d080-fafc-11ee-aa26-a11ecda1a83c",
+      "target": "ca866070-c60e-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-04-15T07:45:54.568Z",
+        "updated": "2024-04-15T07:45:54.568Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "906": {
+      "text": "The German chancellor's last appearance at the EU summit in Malta was delayed. It was originally slated for 6:00 p.m. on Friday, but her press statement kept getting pushed back later into the evening. The longer the waiting period was extended, the more journalists left the room to finish their stories on time. It meant that very few people were present to hear what Angela Merkel finally had to say at around 8:00 p.m.: \"The history of recent years has shown that there will be a multi-speed EU, and not all members will participate in the same steps of integration.\" The statement was barely mentioned in European media that weekend. Szydlo did not contradict Merkel's suggestion statement Yet it was the first time that Merkel clearly claimed this old idea as her own. Whoever believed it was an exclusive statement had to think again on the following Tuesday. In a meeting with Polish Prime Minister Beata Szydlo, Merkel once again spoke of a Europe of \"two speeds.\" Szydlo and her country are normally opponents of this idea, but she did not contradict Merkel this time. From her point of view, the German chancellor has decided to take a pragmatic path for crisis-ridden Europe. She will follow it with her quiet determination. \"That should be taken seriously,\" an EU diplomat in Brussels told DW. 'You see the challenges, don't you?' At the upcoming summit in Rome, state and government heads not only want to celebrate the 60th anniversary of the European Economic Community, they also want to present a vision of a post-Brexit European Union. Right now it looks like a two-speed Europe will be part of this vision. Even though such a structure would allow every country the freedom to join - or not join - a project based on national decisions, many feel uneasy about it. One of them is Latvia's foreign minister Edgars Rinkevics. \"A few years ago, I would have thought it was a bad idea,\" he told DW. \"You see the challenges, don't you?\" Latvia's Rinkevics said the challenges were clear The truth is that Europe has worked at different speeds for decades. The eurozone, the freedom of movement embedded in the Schengen agreement and the Maastricht Social Protocol are already part of a \"phased integration\" in which not all EU member states take part. In the future, different combinations are conceivable, like the eurozone, a core Europe driven by Germany and France or a circle of the EU's founding members. But that may also be part of the problem. Are national interests driving the EU further apart because the bonds have loosened? \"At some point we will have a situation in which the decisions of a core group are not compatible with the positions of the others,\" warns Rinkevics. Keep the EU project So the question is whether the EU is selling its soul by entertaining the idea of a two-speed union. In times of Brexit, Donald Trump, the euro crisis and the immigration crisis, many politicians can do more than to argue that they want to keep the show running even if it means departing from a unified Europe. The EU has lost its \"strategic focus\" because of its many crises, says the European politician Tanja Fajon, a Slovenian social democrat who fears that her small country on the eastern edge of the bloc will fall apart in a multi-speed Europe. She says Slovenia has no objections to the national interest policies of larger states or alliances in the EU. \"The basic idea was actually that we are equal partners and benefit from common policies,\" says Fajon. Fajon said the strategic focus has been lost But now, some countries, like Hungary, refuse to cooperate when it comes to sensitive topics, one of them being the distribution of refugees in the EU. What is the bloc worth if solidarity is officially ruled out in favor of a Europe a la carte? \"We are in an unprecedented situation,\" said Rinkevics. The goal is to save the European project. This applies to the common currency and the economy in particular. The next Greek crisis is at Europe's doorstep, and-maybe even a trade war with Donald Trump's United States. Before everything goes down the drain, Merkel is trying to at least maintain the shell of the union. Maybe the mutual project will be expanded someday in a less EU-hostile future. The idea of a multi-speed union is perhaps Angela Merkel's last attempt at saving Europe.",
+      "title": "German Chancellor Merkel 'working to hold the EU together'",
+      "source": "http://www.dw.com/en/german-chancellor-merkel-working-to-hold-the-eu-together/a-37464058?maca=en-rss-en-all-1573-rdf",
+      "timestamp": "2024-02-07T23:00:18.952Z",
+      "metadata": {
+        "created": "2024-02-05T09:49:22.045Z",
+        "updated": "2024-02-05T09:49:22.045Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "2c603380-c41a-11ee-a06c-cb1cbb90ffa4": {
+      "name": "annotator0",
+      "email": "s4kibart@uni-trier.de",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "0ef7d9b0-c60e-11ee-bbb2-f78c6e9d2422",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-05T09:49:22.045Z",
+    "updated": "2024-04-15T07:48:37.296Z"
+  },
+  "userdata": {
+    "notes": "22min"
+  }
+}

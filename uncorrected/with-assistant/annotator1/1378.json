@@ -1,0 +1,1173 @@
+{
+  "nodes": {
+    "53ecfd90-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "US-backed Iraqi security forces closing in on the ISIL-held western half of Mosul have stormed the city's airport and a nearby military base, state television said",
+        "reference": {
+          "resource": "1378",
+          "offset": 0,
+          "text": "US-backed Iraqi security forces closing in on the ISIL-held western half of Mosul have stormed the city's airport and a nearby military base, state television said"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T01:15:08.649Z",
+        "updated": "2024-02-13T01:15:08.649Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement describes a key event in the conflict involving the retaking of strategic locations by Iraqi forces, which is central to the narrative of the article."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 783.4290672966656,
+            "y": 12
+          }
+        }
+      }
+    },
+    "53ecfd91-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "Counterterrorism service (CTS) troops and elite interior ministry units known as Rapid Response forces descended on the airport early on Thursday and the nearby Ghazlani military complex, CTS spokesman Sabah al-Numan told state TV",
+        "reference": {
+          "resource": "1378",
+          "offset": 165,
+          "text": "Counterterrorism service (CTS) troops and elite interior ministry units known as Rapid Response forces descended on the airport early on Thursday and the nearby Ghazlani military complex, CTS spokesman Sabah al-Numan told state TV"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T01:15:08.649Z",
+        "updated": "2024-02-13T01:15:08.649Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Provides details on the specific units involved in the operation, contributing to understanding the scope and organization of the military action."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 412.0006032031466,
+            "y": 302
+          }
+        }
+      }
+    },
+    "53ecfd92-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "\"This is one of the major achievements that the Iraqi forces were hoping to get in the first phase of going towards the Western side of the city,\" said Al Jazeera's Osama Bin Javaid, reporting from Erbil",
+        "reference": {
+          "resource": "1378",
+          "offset": 397,
+          "text": "\"This is one of the major achievements that the Iraqi forces were hoping to get in the first phase of going towards the Western side of the city,\" said Al Jazeera's Osama Bin Javaid, reporting from Erbil"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T01:15:08.649Z",
+        "updated": "2024-02-13T01:15:08.649Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This quote emphasizes the significance of the airport's capture as a strategic milestone for the Iraqi forces."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 712.0005142863278,
+            "y": 640
+          }
+        }
+      }
+    },
+    "53ecfd93-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "Iraqi forces now say that they are in full control",
+        "reference": {
+          "resource": "1378",
+          "offset": 673,
+          "text": "Iraqi forces now say that they are in full control"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T01:15:08.649Z",
+        "updated": "2024-02-13T01:15:08.649Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "States the current status of control over the airport, indicating a successful military operation."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 362.00069387348384,
+            "y": 688
+          }
+        }
+      }
+    },
+    "53ecfd94-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "They say that the two main buildings of the city have been destroyed by ISIL and they have found a number of car bombs parked on strategic locations in the entry points and along the runway of Mosul International Airport",
+        "reference": {
+          "resource": "1378",
+          "offset": 726,
+          "text": "They say that the two main buildings of the city have been destroyed by ISIL and they have found a number of car bombs parked on strategic locations in the entry points and along the runway of Mosul International Airport"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T01:15:08.649Z",
+        "updated": "2024-02-13T01:15:08.649Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Describes the extent of damage and challenges posed by ISIL, highlighting the difficulties faced by Iraqi forces during the operation."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 362.0002857140876,
+            "y": 954
+          }
+        }
+      }
+    },
+    "53ecfd95-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "The airport and military complex, which includes barracks and training grounds and sprawls across an area close to the Baghdad-Mosul highway was captured by ISIL fighters when they overran Mosul in June 2014",
+        "reference": {
+          "resource": "1378",
+          "offset": 949,
+          "text": "The airport and military complex, which includes barracks and training grounds and sprawls across an area close to the Baghdad-Mosul highway was captured by ISIL fighters when they overran Mosul in June 2014"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T01:15:08.649Z",
+        "updated": "2024-02-13T01:15:08.649Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Provides historical context regarding the control of the airport and military complex, underlining the significance of its recapture."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 762.0000633040559,
+            "y": 302
+          }
+        }
+      }
+    },
+    "53ecfd96-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "The advances come days after Iraqi forces officially launched the operation to push ISIL out of Mosul's western half",
+        "reference": {
+          "resource": "1378",
+          "offset": 1158,
+          "text": "The advances come days after Iraqi forces officially launched the operation to push ISIL out of Mosul's western half"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T01:15:08.649Z",
+        "updated": "2024-02-13T01:15:08.649Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Connects the recent military action to the broader campaign to reclaim Mosul from ISIL control."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1112.0007719115747,
+            "y": 338
+          }
+        }
+      }
+    },
+    "53ecfd97-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "The operation to retake Iraq's second largest city was officially launched in October and in January its eastern half was declared \"fully liberated.\"",
+        "reference": {
+          "resource": "1378",
+          "offset": 1276,
+          "text": "The operation to retake Iraq's second largest city was officially launched in October and in January its eastern half was declared \"fully liberated.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T01:15:08.649Z",
+        "updated": "2024-02-13T01:15:08.649Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Outlines the timeline of the broader military campaign to recapture Mosul, adding to the narrative of progression and success."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1112.000127977676,
+            "y": 640
+          }
+        }
+      }
+    },
+    "53ecfd98-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "A US-led coalition has been providing close air support throughout the campaign to retake Iraq's second-largest city",
+        "reference": {
+          "resource": "1378",
+          "offset": 1426,
+          "text": "A US-led coalition has been providing close air support throughout the campaign to retake Iraq's second-largest city"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T01:15:08.649Z",
+        "updated": "2024-02-13T01:15:08.649Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Details the involvement of a US-led coalition in the operation, showcasing the international support for Iraqi forces."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1462.0004276928018,
+            "y": 338
+          }
+        }
+      }
+    },
+    "53ecfd99-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "US special operations forces are embedded with some Iraqi units and thousands of US troops are in Iraq providing logistical and other support",
+        "reference": {
+          "resource": "1378",
+          "text": "US special operations forces are embedded with some Iraqi units and thousands of US troops are in Iraq providing logistical and other support"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T01:15:08.649Z",
+        "updated": "2024-02-13T01:15:08.649Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Further elaborates on the US military's role in supporting Iraqi forces, emphasizing the depth of international assistance."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1462.0007557624042,
+            "y": 664
+          }
+        }
+      }
+    },
+    "53ecfd9a-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "US Secretary of Defence Jim Mattis was holding discussions with US and Iraqi officials, a week before he is expected to present a new strategy to President Donald Trump for defeating ISIL",
+        "reference": {
+          "resource": "1378",
+          "text": "US Secretary of Defence Jim Mattis was holding discussions with US and Iraqi officials, a week before he is expected to present a new strategy to President Donald Trump for defeating ISIL"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T01:15:08.649Z",
+        "updated": "2024-02-13T01:15:08.649Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Indicates active strategic planning at high levels of the US government towards defeating ISIL, suggesting ongoing commitment to the conflict."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1462.000771727015,
+            "y": 954
+          }
+        }
+      }
+    },
+    "53ecfd9b-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "Trump has repeatedly vowed to eliminate the group but has provided few details about how his approach might differ from that of the Obama administration",
+        "reference": {
+          "resource": "1378",
+          "text": "Trump has repeatedly vowed to eliminate the group but has provided few details about how his approach might differ from that of the Obama administration"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T01:15:08.649Z",
+        "updated": "2024-02-13T01:15:08.649Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Highlights the political context and the change in administration's stance towards ISIL, suggesting anticipation of policy shifts."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1462.0001814335783,
+            "y": 1268
+          }
+        }
+      }
+    },
+    "53ecfd9c-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "The battle for western Mosul, the group's last major urban bastion in Iraq, is expected to be the most daunting yet",
+        "reference": {
+          "resource": "1378",
+          "text": "The battle for western Mosul, the group's last major urban bastion in Iraq, is expected to be the most daunting yet"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T01:15:08.649Z",
+        "updated": "2024-02-13T01:15:08.649Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Sets expectations for the difficulty of the upcoming conflict in western Mosul, emphasizing its importance and challenges."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1812.0005469255932,
+            "y": 338
+          }
+        }
+      }
+    },
+    "53ecfd9d-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "The presence of up to 750,000 civilians also poses a challenge",
+        "reference": {
+          "resource": "1378",
+          "text": "The presence of up to 750,000 civilians also poses a challenge"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T01:15:08.649Z",
+        "updated": "2024-02-13T01:15:08.649Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Underlines the humanitarian concern in the conflict area, highlighting the complexity of military operations in populated areas."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1812.0004483093994,
+            "y": 640
+          }
+        }
+      }
+    },
+    "53ecfd9e-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "Two suicide car bombers struck army and paramilitary forces west of Mosul on Monday, killing and wounding a number of troops, two army officers said, without specifying the number of casualties",
+        "reference": {
+          "resource": "1378",
+          "offset": 2565,
+          "text": "Two suicide car bombers struck army and paramilitary forces west of Mosul on Monday, killing and wounding a number of troops, two army officers said, without specifying the number of casualties"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T01:15:08.649Z",
+        "updated": "2024-02-13T01:15:08.649Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Details a specific attack by ISIL, demonstrating the ongoing resistance and threat posed by the group."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 12.000445547407857,
+            "y": 314
+          }
+        }
+      }
+    },
+    "53ecfd9f-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "ISIL claimed responsibility for two attacks in an online statement, saying the attackers were British and Iraqi",
+        "reference": {
+          "resource": "1378",
+          "offset": 2927,
+          "text": "ISIL claimed responsibility for two attacks in an online statement, saying the attackers were British and Iraqi"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T01:15:08.649Z",
+        "updated": "2024-02-13T01:15:08.649Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Confirms ISIL's involvement in the attacks and provides information on the nationality of the attackers, contributing to understanding the nature of ISIL's tactics and recruitment."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 12.000604205799474,
+            "y": 640
+          }
+        }
+      }
+    },
+    "e0016f00-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Describes the action taken by Iraqi forces which directly relates to the major claim about their progress in Mosul."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 512.0003291902229,
+            "y": 202
+          }
+        }
+      }
+    },
+    "e0016f03-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Provides additional context on the significance of the Iraqi forces' actions described in the previous ADU."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 812.0003095548758,
+            "y": 540
+          }
+        }
+      }
+    },
+    "e0016f06-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Confirms the success of the actions taken by the Iraqi forces by stating they are in full control."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 462.0001303271326,
+            "y": 540
+          }
+        }
+      }
+    },
+    "e0016f09-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Provides evidence of the control the Iraqi forces have by detailing the situation on the ground."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 462.0006345584151,
+            "y": 854
+          }
+        }
+      }
+    },
+    "e0016f0c-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Explains the strategic importance of the locations that the Iraqi forces are targeting."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 862.0002701561181,
+            "y": 202
+          }
+        }
+      }
+    },
+    "e0016f0f-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Notes the timing of the military operations, supporting the narrative of ongoing progress."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1212.000052687158,
+            "y": 202
+          }
+        }
+      }
+    },
+    "e0016f12-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Provides historical context to the campaign, indicating previous successes that lead up to the current situation."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1212.0009867703563,
+            "y": 540
+          }
+        }
+      }
+    },
+    "e0016f15-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Highlights the role of the US-led coalition in the campaign, which is a component of the larger operation to retake Mosul."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1562.000583635377,
+            "y": 202
+          }
+        }
+      }
+    },
+    "e0016f18-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Details the extent of US involvement and support in the operation."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1562.0009317795668,
+            "y": 540
+          }
+        }
+      }
+    },
+    "e0016f1b-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Details discussions on strategies, showing the planning behind US involvement."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1562.0001304945176,
+            "y": 854
+          }
+        }
+      }
+    },
+    "e0016f1e-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "References Trump's commitment to defeating ISIL which is relevant to the strategies being discussed by US officials."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1562.000506471432,
+            "y": 1168
+          }
+        }
+      }
+    },
+    "e0016f21-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Indicates the anticipated difficulty of the battle for western Mosul, underscoring the significance of forces closing in on the city."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1912.0003367217737,
+            "y": 202
+          }
+        }
+      }
+    },
+    "e0016f24-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Cites the civilian presence as a complicating factor in the battle for western Mosul, adding depth to the narrative of anticipated difficulties."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1912.000367276971,
+            "y": 540
+          }
+        }
+      }
+    },
+    "e0016f27-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Describes attacks by ISIL that challenge the progress made by Iraqi and coalition forces."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 112.00099873804655,
+            "y": 202
+          }
+        }
+      }
+    },
+    "e0016f2a-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Confirms ISIL's responsibility for the attacks mentioned in the previous ADU, reinforcing the narrative of opposition."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 112.00071631349194,
+            "y": 540
+          }
+        }
+      }
+    },
+    "221023a0-ca0e-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "A third suicide car bomber was blown up before reaching the troops",
+        "reference": {
+          "resource": "1378",
+          "offset": 2760,
+          "text": "A third suicide car bomber was blown up before reaching the troops"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T01:20:54.490Z",
+        "updated": "2024-02-13T01:20:54.490Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2163.2118253650096,
+            "y": 658.5770595037851
+          }
+        }
+      }
+    },
+    "24e7fbc0-ca0e-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T01:20:59.260Z",
+        "updated": "2024-02-13T01:20:59.260Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2014.5388492426223,
+            "y": 507.98428846692815
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "e0016f01-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "source": "53ecfd91-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "target": "e0016f00-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {}
+    },
+    "e0016f02-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "source": "e0016f00-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "target": "53ecfd90-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {}
+    },
+    "e0016f04-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "source": "53ecfd92-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "target": "e0016f03-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {}
+    },
+    "e0016f05-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "source": "e0016f03-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "target": "53ecfd91-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {}
+    },
+    "e0016f07-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "source": "53ecfd93-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "target": "e0016f06-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {}
+    },
+    "e0016f08-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "source": "e0016f06-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "target": "53ecfd91-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {}
+    },
+    "e0016f0a-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "source": "53ecfd94-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "target": "e0016f09-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {}
+    },
+    "e0016f0b-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "source": "e0016f09-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "target": "53ecfd93-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {}
+    },
+    "e0016f0d-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "source": "53ecfd95-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "target": "e0016f0c-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {}
+    },
+    "e0016f0e-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "source": "e0016f0c-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "target": "53ecfd90-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {}
+    },
+    "e0016f10-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "source": "53ecfd96-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "target": "e0016f0f-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {}
+    },
+    "e0016f11-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "source": "e0016f0f-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "target": "53ecfd90-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {}
+    },
+    "e0016f13-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "source": "53ecfd97-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "target": "e0016f12-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {}
+    },
+    "e0016f14-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "source": "e0016f12-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "target": "53ecfd96-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {}
+    },
+    "e0016f16-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "source": "53ecfd98-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "target": "e0016f15-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {}
+    },
+    "e0016f17-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "source": "e0016f15-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "target": "53ecfd90-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {}
+    },
+    "e0016f19-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "source": "53ecfd99-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "target": "e0016f18-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {}
+    },
+    "e0016f1a-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "source": "e0016f18-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "target": "53ecfd98-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {}
+    },
+    "e0016f1c-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "source": "53ecfd9a-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "target": "e0016f1b-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {}
+    },
+    "e0016f1d-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "source": "e0016f1b-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "target": "53ecfd99-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {}
+    },
+    "e0016f1f-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "source": "53ecfd9b-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "target": "e0016f1e-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {}
+    },
+    "e0016f20-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "source": "e0016f1e-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "target": "53ecfd9a-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {}
+    },
+    "e0016f22-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "source": "53ecfd9c-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "target": "e0016f21-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {}
+    },
+    "e0016f23-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "source": "e0016f21-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "target": "53ecfd90-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {}
+    },
+    "e0016f25-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "source": "53ecfd9d-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "target": "e0016f24-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {}
+    },
+    "e0016f26-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "source": "e0016f24-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "target": "53ecfd9c-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {}
+    },
+    "e0016f28-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "source": "53ecfd9e-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "target": "e0016f27-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {}
+    },
+    "e0016f2b-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "source": "53ecfd9f-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "target": "e0016f2a-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {}
+    },
+    "e0016f2c-ca0d-11ee-ab2a-4dc8d1f5b568": {
+      "source": "e0016f2a-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "target": "53ecfd9e-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:19:03.664Z",
+        "updated": "2024-02-13T01:19:03.664Z"
+      },
+      "userdata": {}
+    },
+    "0b20dcc0-ca0e-11ee-ab2a-4dc8d1f5b568": {
+      "source": "e0016f27-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "target": "53ecfd9c-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:20:16.012Z",
+        "updated": "2024-02-13T01:20:16.012Z"
+      },
+      "userdata": {}
+    },
+    "24e7fbc1-ca0e-11ee-ab2a-4dc8d1f5b568": {
+      "source": "221023a0-ca0e-11ee-ab2a-4dc8d1f5b568",
+      "target": "24e7fbc0-ca0e-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:20:59.260Z",
+        "updated": "2024-02-13T01:20:59.260Z"
+      },
+      "userdata": {}
+    },
+    "24e7fbc2-ca0e-11ee-ab2a-4dc8d1f5b568": {
+      "source": "24e7fbc0-ca0e-11ee-ab2a-4dc8d1f5b568",
+      "target": "53ecfd9c-ca0d-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T01:20:59.260Z",
+        "updated": "2024-02-13T01:20:59.260Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "1378": {
+      "text": "US-backed Iraqi security forces closing in on the ISIL-held western half of Mosul have stormed the city's airport and a nearby military base, state television said. Counterterrorism service (CTS) troops and elite interior ministry units known as Rapid Response forces descended on the airport early on Thursday and the nearby Ghazlani military complex, CTS spokesman Sabah al-Numan told state TV. \"This is one of the major achievements that the Iraqi forces were hoping to get in the first phase of going towards the Western side of the city,\" said Al Jazeera's Osama Bin Javaid, reporting from Erbil. \"This area is about 30 kms away from the western edge of the city, and Iraqi forces now say that they are in full control. \"They say that the two main buildings of the city have been destroyed by ISIL and they have found a number of car bombs parked on strategic locations in the entry points and along the runway of Mosul International Airport.\" The airport and military complex, which includes barracks and training grounds and sprawls across an area close to the Baghdad-Mosul highway was captured by ISIL fighters when they overran Mosul in June 2014. The advances come days after Iraqi forces officially launched the operation to push ISIL out of Mosul's western half. The operation to retake Iraq's second largest city was officially launched in October and in January its eastern half was declared \"fully liberated.\" A US-led coalition has been providing close air support throughout the campaign to retake Iraq's second-largest city. US special operations forces are embedded with some Iraqi units and thousands of US troops are in- Iraq providing logistical and other support. US Secretary of Defence Jim Mattis was holding discussions with US and Iraqi officials, a week before he is expected to present a new strategy to President- Donald Trump for defeating ISIL . Trump has repeatedly vowed to eliminate the group but has provided few details about how his approach might differ from that of the- Obama -administration, which had partnered with Syrian and Iraqi forces to drive ISIL out of several towns and cities. The- battle for western Mosul , the group's last major urban bastion in Iraq, is expected to be the most daunting yet. The streets are older and narrower in that sector of the city, which stretches west from the River Tigris, forcing Iraqi soldiers to leave the relative safety of their armoured vehicles. WATCH: Will latest Iraqi offensive mean end of ISIL in Mosul? The presence of up to 750,000 civilians- also poses a challenge . Two suicide car bombers struck army and paramilitary forces west of Mosul on Monday, killing and wounding a number of troops, two army officers said, without specifying the number of casualties. A third suicide car bomber was blown up before reaching the troops, they said, speaking on condition of anonymity because they were not authorised to brief the media. ISIL claimed responsibility for two attacks in an online statement, saying the attackers were British and Iraqi.  Source:-Al Jazeera and news agencies",
+      "title": "Iraqi forces take control of Mosul Airport",
+      "source": "http://www.aljazeera.com/news/2017/02/iraqi-forces-control-mosul-airport-170223082538235.html",
+      "timestamp": "2017-02-23T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.197Z",
+        "updated": "2024-02-09T13:09:16.197Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "53ecfd90-ca0d-11ee-ab2a-4dc8d1f5b568",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.197Z",
+    "updated": "2024-02-13T01:21:26.124Z"
+  }
+}

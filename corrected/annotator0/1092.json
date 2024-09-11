@@ -1,0 +1,514 @@
+{
+  "nodes": {
+    "a60f0550-c611-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "Ireland will continue to support the Colombian peace process",
+        "reference": {
+          "resource": "1092",
+          "offset": 38,
+          "text": "Ireland will continue to support the Colombian peace process"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:35:59.781Z",
+        "updated": "2024-02-07T23:35:59.781Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 415.000836928144,
+            "y": 12
+          }
+        }
+      }
+    },
+    "ac05a9a0-c611-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": " it is of worldwide importance",
+        "reference": {
+          "resource": "1092",
+          "offset": 101,
+          "text": " it is of worldwide importance"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:36:09.786Z",
+        "updated": "2024-02-07T23:36:09.786Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 420.0006376605547,
+            "y": 359.6
+          }
+        }
+      }
+    },
+    "af2f9960-c611-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T23:36:15.094Z",
+        "updated": "2024-02-07T23:36:15.094Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 485.0009122288999,
+            "y": 130
+          }
+        }
+      }
+    },
+    "c029e9a0-c611-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "The President became the first foreign head of state to visit a full demobilisation camp for former FARC combatants set up as part of the revised peace agreement",
+        "reference": {
+          "resource": "1092",
+          "offset": 133,
+          "text": "The President became the first foreign head of state to visit a full demobilisation camp for former FARC combatants set up as part of the revised peace agreement"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:36:43.578Z",
+        "updated": "2024-02-07T23:36:43.578Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 700.0009505452724,
+            "y": 230
+          }
+        }
+      }
+    },
+    "c3cd9d40-c611-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T23:36:49.684Z",
+        "updated": "2024-02-07T23:36:49.684Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 800.0004234900806,
+            "y": 130
+          }
+        }
+      }
+    },
+    "04037330-c612-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "Ireland has pledged more than 17m in funding for the Colombian peace process",
+        "reference": {
+          "resource": "1092",
+          "offset": 694,
+          "text": "Ireland has pledged more than 17m in funding for the Colombian peace process"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:38:37.411Z",
+        "updated": "2024-02-07T23:38:37.411Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1050.0006463598627,
+            "y": 230
+          }
+        }
+      }
+    },
+    "074ef4b0-c612-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T23:38:42.939Z",
+        "updated": "2024-02-07T23:38:42.939Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1150.000626267521,
+            "y": 130
+          }
+        }
+      }
+    },
+    "1f1bf160-c612-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "The armed conflict in Colombia has resulted in over 220,00 deaths and 40,000 people missing over the past 50 years",
+        "reference": {
+          "resource": "1092",
+          "offset": 1414,
+          "text": "The armed conflict in Colombia has resulted in over 220,00 deaths and 40,000 people missing over the past 50 years"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:39:22.870Z",
+        "updated": "2024-02-07T23:39:22.870Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0004678617325,
+            "y": 592
+          }
+        }
+      }
+    },
+    "2191fa70-c612-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T23:39:26.999Z",
+        "updated": "2024-02-07T23:39:26.999Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.00017719050095,
+            "y": 492
+          }
+        }
+      }
+    },
+    "2c331400-c612-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "All sides have been accused of war crimes including massacres, torture and rape",
+        "reference": {
+          "resource": "1092",
+          "offset": 1530,
+          "text": "All sides have been accused of war crimes including massacres, torture and rape"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:39:44.832Z",
+        "updated": "2024-02-07T23:39:44.832Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0000610994654,
+            "y": 592
+          }
+        }
+      }
+    },
+    "2f0a9e00-c612-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T23:39:49.600Z",
+        "updated": "2024-02-07T23:39:49.600Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0004831964802,
+            "y": 492
+          }
+        }
+      }
+    },
+    "39361260-c612-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "More than six million people have been displaced - the second highest number in the world after Syria",
+        "reference": {
+          "resource": "1092",
+          "offset": 1611,
+          "text": "More than six million people have been displaced - the second highest number in the world after Syria"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:40:06.662Z",
+        "updated": "2024-02-07T23:40:06.662Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.0000194133152,
+            "y": 592
+          }
+        }
+      }
+    },
+    "3dfbfee0-c612-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T23:40:14.670Z",
+        "updated": "2024-02-07T23:40:14.670Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0007112637732,
+            "y": 492
+          }
+        }
+      }
+    },
+    "452752a0-c612-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "11,000 people have been killed or maimed by land mines - a causality rate second only to Afghanistan",
+        "reference": {
+          "resource": "1092",
+          "offset": 1718,
+          "text": "11,000 people have been killed or maimed by land mines - a causality rate second only to Afghanistan"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:40:26.698Z",
+        "updated": "2024-02-07T23:40:26.698Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000627441248819,
+            "y": 592
+          }
+        }
+      }
+    },
+    "4af400c0-c612-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T23:40:36.428Z",
+        "updated": "2024-02-07T23:40:36.428Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00093371392592,
+            "y": 492
+          }
+        }
+      }
+    },
+    "5cf9a680-c612-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "Mr Higgins will deliver-a keynote address tomorrow at the National University of Colombia-on \"peace, reconciliation and ethical remembering, and the specific contribution to conflict resolution made by the Colombian peace process",
+        "reference": {
+          "resource": "1092",
+          "offset": 1820,
+          "text": "Mr Higgins will deliver-a keynote address tomorrow at the National University of Colombia-on \"peace, reconciliation and ethical remembering, and the specific contribution to conflict resolution made by the Colombian peace process"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:41:06.664Z",
+        "updated": "2024-02-07T23:41:06.664Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 70.00099519484438,
+            "y": 230
+          }
+        }
+      }
+    },
+    "5f7de060-c612-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T23:41:10.886Z",
+        "updated": "2024-02-07T23:41:10.886Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 170.00094147691343,
+            "y": 130
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "af2f9961-c611-11ee-bbb2-f78c6e9d2422": {
+      "source": "ac05a9a0-c611-11ee-bbb2-f78c6e9d2422",
+      "target": "af2f9960-c611-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:36:15.094Z",
+        "updated": "2024-02-07T23:36:15.094Z"
+      },
+      "userdata": {}
+    },
+    "af2f9962-c611-11ee-bbb2-f78c6e9d2422": {
+      "source": "af2f9960-c611-11ee-bbb2-f78c6e9d2422",
+      "target": "a60f0550-c611-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:36:15.094Z",
+        "updated": "2024-02-07T23:36:15.094Z"
+      },
+      "userdata": {}
+    },
+    "c3cd9d41-c611-11ee-bbb2-f78c6e9d2422": {
+      "source": "c029e9a0-c611-11ee-bbb2-f78c6e9d2422",
+      "target": "c3cd9d40-c611-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:36:49.684Z",
+        "updated": "2024-02-07T23:36:49.684Z"
+      },
+      "userdata": {}
+    },
+    "c3cd9d42-c611-11ee-bbb2-f78c6e9d2422": {
+      "source": "c3cd9d40-c611-11ee-bbb2-f78c6e9d2422",
+      "target": "a60f0550-c611-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:36:49.684Z",
+        "updated": "2024-02-07T23:36:49.684Z"
+      },
+      "userdata": {}
+    },
+    "074ef4b1-c612-11ee-bbb2-f78c6e9d2422": {
+      "source": "04037330-c612-11ee-bbb2-f78c6e9d2422",
+      "target": "074ef4b0-c612-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:38:42.939Z",
+        "updated": "2024-02-07T23:38:42.939Z"
+      },
+      "userdata": {}
+    },
+    "074ef4b2-c612-11ee-bbb2-f78c6e9d2422": {
+      "source": "074ef4b0-c612-11ee-bbb2-f78c6e9d2422",
+      "target": "a60f0550-c611-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:38:42.939Z",
+        "updated": "2024-02-07T23:38:42.939Z"
+      },
+      "userdata": {}
+    },
+    "2191fa71-c612-11ee-bbb2-f78c6e9d2422": {
+      "source": "1f1bf160-c612-11ee-bbb2-f78c6e9d2422",
+      "target": "2191fa70-c612-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:39:26.999Z",
+        "updated": "2024-02-07T23:39:26.999Z"
+      },
+      "userdata": {}
+    },
+    "2191fa72-c612-11ee-bbb2-f78c6e9d2422": {
+      "source": "2191fa70-c612-11ee-bbb2-f78c6e9d2422",
+      "target": "ac05a9a0-c611-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:39:26.999Z",
+        "updated": "2024-02-07T23:39:26.999Z"
+      },
+      "userdata": {}
+    },
+    "2f0a9e01-c612-11ee-bbb2-f78c6e9d2422": {
+      "source": "2c331400-c612-11ee-bbb2-f78c6e9d2422",
+      "target": "2f0a9e00-c612-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:39:49.600Z",
+        "updated": "2024-02-07T23:39:49.600Z"
+      },
+      "userdata": {}
+    },
+    "2f0a9e02-c612-11ee-bbb2-f78c6e9d2422": {
+      "source": "2f0a9e00-c612-11ee-bbb2-f78c6e9d2422",
+      "target": "ac05a9a0-c611-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:39:49.600Z",
+        "updated": "2024-02-07T23:39:49.600Z"
+      },
+      "userdata": {}
+    },
+    "3dfbfee1-c612-11ee-bbb2-f78c6e9d2422": {
+      "source": "39361260-c612-11ee-bbb2-f78c6e9d2422",
+      "target": "3dfbfee0-c612-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:40:14.670Z",
+        "updated": "2024-02-07T23:40:14.670Z"
+      },
+      "userdata": {}
+    },
+    "3dfbfee2-c612-11ee-bbb2-f78c6e9d2422": {
+      "source": "3dfbfee0-c612-11ee-bbb2-f78c6e9d2422",
+      "target": "ac05a9a0-c611-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:40:14.670Z",
+        "updated": "2024-02-07T23:40:14.670Z"
+      },
+      "userdata": {}
+    },
+    "4af400c1-c612-11ee-bbb2-f78c6e9d2422": {
+      "source": "452752a0-c612-11ee-bbb2-f78c6e9d2422",
+      "target": "4af400c0-c612-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:40:36.428Z",
+        "updated": "2024-02-07T23:40:36.428Z"
+      },
+      "userdata": {}
+    },
+    "4af400c2-c612-11ee-bbb2-f78c6e9d2422": {
+      "source": "4af400c0-c612-11ee-bbb2-f78c6e9d2422",
+      "target": "ac05a9a0-c611-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:40:36.428Z",
+        "updated": "2024-02-07T23:40:36.428Z"
+      },
+      "userdata": {}
+    },
+    "5f7de061-c612-11ee-bbb2-f78c6e9d2422": {
+      "source": "5cf9a680-c612-11ee-bbb2-f78c6e9d2422",
+      "target": "5f7de060-c612-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:41:10.886Z",
+        "updated": "2024-02-07T23:41:10.886Z"
+      },
+      "userdata": {}
+    },
+    "5f7de062-c612-11ee-bbb2-f78c6e9d2422": {
+      "source": "5f7de060-c612-11ee-bbb2-f78c6e9d2422",
+      "target": "a60f0550-c611-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:41:10.886Z",
+        "updated": "2024-02-07T23:41:10.886Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "1092": {
+      "text": "President Michael D Higgins said that Ireland will continue to support the Colombian peace process as it is of worldwide importance. The President became the first foreign head of state to visit a full demobilisation camp for former FARC combatants set up as part of the revised peace agreement. He said it is a \"project of hope\" and he wished the Colombian people well, including FARC commander Pastor Alsape who met with President Higgins during the visit to Aron¨ª demobilisation camp. The Colombian High Commissioner for Peace, Sergio Jaramillo Caro, said the process is now entering its toughest phase with the Truth Commission and investigation of war crimes and crimes against humanity. Ireland has pledged more than 17m in funding for the Colombian peace process. Around 90% of FARC's 7,050 members have gone to demobilisation camps. When all members have gathered in the 26 designated zones, the agreement is that they will lay down their arms by the end of May. They have committed to co-operate with investigations into drug trafficking and war crimes. They will undergo an education process run by SENA, Colombia's equivalent of F?S, as 70% of the former fighters cannot read or write. This education will concentrate on establishing locally based economies as the FARC members want to remain in the countryside living in co-operatives. Colombian President Juan Manuel Santos and FARC head Timochenko The armed conflict in Colombia has resulted in over 220,00 deaths and 40,000 people missing over the past 50 years. All sides have been accused of war crimes including massacres, torture and rape. More than six million people have been displaced - the second highest number in the world after Syria. And 11,000 people have been killed or maimed by land mines - a causality rate second only to Afghanistan. Mr Higgins will deliver-a keynote address tomorrow at the National University of Colombia-on \"peace, reconciliation and ethical remembering, and the specific contribution to conflict resolution made by the Colombian peace process.\" President Higgins is on a 12-day visit to Latin America-and has spent the last few days in Peru, where he was awarded the country's highest honour --the Gran-Collar of the Order of the Sun. On Wednesday,-the President will travel to Cuba before returning to Dublin next Sunday.",
+      "title": "President Higgins visits FARC demobilisation camp in Colombia",
+      "source": "http://www.rte.ie/news/2017/0212/852024-president-higgins-colombia/",
+      "timestamp": "2024-02-07T23:33:56.354Z",
+      "metadata": {
+        "created": "2024-02-05T09:49:22.044Z",
+        "updated": "2024-02-05T09:49:22.044Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "2c603380-c41a-11ee-a06c-cb1cbb90ffa4": {
+      "name": "annotator0",
+      "email": "s4kibart@uni-trier.de",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "a60f0550-c611-11ee-bbb2-f78c6e9d2422",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-05T09:49:22.044Z",
+    "updated": "2024-04-15T08:08:06.922Z"
+  },
+  "userdata": {
+    "notes": "8min"
+  }
+}

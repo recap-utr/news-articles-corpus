@@ -1,0 +1,429 @@
+{
+  "nodes": {
+    "53024970-ca4f-11ee-b99b-f5363d8acf38": {
+      "atom": {
+        "text": "Police have arrested a boy of 17 in the southern French town of Grasse after at least two people were hurt in a shooting at a school",
+        "reference": {
+          "resource": "2658",
+          "offset": 0,
+          "text": "Police have arrested a boy of 17 in the southern French town of Grasse after at least two people were hurt in a shooting at a school"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:07:33.895Z",
+        "updated": "2024-02-13T09:07:33.895Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU describes the main event of the article, providing context for why it was newsworthy."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 362.0003569118852,
+            "y": 12
+          }
+        }
+      }
+    },
+    "53027080-ca4f-11ee-b99b-f5363d8acf38": {
+      "atom": {
+        "text": "The boy, who is said to have been heavily armed, launched the attack at Tocqueville high school at lunchtime",
+        "reference": {
+          "resource": "2658",
+          "offset": 134,
+          "text": "The boy, who is said to have been heavily armed, launched the attack at Tocqueville high school at lunchtime"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:07:33.896Z",
+        "updated": "2024-02-13T09:07:33.896Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU provides further detail on the nature of the attack and the timing, contributing to the narrative of the event."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 712.0008340508011,
+            "y": 314
+          }
+        }
+      }
+    },
+    "53027081-ca4f-11ee-b99b-f5363d8acf38": {
+      "atom": {
+        "text": "Anti-terrorist commandos from the elite Raid force were sent to the scene",
+        "reference": {
+          "resource": "2658",
+          "offset": 244,
+          "text": "Anti-terrorist commandos from the elite Raid force were sent to the scene"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:07:33.896Z",
+        "updated": "2024-02-13T09:07:33.896Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU highlights the response to the shooting, pointing out the severity of the situation by mentioning the involvement of anti-terrorist units."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 712.0005120288198,
+            "y": 608
+          }
+        }
+      }
+    },
+    "53027084-ca4f-11ee-b99b-f5363d8acf38": {
+      "atom": {
+        "text": "The government minister for victims affairs, Juliette Meadel, said all students were safe on social media, adding her thoughts were with the parents of the two people injured in the attack",
+        "reference": {
+          "resource": "2658",
+          "offset": 562,
+          "text": "The government minister for victims affairs, Juliette Meadel, said all students were safe on social media, adding her thoughts were with the parents of the two people injured in the attack"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:07:33.896Z",
+        "updated": "2024-02-13T09:07:33.896Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU communicates official responses to the event, highlighting efforts to reassure the public and express sympathy for the victims."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 362.00061235411886,
+            "y": 278
+          }
+        }
+      }
+    },
+    "53027085-ca4f-11ee-b99b-f5363d8acf38": {
+      "atom": {
+        "text": "The interior ministry has issued a terror alert, but local reports suggest the shooter was not linked to any group",
+        "reference": {
+          "resource": "2658",
+          "offset": 752,
+          "text": "The interior ministry has issued a terror alert, but local reports suggest the shooter was not linked to any group"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:07:33.896Z",
+        "updated": "2024-02-13T09:07:33.896Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU contains information about official reactions and contrasts them with local reports about the shooter's affiliations, adding complexity to the narrative."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 12.000726751399577,
+            "y": 302
+          }
+        }
+      }
+    },
+    "53027086-ca4f-11ee-b99b-f5363d8acf38": {
+      "atom": {
+        "text": "There is conflicting information about whether or not there was a second shooter",
+        "reference": {
+          "resource": "2658",
+          "offset": 868,
+          "text": "There is conflicting information about whether or not there was a second shooter"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:07:33.896Z",
+        "updated": "2024-02-13T09:07:33.896Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU introduces uncertainty into the account of the event, raising questions about the full scope of the incident."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 12.000367335824905,
+            "y": 592
+          }
+        }
+      }
+    },
+    "70dbe370-ca4f-11ee-b99b-f5363d8acf38": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:08:23.975Z",
+        "updated": "2024-02-13T09:08:23.975Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The text directly describes the incident, supporting the claim about the arrest following a school shooting."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 812.0004231925645,
+            "y": 178
+          }
+        }
+      }
+    },
+    "70dbe373-ca4f-11ee-b99b-f5363d8acf38": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:08:23.975Z",
+        "updated": "2024-02-13T09:08:23.975Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Sending anti-terrorist commandos indicates the seriousness of the attack the boy launched, providing further context to the incident."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 812.0008597516932,
+            "y": 492
+          }
+        }
+      }
+    },
+    "70dbe379-ca4f-11ee-b99b-f5363d8acf38": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:08:23.975Z",
+        "updated": "2024-02-13T09:08:23.975Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The statement provides additional information about the aftermath of the incident."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 462.000235319693,
+            "y": 178
+          }
+        }
+      }
+    },
+    "70dbe37c-ca4f-11ee-b99b-f5363d8acf38": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:08:23.975Z",
+        "updated": "2024-02-13T09:08:23.975Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This introduces a contrasting detail about the shooter's potential motivations, questioning the nature of the attack."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 112.00054073083341,
+            "y": 178
+          }
+        }
+      }
+    },
+    "70dbe37f-ca4f-11ee-b99b-f5363d8acf38": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:08:23.975Z",
+        "updated": "2024-02-13T09:08:23.975Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Conflicting information about the number of shooters introduces doubt into the already presented information about the incident."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 112.00092907230348,
+            "y": 492
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "70dbe371-ca4f-11ee-b99b-f5363d8acf38": {
+      "source": "53027080-ca4f-11ee-b99b-f5363d8acf38",
+      "target": "70dbe370-ca4f-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T09:08:23.975Z",
+        "updated": "2024-02-13T09:08:23.975Z"
+      },
+      "userdata": {}
+    },
+    "70dbe372-ca4f-11ee-b99b-f5363d8acf38": {
+      "source": "70dbe370-ca4f-11ee-b99b-f5363d8acf38",
+      "target": "53024970-ca4f-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T09:08:23.975Z",
+        "updated": "2024-02-13T09:08:23.975Z"
+      },
+      "userdata": {}
+    },
+    "70dbe374-ca4f-11ee-b99b-f5363d8acf38": {
+      "source": "53027081-ca4f-11ee-b99b-f5363d8acf38",
+      "target": "70dbe373-ca4f-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T09:08:23.975Z",
+        "updated": "2024-02-13T09:08:23.975Z"
+      },
+      "userdata": {}
+    },
+    "70dbe375-ca4f-11ee-b99b-f5363d8acf38": {
+      "source": "70dbe373-ca4f-11ee-b99b-f5363d8acf38",
+      "target": "53027080-ca4f-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T09:08:23.975Z",
+        "updated": "2024-02-13T09:08:23.975Z"
+      },
+      "userdata": {}
+    },
+    "70dbe377-ca4f-11ee-b99b-f5363d8acf38": {
+      "source": "53027083-ca4f-11ee-b99b-f5363d8acf38",
+      "target": "70dbe376-ca4f-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T09:08:23.975Z",
+        "updated": "2024-02-13T09:08:23.975Z"
+      },
+      "userdata": {}
+    },
+    "70dbe37a-ca4f-11ee-b99b-f5363d8acf38": {
+      "source": "53027084-ca4f-11ee-b99b-f5363d8acf38",
+      "target": "70dbe379-ca4f-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T09:08:23.975Z",
+        "updated": "2024-02-13T09:08:23.975Z"
+      },
+      "userdata": {}
+    },
+    "70dbe37b-ca4f-11ee-b99b-f5363d8acf38": {
+      "source": "70dbe379-ca4f-11ee-b99b-f5363d8acf38",
+      "target": "53024970-ca4f-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T09:08:23.975Z",
+        "updated": "2024-02-13T09:08:23.975Z"
+      },
+      "userdata": {}
+    },
+    "70dbe37d-ca4f-11ee-b99b-f5363d8acf38": {
+      "source": "53027085-ca4f-11ee-b99b-f5363d8acf38",
+      "target": "70dbe37c-ca4f-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T09:08:23.975Z",
+        "updated": "2024-02-13T09:08:23.975Z"
+      },
+      "userdata": {}
+    },
+    "70dbe37e-ca4f-11ee-b99b-f5363d8acf38": {
+      "source": "70dbe37c-ca4f-11ee-b99b-f5363d8acf38",
+      "target": "53024970-ca4f-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T09:08:23.975Z",
+        "updated": "2024-02-13T09:08:23.975Z"
+      },
+      "userdata": {}
+    },
+    "70dbe380-ca4f-11ee-b99b-f5363d8acf38": {
+      "source": "53027086-ca4f-11ee-b99b-f5363d8acf38",
+      "target": "70dbe37f-ca4f-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T09:08:23.975Z",
+        "updated": "2024-02-13T09:08:23.975Z"
+      },
+      "userdata": {}
+    },
+    "70dbe381-ca4f-11ee-b99b-f5363d8acf38": {
+      "source": "70dbe37f-ca4f-11ee-b99b-f5363d8acf38",
+      "target": "53027085-ca4f-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T09:08:23.975Z",
+        "updated": "2024-02-13T09:08:23.975Z"
+      },
+      "userdata": {}
+    },
+    "70dbe383-ca4f-11ee-b99b-f5363d8acf38": {
+      "source": "53027082-ca4f-11ee-b99b-f5363d8acf38",
+      "target": "70dbe382-ca4f-11ee-b99b-f5363d8acf38",
+      "metadata": {
+        "created": "2024-02-13T09:08:23.975Z",
+        "updated": "2024-02-13T09:08:23.975Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "2658": {
+      "text": "Police have arrested a boy of 17 in the southern French town of Grasse after at least two people were hurt in a shooting at a school. The boy, who is said to have been heavily armed, launched the attack at Tocqueville high school at lunchtime. Anti-terrorist commandos from the elite Raid force were sent to the scene. Grasse, the capital of France's perfume industry, is about 44km (27 miles) from the city of Nice, where a lorry attack in July killed 86 people. France remains under a state of emergency after a string of deadly attacks in the past 18 months. The government minister for victims affairs, Juliette Meadel, said all students were safe on social media, adding her thoughts were with the parents of the two people injured in the attack. The interior ministry has issued a terror alert, but local reports suggest the shooter was not linked to any group. There is conflicting information about whether or not there was a second shooter. Are you in the area? If it is safe to do so, share your experiences by emailing haveyoursay@bbc.co.uk. Please include a contact number if you are willing to speak to a BBC journalist. You can also contact us in the following ways:",
+      "title": "French school shooting: Teenage boy arrested after two people injured",
+      "source": "http://www.bbc.co.uk/news/world-europe-39292755",
+      "timestamp": "2017-03-16T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.204Z",
+        "updated": "2024-02-09T13:09:16.204Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "53024970-ca4f-11ee-b99b-f5363d8acf38",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.204Z",
+    "updated": "2024-02-13T09:09:17.988Z"
+  }
+}

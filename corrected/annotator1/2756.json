@@ -1,0 +1,530 @@
+{
+  "nodes": {
+    "39bc7f00-c426-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Negotiators for the self-proclaimed Donetsk People's Republic and Kiev, who met in Minsk on March 15, agreed to exchange all prisoners whose identity has been established by the moment",
+        "reference": {
+          "resource": "2756",
+          "offset": 27,
+          "text": "Negotiators for the self-proclaimed Donetsk People's Republic and Kiev, who met in Minsk on March 15, agreed to exchange all prisoners whose identity has been established by the moment"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:58:15.152Z",
+        "updated": "2024-02-05T12:58:15.152Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 198.36793785662405,
+            "y": -481.9286183227881
+          }
+        }
+      }
+    },
+    "634a9e60-c426-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "also focused on 62 persons who are, according to Ukraine, accused of committing grave crimes",
+        "reference": {
+          "resource": "2756",
+          "offset": 302,
+          "text": "also focused on 62 persons who are, according to Ukraine, accused of committing grave crimes"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:59:24.870Z",
+        "updated": "2024-02-05T12:59:24.870Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 24.83124382141841,
+            "y": 361.45698501496184
+          }
+        }
+      }
+    },
+    "64c1ae00-c426-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:59:27.328Z",
+        "updated": "2024-02-05T12:59:27.328Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 127.86708538296227,
+            "y": 251.1463882270586
+          }
+        }
+      }
+    },
+    "69fc2e40-c426-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "It was resolutely said to Ukraine that there would be no exchange without these 62 people",
+        "reference": {
+          "resource": "2756",
+          "offset": 444,
+          "text": "It was resolutely said to Ukraine that there would be no exchange without these 62 people"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T12:59:36.100Z",
+        "updated": "2024-02-05T12:59:36.100Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -81.87847721613423,
+            "y": 607.1830398812529
+          }
+        }
+      }
+    },
+    "6db67720-c426-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T12:59:42.354Z",
+        "updated": "2024-02-05T12:59:42.354Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 87.48649287099062,
+            "y": 512.2211780404949
+          }
+        }
+      }
+    },
+    "b2e30d90-c426-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "its will be extremely difficult to carry out an all-for-all prisoner exchange until-hostilities in Donbass are over",
+        "reference": {
+          "resource": "2756",
+          "offset": 669,
+          "text": "its will be extremely difficult to carry out an all-for-all prisoner exchange until-hostilities in Donbass are over"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:01:38.409Z",
+        "updated": "2024-02-05T13:01:38.409Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 416.7484395762731,
+            "y": 448.1653488211962
+          }
+        }
+      }
+    },
+    "b74d1e70-c426-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Ukrainian forces keep on detaining DPR supporters practically every day",
+        "reference": {
+          "resource": "2756",
+          "offset": 788,
+          "text": "Ukrainian forces keep on detaining DPR supporters practically every day"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:01:45.815Z",
+        "updated": "2024-02-05T13:01:45.815Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 416.74843957627286,
+            "y": 657.9146632303425
+          }
+        }
+      }
+    },
+    "ba3dd5c0-c426-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:01:50.748Z",
+        "updated": "2024-02-05T13:01:50.748Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 487.7925621987258,
+            "y": 572.2106422889709
+          }
+        }
+      }
+    },
+    "e64f1d90-c426-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": " it would be expedient to exchange those whose identity is established",
+        "reference": {
+          "resource": "2756",
+          "offset": 878,
+          "text": " it would be expedient to exchange those whose identity is established"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:03:04.681Z",
+        "updated": "2024-02-05T13:03:04.681Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 395.32243434092993,
+            "y": 260.96972413346333
+          }
+        }
+      }
+    },
+    "e8ace3b0-c426-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:03:08.651Z",
+        "updated": "2024-02-05T13:03:08.651Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 447.75976294321663,
+            "y": 368.0997503101779
+          }
+        }
+      }
+    },
+    "eab4c1a0-c426-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:03:12.058Z",
+        "updated": "2024-02-05T13:03:12.058Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 276.30091794443575,
+            "y": 247.46572786881012
+          }
+        }
+      }
+    },
+    "fe0759c0-c426-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "The DPR has been repeatedly calling for an all-for-all exchange of prisoners as was agreed at the Minsk talks",
+        "reference": {
+          "resource": "2756",
+          "offset": 950,
+          "text": "The DPR has been repeatedly calling for an all-for-all exchange of prisoners as was agreed at the Minsk talks"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:03:44.476Z",
+        "updated": "2024-02-05T13:03:44.476Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 562.9611952839462,
+            "y": 136.87804709155972
+          }
+        }
+      }
+    },
+    "04a4c560-c427-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:03:55.575Z",
+        "updated": "2024-02-05T13:03:55.575Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 395.57724376054455,
+            "y": 55.99542607274135
+          }
+        }
+      }
+    },
+    "0990fe90-c427-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "each time Kiev blocked this process",
+        "reference": {
+          "resource": "2756",
+          "offset": 1064,
+          "text": "each time Kiev blocked this process"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:04:03.833Z",
+        "updated": "2024-02-05T13:04:03.833Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 794.2229341407647,
+            "y": 40.279676070574794
+          }
+        }
+      }
+    },
+    "0f2d74f0-c427-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:04:13.247Z",
+        "updated": "2024-02-05T13:04:13.247Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 756.7126539200217,
+            "y": -41.664460748759424
+          }
+        }
+      }
+    },
+    "43472a10-c427-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Prisoner exchanges in the all-for-all format is one of the key provisions of the Package of Measures on the implementation of the Minsk agreements that was signed in the Belarusian capital Minsk on February 12 after marathon talks between the leaders of Russia, Germany, France and Ukraine",
+        "reference": {
+          "resource": "2756",
+          "offset": 1318,
+          "text": "Prisoner exchanges in the all-for-all format is one of the key provisions of the Package of Measures on the implementation of the Minsk agreements that was signed in the Belarusian capital Minsk on February 12 after marathon talks between the leaders of Russia, Germany, France and Ukraine"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T13:05:40.657Z",
+        "updated": "2024-02-05T13:05:40.657Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1074.7995521191276,
+            "y": 168.87729264399118
+          }
+        }
+      }
+    },
+    "6db98ef0-c427-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T13:06:51.871Z",
+        "updated": "2024-02-05T13:06:51.871Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1120.4230846327143,
+            "y": -66.99429431625053
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "64c1ae01-c426-11ee-a06c-cb1cbb90ffa4": {
+      "source": "634a9e60-c426-11ee-a06c-cb1cbb90ffa4",
+      "target": "64c1ae00-c426-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:59:27.328Z",
+        "updated": "2024-02-05T12:59:27.328Z"
+      },
+      "userdata": {}
+    },
+    "64c1ae02-c426-11ee-a06c-cb1cbb90ffa4": {
+      "source": "64c1ae00-c426-11ee-a06c-cb1cbb90ffa4",
+      "target": "39bc7f00-c426-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:59:27.328Z",
+        "updated": "2024-02-05T12:59:27.328Z"
+      },
+      "userdata": {}
+    },
+    "6db67721-c426-11ee-a06c-cb1cbb90ffa4": {
+      "source": "69fc2e40-c426-11ee-a06c-cb1cbb90ffa4",
+      "target": "6db67720-c426-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:59:42.354Z",
+        "updated": "2024-02-05T12:59:42.354Z"
+      },
+      "userdata": {}
+    },
+    "6db67722-c426-11ee-a06c-cb1cbb90ffa4": {
+      "source": "6db67720-c426-11ee-a06c-cb1cbb90ffa4",
+      "target": "634a9e60-c426-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T12:59:42.354Z",
+        "updated": "2024-02-05T12:59:42.354Z"
+      },
+      "userdata": {}
+    },
+    "ba3dd5c1-c426-11ee-a06c-cb1cbb90ffa4": {
+      "source": "b74d1e70-c426-11ee-a06c-cb1cbb90ffa4",
+      "target": "ba3dd5c0-c426-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:01:50.748Z",
+        "updated": "2024-02-05T13:01:50.748Z"
+      },
+      "userdata": {}
+    },
+    "ba3dd5c2-c426-11ee-a06c-cb1cbb90ffa4": {
+      "source": "ba3dd5c0-c426-11ee-a06c-cb1cbb90ffa4",
+      "target": "b2e30d90-c426-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:01:50.748Z",
+        "updated": "2024-02-05T13:01:50.748Z"
+      },
+      "userdata": {}
+    },
+    "e8ace3b1-c426-11ee-a06c-cb1cbb90ffa4": {
+      "source": "b2e30d90-c426-11ee-a06c-cb1cbb90ffa4",
+      "target": "e8ace3b0-c426-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:03:08.651Z",
+        "updated": "2024-02-05T13:03:08.651Z"
+      },
+      "userdata": {}
+    },
+    "e8ace3b2-c426-11ee-a06c-cb1cbb90ffa4": {
+      "source": "e8ace3b0-c426-11ee-a06c-cb1cbb90ffa4",
+      "target": "e64f1d90-c426-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:03:08.651Z",
+        "updated": "2024-02-05T13:03:08.651Z"
+      },
+      "userdata": {}
+    },
+    "eab4c1a1-c426-11ee-a06c-cb1cbb90ffa4": {
+      "source": "e64f1d90-c426-11ee-a06c-cb1cbb90ffa4",
+      "target": "eab4c1a0-c426-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:03:12.058Z",
+        "updated": "2024-02-05T13:03:12.058Z"
+      },
+      "userdata": {}
+    },
+    "eab4c1a2-c426-11ee-a06c-cb1cbb90ffa4": {
+      "source": "eab4c1a0-c426-11ee-a06c-cb1cbb90ffa4",
+      "target": "39bc7f00-c426-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:03:12.058Z",
+        "updated": "2024-02-05T13:03:12.058Z"
+      },
+      "userdata": {}
+    },
+    "04a4ec70-c427-11ee-a06c-cb1cbb90ffa4": {
+      "source": "fe0759c0-c426-11ee-a06c-cb1cbb90ffa4",
+      "target": "04a4c560-c427-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:03:55.575Z",
+        "updated": "2024-02-05T13:03:55.575Z"
+      },
+      "userdata": {}
+    },
+    "04a4ec71-c427-11ee-a06c-cb1cbb90ffa4": {
+      "source": "04a4c560-c427-11ee-a06c-cb1cbb90ffa4",
+      "target": "39bc7f00-c426-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:03:55.575Z",
+        "updated": "2024-02-05T13:03:55.575Z"
+      },
+      "userdata": {}
+    },
+    "0b9b2671-c427-11ee-a06c-cb1cbb90ffa4": {
+      "source": "0990fe90-c427-11ee-a06c-cb1cbb90ffa4",
+      "target": "0b9b2670-c427-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:04:07.255Z",
+        "updated": "2024-02-05T13:04:07.255Z"
+      },
+      "userdata": {}
+    },
+    "0b9b2672-c427-11ee-a06c-cb1cbb90ffa4": {
+      "source": "0b9b2670-c427-11ee-a06c-cb1cbb90ffa4",
+      "target": "39bc7f00-c426-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:04:07.255Z",
+        "updated": "2024-02-05T13:04:07.255Z"
+      },
+      "userdata": {}
+    },
+    "0f2d74f1-c427-11ee-a06c-cb1cbb90ffa4": {
+      "source": "0990fe90-c427-11ee-a06c-cb1cbb90ffa4",
+      "target": "0f2d74f0-c427-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:04:13.247Z",
+        "updated": "2024-02-05T13:04:13.247Z"
+      },
+      "userdata": {}
+    },
+    "0f2d74f2-c427-11ee-a06c-cb1cbb90ffa4": {
+      "source": "0f2d74f0-c427-11ee-a06c-cb1cbb90ffa4",
+      "target": "39bc7f00-c426-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:04:13.247Z",
+        "updated": "2024-02-05T13:04:13.247Z"
+      },
+      "userdata": {}
+    },
+    "6db98ef1-c427-11ee-a06c-cb1cbb90ffa4": {
+      "source": "43472a10-c427-11ee-a06c-cb1cbb90ffa4",
+      "target": "6db98ef0-c427-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:06:51.871Z",
+        "updated": "2024-02-05T13:06:51.871Z"
+      },
+      "userdata": {}
+    },
+    "6db98ef2-c427-11ee-a06c-cb1cbb90ffa4": {
+      "source": "6db98ef0-c427-11ee-a06c-cb1cbb90ffa4",
+      "target": "39bc7f00-c426-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T13:06:51.871Z",
+        "updated": "2024-02-05T13:06:51.871Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "2756": {
+      "text": "DONETSK, March 17. /TASS/. Negotiators for the self-proclaimed Donetsk People's Republic and Kiev, who met in Minsk on March 15, agreed to exchange all prisoners whose identity has been established by the moment, DPR's human rights ombudswoman Darya Morozova said on Friday. The humanitarian subgroup \"also focused on 62 persons who are, according to Ukraine, accused of committing grave crimes,\" the Donetsk News Agency quoted her as saying. \"It was resolutely said to Ukraine that there would be no exchange without these 62 people. It was decided to exchange all the prisoners whose identity has been established in the all-for-all format.\"   According to Morozova, its will be extremely difficult to carry out an all-for-all prisoner exchange until-hostilities in Donbass are over as-Ukrainian forces keep on detaining DPR supporters practically every day. So, she stressed, it would be expedient to exchange those whose identity is established. The DPR has been repeatedly calling for an all-for-all exchange of prisoners as was agreed at the Minsk talks but each time Kiev blocked this process. On February 2, participants in the talks agreed a mechanism of updating the lists of those who are subject for the all-for-all exchange. Apart from that, the sides agreed to involve UN representatives to the process. Prisoner exchanges in the all-for-all format is one of the key provisions of the Package of Measures on the implementation of the Minsk agreements that was signed in the Belarusian capital Minsk on February 12 after marathon talks between the leaders of Russia, Germany, France and Ukraine. Apart from that, the 13-point Package of Measures on implementation of the September 2014 Minsk agreements, known as Minsk-2, in particular included an agreement on cessation of fire from February 15, withdrawal of heavy armaments, as well as measures on long-term political settlement of the situation in Ukraine, including establishment of working subgroups as priority tasks.",
+      "title": "Kiev, Donetsk republic agree to exchange all prisoners whose identity is established",
+      "source": "http://tass.com/world/936217",
+      "timestamp": "2024-02-05T12:57:52.236Z",
+      "metadata": {
+        "created": "2024-02-05T09:49:22.016Z",
+        "updated": "2024-02-05T09:49:22.016Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "69ca24d0-c5b2-11ee-bbb2-f78c6e9d2422": {
+      "name": "Martin Hoppe",
+      "email": "mogramming@gmail.com",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "39bc7f00-c426-11ee-a06c-cb1cbb90ffa4",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-05T09:49:22.016Z",
+    "updated": "2024-04-17T07:40:54.659Z"
+  },
+  "userdata": {}
+}

@@ -1,0 +1,514 @@
+{
+  "nodes": {
+    "86b54670-c67e-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "There was a substantial increase in the number of murders committed last year, according to the latest official crime figures.",
+        "reference": {
+          "resource": "3685",
+          "offset": 0,
+          "text": "There was a substantial increase in the number of murders committed last year, according to the latest official crime figures."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:35:22.327Z",
+        "updated": "2024-02-08T12:35:22.327Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 733.4294248058328,
+            "y": 12
+          }
+        }
+      }
+    },
+    "c8067770-c67e-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": " Murders were up 31% in 2016 when compared to the previous year, the-Central Statistics Office said in its Recorded Crime figures for 2016",
+        "reference": {
+          "resource": "3685",
+          "offset": 126,
+          "text": " Murders were up 31% in 2016 when compared to the previous year, the-Central Statistics Office said in its Recorded Crime figures for 2016"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:37:11.911Z",
+        "updated": "2024-02-08T12:37:11.911Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.00016502083434,
+            "y": 277
+          }
+        }
+      }
+    },
+    "cad94680-c67e-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T12:37:16.648Z",
+        "updated": "2024-02-08T12:37:16.648Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.0000384910077,
+            "y": 177
+          }
+        }
+      }
+    },
+    "eb84ec40-c67e-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "The number of sexual offences also increased, up 8%. Sexual assaults on children were-up over 20%.",
+        "reference": {
+          "resource": "3685",
+          "offset": 267,
+          "text": "The number of sexual offences also increased, up 8%. Sexual assaults on children were-up over 20%."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:38:11.460Z",
+        "updated": "2024-02-08T12:38:11.460Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0008528299303,
+            "y": 277
+          }
+        }
+      }
+    },
+    "ed799050-c67e-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T12:38:14.741Z",
+        "updated": "2024-02-08T12:38:14.741Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0008286089933,
+            "y": 177
+          }
+        }
+      }
+    },
+    "f6781d70-c67e-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "There were-also increases in drink-driving offences and crimes against children while burglary, robbery, kidnapping and related offences dropped in 2016",
+        "reference": {
+          "resource": "3685",
+          "offset": 366,
+          "text": "There were-also increases in drink-driving offences and crimes against children while burglary, robbery, kidnapping and related offences dropped in 2016"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:38:29.831Z",
+        "updated": "2024-02-08T12:38:29.831Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1070.969294631917,
+            "y": 295.05685598645755
+          }
+        }
+      }
+    },
+    "fa5be750-c67e-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T12:38:36.357Z",
+        "updated": "2024-02-08T12:38:36.357Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0004545895658,
+            "y": 177
+          }
+        }
+      }
+    },
+    "20554730-c67f-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "31%-increase in murders last yea",
+        "reference": {
+          "resource": "3685",
+          "offset": 741,
+          "text": "31%-increase in murders last yea"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:39:40.067Z",
+        "updated": "2024-02-08T12:39:40.067Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1412.0002797578197,
+            "y": 321.5
+          }
+        }
+      }
+    },
+    "2273ba60-c67f-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T12:39:43.622Z",
+        "updated": "2024-02-08T12:39:43.622Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1490.5008408710748,
+            "y": 177
+          }
+        }
+      }
+    },
+    "2d0b3700-c67f-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "Violent crime in 2016 was dominated by the ongoing feud between the Hutch and Kinahan criminal gangs which has so far resulted in the death of ten people",
+        "reference": {
+          "resource": "3685",
+          "offset": 523,
+          "text": "Violent crime in 2016 was dominated by the ongoing feud between the Hutch and Kinahan criminal gangs which has so far resulted in the death of ten people"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:40:01.392Z",
+        "updated": "2024-02-08T12:40:01.392Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1390.5009644495724,
+            "y": 566
+          }
+        }
+      }
+    },
+    "316dcdd0-c67f-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T12:40:08.749Z",
+        "updated": "2024-02-08T12:40:08.749Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1490.5000057242069,
+            "y": 466
+          }
+        }
+      }
+    },
+    "40f6dad0-c67f-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "The statistics also show-over 260 cases of child cruelty or neglect, an increase of over 50%.",
+        "reference": {
+          "resource": "3685",
+          "offset": 804,
+          "text": "The statistics also show-over 260 cases of child cruelty or neglect, an increase of over 50%."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:40:34.813Z",
+        "updated": "2024-02-08T12:40:34.813Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1719.0003838048679,
+            "y": 277
+          }
+        }
+      }
+    },
+    "430659e0-c67f-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T12:40:38.270Z",
+        "updated": "2024-02-08T12:40:38.270Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1819.0003875612022,
+            "y": 177
+          }
+        }
+      }
+    },
+    "54832090-c67f-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "There was a 6%-increase in drugs crime",
+        "reference": {
+          "resource": "3685",
+          "offset": 898,
+          "text": "There was a 6%-increase in drugs crime"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:41:07.609Z",
+        "updated": "2024-02-08T12:41:07.609Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000909613479704,
+            "y": 277
+          }
+        }
+      }
+    },
+    "571e3dd0-c67f-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T12:41:11.981Z",
+        "updated": "2024-02-08T12:41:11.981Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00061004139098,
+            "y": 177
+          }
+        }
+      }
+    },
+    "643fc0b0-c67f-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "gun and explosive offences were down over 10%, as was burglary, robbery and kidnapping offences.",
+        "reference": {
+          "resource": "3685",
+          "offset": 941,
+          "text": "gun and explosive offences were down over 10%, as was burglary, robbery and kidnapping offences."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:41:34.011Z",
+        "updated": "2024-02-08T12:41:34.011Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -356.3705519488112,
+            "y": 297.09427697251215
+          }
+        }
+      }
+    },
+    "6f253640-c67f-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T12:41:52.292Z",
+        "updated": "2024-02-08T12:41:52.292Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -248.14744878681017,
+            "y": 182.1263327922174
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "cad94681-c67e-11ee-bb24-29eae2ae94d0": {
+      "source": "c8067770-c67e-11ee-bb24-29eae2ae94d0",
+      "target": "cad94680-c67e-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:37:16.648Z",
+        "updated": "2024-02-08T12:37:16.648Z"
+      },
+      "userdata": {}
+    },
+    "cad94682-c67e-11ee-bb24-29eae2ae94d0": {
+      "source": "cad94680-c67e-11ee-bb24-29eae2ae94d0",
+      "target": "86b54670-c67e-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:37:16.648Z",
+        "updated": "2024-02-08T12:37:16.648Z"
+      },
+      "userdata": {}
+    },
+    "ed799051-c67e-11ee-bb24-29eae2ae94d0": {
+      "source": "eb84ec40-c67e-11ee-bb24-29eae2ae94d0",
+      "target": "ed799050-c67e-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:38:14.741Z",
+        "updated": "2024-02-08T12:38:14.741Z"
+      },
+      "userdata": {}
+    },
+    "ed799052-c67e-11ee-bb24-29eae2ae94d0": {
+      "source": "ed799050-c67e-11ee-bb24-29eae2ae94d0",
+      "target": "86b54670-c67e-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:38:14.741Z",
+        "updated": "2024-02-08T12:38:14.741Z"
+      },
+      "userdata": {}
+    },
+    "fa5be751-c67e-11ee-bb24-29eae2ae94d0": {
+      "source": "f6781d70-c67e-11ee-bb24-29eae2ae94d0",
+      "target": "fa5be750-c67e-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:38:36.357Z",
+        "updated": "2024-02-08T12:38:36.357Z"
+      },
+      "userdata": {}
+    },
+    "fa5be752-c67e-11ee-bb24-29eae2ae94d0": {
+      "source": "fa5be750-c67e-11ee-bb24-29eae2ae94d0",
+      "target": "86b54670-c67e-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:38:36.357Z",
+        "updated": "2024-02-08T12:38:36.357Z"
+      },
+      "userdata": {}
+    },
+    "2273ba61-c67f-11ee-bb24-29eae2ae94d0": {
+      "source": "20554730-c67f-11ee-bb24-29eae2ae94d0",
+      "target": "2273ba60-c67f-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:39:43.622Z",
+        "updated": "2024-02-08T12:39:43.622Z"
+      },
+      "userdata": {}
+    },
+    "2273ba62-c67f-11ee-bb24-29eae2ae94d0": {
+      "source": "2273ba60-c67f-11ee-bb24-29eae2ae94d0",
+      "target": "86b54670-c67e-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:39:43.622Z",
+        "updated": "2024-02-08T12:39:43.622Z"
+      },
+      "userdata": {}
+    },
+    "316dcdd1-c67f-11ee-bb24-29eae2ae94d0": {
+      "source": "2d0b3700-c67f-11ee-bb24-29eae2ae94d0",
+      "target": "316dcdd0-c67f-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:40:08.749Z",
+        "updated": "2024-02-08T12:40:08.749Z"
+      },
+      "userdata": {}
+    },
+    "316dcdd2-c67f-11ee-bb24-29eae2ae94d0": {
+      "source": "316dcdd0-c67f-11ee-bb24-29eae2ae94d0",
+      "target": "20554730-c67f-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:40:08.749Z",
+        "updated": "2024-02-08T12:40:08.749Z"
+      },
+      "userdata": {}
+    },
+    "430659e1-c67f-11ee-bb24-29eae2ae94d0": {
+      "source": "40f6dad0-c67f-11ee-bb24-29eae2ae94d0",
+      "target": "430659e0-c67f-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:40:38.270Z",
+        "updated": "2024-02-08T12:40:38.270Z"
+      },
+      "userdata": {}
+    },
+    "430659e2-c67f-11ee-bb24-29eae2ae94d0": {
+      "source": "430659e0-c67f-11ee-bb24-29eae2ae94d0",
+      "target": "86b54670-c67e-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:40:38.270Z",
+        "updated": "2024-02-08T12:40:38.270Z"
+      },
+      "userdata": {}
+    },
+    "571e3dd1-c67f-11ee-bb24-29eae2ae94d0": {
+      "source": "54832090-c67f-11ee-bb24-29eae2ae94d0",
+      "target": "571e3dd0-c67f-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:41:11.981Z",
+        "updated": "2024-02-08T12:41:11.981Z"
+      },
+      "userdata": {}
+    },
+    "571e3dd2-c67f-11ee-bb24-29eae2ae94d0": {
+      "source": "571e3dd0-c67f-11ee-bb24-29eae2ae94d0",
+      "target": "86b54670-c67e-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:41:11.981Z",
+        "updated": "2024-02-08T12:41:11.981Z"
+      },
+      "userdata": {}
+    },
+    "69e84500-c67f-11ee-bb24-29eae2ae94d0": {
+      "source": "643fc0b0-c67f-11ee-bb24-29eae2ae94d0",
+      "target": "b78efa80-c678-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:41:43.504Z",
+        "updated": "2024-02-08T12:41:43.504Z"
+      },
+      "userdata": {}
+    },
+    "6f253641-c67f-11ee-bb24-29eae2ae94d0": {
+      "source": "643fc0b0-c67f-11ee-bb24-29eae2ae94d0",
+      "target": "6f253640-c67f-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:41:52.292Z",
+        "updated": "2024-02-08T12:41:52.292Z"
+      },
+      "userdata": {}
+    },
+    "6f253642-c67f-11ee-bb24-29eae2ae94d0": {
+      "source": "6f253640-c67f-11ee-bb24-29eae2ae94d0",
+      "target": "86b54670-c67e-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:41:52.292Z",
+        "updated": "2024-02-08T12:41:52.292Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "3685": {
+      "text": "There was a substantial increase in the number of murders committed last year, according to the latest official crime figures. Murders were up 31% in 2016 when compared to the previous year, the-Central Statistics Office said in its Recorded Crime figures for 2016.- The number of sexual offences also increased, up 8%. Sexual assaults on children were-up over 20%. There were-also increases in drink-driving offences and crimes against children while burglary, robbery, kidnapping and related offences dropped in 2016. -- Violent crime in 2016 was dominated by the ongoing feud between the Hutch and Kinahan criminal gangs which has so far resulted in the death of ten people. Those killings are reflected in the crime figures which show a 31%-increase in murders last year - 38 compared to 29 in-2015. The statistics also show-over 260 cases of child cruelty or neglect, an increase of over 50%. There was a 6%-increase in drugs crime but gun and explosive offences were down over 10%, as was burglary, robbery and kidnapping offences. The CSO resumed publishing recorded crime statistics in June 2015, following a comprehensive review of the accuracy of crime data from An Garda S¨ªoch¨¢na. The review was on foot of a-report by the Garda Inspectorate on crime investigation. The CSO recommends the findings of this report are taken into account when interpreting the above figures.",
+      "title": "Murders up 31% last year, CSO crime figures show",
+      "source": "http://www.rte.ie/news/crime/2017/0329/863475-crime-cso-stats/",
+      "timestamp": "2024-02-08T12:33:57.876Z",
+      "metadata": {
+        "created": "2024-02-05T09:49:22.068Z",
+        "updated": "2024-02-05T09:49:22.068Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "86b54670-c67e-11ee-bb24-29eae2ae94d0",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-05T09:49:22.068Z",
+    "updated": "2024-02-08T12:43:00.397Z"
+  }
+}

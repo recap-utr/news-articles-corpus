@@ -1,0 +1,553 @@
+{
+  "nodes": {
+    "03d34891-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Relations between the two NATO allies soured further after the town of Gaggenau in southern Germany refused permission for Turkey's justice minister to address supporters of Turkish President Recep Tayyip Erdogan",
+        "reference": {
+          "resource": "1932",
+          "text": "Relations between the two NATO allies soured further after the town of Gaggenau in southern Germany refused permission for Turkey's justice minister to address supporters of Turkish President Recep Tayyip Erdogan"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:56:47.257Z",
+        "updated": "2024-02-11T12:56:47.257Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This provides an instance illustrating the tensions between Germany and Turkey over the referendum campaigning issue."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 362.00081785132284,
+            "y": 350
+          }
+        }
+      }
+    },
+    "03d34890-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "German lawmakers from across the political spectrum backed preventing Turkish politicians from campaigning in Germany for an upcoming referendum that critics say will deal a death blow to democracy in the country",
+        "reference": {
+          "resource": "1932",
+          "text": "German lawmakers from across the political spectrum backed preventing Turkish politicians from campaigning in Germany for an upcoming referendum that critics say will deal a death blow to democracy in the country"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:56:47.257Z",
+        "updated": "2024-02-11T12:56:47.257Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement introduces the main contention and reason behind German lawmakers' stance against Turkish campaigning in Germany.",
+          "mcConfig": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "mcExplanation": "This ADU encapsulates the main contention and provides a broad overview of the stance and actions taken by German lawmakers against Turkish referendum campaigning in Germany, positioning it as the major claim."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 712.0002565183624,
+            "y": 12
+          }
+        }
+      }
+    },
+    "03d36fa4-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Illustrates a specific instance of actions taken in line with the major claim's mindset."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 462.00017869612446,
+            "y": 250
+          }
+        }
+      }
+    },
+    "03d34894-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Horst Seehofer, Bavaria's state premier and head of Merkel's sister party, the Christian Social Union, said Turkish politicians had no right to carry out election campaigns in Germany",
+        "reference": {
+          "resource": "1932",
+          "text": "Horst Seehofer, Bavaria's state premier and head of Merkel's sister party, the Christian Social Union, said Turkish politicians had no right to carry out election campaigns in Germany"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:56:47.257Z",
+        "updated": "2024-02-11T12:56:47.257Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Directly supports the notion that Turkish politicians should not campaign in Germany, supplementing the stance against the referendum campaigning."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 712.0001162521177,
+            "y": 350
+          }
+        }
+      }
+    },
+    "03d36fad-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Provides a direct supportive stance from a German political leader."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 812.0007489382698,
+            "y": 250
+          }
+        }
+      }
+    },
+    "03d34895-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "The opposition in Turkey has been handicapped in the referendum campaign and warned that if the constitutional changes pass the country would turn into a full..",
+        "reference": {
+          "resource": "1932",
+          "text": "The opposition in Turkey has been handicapped in the referendum campaign and warned that if the constitutional changes pass the country would turn into a full.."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:56:47.257Z",
+        "updated": "2024-02-11T12:56:47.257Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Provides a reason for opposition by indicating potential negative outcomes of the referendum in Turkey, hence supporting efforts to prevent the campaigning in Germany."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1062.0009772198612,
+            "y": 382
+          }
+        }
+      }
+    },
+    "03d36fb0-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Gives a reason for the opposition, hence indirectly supporting the major claim."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1162.000951567854,
+            "y": 250
+          }
+        }
+      }
+    },
+    "03d34897-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "The Turkish referendum comes as Erdogan has used post-coup emergency powers to carry out a massive purge targeting tens of thousands of people",
+        "reference": {
+          "resource": "1932",
+          "offset": 2082,
+          "text": "The Turkish referendum comes as Erdogan has used post-coup emergency powers to carry out a massive purge targeting tens of thousands of people"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:56:47.257Z",
+        "updated": "2024-02-11T12:56:47.257Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Contextualizes the referendum within wider authoritarian actions in Turkey, adding weight to concerns about its implications."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1362.000698408214,
+            "y": 688
+          }
+        }
+      }
+    },
+    "03d36fb6-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Contextualizes the referendum's implications, further supporting the need for opposition."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1462.0008668616547,
+            "y": 588
+          }
+        }
+      }
+    },
+    "03d36fa0-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Erdogan and his ministers have repeatedly likened a vote against the referendum as support for the coup attempt and \"terrorists.\"",
+        "reference": {
+          "resource": "1932",
+          "offset": 2336,
+          "text": "Erdogan and his ministers have repeatedly likened a vote against the referendum as support for the coup attempt and \"terrorists.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Illustrates the polarizing and potentially undemocratic framing of the referendum by Turkish leaders, reinforcing concerns."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1012.0001422963493,
+            "y": 688
+          }
+        }
+      }
+    },
+    "03d36fb9-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Illustrates the divisive nature of the referendum's framing, adding to the reasons for opposition."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1112.0000208028541,
+            "y": 588
+          }
+        }
+      }
+    },
+    "03d36fa1-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Thomas Strobl, the interior minister of Baden-W¨¹rttemberg, said Turkey was retreating from the rule of law, press freedom and the foundations of democracy",
+        "reference": {
+          "resource": "1932",
+          "text": "Thomas Strobl, the interior minister of Baden-W¨¹rttemberg, said Turkey was retreating from the rule of law, press freedom and the foundations of democracy"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Further supports the argument against Turkish campaigning in Germany by highlighting concerns about Turkey's democratic backslide."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1412.0003409827307,
+            "y": 350
+          }
+        }
+      }
+    },
+    "03d36fbc-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Highlights concerns aligning with the major claim."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1512.0003346539772,
+            "y": 250
+          }
+        }
+      }
+    },
+    "03d36fa3-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Sevim Dagdelen, a Turkish-Kurdish lawmaker for the opposition Left Party in the Bundestag, said German government must and can prevent Erdogan and his ministers from campaigning for dictatorship and a return of the death penalty",
+        "reference": {
+          "resource": "1932",
+          "offset": 3772,
+          "text": "Sevim Dagdelen, a Turkish-Kurdish lawmaker for the opposition Left Party in the Bundestag, said German government must and can prevent Erdogan and his ministers from campaigning for dictatorship and a return of the death penalty"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Emphasizes the necessity and capacity of the German government to oppose Turkish referendum campaigning on the grounds of its implications for dictatorship and human rights violations."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 12.000652340488564,
+            "y": 350
+          }
+        }
+      }
+    },
+    "03d36fc2-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Stresses the importance and possibility of German intervention against the campaign."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 112.00098044097874,
+            "y": 250
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "03d36fa5-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "03d34891-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "03d36fa4-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {}
+    },
+    "03d36fa6-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "03d36fa4-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "03d34890-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {}
+    },
+    "03d36fae-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "03d34894-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "03d36fad-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {}
+    },
+    "03d36faf-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "03d36fad-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "03d34890-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {}
+    },
+    "03d36fb1-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "03d34895-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "03d36fb0-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {}
+    },
+    "03d36fb2-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "03d36fb0-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "03d34890-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {}
+    },
+    "03d36fb7-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "03d34897-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "03d36fb6-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {}
+    },
+    "03d36fb8-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "03d36fb6-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "03d34895-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {}
+    },
+    "03d36fba-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "03d36fa0-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "03d36fb9-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {}
+    },
+    "03d36fbb-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "03d36fb9-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "03d34895-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {}
+    },
+    "03d36fbd-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "03d36fa1-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "03d36fbc-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {}
+    },
+    "03d36fbe-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "03d36fbc-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "03d34890-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {}
+    },
+    "03d36fc3-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "03d36fa3-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "03d36fc2-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {}
+    },
+    "03d36fc4-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "03d36fc2-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "03d34890-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "1932": {
+      "text": "German lawmakers from across the political spectrum on Friday backed preventing-Turkish politicians from campaigning in Germany for an upcoming referendum that critics say will-deal a death blow to democracy in the country.- Relations between the two NATO allies soured further on Thursday after the town of Gaggenau in southern Germany refused permission for Turkey's justice minister to address supporters of Turkish President Recep Tayyip Erdogan. The event was meant-to rally support for an April referendum that will dramatically expand the powers of the presidency.-The city of Cologne also blocked an event where Turkish Economy Minister Nihat Zeybecki was to campaign on Sunday, citing security concerns. The decisions drew a sharp rebuke from Ankara, with Turkish Foreign Minister on Friday accusing Berlin of campaigning against the referendum and double standards on freedom of speech. Wolfgang Bosbach, a lawmaker from Chancellor Angela Merkel's Christian Democratic Union, described Turkish arguments about freedom of speech as a \"sleight of hand.\" Send Facebook Twitter Google+ Whatsapp Tumblr linkedin stumble Digg reddit Newsvine Permalink http://dw.com/p/2Ya3W \"Germany is not a Turkish outpost, and there is no legal right for foreign politicians who want to campaign on German soil,\" Bosbach said, warning that internal conflicts in Turkey should not be brought to Germany. Horst Seehofer, Bavaria's state premier and head of Merkel's sister party, the Christian Social Union, told the daily \"S¨¹ddeutsche-Zeitung\" that Turkish politicians had no right to carry out election campaigns in Germany. \"When Turkish politicians want to use our liberal laws to promote an anti-democratic restructuring in their country, then they are abusing their rights as a guest,\" Seehofer said. The opposition in Turkey has been handicapped in the referendum campaign and warned that if the constitutional changes pass the country would turn into a-full-blown dictatorship. Germany is home to some 3 million people of Turkish origin, about half of whom can cast a ballot in April. The Turkish referendum comes as Erdogan has used post-coup emergency powers to carry out a massive purge targeting tens of thousands of people, including-journalists, like Germany's Deniz Yucel, and the Kurdish opposition, drawing criticism from Europe.-Erdogan and his ministers have repeatedly likened a vote against the referendum as support for the coup attempt and \"terrorists.\" A broader deterioration in ties between Ankara and Berlin took another hit on Monday-when Turkish-German \"Die Welt\" correspondent Deniz Yucel was arrested.-He faces up to several years in prison if convicted on \"terrorism\" charges. Thomas Strobl, the interior minister of Baden-W¨¹rttemberg, where Gaggenau is located, said Turkey was retreating from the rule of law, press freedom and the foundations of democracy. \"Whoever wants to campaign for Turkish issues should do it in Turkey,\" he told the \"Mannheimer Morgen\" newspaper. Thomas Kutschaty, the justice minister of North Rhine-Westphalia and a-member of the Social Democrats, also warned of Turkish officials stoking divisions in Turkish-German society. Merkel should make clear to Erdogan that \"such divisive campaigning with anti-democratic goals is not welcome here in Germany,\" he told public broadcaster WDR. Cem Ozdemir, the co-chair of the opposition Green party whose family is of Turkish origin, said on Thursday that Turkish politicians have no right to campaign in Germany so long as freedoms in Turkey are restricted. \"Set the opposition free, give them the possibility to hold events [against the referendum],\" he said. \"Stop restricting the press, set Deniz Yucel and the other journalists free. Then you can use our rights,\" he said. Sevim Dagdelen, a Turkish-Kurdish lawmaker for the opposition Left Party in the Bundestag, said German government must and can prevent Erdogan and his ministers from campaigning for dictatorship and a return of the death penalty. cw/sms (AFP, dpa) -",
+      "title": "German politicians line up against 'anti-democratic' Turkish referendum campaign",
+      "source": "http://www.dw.com/en/german-politicians-line-up-against-anti-democratic-turkish-referendum-campaign/a-37797622?maca=en-rss-en-all-1573-rdf",
+      "timestamp": "2017-03-03T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.210Z",
+        "updated": "2024-02-09T13:09:16.210Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "03d34890-c8dd-11ee-a7b6-0184e7d3dd10",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.210Z",
+    "updated": "2024-02-11T13:01:14.924Z"
+  }
+}

@@ -1,0 +1,686 @@
+{
+  "nodes": {
+    "617f9320-ca4c-11ee-a4d8-23b63abe8329": {
+      "atom": {
+        "text": "Colombia's leftist FARC rebels are due to begin surrendering their weapons under a landmark-peace deal, marking the delicate transition from an armed group to a political party following more than half a century at war",
+        "reference": {
+          "resource": "1846",
+          "text": "Colombia's leftist FARC rebels are due to begin surrendering their weapons under a landmark-peace deal, marking the delicate transition from an armed group to a political party following more than half a century at war"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:46:29.714Z",
+        "updated": "2024-02-13T08:46:29.714Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 757.5003343204348,
+            "y": 12
+          }
+        }
+      }
+    },
+    "617f9321-ca4c-11ee-a4d8-23b63abe8329": {
+      "atom": {
+        "text": "After weeks of mustering its troops at designated disarmament zones, the Revolutionary Armed Forces of Colombia (FARC), was set on Wednesday to start an inventory of its weapons and destroying munitions under UN supervision",
+        "reference": {
+          "resource": "1846",
+          "offset": 223,
+          "text": "After weeks of mustering its troops at designated disarmament zones, the Revolutionary Armed Forces of Colombia (FARC), was set on Wednesday to start an inventory of its weapons and destroying munitions under UN supervision"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:46:29.714Z",
+        "updated": "2024-02-13T08:46:29.714Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.00089559949544,
+            "y": 374
+          }
+        }
+      }
+    },
+    "617f9322-ca4c-11ee-a4d8-23b63abe8329": {
+      "atom": {
+        "text": "\"I'm abandoning my rifle for a broom,\"",
+        "reference": {
+          "resource": "1846",
+          "offset": 449,
+          "text": "\"I'm abandoning my rifle for a broom,\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:46:29.714Z",
+        "updated": "2024-02-13T08:46:29.714Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 416.5007595784188,
+            "y": 769
+          }
+        }
+      }
+    },
+    "617f9323-ca4c-11ee-a4d8-23b63abe8329": {
+      "atom": {
+        "text": "\"Let's hope this leads to peace,\"",
+        "reference": {
+          "resource": "1846",
+          "offset": 1014,
+          "text": "\"Let's hope this leads to peace,\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:46:29.714Z",
+        "updated": "2024-02-13T08:46:29.714Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 438.5007823740296,
+            "y": 1002
+          }
+        }
+      }
+    },
+    "617f9324-ca4c-11ee-a4d8-23b63abe8329": {
+      "atom": {
+        "text": "the process involved the registration of weapons, the destruction of unstable weapons and the storage of side arms",
+        "reference": {
+          "resource": "1846",
+          "text": "the process involved the registration of weapons, the destruction of unstable weapons and the storage of side arms"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:46:29.714Z",
+        "updated": "2024-02-13T08:46:29.714Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 66.50041256206401,
+            "y": 736
+          }
+        }
+      }
+    },
+    "617f9325-ca4c-11ee-a4d8-23b63abe8329": {
+      "atom": {
+        "text": "President Juan Manuel Santos, who won the Nobel Peace Prize in October for his efforts to end the country's 53-year conflict, called the disarmament \"historic news for Colombians\" in a post on Twitter",
+        "reference": {
+          "resource": "1846",
+          "offset": 1257,
+          "text": "President Juan Manuel Santos, who won the Nobel Peace Prize in October for his efforts to end the country's 53-year conflict, called the disarmament \"historic news for Colombians\" in a post on Twitter"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:46:29.714Z",
+        "updated": "2024-02-13T08:46:29.714Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 757.5008262761336,
+            "y": 374
+          }
+        }
+      }
+    },
+    "617f9326-ca4c-11ee-a4d8-23b63abe8329": {
+      "atom": {
+        "text": "FARC leader Rodrigo \"Timochenko\" Londono also tweeted that the leftist rebels were laying down their guns \"with enthusiasm\"",
+        "reference": {
+          "resource": "1846",
+          "offset": 1459,
+          "text": "FARC leader Rodrigo \"Timochenko\" Londono also tweeted that the leftist rebels were laying down their guns \"with enthusiasm\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:46:29.714Z",
+        "updated": "2024-02-13T08:46:29.714Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1107.500850315869,
+            "y": 326
+          }
+        }
+      }
+    },
+    "617f9327-ca4c-11ee-a4d8-23b63abe8329": {
+      "atom": {
+        "text": "The FARC's disarmament will leave rival movement ELN as the only rebel group still waging a multi-sided war that has killed 260,000 people",
+        "reference": {
+          "resource": "1846",
+          "offset": 1585,
+          "text": "The FARC's disarmament will leave rival movement ELN as the only rebel group still waging a multi-sided war that has killed 260,000 people"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:46:29.714Z",
+        "updated": "2024-02-13T08:46:29.714Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1457.500753084677,
+            "y": 398
+          }
+        }
+      }
+    },
+    "617f9328-ca4c-11ee-a4d8-23b63abe8329": {
+      "atom": {
+        "text": "It is currently engaged in rocky peace talks with the government",
+        "reference": {
+          "resource": "1846",
+          "offset": 1725,
+          "text": "It is currently engaged in rocky peace talks with the government"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:46:29.714Z",
+        "updated": "2024-02-13T08:46:29.714Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1457.5003948373517,
+            "y": 736
+          }
+        }
+      }
+    },
+    "617f932a-ca4c-11ee-a4d8-23b63abe8329": {
+      "atom": {
+        "text": "Santos is hoping to seal a \"complete peace\" with both the FARC and the ELN",
+        "reference": {
+          "resource": "1846",
+          "offset": 2134,
+          "text": "Santos is hoping to seal a \"complete peace\" with both the FARC and the ELN"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T08:46:29.714Z",
+        "updated": "2024-02-13T08:46:29.714Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 757.500753204743,
+            "y": 736
+          }
+        }
+      }
+    },
+    "ab1ca310-ca4c-11ee-a4d8-23b63abe8329": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T08:48:33.217Z",
+        "updated": "2024-02-13T08:48:33.217Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.00012570558556,
+            "y": 226
+          }
+        }
+      }
+    },
+    "ab1ca313-ca4c-11ee-a4d8-23b63abe8329": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T08:48:33.217Z",
+        "updated": "2024-02-13T08:48:33.217Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 512.0007697276753,
+            "y": 636
+          }
+        }
+      }
+    },
+    "ab1ca316-ca4c-11ee-a4d8-23b63abe8329": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T08:48:33.217Z",
+        "updated": "2024-02-13T08:48:33.217Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 512.0007133086986,
+            "y": 902
+          }
+        }
+      }
+    },
+    "ab1ca319-ca4c-11ee-a4d8-23b63abe8329": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T08:48:33.217Z",
+        "updated": "2024-02-13T08:48:33.217Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 166.50071265236585,
+            "y": 636
+          }
+        }
+      }
+    },
+    "ab1ca31c-ca4c-11ee-a4d8-23b63abe8329": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T08:48:33.217Z",
+        "updated": "2024-02-13T08:48:33.217Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 857.5000785817497,
+            "y": 226
+          }
+        }
+      }
+    },
+    "ab1ca31f-ca4c-11ee-a4d8-23b63abe8329": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T08:48:33.217Z",
+        "updated": "2024-02-13T08:48:33.217Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1207.500000448001,
+            "y": 226
+          }
+        }
+      }
+    },
+    "ab1ca322-ca4c-11ee-a4d8-23b63abe8329": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T08:48:33.217Z",
+        "updated": "2024-02-13T08:48:33.217Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1557.5004416864656,
+            "y": 226
+          }
+        }
+      }
+    },
+    "ab1ca325-ca4c-11ee-a4d8-23b63abe8329": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T08:48:33.217Z",
+        "updated": "2024-02-13T08:48:33.217Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1557.5004715206608,
+            "y": 636
+          }
+        }
+      }
+    },
+    "ab1ca32b-ca4c-11ee-a4d8-23b63abe8329": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T08:48:33.217Z",
+        "updated": "2024-02-13T08:48:33.217Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 857.5004851812587,
+            "y": 636
+          }
+        }
+      }
+    },
+    "0dad7d70-fb16-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "she was hopeful for the future and planned to reunite with her five brothers and four sisters",
+        "reference": {
+          "text": "she was hopeful for the future and planned to reunite with her five brothers and four sisters"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T10:51:03.239Z",
+        "updated": "2024-04-15T10:51:03.239Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 412.00006690265644,
+            "y": 1202
+          }
+        }
+      }
+    },
+    "10aefda0-fb16-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T10:51:08.282Z",
+        "updated": "2024-04-15T10:51:08.282Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 512.0009405225412,
+            "y": 1102
+          }
+        }
+      }
+    },
+    "749247a0-fb16-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "The Cold War-era conflict, which has also left 60,000 people missing and uprooted 6.9 million, is the last major armed conflict in the Americas. Colombia, South America's third largest economy, has been torn since the 1960s by fighting that has drawn in multiple leftist rebel groups, right-wing paramilitary units, drug cartels and the army",
+        "reference": {
+          "text": "The Cold War-era conflict, which has also left 60,000 people missing and uprooted 6.9 million, is the last major armed conflict in the Americas. Colombia, South America's third largest economy, has been torn since the 1960s by fighting that has drawn in multiple leftist rebel groups, right-wing paramilitary units, drug cartels and the army"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T10:53:55.866Z",
+        "updated": "2024-04-15T10:53:55.866Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.00059575054785,
+            "y": 326
+          }
+        }
+      }
+    },
+    "76e893b0-fb16-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T10:53:59.787Z",
+        "updated": "2024-04-15T10:53:59.787Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00056822663575,
+            "y": 226
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "ab1ca311-ca4c-11ee-a4d8-23b63abe8329": {
+      "source": "617f9321-ca4c-11ee-a4d8-23b63abe8329",
+      "target": "ab1ca310-ca4c-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:48:33.217Z",
+        "updated": "2024-02-13T08:48:33.217Z"
+      },
+      "userdata": {}
+    },
+    "ab1ca312-ca4c-11ee-a4d8-23b63abe8329": {
+      "source": "ab1ca310-ca4c-11ee-a4d8-23b63abe8329",
+      "target": "617f9320-ca4c-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:48:33.217Z",
+        "updated": "2024-02-13T08:48:33.217Z"
+      },
+      "userdata": {}
+    },
+    "ab1ca314-ca4c-11ee-a4d8-23b63abe8329": {
+      "source": "617f9322-ca4c-11ee-a4d8-23b63abe8329",
+      "target": "ab1ca313-ca4c-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:48:33.217Z",
+        "updated": "2024-02-13T08:48:33.217Z"
+      },
+      "userdata": {}
+    },
+    "ab1ca315-ca4c-11ee-a4d8-23b63abe8329": {
+      "source": "ab1ca313-ca4c-11ee-a4d8-23b63abe8329",
+      "target": "617f9321-ca4c-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:48:33.217Z",
+        "updated": "2024-02-13T08:48:33.217Z"
+      },
+      "userdata": {}
+    },
+    "ab1ca317-ca4c-11ee-a4d8-23b63abe8329": {
+      "source": "617f9323-ca4c-11ee-a4d8-23b63abe8329",
+      "target": "ab1ca316-ca4c-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:48:33.217Z",
+        "updated": "2024-02-13T08:48:33.217Z"
+      },
+      "userdata": {}
+    },
+    "ab1ca318-ca4c-11ee-a4d8-23b63abe8329": {
+      "source": "ab1ca316-ca4c-11ee-a4d8-23b63abe8329",
+      "target": "617f9322-ca4c-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:48:33.217Z",
+        "updated": "2024-02-13T08:48:33.217Z"
+      },
+      "userdata": {}
+    },
+    "ab1ca31a-ca4c-11ee-a4d8-23b63abe8329": {
+      "source": "617f9324-ca4c-11ee-a4d8-23b63abe8329",
+      "target": "ab1ca319-ca4c-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:48:33.217Z",
+        "updated": "2024-02-13T08:48:33.217Z"
+      },
+      "userdata": {}
+    },
+    "ab1ca31b-ca4c-11ee-a4d8-23b63abe8329": {
+      "source": "ab1ca319-ca4c-11ee-a4d8-23b63abe8329",
+      "target": "617f9321-ca4c-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:48:33.217Z",
+        "updated": "2024-02-13T08:48:33.217Z"
+      },
+      "userdata": {}
+    },
+    "ab1ca31d-ca4c-11ee-a4d8-23b63abe8329": {
+      "source": "617f9325-ca4c-11ee-a4d8-23b63abe8329",
+      "target": "ab1ca31c-ca4c-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:48:33.217Z",
+        "updated": "2024-02-13T08:48:33.217Z"
+      },
+      "userdata": {}
+    },
+    "ab1ca31e-ca4c-11ee-a4d8-23b63abe8329": {
+      "source": "ab1ca31c-ca4c-11ee-a4d8-23b63abe8329",
+      "target": "617f9320-ca4c-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:48:33.217Z",
+        "updated": "2024-02-13T08:48:33.217Z"
+      },
+      "userdata": {}
+    },
+    "ab1ca320-ca4c-11ee-a4d8-23b63abe8329": {
+      "source": "617f9326-ca4c-11ee-a4d8-23b63abe8329",
+      "target": "ab1ca31f-ca4c-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:48:33.217Z",
+        "updated": "2024-02-13T08:48:33.217Z"
+      },
+      "userdata": {}
+    },
+    "ab1ca321-ca4c-11ee-a4d8-23b63abe8329": {
+      "source": "ab1ca31f-ca4c-11ee-a4d8-23b63abe8329",
+      "target": "617f9320-ca4c-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:48:33.217Z",
+        "updated": "2024-02-13T08:48:33.217Z"
+      },
+      "userdata": {}
+    },
+    "ab1ca323-ca4c-11ee-a4d8-23b63abe8329": {
+      "source": "617f9327-ca4c-11ee-a4d8-23b63abe8329",
+      "target": "ab1ca322-ca4c-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:48:33.217Z",
+        "updated": "2024-02-13T08:48:33.217Z"
+      },
+      "userdata": {}
+    },
+    "ab1ca324-ca4c-11ee-a4d8-23b63abe8329": {
+      "source": "ab1ca322-ca4c-11ee-a4d8-23b63abe8329",
+      "target": "617f9320-ca4c-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:48:33.217Z",
+        "updated": "2024-02-13T08:48:33.217Z"
+      },
+      "userdata": {}
+    },
+    "ab1ca326-ca4c-11ee-a4d8-23b63abe8329": {
+      "source": "617f9328-ca4c-11ee-a4d8-23b63abe8329",
+      "target": "ab1ca325-ca4c-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:48:33.217Z",
+        "updated": "2024-02-13T08:48:33.217Z"
+      },
+      "userdata": {}
+    },
+    "ab1ca327-ca4c-11ee-a4d8-23b63abe8329": {
+      "source": "ab1ca325-ca4c-11ee-a4d8-23b63abe8329",
+      "target": "617f9327-ca4c-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:48:33.217Z",
+        "updated": "2024-02-13T08:48:33.217Z"
+      },
+      "userdata": {}
+    },
+    "ab1ca329-ca4c-11ee-a4d8-23b63abe8329": {
+      "source": "617f9329-ca4c-11ee-a4d8-23b63abe8329",
+      "target": "ab1ca328-ca4c-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:48:33.217Z",
+        "updated": "2024-02-13T08:48:33.217Z"
+      },
+      "userdata": {}
+    },
+    "ab1ca32c-ca4c-11ee-a4d8-23b63abe8329": {
+      "source": "617f932a-ca4c-11ee-a4d8-23b63abe8329",
+      "target": "ab1ca32b-ca4c-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:48:33.217Z",
+        "updated": "2024-02-13T08:48:33.217Z"
+      },
+      "userdata": {}
+    },
+    "b6a8dff0-ca4c-11ee-a4d8-23b63abe8329": {
+      "source": "ab1ca32b-ca4c-11ee-a4d8-23b63abe8329",
+      "target": "617f9325-ca4c-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-02-13T08:48:52.591Z",
+        "updated": "2024-02-13T08:48:52.591Z"
+      },
+      "userdata": {}
+    },
+    "10aefda1-fb16-11ee-aa26-a11ecda1a83c": {
+      "source": "0dad7d70-fb16-11ee-aa26-a11ecda1a83c",
+      "target": "10aefda0-fb16-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T10:51:08.282Z",
+        "updated": "2024-04-15T10:51:08.282Z"
+      },
+      "userdata": {}
+    },
+    "10af24b0-fb16-11ee-aa26-a11ecda1a83c": {
+      "source": "10aefda0-fb16-11ee-aa26-a11ecda1a83c",
+      "target": "617f9323-ca4c-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-04-15T10:51:08.283Z",
+        "updated": "2024-04-15T10:51:08.283Z"
+      },
+      "userdata": {}
+    },
+    "76e893b1-fb16-11ee-aa26-a11ecda1a83c": {
+      "source": "749247a0-fb16-11ee-aa26-a11ecda1a83c",
+      "target": "76e893b0-fb16-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T10:53:59.787Z",
+        "updated": "2024-04-15T10:53:59.787Z"
+      },
+      "userdata": {}
+    },
+    "76e893b2-fb16-11ee-aa26-a11ecda1a83c": {
+      "source": "76e893b0-fb16-11ee-aa26-a11ecda1a83c",
+      "target": "617f9320-ca4c-11ee-a4d8-23b63abe8329",
+      "metadata": {
+        "created": "2024-04-15T10:53:59.787Z",
+        "updated": "2024-04-15T10:53:59.787Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "1846": {
+      "text": "Colombia's leftist FARC rebels are due to to begin surrendering their weapons under a landmark-peace deal, marking the delicate transition from an armed group to a political party following more than half a century at war. After weeks of mustering its troops at designated disarmament zones, the Revolutionary Armed Forces of Colombia (FARC), was set on Wednesday to start an inventory of its weapons and destroying munitions under UN supervision.  \"I'm abandoning my rifle for a broom,\" the AFP news agency quoted FARC member Maritza Gonzalez as saying at the group's camp in San Jose de Oriente, in northern Colombia. Three armed fighters in combat fatigues guarded the entrance to the rudimentary camp, where a steady stream of trucks delivered bags of cement and workers scrambled to finish building a kitchen, mess hall, bathrooms and a laundry area. Gonzalez, 54, has been a fighter since the age of 14. She said she was hopeful for the future and planned to reunite with her five brothers and four sisters. \"Let's hope this leads to peace,\" she told AFP. Sergio Jaramillo,-Colombia's high commissioner for peace, said on Tuesday that the process-involved the registration of weapons, the destruction of unstable weapons and the storage of side arms. President Juan Manuel Santos, who won the Nobel Peace Prize in October for his efforts to end the country's 53-year conflict, called the disarmament \"historic news for Colombians\" in a post on Twitter. FARC leader Rodrigo \"Timochenko\" Londono also tweeted that the leftist rebels were laying down their guns \"with enthusiasm\".  The FARC's disarmament will leave rival movement ELN as the only rebel group still waging a multi-sided war that has killed 260,000 people. It is currently engaged in rocky peace talks with the government. The Cold War-era conflict, which has also left 60,000 people missing and uprooted 6.9 million, is the last major armed conflict in the Americas. Colombia, South America's third largest economy, has been torn since the 1960s by fighting that has drawn in multiple leftist rebel groups, right-wing paramilitary units, drug cartels and the army. Santos is hoping to seal a \"complete peace\" with both the FARC and the ELN. Source:-News agencies",
+      "title": "Colombia's FARC rebels begin disarming under peace deal",
+      "source": "http://www.aljazeera.com/news/2017/03/colombia-farc-rebels-disarming-peace-deal-170301152839699.html",
+      "timestamp": "2017-03-01T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.199Z",
+        "updated": "2024-02-09T13:09:16.199Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "2c603380-c41a-11ee-a06c-cb1cbb90ffa4": {
+      "name": "annotator0",
+      "email": "s4kibart@uni-trier.de",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "617f9320-ca4c-11ee-a4d8-23b63abe8329",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.199Z",
+    "updated": "2024-04-15T10:54:35.755Z"
+  },
+  "userdata": {}
+}

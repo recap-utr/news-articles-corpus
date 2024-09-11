@@ -1,0 +1,418 @@
+{
+  "nodes": {
+    "bf3e17b0-c41c-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Russia's foreign ministry will continue its efforts to have Russian pilot Konstantin Yaroshenko, who has been in US jail for more than six years now, be release",
+        "reference": {
+          "resource": "1157",
+          "offset": 29,
+          "text": "Russia's foreign ministry will continue its efforts to have Russian pilot Konstantin Yaroshenko, who has been in US jail for more than six years now, be release"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T11:50:24.171Z",
+        "updated": "2024-02-05T11:50:24.171Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 153.89617395074197,
+            "y": -22.0226467338874
+          }
+        }
+      }
+    },
+    "c4380c80-c41c-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "his situation is seen as absolutely unacceptable",
+        "reference": {
+          "resource": "1157",
+          "offset": 193,
+          "text": "his situation is seen as absolutely unacceptable"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T11:50:32.520Z",
+        "updated": "2024-02-05T11:50:32.520Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -27.47293980147481,
+            "y": 383.71460936116216
+          }
+        }
+      }
+    },
+    "c7149f90-c41c-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T11:50:37.321Z",
+        "updated": "2024-02-05T11:50:37.321Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 62.647774831598326,
+            "y": 257.52852636644366
+          }
+        }
+      }
+    },
+    "db3f2120-c41c-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Konstantin [Yaroshenko] has become a victim of the policy of collective punishment",
+        "reference": {
+          "resource": "1157",
+          "offset": 417,
+          "text": "Konstantin [Yaroshenko] has become a victim of the policy of collective punishment"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T11:51:11.154Z",
+        "updated": "2024-02-05T11:51:11.154Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -20.70683288505063,
+            "y": 587.8255013399552
+          }
+        }
+      }
+    },
+    "dec27b80-c41c-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T11:51:17.048Z",
+        "updated": "2024-02-05T11:51:17.048Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 77.40171740309859,
+            "y": 494.79153123912414
+          }
+        }
+      }
+    },
+    "03ce6e20-c41d-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "The prison's officials have used restrictive measures against Yaroshenko although he was never found to violate any regulations",
+        "reference": {
+          "resource": "1157",
+          "offset": 698,
+          "text": "The prison's officials have used restrictive measures against Yaroshenko although he was never found to violate any regulations"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T11:52:19.202Z",
+        "updated": "2024-02-05T11:52:19.202Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -98.88107046387381,
+            "y": 1089.719186789543
+          }
+        }
+      }
+    },
+    "07624340-c41d-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T11:52:25.204Z",
+        "updated": "2024-02-05T11:52:25.204Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 0.35516431034625384,
+            "y": 935.4216762464963
+          }
+        }
+      }
+    },
+    "43528040-c41d-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Yaroshenko's mother had addressed to U.S. President Donald Trump: \"I am sincerely glad about your uneasy victory at the elections and, relying on my life experience, I am trying to see in it new possibilities for Konstantin's soonest return home. I am on my knees pleading with our to extend mercy and save my son's life\"",
+        "reference": {
+          "resource": "1157",
+          "offset": 1059,
+          "text": "I am sincerely glad about your uneasy victory at the elections and, relying on my life experience, I am trying to see in it new possibilities for Konstantin's soonest return home,\" the letter reads. \"I am on my knees pleading with our to extend mercy and save my son's life"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T11:54:05.764Z",
+        "updated": "2024-02-05T11:54:05.764Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 463.96811974750415,
+            "y": 385.55210821154316
+          }
+        }
+      }
+    },
+    "6c6c32f0-c41d-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T11:55:14.719Z",
+        "updated": "2024-02-05T11:55:14.719Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 238.33820559978028,
+            "y": 912.6311077479254
+          }
+        }
+      }
+    },
+    "78760440-c41d-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "He pled innocence and described his arrest as a provocation. All charges against him were trumped up, he stated",
+        "reference": {
+          "resource": "1157",
+          "offset": 1450,
+          "text": "He pled innocence and described his arrest as a provocation. All charges against him were trumped up, he stated"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T11:55:34.916Z",
+        "updated": "2024-02-05T11:55:34.916Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 279.91116734150637,
+            "y": 1079.8508049978113
+          }
+        }
+      }
+    },
+    "8b05e8a0-c41d-11ee-a06c-cb1cbb90ffa4": {
+      "atom": {
+        "text": "Agents of the US Drug Enforcement Administration operating under cover allegedly exposed Yaroshenko's criminal intention to transport a large batch of cocaine",
+        "reference": {
+          "resource": "1157",
+          "offset": 1664,
+          "text": "Agents of the US Drug Enforcement Administration operating under cover allegedly exposed Yaroshenko's criminal intention to transport a large batch of cocaine"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-05T11:56:06.058Z",
+        "updated": "2024-02-05T11:56:06.058Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 629.2345293433866,
+            "y": 1053.9753413723538
+          }
+        }
+      }
+    },
+    "8efcc550-c41d-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T11:56:12.709Z",
+        "updated": "2024-02-05T11:56:12.709Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 406.5630282274012,
+            "y": 761.5721416518815
+          }
+        }
+      }
+    },
+    "bff627a0-c41d-11ee-a06c-cb1cbb90ffa4": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-05T11:57:34.874Z",
+        "updated": "2024-02-05T11:57:34.874Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 563.9149202642345,
+            "y": 223.29058102024447
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "c7149f91-c41c-11ee-a06c-cb1cbb90ffa4": {
+      "source": "c4380c80-c41c-11ee-a06c-cb1cbb90ffa4",
+      "target": "c7149f90-c41c-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:50:37.321Z",
+        "updated": "2024-02-05T11:50:37.321Z"
+      },
+      "userdata": {}
+    },
+    "c7149f92-c41c-11ee-a06c-cb1cbb90ffa4": {
+      "source": "c7149f90-c41c-11ee-a06c-cb1cbb90ffa4",
+      "target": "bf3e17b0-c41c-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:50:37.321Z",
+        "updated": "2024-02-05T11:50:37.321Z"
+      },
+      "userdata": {}
+    },
+    "dec27b81-c41c-11ee-a06c-cb1cbb90ffa4": {
+      "source": "db3f2120-c41c-11ee-a06c-cb1cbb90ffa4",
+      "target": "dec27b80-c41c-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:51:17.048Z",
+        "updated": "2024-02-05T11:51:17.048Z"
+      },
+      "userdata": {}
+    },
+    "dec27b82-c41c-11ee-a06c-cb1cbb90ffa4": {
+      "source": "dec27b80-c41c-11ee-a06c-cb1cbb90ffa4",
+      "target": "c4380c80-c41c-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:51:17.048Z",
+        "updated": "2024-02-05T11:51:17.048Z"
+      },
+      "userdata": {}
+    },
+    "07624341-c41d-11ee-a06c-cb1cbb90ffa4": {
+      "source": "03ce6e20-c41d-11ee-a06c-cb1cbb90ffa4",
+      "target": "07624340-c41d-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:52:25.204Z",
+        "updated": "2024-02-05T11:52:25.204Z"
+      },
+      "userdata": {}
+    },
+    "07624342-c41d-11ee-a06c-cb1cbb90ffa4": {
+      "source": "07624340-c41d-11ee-a06c-cb1cbb90ffa4",
+      "target": "db3f2120-c41c-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:52:25.204Z",
+        "updated": "2024-02-05T11:52:25.204Z"
+      },
+      "userdata": {}
+    },
+    "6c6c32f1-c41d-11ee-a06c-cb1cbb90ffa4": {
+      "source": "69328bc0-c41d-11ee-a06c-cb1cbb90ffa4",
+      "target": "6c6c32f0-c41d-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:55:14.719Z",
+        "updated": "2024-02-05T11:55:14.719Z"
+      },
+      "userdata": {}
+    },
+    "6c6c32f2-c41d-11ee-a06c-cb1cbb90ffa4": {
+      "source": "6c6c32f0-c41d-11ee-a06c-cb1cbb90ffa4",
+      "target": "db3f2120-c41c-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:55:14.719Z",
+        "updated": "2024-02-05T11:55:14.719Z"
+      },
+      "userdata": {}
+    },
+    "79e090c0-c41d-11ee-a06c-cb1cbb90ffa4": {
+      "source": "78760440-c41d-11ee-a06c-cb1cbb90ffa4",
+      "target": "6c6c32f0-c41d-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:55:37.292Z",
+        "updated": "2024-02-05T11:55:37.292Z"
+      },
+      "userdata": {}
+    },
+    "8efcc551-c41d-11ee-a06c-cb1cbb90ffa4": {
+      "source": "8b05e8a0-c41d-11ee-a06c-cb1cbb90ffa4",
+      "target": "8efcc550-c41d-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:56:12.709Z",
+        "updated": "2024-02-05T11:56:12.709Z"
+      },
+      "userdata": {}
+    },
+    "8efcc552-c41d-11ee-a06c-cb1cbb90ffa4": {
+      "source": "8efcc550-c41d-11ee-a06c-cb1cbb90ffa4",
+      "target": "db3f2120-c41c-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:56:12.709Z",
+        "updated": "2024-02-05T11:56:12.709Z"
+      },
+      "userdata": {}
+    },
+    "bd872371-c41d-11ee-a06c-cb1cbb90ffa4": {
+      "source": "f38f0970-c41c-11ee-a06c-cb1cbb90ffa4",
+      "target": "bd872370-c41d-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:57:30.791Z",
+        "updated": "2024-02-05T11:57:30.791Z"
+      },
+      "userdata": {}
+    },
+    "bd872372-c41d-11ee-a06c-cb1cbb90ffa4": {
+      "source": "bd872370-c41d-11ee-a06c-cb1cbb90ffa4",
+      "target": "bf3e17b0-c41c-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:57:30.791Z",
+        "updated": "2024-02-05T11:57:30.791Z"
+      },
+      "userdata": {}
+    },
+    "bff627a1-c41d-11ee-a06c-cb1cbb90ffa4": {
+      "source": "43528040-c41d-11ee-a06c-cb1cbb90ffa4",
+      "target": "bff627a0-c41d-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:57:34.874Z",
+        "updated": "2024-02-05T11:57:34.874Z"
+      },
+      "userdata": {}
+    },
+    "bff627a2-c41d-11ee-a06c-cb1cbb90ffa4": {
+      "source": "bff627a0-c41d-11ee-a06c-cb1cbb90ffa4",
+      "target": "bf3e17b0-c41c-11ee-a06c-cb1cbb90ffa4",
+      "metadata": {
+        "created": "2024-02-05T11:57:34.874Z",
+        "updated": "2024-02-05T11:57:34.874Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "1157": {
+      "text": "MOSCOW, February 16. /TASS/. Russia's foreign ministry will continue its efforts to have Russian pilot Konstantin Yaroshenko, who has been in US jail for more than six years now, be release as his situation is seen as absolutely unacceptable, Russian Deputy Foreign Minister Sergey Ryabkov said on Thursday. \"We keep on reminding the American side that this situation is absolutely unacceptable. As a matter of fact, Konstantin [Yaroshenko] has become a victim of the policy of collective punishment,\" he said. \"We never leave this matter out of account and will continue efforts to have him released.\" According to the Russian diplomat, information made public in the Izvestia newspaper is true. \"The prison's officials have used restrictive measures against Yaroshenko although he was never found to violate any regulations,\" Ryabkov noted, adding that the Russian foreign ministry is in contact with Yaroshenko's mother and his family.   Earlier, the Izvestia newspaper published a letter Yaroshenko's mother had addressed to U.S. President Donald Trump. \"I am sincerely glad about your uneasy victory at the elections and, relying on my life experience, I am trying to see in it new possibilities for Konstantin's soonest return home,\" the letter reads. \"I am on my knees pleading with our to extend mercy and save my son's life.\" Konstantin Yaroshenko was convicted in the United States on September 7, 2017 and sentenced to 20 years in prison. He pled innocence and described his arrest as a provocation. All charges against him were trumped up, he stated. The pilot had been brought to the United States from Liberia, where he was arrested on May 28, 2010. Agents of the US Drug Enforcement Administration operating under cover allegedly exposed Yaroshenko's criminal intention to transport a large batch of cocaine. He is serving the prison term at the Fort Dix federal prison, New Jersey.",
+      "title": "Moscow vows to continue efforts to ensure jailed pilot Yaroshenko's release",
+      "source": "http://tass.com/politics/931360",
+      "timestamp": "2024-02-05T11:49:47.755Z",
+      "metadata": {
+        "created": "2024-02-05T09:49:22.018Z",
+        "updated": "2024-02-05T09:49:22.018Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "bf3e17b0-c41c-11ee-a06c-cb1cbb90ffa4",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-05T09:49:22.018Z",
+    "updated": "2024-02-05T11:58:12.185Z"
+  }
+}

@@ -1,0 +1,615 @@
+{
+  "nodes": {
+    "f2892810-c612-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "The current President Trump has accused the former President Obama of basically wiretapping his campaign",
+        "reference": {
+          "resource": "2001",
+          "offset": 1894,
+          "text": "The current President has accused the former President of basically wiretapping his campaign"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:45:17.585Z",
+        "updated": "2024-02-07T23:45:17.585Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 378.66712687275316,
+            "y": 12
+          }
+        }
+      }
+    },
+    "0bae3ab0-c613-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "The White House on Wednesday said that President Trump was not the target of any investigation",
+        "reference": {
+          "resource": "2001",
+          "offset": 0,
+          "text": "The White House on Wednesday said that President Trump was not the target of any investigation"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:45:59.771Z",
+        "updated": "2024-02-07T23:45:59.771Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 728.666934666328,
+            "y": 270
+          }
+        }
+      }
+    },
+    "0db3ceb0-c613-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T23:46:03.163Z",
+        "updated": "2024-02-07T23:46:03.163Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 828.6670595569142,
+            "y": 154
+          }
+        }
+      }
+    },
+    "1be477a0-c613-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "he claimed in a series of tweets that he had indeed been the target of a wiretap initiated by former President Barack Obama",
+        "reference": {
+          "resource": "2001",
+          "offset": 126,
+          "text": "he claimed in a series of tweets that he had indeed been the target of a wiretap initiated by former President Barack Obama"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:46:26.970Z",
+        "updated": "2024-02-07T23:46:26.970Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 378.6669600295436,
+            "y": 254
+          }
+        }
+      }
+    },
+    "200634e0-c613-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T23:46:33.902Z",
+        "updated": "2024-02-07T23:46:33.902Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 478.6667266568304,
+            "y": 154
+          }
+        }
+      }
+    },
+    "36edb390-c613-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "There is no reason that we should -- that we have to think that the President is the target of any investigation whatsoever",
+        "reference": {
+          "resource": "2001",
+          "offset": 252,
+          "text": "There is no reason that we should -- that we have to think that the President is the target of any investigation whatsoever"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:47:12.329Z",
+        "updated": "2024-02-07T23:47:12.329Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 778.6676422373749,
+            "y": 686
+          }
+        }
+      }
+    },
+    "39e8f230-c613-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T23:47:17.331Z",
+        "updated": "2024-02-07T23:47:17.331Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 878.6666930737081,
+            "y": 553
+          }
+        }
+      }
+    },
+    "4d01b5a0-c613-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "Spicer's comments came several minutes after he had first implied that the White House was unsure whether the president was a target or not",
+        "reference": {
+          "resource": "2001",
+          "offset": 465,
+          "text": "Spicer's comments came several minutes after he had first implied that the White House was unsure whether the president was a target or not"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:47:49.370Z",
+        "updated": "2024-02-07T23:47:49.370Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 378.66745914820444,
+            "y": 520
+          }
+        }
+      }
+    },
+    "50644190-c613-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T23:47:55.049Z",
+        "updated": "2024-02-07T23:47:55.049Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 478.6671245692439,
+            "y": 420
+          }
+        }
+      }
+    },
+    "6c8dba90-c613-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "Responding to a reporter's question asking if the president was the \"target of a counter-intelligence investigation,\" Spicer initially said, \"I think that's what we need to find out. There's obviously a lot of concern",
+        "reference": {
+          "resource": "2001",
+          "offset": 606,
+          "text": "Responding to a reporter's question asking if the president was the \"target of a counter-intelligence investigation,\" Spicer initially said, \"I think that's what we need to find out. There's obviously a lot of concern"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:48:42.297Z",
+        "updated": "2024-02-07T23:48:42.297Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 378.6673083259764,
+            "y": 852
+          }
+        }
+      }
+    },
+    "70521590-c613-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T23:48:48.617Z",
+        "updated": "2024-02-07T23:48:48.617Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 478.6667008843827,
+            "y": 719
+          }
+        }
+      }
+    },
+    "8f70b2b0-c613-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "At the end of the briefing, Spicer was handed a sheet of paper by an aide, from which he read the aforementioned assertion that the White House had no reason to believe the current commander in chief was a target of an investigation",
+        "reference": {
+          "resource": "2001",
+          "offset": 872,
+          "text": "At the end of the briefing, Spicer was handed a sheet of paper by an aide, from which he read the aforementioned assertion that the White House had no reason to believe the current commander in chief was a target of an investigation"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:49:40.827Z",
+        "updated": "2024-02-07T23:49:40.827Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 728.6667056690926,
+            "y": 1166
+          }
+        }
+      }
+    },
+    "99b63ec0-c613-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T23:49:58.060Z",
+        "updated": "2024-02-07T23:49:58.060Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 878.6676533717311,
+            "y": 909
+          }
+        }
+      }
+    },
+    "a18e2630-c613-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T23:50:11.219Z",
+        "updated": "2024-02-07T23:50:11.219Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 778.6675623647823,
+            "y": 1066
+          }
+        }
+      }
+    },
+    "e899dce0-c613-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "the White House suggested that Congress should look into the matter",
+        "reference": {
+          "resource": "2001",
+          "offset": 1180,
+          "text": "the White House suggested that Congress should look into the matter"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:52:10.414Z",
+        "updated": "2024-02-07T23:52:10.414Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 378.667582743505,
+            "y": 1166
+          }
+        }
+      }
+    },
+    "ebc6b2d0-c613-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T23:52:15.741Z",
+        "updated": "2024-02-07T23:52:15.741Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 478.6670622568798,
+            "y": 1066
+          }
+        }
+      }
+    },
+    "f2baf100-c613-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "Sen. Lindsey Graham (R-South Carolina) and Sheldon White House (D-Rhode Island) sent a letter to the Justice Department asking for any information regarding Trump's wiretapping claims",
+        "reference": {
+          "resource": "2001",
+          "offset": 1264,
+          "text": "Sen. Lindsey Graham (R-South Carolina) and Sheldon White House (D-Rhode Island) sent a letter to the Justice Department asking for any information regarding Trump's wiretapping claims"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:52:27.408Z",
+        "updated": "2024-02-07T23:52:27.408Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.00096710955338,
+            "y": 852
+          }
+        }
+      }
+    },
+    "fa483ae0-c613-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T23:52:40.078Z",
+        "updated": "2024-02-07T23:52:40.078Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00029235752714,
+            "y": 420
+          }
+        }
+      }
+    },
+    "0ba0b0b0-c614-11ee-bbb2-f78c6e9d2422": {
+      "atom": {
+        "text": "Sen. Graham says that the country needs an answer to this",
+        "reference": {
+          "resource": "2001",
+          "offset": 1802,
+          "text": "All I can say is that the country needs an answer to this"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-07T23:53:09.179Z",
+        "updated": "2024-02-07T23:53:09.179Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 28.666928930025424,
+            "y": 1166
+          }
+        }
+      }
+    },
+    "10381320-c614-11ee-bbb2-f78c6e9d2422": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-07T23:53:16.882Z",
+        "updated": "2024-02-07T23:53:16.882Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 128.66733442577362,
+            "y": 1066
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "0db3ceb1-c613-11ee-bbb2-f78c6e9d2422": {
+      "source": "0bae3ab0-c613-11ee-bbb2-f78c6e9d2422",
+      "target": "0db3ceb0-c613-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:46:03.163Z",
+        "updated": "2024-02-07T23:46:03.163Z"
+      },
+      "userdata": {}
+    },
+    "0db3ceb2-c613-11ee-bbb2-f78c6e9d2422": {
+      "source": "0db3ceb0-c613-11ee-bbb2-f78c6e9d2422",
+      "target": "f2892810-c612-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:46:03.163Z",
+        "updated": "2024-02-07T23:46:03.163Z"
+      },
+      "userdata": {}
+    },
+    "200634e1-c613-11ee-bbb2-f78c6e9d2422": {
+      "source": "1be477a0-c613-11ee-bbb2-f78c6e9d2422",
+      "target": "200634e0-c613-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:46:33.902Z",
+        "updated": "2024-02-07T23:46:33.902Z"
+      },
+      "userdata": {}
+    },
+    "273706e0-c613-11ee-bbb2-f78c6e9d2422": {
+      "source": "200634e0-c613-11ee-bbb2-f78c6e9d2422",
+      "target": "f2892810-c612-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:46:45.966Z",
+        "updated": "2024-02-07T23:46:45.966Z"
+      },
+      "userdata": {}
+    },
+    "39e8f231-c613-11ee-bbb2-f78c6e9d2422": {
+      "source": "36edb390-c613-11ee-bbb2-f78c6e9d2422",
+      "target": "39e8f230-c613-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:47:17.331Z",
+        "updated": "2024-02-07T23:47:17.331Z"
+      },
+      "userdata": {}
+    },
+    "39e8f232-c613-11ee-bbb2-f78c6e9d2422": {
+      "source": "39e8f230-c613-11ee-bbb2-f78c6e9d2422",
+      "target": "0bae3ab0-c613-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:47:17.331Z",
+        "updated": "2024-02-07T23:47:17.331Z"
+      },
+      "userdata": {}
+    },
+    "50644191-c613-11ee-bbb2-f78c6e9d2422": {
+      "source": "4d01b5a0-c613-11ee-bbb2-f78c6e9d2422",
+      "target": "50644190-c613-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:47:55.049Z",
+        "updated": "2024-02-07T23:47:55.049Z"
+      },
+      "userdata": {}
+    },
+    "592e7840-c613-11ee-bbb2-f78c6e9d2422": {
+      "source": "50644190-c613-11ee-bbb2-f78c6e9d2422",
+      "target": "0bae3ab0-c613-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:48:09.796Z",
+        "updated": "2024-02-07T23:48:09.796Z"
+      },
+      "userdata": {}
+    },
+    "70521591-c613-11ee-bbb2-f78c6e9d2422": {
+      "source": "6c8dba90-c613-11ee-bbb2-f78c6e9d2422",
+      "target": "70521590-c613-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:48:48.618Z",
+        "updated": "2024-02-07T23:48:48.618Z"
+      },
+      "userdata": {}
+    },
+    "70523ca0-c613-11ee-bbb2-f78c6e9d2422": {
+      "source": "70521590-c613-11ee-bbb2-f78c6e9d2422",
+      "target": "4d01b5a0-c613-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:48:48.618Z",
+        "updated": "2024-02-07T23:48:48.618Z"
+      },
+      "userdata": {}
+    },
+    "99b63ec1-c613-11ee-bbb2-f78c6e9d2422": {
+      "source": "8f70b2b0-c613-11ee-bbb2-f78c6e9d2422",
+      "target": "99b63ec0-c613-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:49:58.060Z",
+        "updated": "2024-02-07T23:49:58.060Z"
+      },
+      "userdata": {}
+    },
+    "99b63ec2-c613-11ee-bbb2-f78c6e9d2422": {
+      "source": "99b63ec0-c613-11ee-bbb2-f78c6e9d2422",
+      "target": "36edb390-c613-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:49:58.060Z",
+        "updated": "2024-02-07T23:49:58.060Z"
+      },
+      "userdata": {}
+    },
+    "a18e2631-c613-11ee-bbb2-f78c6e9d2422": {
+      "source": "8f70b2b0-c613-11ee-bbb2-f78c6e9d2422",
+      "target": "a18e2630-c613-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:50:11.219Z",
+        "updated": "2024-02-07T23:50:11.219Z"
+      },
+      "userdata": {}
+    },
+    "b875a4e0-c613-11ee-bbb2-f78c6e9d2422": {
+      "source": "a18e2630-c613-11ee-bbb2-f78c6e9d2422",
+      "target": "6c8dba90-c613-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:50:49.646Z",
+        "updated": "2024-02-07T23:50:49.646Z"
+      },
+      "userdata": {}
+    },
+    "ebc6b2d1-c613-11ee-bbb2-f78c6e9d2422": {
+      "source": "e899dce0-c613-11ee-bbb2-f78c6e9d2422",
+      "target": "ebc6b2d0-c613-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:52:15.741Z",
+        "updated": "2024-02-07T23:52:15.741Z"
+      },
+      "userdata": {}
+    },
+    "fa483ae1-c613-11ee-bbb2-f78c6e9d2422": {
+      "source": "f2baf100-c613-11ee-bbb2-f78c6e9d2422",
+      "target": "fa483ae0-c613-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:52:40.078Z",
+        "updated": "2024-02-07T23:52:40.078Z"
+      },
+      "userdata": {}
+    },
+    "fa483ae2-c613-11ee-bbb2-f78c6e9d2422": {
+      "source": "fa483ae0-c613-11ee-bbb2-f78c6e9d2422",
+      "target": "f2892810-c612-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:52:40.078Z",
+        "updated": "2024-02-07T23:52:40.078Z"
+      },
+      "userdata": {}
+    },
+    "10381321-c614-11ee-bbb2-f78c6e9d2422": {
+      "source": "0ba0b0b0-c614-11ee-bbb2-f78c6e9d2422",
+      "target": "10381320-c614-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:53:16.882Z",
+        "updated": "2024-02-07T23:53:16.882Z"
+      },
+      "userdata": {}
+    },
+    "10381322-c614-11ee-bbb2-f78c6e9d2422": {
+      "source": "10381320-c614-11ee-bbb2-f78c6e9d2422",
+      "target": "f2baf100-c613-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-02-07T23:53:16.882Z",
+        "updated": "2024-02-07T23:53:16.882Z"
+      },
+      "userdata": {}
+    },
+    "6987d300-fb18-11ee-aa26-a11ecda1a83c": {
+      "source": "ebc6b2d0-c613-11ee-bbb2-f78c6e9d2422",
+      "target": "6c8dba90-c613-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-04-15T11:07:56.336Z",
+        "updated": "2024-04-15T11:07:56.336Z"
+      },
+      "userdata": {}
+    },
+    "b34a9360-fb18-11ee-aa26-a11ecda1a83c": {
+      "source": "10381320-c614-11ee-bbb2-f78c6e9d2422",
+      "target": "6c8dba90-c613-11ee-bbb2-f78c6e9d2422",
+      "metadata": {
+        "created": "2024-04-15T11:10:00.087Z",
+        "updated": "2024-04-15T11:10:00.087Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "2001": {
+      "text": "The White House on Wednesday said that President Trump was not the target of any investigation, even though five days earlier he claimed in a series of tweets that he had indeed been the target of a wiretap initiated by former President Barack Obama. \"There is no reason that we should -- that we have to think that the President is the target of any investigation whatsoever,\" White House Press Secretary Sean Spicer said during his daily briefing with reporters. Spicer's comments came several minutes after he had first implied that the White House was unsure whether the president was a target or not. Responding to a reporter's question asking if the president was the \"target of a counter-intelligence investigation,\" Spicer initially said, \"I think that's what we need to find out. There's obviously a lot of concern.\" But apparently, that wasn't the final answer. At the end of the briefing, Spicer was handed a sheet of paper by an aide, from which he read the aforementioned assertion that the White House had no reason to believe the current commander in chief was a target of an investigation.       In the aftermath of Trump's initial comments regarding wiretapping, the White House suggested that Congress should look into the matter. Last Thursday, Sen. Lindsey Graham (R-South Carolina) and Sheldon White House (D-Rhode Island) sent a letter to the Justice Department asking for any information regarding Trump's wiretapping claims. \"We request that the Department of Justice provide us copies of any warrant applications and court orders \"?redacted as necessary to protect intelligence sources and methods that may be compromised by disclosure, and to protect any ongoing investigations -- related to wiretaps of President Trump, the Trump Campaign, or Trump Tower,\" the letter read. \"All I can say is that the country needs an answer to this,\" Graham told CNN last Thursday. \"The current President has accused the former President of basically wiretapping his campaign.\"",
+      "title": "White House says Trump wasn\"t target of investigation, despite prior claims implying otherwise",
+      "source": "http://abcnews.go.com/Politics/white-house-trump-wasnt-target-investigation-prior-claims/story?id=46010328",
+      "timestamp": "2024-02-07T23:43:27.795Z",
+      "metadata": {
+        "created": "2024-02-05T09:49:22.041Z",
+        "updated": "2024-02-05T09:49:22.041Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "2c603380-c41a-11ee-a06c-cb1cbb90ffa4": {
+      "name": "annotator0",
+      "email": "s4kibart@uni-trier.de",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "f2892810-c612-11ee-bbb2-f78c6e9d2422",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-05T09:49:22.041Z",
+    "updated": "2024-04-15T11:10:21.621Z"
+  },
+  "userdata": {
+    "notes": "10min"
+  }
+}

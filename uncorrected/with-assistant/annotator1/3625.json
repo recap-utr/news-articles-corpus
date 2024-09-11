@@ -1,0 +1,846 @@
+{
+  "nodes": {
+    "a0cb84a0-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "The mother of a 13-month-old boy who drowned in a bath has told jurors she was \"stupid\" to leave him unsupervised for 15 minutes",
+        "reference": {
+          "resource": "3625",
+          "offset": 0,
+          "text": "The mother of a 13-month-old boy who drowned in a bath has told jurors she was \"stupid\" to leave him unsupervised for 15 minutes"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:45:31.882Z",
+        "updated": "2024-02-13T09:45:31.882Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This is an acknowledgment of guilt and a recognition of the error made by her."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1280.6373023326798,
+            "y": 12
+          }
+        }
+      }
+    },
+    "a0cb84a1-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Lisa Passey, 28, and her former partner Wayne Dale, 45, left Kian and another two-year-old child alone while the pair entertained a friend",
+        "reference": {
+          "resource": "3625",
+          "offset": 130,
+          "text": "Lisa Passey, 28, and her former partner Wayne Dale, 45, left Kian and another two-year-old child alone while the pair entertained a friend"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:45:31.882Z",
+        "updated": "2024-02-13T09:45:31.882Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement provides context for the negligence that took place."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 217.00048504390742,
+            "y": 288
+          }
+        }
+      }
+    },
+    "a0cb84a2-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Giving evidence at Worcester Crown Court, Ms Passey said it \"was down to me and Wayne.. it's our fault\"",
+        "reference": {
+          "resource": "3625",
+          "offset": 270,
+          "text": "Giving evidence at Worcester Crown Court, Ms Passey said it \"was down to me and Wayne.. it's our fault\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:45:31.882Z",
+        "updated": "2024-02-13T09:45:31.882Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This is a direct admission of responsibility by Ms. Passey."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 567.0000137832835,
+            "y": 288
+          }
+        }
+      }
+    },
+    "a0cb84a3-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Both deny gross negligence manslaughter",
+        "reference": {
+          "resource": "3625",
+          "offset": 375,
+          "text": "Both deny gross negligence manslaughter"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:45:31.882Z",
+        "updated": "2024-02-13T09:45:31.882Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This highlights the legal stance taken by Ms. Passey and Mr. Dale despite their admissions of fault."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 917.000249648601,
+            "y": 288
+          }
+        }
+      }
+    },
+    "a0cb84a4-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Ms Passey said: \"I don't want any pity. I was stupid for not going upstairs.\"",
+        "reference": {
+          "resource": "3625",
+          "offset": 602,
+          "text": "Ms Passey said: \"I don't want any pity. I was stupid for not going upstairs.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:45:31.882Z",
+        "updated": "2024-02-13T09:45:31.882Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Another acknowledgment of the negligence on her part."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1267.000359004665,
+            "y": 288
+          }
+        }
+      }
+    },
+    "a0cb84a5-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "While Kian was in the bath, the court has heard, Ms Passey was in her garden with a friend drinking coffee and smoking. Mr Dale joined them to also smoke and then \"burn\" a CD for the friend",
+        "reference": {
+          "resource": "3625",
+          "offset": 680,
+          "text": "While Kian was in the bath, the court has heard, Ms Passey was in her garden with a friend drinking coffee and smoking. Mr Dale joined them to also smoke and then \"burn\" a CD for the friend"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:45:31.882Z",
+        "updated": "2024-02-13T09:45:31.882Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "It provides further details on the negligence, emphasizing their actions while the child was left alone."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1617.0006240748148,
+            "y": 288
+          }
+        }
+      }
+    },
+    "a0cb84a6-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Kian was later discovered motionless in an overflowing bath by Mr Dale. His death was consistent with drowning, including what was believed to be soap bubbles in his lungs",
+        "reference": {
+          "resource": "3625",
+          "offset": 871,
+          "text": "Kian was later discovered motionless in an overflowing bath by Mr Dale. His death was consistent with drowning, including what was believed to be soap bubbles in his lungs"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:45:31.882Z",
+        "updated": "2024-02-13T09:45:31.882Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement provides the consequence of the negligence."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1967.000351998403,
+            "y": 288
+          }
+        }
+      }
+    },
+    "a0cb84a7-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "It was suggested to the court that the two-year-old had turned the taps on while the pair were downstairs",
+        "reference": {
+          "resource": "3625",
+          "offset": 1044,
+          "text": "It was suggested to the court that the two-year-old had turned the taps on while the pair were downstairs"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:45:31.882Z",
+        "updated": "2024-02-13T09:45:31.882Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "It introduces a possible explanation for how the situation occurred while they were absent."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2317.0003292356214,
+            "y": 288
+          }
+        }
+      }
+    },
+    "a0cb84a8-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Ms Passey was questioned about giving differing accounts of what happened to doctors, police and social services, including telling a doctor the children had been in a dry, empty bath",
+        "reference": {
+          "resource": "3625",
+          "offset": 1151,
+          "text": "Ms Passey was questioned about giving differing accounts of what happened to doctors, police and social services, including telling a doctor the children had been in a dry, empty bath"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:45:31.882Z",
+        "updated": "2024-02-13T09:45:31.882Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This highlights inconsistencies in Ms. Passey's accounts of the event, suggesting a potential lack of reliability or confusion."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2667.000563751056,
+            "y": 304
+          }
+        }
+      }
+    },
+    "a0cb84a9-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "\"I was all over the place,\" she told prosecution barrister, Jonas Hankin QC",
+        "reference": {
+          "resource": "3625",
+          "offset": 1336,
+          "text": "\"I was all over the place,\" she told prosecution barrister, Jonas Hankin QC"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:45:31.882Z",
+        "updated": "2024-02-13T09:45:31.882Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This provides insight into Ms. Passey's mental state following the incident."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2967.0004754353454,
+            "y": 602
+          }
+        }
+      }
+    },
+    "a0cb84aa-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "\"If you'd gone through it yourself, losing a child, you'd realise you're still trying to grieve,\"",
+        "reference": {
+          "resource": "3625",
+          "offset": 1413,
+          "text": "\"If you'd gone through it yourself, losing a child, you'd realise you're still trying to grieve,\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:45:31.882Z",
+        "updated": "2024-02-13T09:45:31.882Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This is an appeal to understand her situation emotionally."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2617.0000766731714,
+            "y": 602
+          }
+        }
+      }
+    },
+    "a0cb84ab-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "She told the court it was a regular occurrence for Mr Dale to leave Kian in the bath, but only \"for a few minutes\"",
+        "reference": {
+          "resource": "3625",
+          "offset": 1511,
+          "text": "She told the court it was a regular occurrence for Mr Dale to leave Kian in the bath, but only \"for a few minutes\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:45:31.882Z",
+        "updated": "2024-02-13T09:45:31.882Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "It indicates a pattern of behavior that might have contributed to the negligence."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 3017.000085430067,
+            "y": 288
+          }
+        }
+      }
+    },
+    "cee398f0-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Details additional instances of leaving children unattended matching the claim's context."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 317.00063941105316,
+            "y": 188
+          }
+        }
+      }
+    },
+    "cee398f3-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Directly admits fault which supports the major claim of negligence."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 667.0005319932927,
+            "y": 188
+          }
+        }
+      }
+    },
+    "cee398f6-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Denial of charges attacks the notion of negligence admitted in the major claim."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1017.0009470578254,
+            "y": 188
+          }
+        }
+      }
+    },
+    "cee398f9-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Reiterates responsibility and stupidity, supporting the major claim's context."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1367.0009162072618,
+            "y": 188
+          }
+        }
+      }
+    },
+    "cee398fc-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Provides specific activities done while unsupervised, further supporting the context of negligence."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1717.0002120561817,
+            "y": 188
+          }
+        }
+      }
+    },
+    "cee398ff-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Describes the consequence of leaving the child unsupervised, bolstering the claim of negligence."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2067.0005846333847,
+            "y": 188
+          }
+        }
+      }
+    },
+    "cee39902-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Suggests an alternative cause of the accident, potentially undermining the direct negligence."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2417.0002557233433,
+            "y": 188
+          }
+        }
+      }
+    },
+    "cee39905-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Providing differing accounts can be seen as undermining the credibility of the claim's admission of negligence."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2767.0006002842547,
+            "y": 188
+          }
+        }
+      }
+    },
+    "cee39908-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Explains the reasons behind the differing accounts, potentially mitigating the attack."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 3067.000803524981,
+            "y": 502
+          }
+        }
+      }
+    },
+    "cee3990b-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Further justification for the inconsistent accounts, softening the undermining effect."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2717.000756313751,
+            "y": 502
+          }
+        }
+      }
+    },
+    "cee3990e-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Mentions regular occurrences of leaving the child in the bath, which could be perceived as normalizing the negligence or providing a counter-narrative."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 3117.0004616692636,
+            "y": 188
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "cee398f1-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "a0cb84a1-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "cee398f0-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee398f2-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "cee398f0-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "a0cb84a0-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee398f4-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "a0cb84a2-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "cee398f3-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee398f5-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "cee398f3-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "a0cb84a0-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee398f7-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "a0cb84a3-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "cee398f6-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee398fa-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "a0cb84a4-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "cee398f9-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee398fb-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "cee398f9-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "a0cb84a0-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee398fd-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "a0cb84a5-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "cee398fc-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee39900-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "a0cb84a6-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "cee398ff-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee39901-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "cee398ff-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "a0cb84a0-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee39903-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "a0cb84a7-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "cee39902-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee39906-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "a0cb84a8-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "cee39905-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee39907-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "cee39905-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "a0cb84a0-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee39909-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "a0cb84a9-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "cee39908-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee3990a-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "cee39908-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "a0cb84a8-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee3990c-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "a0cb84aa-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "cee3990b-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee3990d-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "cee3990b-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "a0cb84a8-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee3990f-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "a0cb84ab-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "cee3990e-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "cee39912-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "a0cb84ac-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "cee39911-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:46:49.215Z",
+        "updated": "2024-02-13T09:46:49.215Z"
+      },
+      "userdata": {}
+    },
+    "ed2fcae0-ca54-11ee-b5b8-bbee0a74ec6f": {
+      "source": "cee398f6-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "a0cb84a2-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:47:40.046Z",
+        "updated": "2024-02-13T09:47:40.046Z"
+      },
+      "userdata": {}
+    },
+    "03998e10-ca55-11ee-b5b8-bbee0a74ec6f": {
+      "source": "cee398fc-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "a0cb84a1-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:48:17.649Z",
+        "updated": "2024-02-13T09:48:17.649Z"
+      },
+      "userdata": {}
+    },
+    "3bfad7f0-ca55-11ee-b5b8-bbee0a74ec6f": {
+      "source": "cee39902-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "a0cb84a8-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:49:52.239Z",
+        "updated": "2024-02-13T09:49:52.239Z"
+      },
+      "userdata": {}
+    },
+    "62264450-ca55-11ee-b5b8-bbee0a74ec6f": {
+      "source": "cee3990e-ca54-11ee-b5b8-bbee0a74ec6f",
+      "target": "a0cb84a4-ca54-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:50:56.277Z",
+        "updated": "2024-02-13T09:50:56.277Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "3625": {
+      "text": "The mother of a 13-month-old boy who drowned in a bath has told jurors she was \"stupid\" to leave him unsupervised for 15 minutes. Lisa Passey, 28, and her former partner Wayne Dale, 45, left Kian and another two-year-old child alone while the pair entertained a friend. Giving evidence at Worcester Crown Court, Ms Passey said it \"was down to me and Wayne.. it's our fault\". Both deny gross negligence manslaughter. More updates on this and other stories in Hereford and Worcester Breaking down at times while recounting what happened the day Kian died at the couple's home in Kyreside, Tenbury Wells, Ms Passey said: \"I don't want any pity. I was stupid for not going upstairs.\" While Kian was in the bath, the court has heard, Ms Passey was in her garden with a friend drinking coffee and smoking. Mr Dale joined them to also smoke and then \"burn\" a CD for the friend. Kian was later discovered motionless in an overflowing bath by Mr Dale. His death was consistent with drowning, including what was believed to be soap bubbles in his lungs. It was suggested to the court that the two-year-old had turned the taps on while the pair were downstairs. Ms Passey was questioned about giving differing accounts of what happened to doctors, police and social services, including telling a doctor the children had been in a dry, empty bath. \"I was all over the place,\" she told prosecution barrister, Jonas Hankin QC. \"If you'd gone through it yourself, losing a child, you'd realise you're still trying to grieve,\" She told the court it was a regular occurrence for Mr Dale to leave Kian in the bath, but only \"for a few minutes\". The trial continues.",
+      "title": "Mum of drowned boy Kian Dale 'stupid' to leave him alone in bath",
+      "source": "http://www.bbc.co.uk/news/uk-england-hereford-worcester-39436078",
+      "timestamp": "2017-03-29T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.182Z",
+        "updated": "2024-02-09T13:09:16.182Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "a0cb84a0-ca54-11ee-b5b8-bbee0a74ec6f",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.182Z",
+    "updated": "2024-02-13T09:51:26.757Z"
+  }
+}

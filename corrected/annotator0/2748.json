@@ -1,0 +1,803 @@
+{
+  "nodes": {
+    "ba0a9a70-c9fd-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "A man was electrocuted as he charged his mobile phone while in the bath",
+        "reference": {
+          "resource": "2748",
+          "offset": 0,
+          "text": "A man was electrocuted as he charged his mobile phone while in the bath"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:23:28.023Z",
+        "updated": "2024-02-12T23:23:28.023Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1012.0009424970153,
+            "y": 12
+          }
+        }
+      }
+    },
+    "c2f5edb0-c9fd-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "Richard Bull died when his iPhone charger made contact with the water at his home in Ealing, west London",
+        "reference": {
+          "resource": "2748",
+          "offset": 95,
+          "text": "Richard Bull died when his iPhone charger made contact with the water at his home in Ealing, west London"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:23:42.987Z",
+        "updated": "2024-02-12T23:23:42.987Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 312.00056968349395,
+            "y": 254
+          }
+        }
+      }
+    },
+    "c5556180-c9fd-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:23:46.968Z",
+        "updated": "2024-02-12T23:23:46.968Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 412.0006291832736,
+            "y": 154
+          }
+        }
+      }
+    },
+    "cc9f39c0-c9fd-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "A coroner ruled his death was accidental and plans to send a report to Apple about taking action to prevent future deaths",
+        "reference": {
+          "resource": "2748",
+          "offset": 201,
+          "text": "A coroner ruled his death was accidental and plans to send a report to Apple about taking action to prevent future deaths"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:23:59.196Z",
+        "updated": "2024-02-12T23:23:59.196Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000546911056214,
+            "y": 496
+          }
+        }
+      }
+    },
+    "cff346c0-c9fd-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:24:04.780Z",
+        "updated": "2024-02-12T23:24:04.780Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00025611755353,
+            "y": 396
+          }
+        }
+      }
+    },
+    "d74f2060-c9fd-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "Safety campaigners have warned about the dangers of charging mobiles near water following the inquest",
+        "reference": {
+          "resource": "2748",
+          "offset": 324,
+          "text": "Safety campaigners have warned about the dangers of charging mobiles near water following the inquest"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:24:17.126Z",
+        "updated": "2024-02-12T23:24:17.126Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.0002362059165,
+            "y": 254
+          }
+        }
+      }
+    },
+    "d9256700-c9fd-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:24:20.208Z",
+        "updated": "2024-02-12T23:24:20.208Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0007124022104,
+            "y": 154
+          }
+        }
+      }
+    },
+    "ebd07480-c9fd-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "Mr Bull is believed to have plugged his charger into an extension cord from the hallway and rested it on his chest while using the phone",
+        "reference": {
+          "resource": "2748",
+          "offset": 427,
+          "text": "Mr Bull is believed to have plugged his charger into an extension cord from the hallway and rested it on his chest while using the phone"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:24:51.528Z",
+        "updated": "2024-02-12T23:24:51.528Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0001827769594,
+            "y": 496
+          }
+        }
+      }
+    },
+    "f1478890-c9fd-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:25:00.697Z",
+        "updated": "2024-02-12T23:25:00.697Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.000340823225,
+            "y": 396
+          }
+        }
+      }
+    },
+    "ff988ac0-c9fd-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "He suffered severe burns on his chest, arm and hand when the charger touched the water and died on 11 December",
+        "reference": {
+          "resource": "2748",
+          "offset": 582,
+          "text": "He suffered severe burns on his chest, arm and hand when the charger touched the water and died on 11 December"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:25:24.716Z",
+        "updated": "2024-02-12T23:25:24.716Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0004136034537,
+            "y": 762
+          }
+        }
+      }
+    },
+    "02484170-c9fe-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:25:29.223Z",
+        "updated": "2024-02-12T23:25:29.223Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.0004571736839,
+            "y": 662
+          }
+        }
+      }
+    },
+    "387e6df0-c9fe-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "If you got any appliance attached to the mains electricity circuit you have to be aware there is a danger there",
+        "reference": {
+          "resource": "2748",
+          "offset": 2484,
+          "text": "If you got any appliance attached to the mains electricity circuit you have to be aware there is a danger there"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:27:00.175Z",
+        "updated": "2024-02-12T23:27:00.175Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1462.0000345152869,
+            "y": 508
+          }
+        }
+      }
+    },
+    "3ad3a890-c9fe-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:27:04.089Z",
+        "updated": "2024-02-12T23:27:04.089Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1562.0007684923285,
+            "y": 396
+          }
+        }
+      }
+    },
+    "52be8d80-c9fe-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": " the death highlighted some of the dangers of having electrical appliances around water",
+        "reference": {
+          "resource": "2748",
+          "offset": 887,
+          "text": "the death highlighted some of the dangers of having electrical appliances around water"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:27:44.216Z",
+        "updated": "2024-02-12T23:27:44.216Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.0009963614273,
+            "y": 514
+          }
+        }
+      }
+    },
+    "55815700-c9fe-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:27:48.848Z",
+        "updated": "2024-02-12T23:27:48.848Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.000343075132,
+            "y": 396
+          }
+        }
+      }
+    },
+    "8ffad280-c9fe-11ee-b733-854bb707c32b": {
+      "atom": {
+        "text": "You're wet which conducts electricity a lot better, you're in the bath with no clothes on so skin resistance is less. You're vulnerable in the bathroom",
+        "reference": {
+          "resource": "2748",
+          "offset": 1829,
+          "text": "You're wet which conducts electricity a lot better, you're in the bath with no clothes on so skin resistance is less. You're vulnerable in the bathroom"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-12T23:29:26.952Z",
+        "updated": "2024-02-12T23:29:26.952Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0007787921883,
+            "y": 496
+          }
+        }
+      }
+    },
+    "94d83ea0-c9fe-11ee-b733-854bb707c32b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-12T23:29:35.114Z",
+        "updated": "2024-02-12T23:29:35.114Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0002052618978,
+            "y": 396
+          }
+        }
+      }
+    },
+    "c3723e70-fb25-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "people \"will not get electrocuted\" from a mobile appliance such as a laptop or mobile phone if it is not being charged. Such devices typically have a low voltage of 5V to 20V so \"you probably wouldn't feel it\" if they came into contact with water",
+        "reference": {
+          "text": "people \"will not get electrocuted\" from a mobile appliance such as a laptop or mobile phone if it is not being charged. Such devices typically have a low voltage of 5V to 20V so \"you probably wouldn't feel it\" if they came into contact with water"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T12:43:30.647Z",
+        "updated": "2024-04-15T12:43:30.647Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.0005513423941,
+            "y": 762
+          }
+        }
+      }
+    },
+    "c5a8f490-fb25-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T12:43:34.361Z",
+        "updated": "2024-04-15T12:43:34.361Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0009903359992,
+            "y": 662
+          }
+        }
+      }
+    },
+    "14b2df60-fb26-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "connecting a mobile phone to a charger plugged into the mains electricity supply increases the risk of harm",
+        "reference": {
+          "text": "connecting a mobile phone to a charger plugged into the mains electricity supply increases the risk of harm"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T12:45:46.966Z",
+        "updated": "2024-04-15T12:45:46.966Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.0002255712034,
+            "y": 1100
+          }
+        }
+      }
+    },
+    "17a125b0-fb26-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T12:45:51.883Z",
+        "updated": "2024-04-15T12:45:51.883Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0007106165733,
+            "y": 1000
+          }
+        }
+      }
+    },
+    "523be4d0-fb26-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "The advice has always been given with regard to hairdryers and radios - not to use in the bathroom",
+        "reference": {
+          "text": "The advice has always been given with regard to hairdryers and radios - not to use in the bathroom"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T12:47:30.205Z",
+        "updated": "2024-04-15T12:47:30.205Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1412.0003834346712,
+            "y": 762
+          }
+        }
+      }
+    },
+    "577a83c0-fb26-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T12:47:39.004Z",
+        "updated": "2024-04-15T12:47:39.004Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1412.0005406268995,
+            "y": 662
+          }
+        }
+      }
+    },
+    "5aa11820-fb26-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T12:47:44.290Z",
+        "updated": "2024-04-15T12:47:44.290Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1562.0003718242,
+            "y": 662
+          }
+        }
+      }
+    },
+    "9941f630-fb26-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "most mobile phone manufacturers cover the electric shock risk in their safety handling support advice",
+        "reference": {
+          "text": "most mobile phone manufacturers cover the electric shock risk in their safety handling support advice"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T12:49:29.363Z",
+        "updated": "2024-04-15T12:49:29.363Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0009413129977,
+            "y": 762
+          }
+        }
+      }
+    },
+    "abb41960-fb26-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T12:50:00.310Z",
+        "updated": "2024-04-15T12:50:00.310Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0009851671688,
+            "y": 662
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "c5556181-c9fd-11ee-b733-854bb707c32b": {
+      "source": "c2f5edb0-c9fd-11ee-b733-854bb707c32b",
+      "target": "c5556180-c9fd-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:23:46.968Z",
+        "updated": "2024-02-12T23:23:46.968Z"
+      },
+      "userdata": {}
+    },
+    "c5556182-c9fd-11ee-b733-854bb707c32b": {
+      "source": "c5556180-c9fd-11ee-b733-854bb707c32b",
+      "target": "ba0a9a70-c9fd-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:23:46.968Z",
+        "updated": "2024-02-12T23:23:46.968Z"
+      },
+      "userdata": {}
+    },
+    "cff346c1-c9fd-11ee-b733-854bb707c32b": {
+      "source": "cc9f39c0-c9fd-11ee-b733-854bb707c32b",
+      "target": "cff346c0-c9fd-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:24:04.780Z",
+        "updated": "2024-02-12T23:24:04.780Z"
+      },
+      "userdata": {}
+    },
+    "cff346c2-c9fd-11ee-b733-854bb707c32b": {
+      "source": "cff346c0-c9fd-11ee-b733-854bb707c32b",
+      "target": "c2f5edb0-c9fd-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:24:04.780Z",
+        "updated": "2024-02-12T23:24:04.780Z"
+      },
+      "userdata": {}
+    },
+    "d9256701-c9fd-11ee-b733-854bb707c32b": {
+      "source": "d74f2060-c9fd-11ee-b733-854bb707c32b",
+      "target": "d9256700-c9fd-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:24:20.208Z",
+        "updated": "2024-02-12T23:24:20.208Z"
+      },
+      "userdata": {}
+    },
+    "d9256702-c9fd-11ee-b733-854bb707c32b": {
+      "source": "d9256700-c9fd-11ee-b733-854bb707c32b",
+      "target": "ba0a9a70-c9fd-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:24:20.208Z",
+        "updated": "2024-02-12T23:24:20.208Z"
+      },
+      "userdata": {}
+    },
+    "f1478891-c9fd-11ee-b733-854bb707c32b": {
+      "source": "ebd07480-c9fd-11ee-b733-854bb707c32b",
+      "target": "f1478890-c9fd-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:25:00.697Z",
+        "updated": "2024-02-12T23:25:00.697Z"
+      },
+      "userdata": {}
+    },
+    "f1478892-c9fd-11ee-b733-854bb707c32b": {
+      "source": "f1478890-c9fd-11ee-b733-854bb707c32b",
+      "target": "c2f5edb0-c9fd-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:25:00.697Z",
+        "updated": "2024-02-12T23:25:00.697Z"
+      },
+      "userdata": {}
+    },
+    "02484171-c9fe-11ee-b733-854bb707c32b": {
+      "source": "ff988ac0-c9fd-11ee-b733-854bb707c32b",
+      "target": "02484170-c9fe-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:25:29.223Z",
+        "updated": "2024-02-12T23:25:29.223Z"
+      },
+      "userdata": {}
+    },
+    "02484172-c9fe-11ee-b733-854bb707c32b": {
+      "source": "02484170-c9fe-11ee-b733-854bb707c32b",
+      "target": "ebd07480-c9fd-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:25:29.223Z",
+        "updated": "2024-02-12T23:25:29.223Z"
+      },
+      "userdata": {}
+    },
+    "3ad3a891-c9fe-11ee-b733-854bb707c32b": {
+      "source": "387e6df0-c9fe-11ee-b733-854bb707c32b",
+      "target": "3ad3a890-c9fe-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:27:04.089Z",
+        "updated": "2024-02-12T23:27:04.089Z"
+      },
+      "userdata": {}
+    },
+    "3ad3a892-c9fe-11ee-b733-854bb707c32b": {
+      "source": "3ad3a890-c9fe-11ee-b733-854bb707c32b",
+      "target": "d74f2060-c9fd-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:27:04.089Z",
+        "updated": "2024-02-12T23:27:04.089Z"
+      },
+      "userdata": {}
+    },
+    "55815701-c9fe-11ee-b733-854bb707c32b": {
+      "source": "52be8d80-c9fe-11ee-b733-854bb707c32b",
+      "target": "55815700-c9fe-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:27:48.848Z",
+        "updated": "2024-02-12T23:27:48.848Z"
+      },
+      "userdata": {}
+    },
+    "55815702-c9fe-11ee-b733-854bb707c32b": {
+      "source": "55815700-c9fe-11ee-b733-854bb707c32b",
+      "target": "d74f2060-c9fd-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:27:48.848Z",
+        "updated": "2024-02-12T23:27:48.848Z"
+      },
+      "userdata": {}
+    },
+    "68a7af01-c9fe-11ee-b733-854bb707c32b": {
+      "source": "65995d90-c9fe-11ee-b733-854bb707c32b",
+      "target": "68a7af00-c9fe-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:28:20.976Z",
+        "updated": "2024-02-12T23:28:20.976Z"
+      },
+      "userdata": {}
+    },
+    "68a7af02-c9fe-11ee-b733-854bb707c32b": {
+      "source": "68a7af00-c9fe-11ee-b733-854bb707c32b",
+      "target": "52be8d80-c9fe-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:28:20.976Z",
+        "updated": "2024-02-12T23:28:20.976Z"
+      },
+      "userdata": {}
+    },
+    "94d83ea1-c9fe-11ee-b733-854bb707c32b": {
+      "source": "8ffad280-c9fe-11ee-b733-854bb707c32b",
+      "target": "94d83ea0-c9fe-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:29:35.114Z",
+        "updated": "2024-02-12T23:29:35.114Z"
+      },
+      "userdata": {}
+    },
+    "94d83ea2-c9fe-11ee-b733-854bb707c32b": {
+      "source": "94d83ea0-c9fe-11ee-b733-854bb707c32b",
+      "target": "d74f2060-c9fd-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-02-12T23:29:35.114Z",
+        "updated": "2024-02-12T23:29:35.114Z"
+      },
+      "userdata": {}
+    },
+    "c5a8f491-fb25-11ee-aa26-a11ecda1a83c": {
+      "source": "c3723e70-fb25-11ee-aa26-a11ecda1a83c",
+      "target": "c5a8f490-fb25-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T12:43:34.361Z",
+        "updated": "2024-04-15T12:43:34.361Z"
+      },
+      "userdata": {}
+    },
+    "c5a8f492-fb25-11ee-aa26-a11ecda1a83c": {
+      "source": "c5a8f490-fb25-11ee-aa26-a11ecda1a83c",
+      "target": "52be8d80-c9fe-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-04-15T12:43:34.361Z",
+        "updated": "2024-04-15T12:43:34.361Z"
+      },
+      "userdata": {}
+    },
+    "17a125b1-fb26-11ee-aa26-a11ecda1a83c": {
+      "source": "14b2df60-fb26-11ee-aa26-a11ecda1a83c",
+      "target": "17a125b0-fb26-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T12:45:51.883Z",
+        "updated": "2024-04-15T12:45:51.883Z"
+      },
+      "userdata": {}
+    },
+    "17a125b2-fb26-11ee-aa26-a11ecda1a83c": {
+      "source": "17a125b0-fb26-11ee-aa26-a11ecda1a83c",
+      "target": "c3723e70-fb25-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T12:45:51.883Z",
+        "updated": "2024-04-15T12:45:51.883Z"
+      },
+      "userdata": {}
+    },
+    "577a83c1-fb26-11ee-aa26-a11ecda1a83c": {
+      "source": "523be4d0-fb26-11ee-aa26-a11ecda1a83c",
+      "target": "577a83c0-fb26-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T12:47:39.004Z",
+        "updated": "2024-04-15T12:47:39.004Z"
+      },
+      "userdata": {}
+    },
+    "577a83c2-fb26-11ee-aa26-a11ecda1a83c": {
+      "source": "577a83c0-fb26-11ee-aa26-a11ecda1a83c",
+      "target": "52be8d80-c9fe-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-04-15T12:47:39.004Z",
+        "updated": "2024-04-15T12:47:39.004Z"
+      },
+      "userdata": {}
+    },
+    "5aa11821-fb26-11ee-aa26-a11ecda1a83c": {
+      "source": "523be4d0-fb26-11ee-aa26-a11ecda1a83c",
+      "target": "5aa11820-fb26-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T12:47:44.290Z",
+        "updated": "2024-04-15T12:47:44.290Z"
+      },
+      "userdata": {}
+    },
+    "5aa11822-fb26-11ee-aa26-a11ecda1a83c": {
+      "source": "5aa11820-fb26-11ee-aa26-a11ecda1a83c",
+      "target": "387e6df0-c9fe-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-04-15T12:47:44.290Z",
+        "updated": "2024-04-15T12:47:44.290Z"
+      },
+      "userdata": {}
+    },
+    "9bab06f0-fb26-11ee-aa26-a11ecda1a83c": {
+      "source": "9941f630-fb26-11ee-aa26-a11ecda1a83c",
+      "target": "9baadfe0-fb26-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T12:49:33.407Z",
+        "updated": "2024-04-15T12:49:33.407Z"
+      },
+      "userdata": {}
+    },
+    "9bab06f1-fb26-11ee-aa26-a11ecda1a83c": {
+      "source": "9baadfe0-fb26-11ee-aa26-a11ecda1a83c",
+      "target": "d74f2060-c9fd-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-04-15T12:49:33.407Z",
+        "updated": "2024-04-15T12:49:33.407Z"
+      },
+      "userdata": {}
+    },
+    "abb41961-fb26-11ee-aa26-a11ecda1a83c": {
+      "source": "9941f630-fb26-11ee-aa26-a11ecda1a83c",
+      "target": "abb41960-fb26-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T12:50:00.310Z",
+        "updated": "2024-04-15T12:50:00.310Z"
+      },
+      "userdata": {}
+    },
+    "abb41962-fb26-11ee-aa26-a11ecda1a83c": {
+      "source": "abb41960-fb26-11ee-aa26-a11ecda1a83c",
+      "target": "52be8d80-c9fe-11ee-b733-854bb707c32b",
+      "metadata": {
+        "created": "2024-04-15T12:50:00.310Z",
+        "updated": "2024-04-15T12:50:00.310Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "2748": {
+      "text": "A man was electrocuted as he charged his mobile phone while in the bath, an inquest has heard. Richard Bull died when his iPhone charger made contact with the water at his home in Ealing, west London. A coroner ruled his death was accidental and plans to send a report to Apple about taking action to prevent future deaths. Safety campaigners have warned about the dangers of charging mobiles near water following the inquest. Mr Bull is believed to have plugged his charger into an extension cord from the hallway and rested it on his chest while using the phone, the Sun reports. He suffered severe burns on his chest, arm and hand when the charger touched the water and died on 11 December, the newspaper said. Assistant coroner Dr Sean Cummings, who conducted the inquest at West London Coroner's Court on Wednesday, is to write a prevention of future death report to send to Apple. Charity Electrical Safety First said the death highlighted some of the dangers of having electrical appliances around water. Product safety manager Steve Curtler said people \"will not get electrocuted\" from a mobile appliance such as a laptop or mobile phone if it is not being charged. Such devices typically have a low voltage of 5V to 20V so \"you probably wouldn't feel it\" if they came into contact with water, he added. However, connecting a mobile phone to a charger plugged into the mains electricity supply increases the risk of harm. \"Although the cable that is plugged in to your phone is 5V, somewhere along the line it's plugged into the electricity supply and you're reliant on that cable and a transformer to make sure you don't get into contact with the main voltage,\" said Mr Curtler. He said cheap, non-branded chargers may not offer such protection, but even with genuine chargers you are still taking an unnecessary risk. \"You're wet which conducts electricity a lot better, you're in the bath with no clothes on so skin resistance is less. You're vulnerable in the bathroom. \"The underlying message is, although someone can argue that the cable that's going into your phone is 5V, that's the point where you're taking too much risk.\" The Royal Society for the Prevention of Accidents (ROSPA) warns against using any electrical appliance in the bathroom. Public health adviser Sheila Merrill said: \"People need to be aware of taking an electrical appliance into the bathroom. \"The advice has always been given with regard to hairdryers and radios - not to use in the bathroom. \"If you got any appliance attached to the mains electricity circuit you have to be aware there is a danger there. \"You're risking death. Electricity and water don't mix, but with particularly with phones, people don't probably always think about it. \"It's not advisable to use them while they're plugged in, particularly in a bathroom situation.\" She said ROSPA did not see this type of accident on a \"regular basis\" and most mobile phone manufacturers cover the electric shock risk in their safety handling support advice. However, with a lot of mobile phones the advice does not come with the instructions you receive in your hand, she added. Apple did not respond to requests for a comment.",
+      "title": "Man dies charging iPhone while in the bath",
+      "source": "http://www.bbc.co.uk/news/uk-39307418",
+      "timestamp": "2017-03-17T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-08T09:23:32.586Z",
+        "updated": "2024-02-08T09:23:32.586Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "2c603380-c41a-11ee-a06c-cb1cbb90ffa4": {
+      "name": "annotator0",
+      "email": "s4kibart@uni-trier.de",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "ba0a9a70-c9fd-11ee-b733-854bb707c32b",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-08T09:23:32.585Z",
+    "updated": "2024-04-15T12:50:35.468Z"
+  },
+  "userdata": {}
+}

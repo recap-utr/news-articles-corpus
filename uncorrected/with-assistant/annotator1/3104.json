@@ -1,0 +1,666 @@
+{
+  "nodes": {
+    "cef342a0-ca4f-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "A US diplomat has been expelled from New Zealand after the embassy refused to waive his immunity during a police investigation",
+        "reference": {
+          "resource": "3104",
+          "offset": 0,
+          "text": "A US diplomat has been expelled from New Zealand after the embassy refused to waive his immunity during a police investigation"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:11:01.834Z",
+        "updated": "2024-02-13T09:11:01.834Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "States the main incident and action that triggered further discussion."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 362.0000245055155,
+            "y": 486
+          }
+        }
+      }
+    },
+    "cef342a1-ca4f-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "The staffer was allegedly involved in an incident on 12 March, but police were unable to question him after the embassy declined their request",
+        "reference": {
+          "resource": "3104",
+          "offset": 128,
+          "text": "The staffer was allegedly involved in an incident on 12 March, but police were unable to question him after the embassy declined their request"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:11:01.834Z",
+        "updated": "2024-02-13T09:11:01.834Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Provides details on the reason behind the police's interest to question the diplomat and the obstruction faced."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 712.0003853238984,
+            "y": 752
+          }
+        }
+      }
+    },
+    "cef342a2-ca4f-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "New Zealand then asked the US to remove the man, who American officials confirmed had left on Saturday",
+        "reference": {
+          "resource": "3104",
+          "offset": 272,
+          "text": "New Zealand then asked the US to remove the man, who American officials confirmed had left on Saturday"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:11:01.834Z",
+        "updated": "2024-02-13T09:11:01.834Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Describes New Zealand's response to the situation and its outcome."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 362.00052944766145,
+            "y": 752
+          }
+        }
+      }
+    },
+    "cef342a3-ca4f-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Police have refused to give further details of the allegations",
+        "reference": {
+          "resource": "3104",
+          "offset": 376,
+          "text": "Police have refused to give further details of the allegations"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:11:01.834Z",
+        "updated": "2024-02-13T09:11:01.834Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Indicates the secrecy or sensitivity around the specifics of the incident."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 12.000453746863185,
+            "y": 12
+          }
+        }
+      }
+    },
+    "cef342a4-ca4f-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Police did say they were continuing to investigate the incident, which took place just outside Wellington",
+        "reference": {
+          "resource": "3104",
+          "offset": 568,
+          "text": "Police did say they were continuing to investigate the incident, which took place just outside Wellington"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:11:01.834Z",
+        "updated": "2024-02-13T09:11:01.834Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Shows ongoing effort to resolve or understand the incident."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 12.000554030715701,
+            "y": 230
+          }
+        }
+      }
+    },
+    "cef342a5-ca4f-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "All diplomatic staff working in New Zealand are immune from prosecution, thanks to the 1961 Vienna Convention",
+        "reference": {
+          "resource": "3104",
+          "offset": 675,
+          "text": "All diplomatic staff working in New Zealand are immune from prosecution, thanks to the 1961 Vienna Convention"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:11:01.834Z",
+        "updated": "2024-02-13T09:11:01.834Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Provides background on why the diplomat could not be legally pursued in New Zealand."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 332.0006318625623,
+            "y": 12
+          }
+        }
+      }
+    },
+    "cef342a6-ca4f-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "New Zealand's foreign ministry said it makes it \"clear with all diplomatic missions in New Zealand that it expects foreign diplomats to abide by New Zealand law, and to waive immunity... if there are allegations of serious crimes\"",
+        "reference": {
+          "resource": "3104",
+          "offset": 795,
+          "text": "New Zealand's foreign ministry said it makes it \"clear with all diplomatic missions in New Zealand that it expects foreign diplomats to abide by New Zealand law, and to waive immunity... if there are allegations of serious crimes\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:11:01.834Z",
+        "updated": "2024-02-13T09:11:01.834Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Illustrates New Zealand's stance on diplomatic immunity and its expectations from foreign diplomats in cases of serious crimes."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 332.00004209770583,
+            "y": 278
+          }
+        }
+      }
+    },
+    "cef342a7-ca4f-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "The US embassy in Wellington said it did not comment on the specifics of matters under investigation",
+        "reference": {
+          "resource": "3104",
+          "text": "The US embassy in Wellington said it did not comment on the specifics of matters under investigation"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:11:01.835Z",
+        "updated": "2024-02-13T09:11:01.835Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Represents the US embassy's position regarding public discussion of the incident."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 12.000890789188004,
+            "y": 764
+          }
+        }
+      }
+    },
+    "cef369b0-ca4f-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "\"We take seriously any suggestion that our staff have fallen short of the high standards of conduct expected of US government personnel.\"",
+        "reference": {
+          "resource": "3104",
+          "offset": 1281,
+          "text": "\"We take seriously any suggestion that our staff have fallen short of the high standards of conduct expected of US government personnel.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:11:01.835Z",
+        "updated": "2024-02-13T09:11:01.835Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Reflects the US embassy's stance or policy regarding conduct expectations from its personnel."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 12.000452534748746,
+            "y": 1018
+          }
+        }
+      }
+    },
+    "ef9a0660-ca4f-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:11:56.614Z",
+        "updated": "2024-02-13T09:11:56.614Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The incident involving the US diplomat supports the fact that the US diplomat was expelled."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 812.0001396281367,
+            "y": 652
+          }
+        }
+      }
+    },
+    "ef9a2d72-ca4f-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:11:56.615Z",
+        "updated": "2024-02-13T09:11:56.615Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The confirmation that the person left New Zealand supports the claim of his expulsion."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 462.00016980939876,
+            "y": 652
+          }
+        }
+      }
+    },
+    "ef9a2d75-ca4f-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:11:56.615Z",
+        "updated": "2024-02-13T09:11:56.615Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The ongoing investigation by the police supports their refusal to provide further details."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 112.00078365942852,
+            "y": 130
+          }
+        }
+      }
+    },
+    "ef9a2d78-ca4f-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:11:56.615Z",
+        "updated": "2024-02-13T09:11:56.615Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "New Zealand's stance on diplomats abiding by local law attacks the justification of immunity under the Vienna Convention."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 432.00044713575465,
+            "y": 178
+          }
+        }
+      }
+    },
+    "ef9a2d7b-ca4f-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:11:56.615Z",
+        "updated": "2024-02-13T09:11:56.615Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The US embassy's refusal to comment supports the broader context of the diplomat's expulsion."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 112.00019159657317,
+            "y": 652
+          }
+        }
+      }
+    },
+    "ef9a2d7e-ca4f-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:11:56.615Z",
+        "updated": "2024-02-13T09:11:56.615Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The statement on the high standards of conduct supports the embassy's stance on not commenting on investigations."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 112.00007723990862,
+            "y": 918
+          }
+        }
+      }
+    },
+    "08379980-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:12:37.912Z",
+        "updated": "2024-02-13T09:12:37.912Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 161.43521709790093,
+            "y": 416.3072056800952
+          }
+        }
+      }
+    },
+    "1f292a50-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:13:16.405Z",
+        "updated": "2024-02-13T09:13:16.405Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 869.525460850105,
+            "y": 213.37328640913188
+          }
+        }
+      }
+    },
+    "2dbb2d20-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "New Zealand Radio reported the man - who has not been named - had left the country with a broken nose and a black eye",
+        "reference": {
+          "resource": "3104",
+          "offset": 449,
+          "text": "New Zealand Radio reported the man - who has not been named - had left the country with a broken nose and a black eye"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:13:40.850Z",
+        "updated": "2024-02-13T09:13:40.850Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 851.6452406045511,
+            "y": 999.24081365796
+          }
+        }
+      }
+    },
+    "3088cc10-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:13:45.553Z",
+        "updated": "2024-02-13T09:13:45.553Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 859.6737796998254,
+            "y": 876.9399147397528
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "ef9a2d70-ca4f-11ee-b5b8-bbee0a74ec6f": {
+      "source": "cef342a1-ca4f-11ee-b5b8-bbee0a74ec6f",
+      "target": "ef9a0660-ca4f-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:11:56.615Z",
+        "updated": "2024-02-13T09:11:56.615Z"
+      },
+      "userdata": {}
+    },
+    "ef9a2d71-ca4f-11ee-b5b8-bbee0a74ec6f": {
+      "source": "ef9a0660-ca4f-11ee-b5b8-bbee0a74ec6f",
+      "target": "cef342a0-ca4f-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:11:56.615Z",
+        "updated": "2024-02-13T09:11:56.615Z"
+      },
+      "userdata": {}
+    },
+    "ef9a2d73-ca4f-11ee-b5b8-bbee0a74ec6f": {
+      "source": "cef342a2-ca4f-11ee-b5b8-bbee0a74ec6f",
+      "target": "ef9a2d72-ca4f-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:11:56.615Z",
+        "updated": "2024-02-13T09:11:56.615Z"
+      },
+      "userdata": {}
+    },
+    "ef9a2d74-ca4f-11ee-b5b8-bbee0a74ec6f": {
+      "source": "ef9a2d72-ca4f-11ee-b5b8-bbee0a74ec6f",
+      "target": "cef342a0-ca4f-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:11:56.615Z",
+        "updated": "2024-02-13T09:11:56.615Z"
+      },
+      "userdata": {}
+    },
+    "ef9a2d76-ca4f-11ee-b5b8-bbee0a74ec6f": {
+      "source": "cef342a4-ca4f-11ee-b5b8-bbee0a74ec6f",
+      "target": "ef9a2d75-ca4f-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:11:56.615Z",
+        "updated": "2024-02-13T09:11:56.615Z"
+      },
+      "userdata": {}
+    },
+    "ef9a2d79-ca4f-11ee-b5b8-bbee0a74ec6f": {
+      "source": "cef342a6-ca4f-11ee-b5b8-bbee0a74ec6f",
+      "target": "ef9a2d78-ca4f-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:11:56.615Z",
+        "updated": "2024-02-13T09:11:56.615Z"
+      },
+      "userdata": {}
+    },
+    "ef9a2d7a-ca4f-11ee-b5b8-bbee0a74ec6f": {
+      "source": "ef9a2d78-ca4f-11ee-b5b8-bbee0a74ec6f",
+      "target": "cef342a5-ca4f-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:11:56.615Z",
+        "updated": "2024-02-13T09:11:56.615Z"
+      },
+      "userdata": {}
+    },
+    "ef9a2d7c-ca4f-11ee-b5b8-bbee0a74ec6f": {
+      "source": "cef342a7-ca4f-11ee-b5b8-bbee0a74ec6f",
+      "target": "ef9a2d7b-ca4f-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:11:56.615Z",
+        "updated": "2024-02-13T09:11:56.615Z"
+      },
+      "userdata": {}
+    },
+    "ef9a2d7d-ca4f-11ee-b5b8-bbee0a74ec6f": {
+      "source": "ef9a2d7b-ca4f-11ee-b5b8-bbee0a74ec6f",
+      "target": "cef342a0-ca4f-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:11:56.615Z",
+        "updated": "2024-02-13T09:11:56.615Z"
+      },
+      "userdata": {}
+    },
+    "ef9a2d7f-ca4f-11ee-b5b8-bbee0a74ec6f": {
+      "source": "cef369b0-ca4f-11ee-b5b8-bbee0a74ec6f",
+      "target": "ef9a2d7e-ca4f-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:11:56.615Z",
+        "updated": "2024-02-13T09:11:56.615Z"
+      },
+      "userdata": {}
+    },
+    "ef9a2d80-ca4f-11ee-b5b8-bbee0a74ec6f": {
+      "source": "ef9a2d7e-ca4f-11ee-b5b8-bbee0a74ec6f",
+      "target": "cef342a7-ca4f-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:11:56.615Z",
+        "updated": "2024-02-13T09:11:56.615Z"
+      },
+      "userdata": {}
+    },
+    "08379981-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "source": "cef342a3-ca4f-11ee-b5b8-bbee0a74ec6f",
+      "target": "08379980-ca50-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:12:37.912Z",
+        "updated": "2024-02-13T09:12:37.912Z"
+      },
+      "userdata": {}
+    },
+    "08379982-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "source": "08379980-ca50-11ee-b5b8-bbee0a74ec6f",
+      "target": "cef342a1-ca4f-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:12:37.912Z",
+        "updated": "2024-02-13T09:12:37.912Z"
+      },
+      "userdata": {}
+    },
+    "15672620-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "source": "ef9a2d75-ca4f-11ee-b5b8-bbee0a74ec6f",
+      "target": "cef342a1-ca4f-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:13:00.034Z",
+        "updated": "2024-02-13T09:13:00.034Z"
+      },
+      "userdata": {}
+    },
+    "1f292a51-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "source": "cef342a5-ca4f-11ee-b5b8-bbee0a74ec6f",
+      "target": "1f292a50-ca50-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:13:16.405Z",
+        "updated": "2024-02-13T09:13:16.405Z"
+      },
+      "userdata": {}
+    },
+    "1f292a52-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "source": "1f292a50-ca50-11ee-b5b8-bbee0a74ec6f",
+      "target": "cef342a0-ca4f-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:13:16.405Z",
+        "updated": "2024-02-13T09:13:16.405Z"
+      },
+      "userdata": {}
+    },
+    "3088f320-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "source": "2dbb2d20-ca50-11ee-b5b8-bbee0a74ec6f",
+      "target": "3088cc10-ca50-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:13:45.554Z",
+        "updated": "2024-02-13T09:13:45.554Z"
+      },
+      "userdata": {}
+    },
+    "3088f321-ca50-11ee-b5b8-bbee0a74ec6f": {
+      "source": "3088cc10-ca50-11ee-b5b8-bbee0a74ec6f",
+      "target": "cef342a1-ca4f-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:13:45.554Z",
+        "updated": "2024-02-13T09:13:45.554Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "3104": {
+      "text": "A US diplomat has been expelled from New Zealand after the embassy refused to waive his immunity during a police investigation. The staffer was allegedly involved in an incident on 12 March, but police were unable to question him after the embassy declined their request. New Zealand then asked the US to remove the man, who American officials confirmed had left on Saturday. Police have refused to give further details of the allegations. However, New Zealand Radio reported the man - who has not been named - had left the country with a broken nose and a black eye. Police did say they were continuing to investigate the incident, which took place just outside Wellington. All diplomatic staff working in New Zealand are immune from prosecution, thanks to the 1961 Vienna Convention. However, New Zealand's foreign ministry said it makes it \"clear with all diplomatic missions in New Zealand that it expects foreign diplomats to abide by New Zealand law, and to waive immunity... if there are allegations of serious crimes\". The US embassy in Wellington - which is without a permanent ambassador after President Barack Obama's appointee was recalled by Donald Trump's administration in January - said it did not comment on the specifics of matters under investigation. It added: \"We take seriously any suggestion that our staff have fallen short of the high standards of conduct expected of US government personnel.\"",
+      "title": "New Zealand: US diplomat expelled amid police inquiry",
+      "source": "http://www.bbc.co.uk/news/world-asia-39321568",
+      "timestamp": "2017-03-19T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.180Z",
+        "updated": "2024-02-09T13:09:16.180Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "cef342a0-ca4f-11ee-b5b8-bbee0a74ec6f",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.180Z",
+    "updated": "2024-02-13T09:13:52.922Z"
+  }
+}

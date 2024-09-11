@@ -1,0 +1,934 @@
+{
+  "nodes": {
+    "03d34891-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Relations between the two NATO allies soured further after the town of Gaggenau in southern Germany refused permission for Turkey's justice minister to address supporters of Turkish President Recep Tayyip Erdogan",
+        "reference": {
+          "resource": "1932",
+          "text": "Relations between the two NATO allies soured further after the town of Gaggenau in southern Germany refused permission for Turkey's justice minister to address supporters of Turkish President Recep Tayyip Erdogan"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:56:47.257Z",
+        "updated": "2024-02-11T12:56:47.257Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0007713860068,
+            "y": 430
+          }
+        }
+      }
+    },
+    "03d34890-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "German lawmakers from across the political spectrum backed preventing Turkish politicians from campaigning in Germany for an upcoming referendum that critics say will deal a death blow to democracy in the country",
+        "reference": {
+          "resource": "1932",
+          "text": "German lawmakers from across the political spectrum backed preventing Turkish politicians from campaigning in Germany for an upcoming referendum that critics say will deal a death blow to democracy in the country"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:56:47.257Z",
+        "updated": "2024-02-11T12:56:47.257Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1428.6666865369102,
+            "y": 12
+          }
+        }
+      }
+    },
+    "03d36fa4-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.0001684291267,
+            "y": 250
+          }
+        }
+      }
+    },
+    "03d34894-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Horst Seehofer, Bavaria's state premier and head of Merkel's sister party, the Christian Social Union, said Turkish politicians had no right to carry out election campaigns in Germany",
+        "reference": {
+          "resource": "1932",
+          "text": "Horst Seehofer, Bavaria's state premier and head of Merkel's sister party, the Christian Social Union, said Turkish politicians had no right to carry out election campaigns in Germany"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:56:47.257Z",
+        "updated": "2024-02-11T12:56:47.257Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1012.0005798296604,
+            "y": 422
+          }
+        }
+      }
+    },
+    "03d36fad-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1112.0003463015444,
+            "y": 250
+          }
+        }
+      }
+    },
+    "03d36fb0-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1512.0009491573862,
+            "y": 250
+          }
+        }
+      }
+    },
+    "03d34897-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "The Turkish referendum comes as Erdogan has used post-coup emergency powers to carry out a massive purge targeting tens of thousands of people",
+        "reference": {
+          "resource": "1932",
+          "offset": 2082,
+          "text": "The Turkish referendum comes as Erdogan has used post-coup emergency powers to carry out a massive purge targeting tens of thousands of people"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:56:47.257Z",
+        "updated": "2024-02-11T12:56:47.257Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1362.0003466057717,
+            "y": 808
+          }
+        }
+      }
+    },
+    "03d36fb6-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1462.000512979765,
+            "y": 708
+          }
+        }
+      }
+    },
+    "03d36fa0-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Erdogan and his ministers have repeatedly likened a vote against the referendum as support for the coup attempt and \"terrorists.\"",
+        "reference": {
+          "resource": "1932",
+          "offset": 2336,
+          "text": "Erdogan and his ministers have repeatedly likened a vote against the referendum as support for the coup attempt and \"terrorists.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1712.0000417624494,
+            "y": 808
+          }
+        }
+      }
+    },
+    "03d36fb9-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1812.0009151266086,
+            "y": 708
+          }
+        }
+      }
+    },
+    "03d36fa1-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Thomas Strobl, the interior minister of Baden-W¨¹rttemberg, said Turkey was retreating from the rule of law, press freedom and the foundations of democracy",
+        "reference": {
+          "resource": "1932",
+          "text": "Thomas Strobl, the interior minister of Baden-W¨¹rttemberg, said Turkey was retreating from the rule of law, press freedom and the foundations of democracy"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1762.000010378943,
+            "y": 350
+          }
+        }
+      }
+    },
+    "03d36fbc-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1862.0004085008504,
+            "y": 250
+          }
+        }
+      }
+    },
+    "03d36fa3-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "atom": {
+        "text": "Sevim Dagdelen, a Turkish-Kurdish lawmaker for the opposition Left Party in the Bundestag, said German government must and can prevent Erdogan and his ministers from campaigning for dictatorship and a return of the death penalty",
+        "reference": {
+          "resource": "1932",
+          "offset": 3772,
+          "text": "Sevim Dagdelen, a Turkish-Kurdish lawmaker for the opposition Left Party in the Bundestag, said German government must and can prevent Erdogan and his ministers from campaigning for dictatorship and a return of the death penalty"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2112.0005227500124,
+            "y": 350
+          }
+        }
+      }
+    },
+    "03d36fc2-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2212.0001888276174,
+            "y": 250
+          }
+        }
+      }
+    },
+    "916b1fe0-fc89-11ee-bacf-6f44838a7611": {
+      "atom": {
+        "text": "The opposition in Turkey has been handicapped in the referendum campaign and warned that if the constitutional changes pass the country would turn into a-full-blown dictatorship",
+        "reference": {
+          "resource": "1932",
+          "offset": 1796,
+          "text": "The opposition in Turkey has been handicapped in the referendum campaign and warned that if the constitutional changes pass the country would turn into a-full-blown dictatorship"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-17T07:10:27.550Z",
+        "updated": "2024-04-17T07:10:27.550Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1412.0003758213322,
+            "y": 446
+          }
+        }
+      }
+    },
+    "c5f3c370-fc89-11ee-bacf-6f44838a7611": {
+      "atom": {
+        "text": "The city of Cologne also blocked an event where Turkish Economy Minister Nihat Zeybecki was to campaign on Sunday, citing security concerns",
+        "reference": {
+          "resource": "1932",
+          "offset": 572,
+          "text": "The city of Cologne also blocked an event where Turkish Economy Minister Nihat Zeybecki was to campaign on Sunday, citing security concerns"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-17T07:11:55.687Z",
+        "updated": "2024-04-17T07:11:55.687Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 662.0000119277628,
+            "y": 808
+          }
+        }
+      }
+    },
+    "cab1e7c0-fc89-11ee-bacf-6f44838a7611": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-17T07:12:03.644Z",
+        "updated": "2024-04-17T07:12:03.644Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 762.0008907730016,
+            "y": 708
+          }
+        }
+      }
+    },
+    "e3220240-fc89-11ee-bacf-6f44838a7611": {
+      "atom": {
+        "text": "The decisions drew a sharp rebuke from Ankara, with Turkish Foreign Minister on Friday accusing Berlin of campaigning against the referendum and double standards on freedom of speech",
+        "reference": {
+          "resource": "1932",
+          "offset": 713,
+          "text": "The decisions drew a sharp rebuke from Ankara, with Turkish Foreign Minister on Friday accusing Berlin of campaigning against the referendum and double standards on freedom of speech"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-17T07:12:44.644Z",
+        "updated": "2024-04-17T07:12:44.644Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 312.000179892276,
+            "y": 808
+          }
+        }
+      }
+    },
+    "e5e78ae0-fc89-11ee-bacf-6f44838a7611": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-17T07:12:49.294Z",
+        "updated": "2024-04-17T07:12:49.294Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 412.00001242539713,
+            "y": 708
+          }
+        }
+      }
+    },
+    "f802b470-fc89-11ee-bacf-6f44838a7611": {
+      "atom": {
+        "text": "Wolfgang Bosbach, a lawmaker from Chancellor Angela Merkel's Christian Democratic Union, described Turkish arguments about freedom of speech as a \"sleight of hand.\"",
+        "reference": {
+          "resource": "1932",
+          "offset": 897,
+          "text": "Wolfgang Bosbach, a lawmaker from Chancellor Angela Merkel's Christian Democratic Union, described Turkish arguments about freedom of speech as a \"sleight of hand.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-04-17T07:13:19.671Z",
+        "updated": "2024-04-17T07:13:19.671Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2462.0004887040036,
+            "y": 434
+          }
+        }
+      }
+    },
+    "fd8f7360-fc89-11ee-bacf-6f44838a7611": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-17T07:13:28.982Z",
+        "updated": "2024-04-17T07:13:28.982Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2562.0007685515557,
+            "y": 250
+          }
+        }
+      }
+    },
+    "0dd4cb80-fc8a-11ee-bacf-6f44838a7611": {
+      "atom": {
+        "text": "\"Germany is not a Turkish outpost, and there is no legal right for foreign politicians who want to campaign on German soil,\"",
+        "reference": {
+          "resource": "1932",
+          "offset": 1178,
+          "text": "\"Germany is not a Turkish outpost, and there is no legal right for foreign politicians who want to campaign on German soil,\""
+        }
+      },
+      "metadata": {
+        "created": "2024-04-17T07:13:56.280Z",
+        "updated": "2024-04-17T07:13:56.280Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2462.000903558656,
+            "y": 808
+          }
+        }
+      }
+    },
+    "106f9aa0-fc8a-11ee-bacf-6f44838a7611": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-17T07:14:00.650Z",
+        "updated": "2024-04-17T07:14:00.650Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2562.0005562824817,
+            "y": 708
+          }
+        }
+      }
+    },
+    "29352820-fc8a-11ee-bacf-6f44838a7611": {
+      "atom": {
+        "text": " \"When Turkish politicians want to use our liberal laws to promote an anti-democratic restructuring in their country, then they are abusing their rights as a guest,\"",
+        "reference": {
+          "resource": "1932",
+          "offset": 1615,
+          "text": " \"When Turkish politicians want to use our liberal laws to promote an anti-democratic restructuring in their country, then they are abusing their rights as a guest,\""
+        }
+      },
+      "metadata": {
+        "created": "2024-04-17T07:14:42.210Z",
+        "updated": "2024-04-17T07:14:42.210Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1012.0000250295919,
+            "y": 808
+          }
+        }
+      }
+    },
+    "2be41b80-fc8a-11ee-bacf-6f44838a7611": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-17T07:14:46.712Z",
+        "updated": "2024-04-17T07:14:46.712Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1112.0007699207426,
+            "y": 708
+          }
+        }
+      }
+    },
+    "6873a5c0-fc8a-11ee-bacf-6f44838a7611": {
+      "atom": {
+        "text": "Thomas Kutschaty, the justice minister of North Rhine-Westphalia and a-member of the Social Democrats, also warned of Turkish officials stoking divisions in Turkish-German society",
+        "reference": {
+          "resource": "1932",
+          "offset": 2996,
+          "text": "Thomas Kutschaty, the justice minister of North Rhine-Westphalia and a-member of the Social Democrats, also warned of Turkish officials stoking divisions in Turkish-German society"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-17T07:16:28.316Z",
+        "updated": "2024-04-17T07:16:28.316Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2812.0006293617944,
+            "y": 422
+          }
+        }
+      }
+    },
+    "6d432f30-fc8a-11ee-bacf-6f44838a7611": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-17T07:16:36.387Z",
+        "updated": "2024-04-17T07:16:36.387Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2912.0004160261224,
+            "y": 250
+          }
+        }
+      }
+    },
+    "74965640-fc8a-11ee-bacf-6f44838a7611": {
+      "atom": {
+        "text": "Merkel should make clear to Erdogan that \"such divisive campaigning with anti-democratic goals is not welcome here in Germany,\"",
+        "reference": {
+          "resource": "1932",
+          "offset": 3177,
+          "text": "Merkel should make clear to Erdogan that \"such divisive campaigning with anti-democratic goals is not welcome here in Germany,\""
+        }
+      },
+      "metadata": {
+        "created": "2024-04-17T07:16:48.676Z",
+        "updated": "2024-04-17T07:16:48.676Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2812.0002590665267,
+            "y": 808
+          }
+        }
+      }
+    },
+    "787405a0-fc8a-11ee-bacf-6f44838a7611": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-17T07:16:55.162Z",
+        "updated": "2024-04-17T07:16:55.162Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 2912.0006930607083,
+            "y": 708
+          }
+        }
+      }
+    },
+    "91114aa0-fc8a-11ee-bacf-6f44838a7611": {
+      "atom": {
+        "text": "Cem Ozdemir, the co-chair of the opposition Green party whose family is of Turkish origin, said on Thursday that Turkish politicians have no right to campaign in Germany so long as freedoms in Turkey are restricted. \"Set the opposition free, give them the possibility to hold events [against the referendum],\" he said. \"Stop restricting the press, set Deniz Yucel and the other journalists free. Then you can use our rights,\" he said",
+        "reference": {
+          "resource": "1932",
+          "offset": 3337,
+          "text": "Cem Ozdemir, the co-chair of the opposition Green party whose family is of Turkish origin, said on Thursday that Turkish politicians have no right to campaign in Germany so long as freedoms in Turkey are restricted. \"Set the opposition free, give them the possibility to hold events [against the referendum],\" he said. \"Stop restricting the press, set Deniz Yucel and the other journalists free. Then you can use our rights,\" he said"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-17T07:17:36.458Z",
+        "updated": "2024-04-17T07:17:36.458Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000688863070405,
+            "y": 350
+          }
+        }
+      }
+    },
+    "982cbfe0-fc8a-11ee-bacf-6f44838a7611": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-17T07:17:48.382Z",
+        "updated": "2024-04-17T07:17:48.382Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00002864992915,
+            "y": 250
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "03d36fa5-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "03d34891-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "03d36fa4-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {}
+    },
+    "03d36fa6-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "03d36fa4-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "03d34890-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {}
+    },
+    "03d36fae-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "03d34894-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "03d36fad-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {}
+    },
+    "03d36faf-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "03d36fad-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "03d34890-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {}
+    },
+    "03d36fb1-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "03d34895-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "03d36fb0-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {}
+    },
+    "03d36fb2-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "03d36fb0-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "03d34890-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {}
+    },
+    "03d36fb7-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "03d34897-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "03d36fb6-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {}
+    },
+    "03d36fb8-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "03d36fb6-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "03d34895-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {}
+    },
+    "03d36fba-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "03d36fa0-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "03d36fb9-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {}
+    },
+    "03d36fbb-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "03d36fb9-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "03d34895-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {}
+    },
+    "03d36fbd-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "03d36fa1-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "03d36fbc-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {}
+    },
+    "03d36fbe-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "03d36fbc-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "03d34890-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {}
+    },
+    "03d36fc3-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "03d36fa3-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "03d36fc2-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {}
+    },
+    "03d36fc4-c8dd-11ee-a7b6-0184e7d3dd10": {
+      "source": "03d36fc2-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "03d34890-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-02-11T12:56:47.258Z",
+        "updated": "2024-02-11T12:56:47.258Z"
+      },
+      "userdata": {}
+    },
+    "970880a0-fc89-11ee-bacf-6f44838a7611": {
+      "source": "916b1fe0-fc89-11ee-bacf-6f44838a7611",
+      "target": "03d36fb0-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-04-17T07:10:36.970Z",
+        "updated": "2024-04-17T07:10:36.970Z"
+      },
+      "userdata": {}
+    },
+    "97f06fa0-fc89-11ee-bacf-6f44838a7611": {
+      "source": "03d36fb9-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "916b1fe0-fc89-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T07:10:38.490Z",
+        "updated": "2024-04-17T07:10:38.490Z"
+      },
+      "userdata": {}
+    },
+    "990ded90-fc89-11ee-bacf-6f44838a7611": {
+      "source": "03d36fb6-c8dd-11ee-a7b6-0184e7d3dd10",
+      "target": "916b1fe0-fc89-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T07:10:40.361Z",
+        "updated": "2024-04-17T07:10:40.361Z"
+      },
+      "userdata": {}
+    },
+    "cab1e7c1-fc89-11ee-bacf-6f44838a7611": {
+      "source": "c5f3c370-fc89-11ee-bacf-6f44838a7611",
+      "target": "cab1e7c0-fc89-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T07:12:03.644Z",
+        "updated": "2024-04-17T07:12:03.644Z"
+      },
+      "userdata": {}
+    },
+    "cab1e7c2-fc89-11ee-bacf-6f44838a7611": {
+      "source": "cab1e7c0-fc89-11ee-bacf-6f44838a7611",
+      "target": "03d34891-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-04-17T07:12:03.644Z",
+        "updated": "2024-04-17T07:12:03.644Z"
+      },
+      "userdata": {}
+    },
+    "e5e78ae1-fc89-11ee-bacf-6f44838a7611": {
+      "source": "e3220240-fc89-11ee-bacf-6f44838a7611",
+      "target": "e5e78ae0-fc89-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T07:12:49.294Z",
+        "updated": "2024-04-17T07:12:49.294Z"
+      },
+      "userdata": {}
+    },
+    "e5e78ae2-fc89-11ee-bacf-6f44838a7611": {
+      "source": "e5e78ae0-fc89-11ee-bacf-6f44838a7611",
+      "target": "03d34891-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-04-17T07:12:49.294Z",
+        "updated": "2024-04-17T07:12:49.294Z"
+      },
+      "userdata": {}
+    },
+    "fd8f7361-fc89-11ee-bacf-6f44838a7611": {
+      "source": "f802b470-fc89-11ee-bacf-6f44838a7611",
+      "target": "fd8f7360-fc89-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T07:13:28.982Z",
+        "updated": "2024-04-17T07:13:28.982Z"
+      },
+      "userdata": {}
+    },
+    "fd8f7362-fc89-11ee-bacf-6f44838a7611": {
+      "source": "fd8f7360-fc89-11ee-bacf-6f44838a7611",
+      "target": "03d34890-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-04-17T07:13:28.982Z",
+        "updated": "2024-04-17T07:13:28.982Z"
+      },
+      "userdata": {}
+    },
+    "106f9aa1-fc8a-11ee-bacf-6f44838a7611": {
+      "source": "0dd4cb80-fc8a-11ee-bacf-6f44838a7611",
+      "target": "106f9aa0-fc8a-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T07:14:00.650Z",
+        "updated": "2024-04-17T07:14:00.650Z"
+      },
+      "userdata": {}
+    },
+    "106f9aa2-fc8a-11ee-bacf-6f44838a7611": {
+      "source": "106f9aa0-fc8a-11ee-bacf-6f44838a7611",
+      "target": "f802b470-fc89-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T07:14:00.650Z",
+        "updated": "2024-04-17T07:14:00.650Z"
+      },
+      "userdata": {}
+    },
+    "2be41b81-fc8a-11ee-bacf-6f44838a7611": {
+      "source": "29352820-fc8a-11ee-bacf-6f44838a7611",
+      "target": "2be41b80-fc8a-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T07:14:46.712Z",
+        "updated": "2024-04-17T07:14:46.712Z"
+      },
+      "userdata": {}
+    },
+    "2be41b82-fc8a-11ee-bacf-6f44838a7611": {
+      "source": "2be41b80-fc8a-11ee-bacf-6f44838a7611",
+      "target": "03d34894-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-04-17T07:14:46.712Z",
+        "updated": "2024-04-17T07:14:46.712Z"
+      },
+      "userdata": {}
+    },
+    "6d435640-fc8a-11ee-bacf-6f44838a7611": {
+      "source": "6873a5c0-fc8a-11ee-bacf-6f44838a7611",
+      "target": "6d432f30-fc8a-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T07:16:36.388Z",
+        "updated": "2024-04-17T07:16:36.388Z"
+      },
+      "userdata": {}
+    },
+    "6d435641-fc8a-11ee-bacf-6f44838a7611": {
+      "source": "6d432f30-fc8a-11ee-bacf-6f44838a7611",
+      "target": "03d34890-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-04-17T07:16:36.388Z",
+        "updated": "2024-04-17T07:16:36.388Z"
+      },
+      "userdata": {}
+    },
+    "787405a1-fc8a-11ee-bacf-6f44838a7611": {
+      "source": "74965640-fc8a-11ee-bacf-6f44838a7611",
+      "target": "787405a0-fc8a-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T07:16:55.162Z",
+        "updated": "2024-04-17T07:16:55.162Z"
+      },
+      "userdata": {}
+    },
+    "787405a2-fc8a-11ee-bacf-6f44838a7611": {
+      "source": "787405a0-fc8a-11ee-bacf-6f44838a7611",
+      "target": "6873a5c0-fc8a-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T07:16:55.162Z",
+        "updated": "2024-04-17T07:16:55.162Z"
+      },
+      "userdata": {}
+    },
+    "982cbfe1-fc8a-11ee-bacf-6f44838a7611": {
+      "source": "91114aa0-fc8a-11ee-bacf-6f44838a7611",
+      "target": "982cbfe0-fc8a-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T07:17:48.382Z",
+        "updated": "2024-04-17T07:17:48.382Z"
+      },
+      "userdata": {}
+    },
+    "982cbfe2-fc8a-11ee-bacf-6f44838a7611": {
+      "source": "982cbfe0-fc8a-11ee-bacf-6f44838a7611",
+      "target": "03d34890-c8dd-11ee-a7b6-0184e7d3dd10",
+      "metadata": {
+        "created": "2024-04-17T07:17:48.382Z",
+        "updated": "2024-04-17T07:17:48.382Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "1932": {
+      "text": "German lawmakers from across the political spectrum on Friday backed preventing-Turkish politicians from campaigning in Germany for an upcoming referendum that critics say will-deal a death blow to democracy in the country.- Relations between the two NATO allies soured further on Thursday after the town of Gaggenau in southern Germany refused permission for Turkey's justice minister to address supporters of Turkish President Recep Tayyip Erdogan. The event was meant-to rally support for an April referendum that will dramatically expand the powers of the presidency.-The city of Cologne also blocked an event where Turkish Economy Minister Nihat Zeybecki was to campaign on Sunday, citing security concerns. The decisions drew a sharp rebuke from Ankara, with Turkish Foreign Minister on Friday accusing Berlin of campaigning against the referendum and double standards on freedom of speech. Wolfgang Bosbach, a lawmaker from Chancellor Angela Merkel's Christian Democratic Union, described Turkish arguments about freedom of speech as a \"sleight of hand.\" Send Facebook Twitter Google+ Whatsapp Tumblr linkedin stumble Digg reddit Newsvine Permalink http://dw.com/p/2Ya3W \"Germany is not a Turkish outpost, and there is no legal right for foreign politicians who want to campaign on German soil,\" Bosbach said, warning that internal conflicts in Turkey should not be brought to Germany. Horst Seehofer, Bavaria's state premier and head of Merkel's sister party, the Christian Social Union, told the daily \"S¨¹ddeutsche-Zeitung\" that Turkish politicians had no right to carry out election campaigns in Germany. \"When Turkish politicians want to use our liberal laws to promote an anti-democratic restructuring in their country, then they are abusing their rights as a guest,\" Seehofer said. The opposition in Turkey has been handicapped in the referendum campaign and warned that if the constitutional changes pass the country would turn into a-full-blown dictatorship. Germany is home to some 3 million people of Turkish origin, about half of whom can cast a ballot in April. The Turkish referendum comes as Erdogan has used post-coup emergency powers to carry out a massive purge targeting tens of thousands of people, including-journalists, like Germany's Deniz Yucel, and the Kurdish opposition, drawing criticism from Europe.-Erdogan and his ministers have repeatedly likened a vote against the referendum as support for the coup attempt and \"terrorists.\" A broader deterioration in ties between Ankara and Berlin took another hit on Monday-when Turkish-German \"Die Welt\" correspondent Deniz Yucel was arrested.-He faces up to several years in prison if convicted on \"terrorism\" charges. Thomas Strobl, the interior minister of Baden-W¨¹rttemberg, where Gaggenau is located, said Turkey was retreating from the rule of law, press freedom and the foundations of democracy. \"Whoever wants to campaign for Turkish issues should do it in Turkey,\" he told the \"Mannheimer Morgen\" newspaper. Thomas Kutschaty, the justice minister of North Rhine-Westphalia and a-member of the Social Democrats, also warned of Turkish officials stoking divisions in Turkish-German society. Merkel should make clear to Erdogan that \"such divisive campaigning with anti-democratic goals is not welcome here in Germany,\" he told public broadcaster WDR. Cem Ozdemir, the co-chair of the opposition Green party whose family is of Turkish origin, said on Thursday that Turkish politicians have no right to campaign in Germany so long as freedoms in Turkey are restricted. \"Set the opposition free, give them the possibility to hold events [against the referendum],\" he said. \"Stop restricting the press, set Deniz Yucel and the other journalists free. Then you can use our rights,\" he said. Sevim Dagdelen, a Turkish-Kurdish lawmaker for the opposition Left Party in the Bundestag, said German government must and can prevent Erdogan and his ministers from campaigning for dictatorship and a return of the death penalty. cw/sms (AFP, dpa) -",
+      "title": "German politicians line up against 'anti-democratic' Turkish referendum campaign",
+      "source": "http://www.dw.com/en/german-politicians-line-up-against-anti-democratic-turkish-referendum-campaign/a-37797622?maca=en-rss-en-all-1573-rdf",
+      "timestamp": "2017-03-03T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.210Z",
+        "updated": "2024-02-09T13:09:16.210Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "69ca24d0-c5b2-11ee-bbb2-f78c6e9d2422": {
+      "name": "Martin Hoppe",
+      "email": "mogramming@gmail.com",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "03d34890-c8dd-11ee-a7b6-0184e7d3dd10",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.210Z",
+    "updated": "2024-04-17T07:18:01.018Z"
+  },
+  "userdata": {}
+}

@@ -1,0 +1,772 @@
+{
+  "nodes": {
+    "d39d13e2-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "Single or in relationship, Valentine's Day is one of my favorite days of the year",
+        "reference": {
+          "resource": "713",
+          "offset": 315,
+          "text": "Single or in relationship, Valentine's Day is one of my favorite days of the year"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU illustrates the author's affection for Valentine's Day regardless of relationship status."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 362.0002476432369,
+            "y": 278
+          }
+        }
+      }
+    },
+    "d39d13e1-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "Valentine's Day has always been about sharing love with everyone in my circle and celebrating all the love that is present right here, right now",
+        "reference": {
+          "resource": "713",
+          "offset": 92,
+          "text": "Valentine's Day has always been about sharing love with everyone in my circle and celebrating all the love that is present right here, right now"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU presents the author's personal perspective on Valentine's Day.",
+          "mcConfig": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "mcExplanation": "The major claim is centered around the author's personal perspective on Valentine's Day, advocating for a broadened interpretation of love that goes beyond traditional romantic relationships."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 712.0002887279927,
+            "y": 12
+          }
+        }
+      }
+    },
+    "d39d13ea-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Expresses the author’s personal joy in Valentine's Day, supporting the broader interpretation of the day."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 462.000189684662,
+            "y": 178
+          }
+        }
+      }
+    },
+    "d39d13e4-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "To dwell in a depressive state focused on what seems lacking is ultimately a waste of time and energy",
+        "reference": {
+          "resource": "713",
+          "text": "To dwell in a depressive state focused on what seems lacking is ultimately a waste of time and energy"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU presents an argument against focusing on the absence of romantic love on Valentine's Day."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 712.0002954927919,
+            "y": 294
+          }
+        }
+      }
+    },
+    "d39d13ed-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Presents a reason why focusing solely on romantic love can be negative, supporting the broader love perspective."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 812.0004315173726,
+            "y": 178
+          }
+        }
+      }
+    },
+    "d39d13e5-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "It's also a way of negating any form of love present in your life right now, including the love you have for yourself",
+        "reference": {
+          "resource": "713",
+          "offset": 659,
+          "text": "It's also a way of negating any form of love present in your life right now, including the love you have for yourself"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU connects the previous argument to the importance of recognizing all forms of love."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 762.0004965205616,
+            "y": 544
+          }
+        }
+      }
+    },
+    "d39d13f0-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Expands on the reason by highlighting the negation of all forms of love."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 862.0009811948437,
+            "y": 444
+          }
+        }
+      }
+    },
+    "d39d13e6-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "The basis for long-term real love begins with self-love",
+        "reference": {
+          "resource": "713",
+          "text": "The basis for long-term real love begins with self-love"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU presents a foundational argument for the importance of self-love."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1112.0002173677326,
+            "y": 302
+          }
+        }
+      }
+    },
+    "d39d13f3-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Underpinning the idea that love begins with self-love, supports the broader interpretation."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1212.0006524929308,
+            "y": 178
+          }
+        }
+      }
+    },
+    "d39d13e7-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "Every Valentine's Day, regardless of whether I am single or dating someone, I always buy myself something special",
+        "reference": {
+          "resource": "713",
+          "offset": 1081,
+          "text": "Every Valentine's Day, regardless of whether I am single or dating someone, I always buy myself something special"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU provides a practical example of practicing self-love."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1112.0009368318913,
+            "y": 544
+          }
+        }
+      }
+    },
+    "d39d13f6-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Provides a practical application of self-love, supporting the foundation of love starting with oneself."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1212.0000427589725,
+            "y": 444
+          }
+        }
+      }
+    },
+    "d39d13e8-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "Letting others know they are loved and appreciated, even if it's simply through a text message, gives them the heartwarming gift of feeling seen",
+        "reference": {
+          "resource": "713",
+          "offset": 1804,
+          "text": "Letting others know they are loved and appreciated, even if it's simply through a text message, gives them the heartwarming gift of feeling seen"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU argues for the importance of expressing love towards others."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1462.0000574885778,
+            "y": 278
+          }
+        }
+      }
+    },
+    "d39d13f9-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Advocates for expressing love towards others, aligning with the broader interpretation of Valentine's Day."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1562.0008643207987,
+            "y": 178
+          }
+        }
+      }
+    },
+    "d39d13e9-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "This is about honoring and appreciating yourself",
+        "reference": {
+          "resource": "713",
+          "offset": 1272,
+          "text": "This is about honoring and appreciating yourself"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU ties back to the theme of self-appreciation and love."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1112.0003899771796,
+            "y": 810
+          }
+        }
+      }
+    },
+    "d39d13fc-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Further explains the act of buying something special as an act of self-honoring."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1212.0006856070836,
+            "y": 710
+          }
+        }
+      }
+    },
+    "d39d13e0-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "Valentine's Day is typically focused on romantic love between two people",
+        "reference": {
+          "resource": "713",
+          "offset": 10,
+          "text": "Valentine's Day is typically focused on romantic love between two people"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU outlines a common perception of Valentine's Day."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 12.000395277459827,
+            "y": 278
+          }
+        }
+      }
+    },
+    "d39d13ff-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Challenges the common perception, setting the stage for the author's broader perspective."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 112.0009713801379,
+            "y": 178
+          }
+        }
+      }
+    },
+    "d39d13e3-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "Many of my friends experience stress, sadness, and longing at this time of year",
+        "reference": {
+          "resource": "713",
+          "text": "Many of my friends experience stress, sadness, and longing at this time of year"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This ADU highlights how some people feel negatively about Valentine's Day."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 412.0004328820646,
+            "y": 544
+          }
+        }
+      }
+    },
+    "d39d1402-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Highlights the negative feelings some experience during Valentine's Day, which the argument seeks to counter by suggesting a shift in focus."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 512.0007148751176,
+            "y": 444
+          }
+        }
+      }
+    },
+    "0ecac430-ca09-11ee-ab2a-4dc8d1f5b568": {
+      "atom": {
+        "text": "What could be more attractive than a generous, loving person radiating happiness and engaging [heart]fully in all life is offering in this present moment",
+        "reference": {
+          "resource": "713",
+          "offset": 2077,
+          "text": "What could be more attractive than a generous, loving person radiating happiness and engaging [heart]fully in all life is offering in this present moment"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T00:44:34.675Z",
+        "updated": "2024-02-13T00:44:34.675Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1487.4850011670403,
+            "y": 513.6321128803867
+          }
+        }
+      }
+    },
+    "1304eb70-ca09-11ee-ab2a-4dc8d1f5b568": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T00:44:41.767Z",
+        "updated": "2024-02-13T00:44:41.767Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1555.5018127393412,
+            "y": 429.68285270954544
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "d39d13eb-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "source": "d39d13e2-ca08-11ee-ab2a-4dc8d1f5b568",
+      "target": "d39d13ea-ca08-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {}
+    },
+    "d39d13ec-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "source": "d39d13ea-ca08-11ee-ab2a-4dc8d1f5b568",
+      "target": "d39d13e1-ca08-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {}
+    },
+    "d39d13ee-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "source": "d39d13e4-ca08-11ee-ab2a-4dc8d1f5b568",
+      "target": "d39d13ed-ca08-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {}
+    },
+    "d39d13ef-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "source": "d39d13ed-ca08-11ee-ab2a-4dc8d1f5b568",
+      "target": "d39d13e1-ca08-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {}
+    },
+    "d39d13f1-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "source": "d39d13e5-ca08-11ee-ab2a-4dc8d1f5b568",
+      "target": "d39d13f0-ca08-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {}
+    },
+    "d39d13f2-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "source": "d39d13f0-ca08-11ee-ab2a-4dc8d1f5b568",
+      "target": "d39d13e4-ca08-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {}
+    },
+    "d39d13f4-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "source": "d39d13e6-ca08-11ee-ab2a-4dc8d1f5b568",
+      "target": "d39d13f3-ca08-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {}
+    },
+    "d39d13f5-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "source": "d39d13f3-ca08-11ee-ab2a-4dc8d1f5b568",
+      "target": "d39d13e1-ca08-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {}
+    },
+    "d39d13f7-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "source": "d39d13e7-ca08-11ee-ab2a-4dc8d1f5b568",
+      "target": "d39d13f6-ca08-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {}
+    },
+    "d39d13f8-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "source": "d39d13f6-ca08-11ee-ab2a-4dc8d1f5b568",
+      "target": "d39d13e6-ca08-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {}
+    },
+    "d39d13fa-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "source": "d39d13e8-ca08-11ee-ab2a-4dc8d1f5b568",
+      "target": "d39d13f9-ca08-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {}
+    },
+    "d39d13fb-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "source": "d39d13f9-ca08-11ee-ab2a-4dc8d1f5b568",
+      "target": "d39d13e1-ca08-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {}
+    },
+    "d39d13fd-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "source": "d39d13e9-ca08-11ee-ab2a-4dc8d1f5b568",
+      "target": "d39d13fc-ca08-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {}
+    },
+    "d39d13fe-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "source": "d39d13fc-ca08-11ee-ab2a-4dc8d1f5b568",
+      "target": "d39d13e7-ca08-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {}
+    },
+    "d39d1400-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "source": "d39d13e0-ca08-11ee-ab2a-4dc8d1f5b568",
+      "target": "d39d13ff-ca08-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {}
+    },
+    "d39d1401-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "source": "d39d13ff-ca08-11ee-ab2a-4dc8d1f5b568",
+      "target": "d39d13e1-ca08-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {}
+    },
+    "d39d1403-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "source": "d39d13e3-ca08-11ee-ab2a-4dc8d1f5b568",
+      "target": "d39d1402-ca08-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {}
+    },
+    "d39d1404-ca08-11ee-ab2a-4dc8d1f5b568": {
+      "source": "d39d1402-ca08-11ee-ab2a-4dc8d1f5b568",
+      "target": "d39d13e4-ca08-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:42:55.390Z",
+        "updated": "2024-02-13T00:42:55.390Z"
+      },
+      "userdata": {}
+    },
+    "1304eb71-ca09-11ee-ab2a-4dc8d1f5b568": {
+      "source": "0ecac430-ca09-11ee-ab2a-4dc8d1f5b568",
+      "target": "1304eb70-ca09-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:44:41.767Z",
+        "updated": "2024-02-13T00:44:41.767Z"
+      },
+      "userdata": {}
+    },
+    "1304eb72-ca09-11ee-ab2a-4dc8d1f5b568": {
+      "source": "1304eb70-ca09-11ee-ab2a-4dc8d1f5b568",
+      "target": "d39d13e8-ca08-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:44:41.767Z",
+        "updated": "2024-02-13T00:44:41.767Z"
+      },
+      "userdata": {}
+    },
+    "25ff9f91-ca09-11ee-ab2a-4dc8d1f5b568": {
+      "source": "23693d40-ca09-11ee-ab2a-4dc8d1f5b568",
+      "target": "25ff9f90-ca09-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:45:13.609Z",
+        "updated": "2024-02-13T00:45:13.609Z"
+      },
+      "userdata": {}
+    },
+    "25ff9f92-ca09-11ee-ab2a-4dc8d1f5b568": {
+      "source": "25ff9f90-ca09-11ee-ab2a-4dc8d1f5b568",
+      "target": "0ecac430-ca09-11ee-ab2a-4dc8d1f5b568",
+      "metadata": {
+        "created": "2024-02-13T00:45:13.609Z",
+        "updated": "2024-02-13T00:45:13.609Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "713": {
+      "text": "For many, Valentine's Day is typically focused on romantic love between two people. For me, Valentine's Day has always been about sharing love with everyone in my circle and celebrating all the love that is present right here, right now\"?-\"not mourning the absence of another, but embracing the beauty of the now. Single or in relationship, Valentine's Day is one of my favorite days of the year. Many of my friends, male and female, experience stress, sadness, and longing at this time of year, and while I understand how they might feel this way, to dwell in a depressive state focused on that which seems lacking is ultimately a waste of time and energy. It's also a way of negating any form of love present in your life right now, including the love you have for yourself. There are so many opportunities to spread the love on Valentine's Day, and perhaps this is an important opportunity to demonstrate love and compassion towards yourself. I think most of us realize by now that the basis for long-term real love\"?-\"true love with another person\"?-\"begins with self-love. Every Valentine's Day, regardless of whether I am single or dating someone, I always buy myself something special. Work within your budget and do something that feels indulgent and blissful. This is about honoring and appreciating yourself. I love to schedule a spa session, indulge in my favorite chocolate delicacies, and buy myself beautiful lingerie--especially when I'm single. Nothing makes me feel more sensual and luxurious than fabulous lingerie even if I'm the only one who gets to appreciate it! Then, I turn my attention to friends who may be feeling depressed, left out, or lonely. I send valentines to my favorite people and gift my friends and family with a beautiful candle or treat I know they will enjoy. Letting others know they are loved and appreciated, even if it's simply through a text message, gives them the heartwarming gift of feeling seen. Whatever you choose, do it with joy and revel in pleasure, which incidentally is the best way to magnetize more love your way. What could be more attractive than a generous, loving person radiating happiness and engaging [heart]fully in all life is offering in this present moment? These are the beautiful people you encounter throughout life who literally glow from the inside out making them irresistible to all. How are you going to spread the love this Valentine's Day? ",
+      "title": "Spread the Love",
+      "source": "http://www.huffingtonpost.com/monet-euan/spread-the-love_b_14535144.html",
+      "timestamp": "2017-02-09T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.173Z",
+        "updated": "2024-02-09T13:09:16.173Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "d39d13e1-ca08-11ee-ab2a-4dc8d1f5b568",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.173Z",
+    "updated": "2024-02-13T00:45:26.340Z"
+  }
+}

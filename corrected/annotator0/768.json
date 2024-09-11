@@ -1,0 +1,426 @@
+{
+  "nodes": {
+    "044177e0-c8d6-11ee-b4a2-756af494682b": {
+      "atom": {
+        "text": "Russian mobile operator MegaFon has closed a deal on acquiring 63.8% of voting shares in Mail.ru Group",
+        "reference": {
+          "resource": "768",
+          "offset": 28,
+          "text": "Russian mobile operator MegaFon has closed a deal on acquiring 63.8% of voting shares in Mail.ru Group"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:06:41.502Z",
+        "updated": "2024-02-11T12:06:41.502Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 412.0007336756087,
+            "y": 12
+          }
+        }
+      }
+    },
+    "044177e4-c8d6-11ee-b4a2-756af494682b": {
+      "atom": {
+        "text": "MegaFon has already paid $640 mln",
+        "reference": {
+          "resource": "768",
+          "offset": 691,
+          "text": "MegaFon has already paid $640 mln"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:06:41.502Z",
+        "updated": "2024-02-11T12:06:41.502Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0006390623563,
+            "y": 254
+          }
+        }
+      }
+    },
+    "044177e6-c8d6-11ee-b4a2-756af494682b": {
+      "atom": {
+        "text": "In late 2016, Megafon shareholders approved the transaction",
+        "reference": {
+          "resource": "768",
+          "offset": 782,
+          "text": "In late 2016, Megafon shareholders approved the transaction"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T12:06:41.502Z",
+        "updated": "2024-02-11T12:06:41.502Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.00060638684465,
+            "y": 254
+          }
+        }
+      }
+    },
+    "2a7ebe93-c8d6-11ee-b4a2-756af494682b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:07:45.657Z",
+        "updated": "2024-02-11T12:07:45.657Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 803.000314700031,
+            "y": 154
+          }
+        }
+      }
+    },
+    "2a7ebe99-c8d6-11ee-b4a2-756af494682b": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T12:07:45.657Z",
+        "updated": "2024-02-11T12:07:45.657Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.0003059668922,
+            "y": 154
+          }
+        }
+      }
+    },
+    "194706f0-faf9-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "The main purpose of the transaction is synergy that will result in intensification of cooperation between the two companies",
+        "reference": {
+          "text": "The main purpose of the transaction is synergy that will result in intensification of cooperation between the two companies"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T07:23:47.295Z",
+        "updated": "2024-04-15T07:23:47.295Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.00092664730107,
+            "y": 472
+          }
+        }
+      }
+    },
+    "1bfc62f0-faf9-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T07:23:51.839Z",
+        "updated": "2024-04-15T07:23:51.839Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.0004423616158,
+            "y": 372
+          }
+        }
+      }
+    },
+    "46fa8d10-faf9-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "Later this month the launch of a special application VKmobile can be announced for users of VKontakte social network (part of Mail.ru Group)",
+        "reference": {
+          "text": "Later this month the launch of a special application VKmobile can be announced for users of VKontakte social network (part of Mail.ru Group)"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T07:25:03.969Z",
+        "updated": "2024-04-15T07:25:03.969Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0004419330701,
+            "y": 738
+          }
+        }
+      }
+    },
+    "4927a640-faf9-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T07:25:07.620Z",
+        "updated": "2024-04-15T07:25:07.620Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0006910476117,
+            "y": 638
+          }
+        }
+      }
+    },
+    "5104bdd0-faf9-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": " Also a special application can be launched for users of the Odnoklassniki (Classmates) social network, which is part of Mail.ru structure",
+        "reference": {
+          "text": " Also a special application can be launched for users of the Odnoklassniki (Classmates) social network, which is part of Mail.ru structure"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T07:25:20.813Z",
+        "updated": "2024-04-15T07:25:20.813Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.00057162826744,
+            "y": 738
+          }
+        }
+      }
+    },
+    "5367b410-faf9-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T07:25:24.817Z",
+        "updated": "2024-04-15T07:25:24.817Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.0003456675528,
+            "y": 638
+          }
+        }
+      }
+    },
+    "6082a740-faf9-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "MegaFon and Mail.ru plan to unites possibilities of targeting their consumers",
+        "reference": {
+          "text": "MegaFon and Mail.ru plan to unites possibilities of targeting their consumers"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T07:25:46.804Z",
+        "updated": "2024-04-15T07:25:46.804Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000373699580905,
+            "y": 738
+          }
+        }
+      }
+    },
+    "6299c770-faf9-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T07:25:50.311Z",
+        "updated": "2024-04-15T07:25:50.311Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00065939367902,
+            "y": 638
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "2a7ebe94-c8d6-11ee-b4a2-756af494682b": {
+      "source": "044177e4-c8d6-11ee-b4a2-756af494682b",
+      "target": "2a7ebe93-c8d6-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:07:45.657Z",
+        "updated": "2024-02-11T12:07:45.657Z"
+      },
+      "userdata": {}
+    },
+    "2a7ebe95-c8d6-11ee-b4a2-756af494682b": {
+      "source": "2a7ebe93-c8d6-11ee-b4a2-756af494682b",
+      "target": "044177e0-c8d6-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:07:45.657Z",
+        "updated": "2024-02-11T12:07:45.657Z"
+      },
+      "userdata": {}
+    },
+    "2a7ebe9a-c8d6-11ee-b4a2-756af494682b": {
+      "source": "044177e6-c8d6-11ee-b4a2-756af494682b",
+      "target": "2a7ebe99-c8d6-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:07:45.657Z",
+        "updated": "2024-02-11T12:07:45.657Z"
+      },
+      "userdata": {}
+    },
+    "2a7ebe9b-c8d6-11ee-b4a2-756af494682b": {
+      "source": "2a7ebe99-c8d6-11ee-b4a2-756af494682b",
+      "target": "044177e0-c8d6-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:07:45.657Z",
+        "updated": "2024-02-11T12:07:45.657Z"
+      },
+      "userdata": {}
+    },
+    "2a7ee5a7-c8d6-11ee-b4a2-756af494682b": {
+      "source": "044177ea-c8d6-11ee-b4a2-756af494682b",
+      "target": "2a7ee5a6-c8d6-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:07:45.658Z",
+        "updated": "2024-02-11T12:07:45.658Z"
+      },
+      "userdata": {}
+    },
+    "2a7ee5a8-c8d6-11ee-b4a2-756af494682b": {
+      "source": "2a7ee5a6-c8d6-11ee-b4a2-756af494682b",
+      "target": "044177e0-c8d6-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:07:45.658Z",
+        "updated": "2024-02-11T12:07:45.658Z"
+      },
+      "userdata": {}
+    },
+    "2a7ee5aa-c8d6-11ee-b4a2-756af494682b": {
+      "source": "044177eb-c8d6-11ee-b4a2-756af494682b",
+      "target": "2a7ee5a9-c8d6-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:07:45.658Z",
+        "updated": "2024-02-11T12:07:45.658Z"
+      },
+      "userdata": {}
+    },
+    "2a7ee5ab-c8d6-11ee-b4a2-756af494682b": {
+      "source": "2a7ee5a9-c8d6-11ee-b4a2-756af494682b",
+      "target": "044177ea-c8d6-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-02-11T12:07:45.658Z",
+        "updated": "2024-02-11T12:07:45.658Z"
+      },
+      "userdata": {}
+    },
+    "1bfc62f1-faf9-11ee-aa26-a11ecda1a83c": {
+      "source": "194706f0-faf9-11ee-aa26-a11ecda1a83c",
+      "target": "1bfc62f0-faf9-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T07:23:51.839Z",
+        "updated": "2024-04-15T07:23:51.839Z"
+      },
+      "userdata": {}
+    },
+    "1bfc62f2-faf9-11ee-aa26-a11ecda1a83c": {
+      "source": "1bfc62f0-faf9-11ee-aa26-a11ecda1a83c",
+      "target": "044177e6-c8d6-11ee-b4a2-756af494682b",
+      "metadata": {
+        "created": "2024-04-15T07:23:51.839Z",
+        "updated": "2024-04-15T07:23:51.839Z"
+      },
+      "userdata": {}
+    },
+    "4927cd50-faf9-11ee-aa26-a11ecda1a83c": {
+      "source": "46fa8d10-faf9-11ee-aa26-a11ecda1a83c",
+      "target": "4927a640-faf9-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T07:25:07.621Z",
+        "updated": "2024-04-15T07:25:07.621Z"
+      },
+      "userdata": {}
+    },
+    "4927cd51-faf9-11ee-aa26-a11ecda1a83c": {
+      "source": "4927a640-faf9-11ee-aa26-a11ecda1a83c",
+      "target": "194706f0-faf9-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T07:25:07.621Z",
+        "updated": "2024-04-15T07:25:07.621Z"
+      },
+      "userdata": {}
+    },
+    "5367b411-faf9-11ee-aa26-a11ecda1a83c": {
+      "source": "5104bdd0-faf9-11ee-aa26-a11ecda1a83c",
+      "target": "5367b410-faf9-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T07:25:24.817Z",
+        "updated": "2024-04-15T07:25:24.817Z"
+      },
+      "userdata": {}
+    },
+    "5367b412-faf9-11ee-aa26-a11ecda1a83c": {
+      "source": "5367b410-faf9-11ee-aa26-a11ecda1a83c",
+      "target": "194706f0-faf9-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T07:25:24.817Z",
+        "updated": "2024-04-15T07:25:24.817Z"
+      },
+      "userdata": {}
+    },
+    "6299c771-faf9-11ee-aa26-a11ecda1a83c": {
+      "source": "6082a740-faf9-11ee-aa26-a11ecda1a83c",
+      "target": "6299c770-faf9-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T07:25:50.311Z",
+        "updated": "2024-04-15T07:25:50.311Z"
+      },
+      "userdata": {}
+    },
+    "6299c772-faf9-11ee-aa26-a11ecda1a83c": {
+      "source": "6299c770-faf9-11ee-aa26-a11ecda1a83c",
+      "target": "194706f0-faf9-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T07:25:50.311Z",
+        "updated": "2024-04-15T07:25:50.311Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "768": {
+      "text": "MOSCOW, February 9. /TASS/. Russian mobile operator MegaFon has closed a deal on acquiring 63.8% of voting shares in Mail.ru Group (15.2% of the authorized capital) from the structures of USM Holdings, the operator said in a statement. Alisher Usmanov's USM Holdings is the controlling shareholder of MegaFon. \"MegaFon announces that it has finalized the deal on acquiring 11.5 million Class A shares and 21.9 million common shares, representing approximately 15.2% of the share capital or 63.8% of votes in Mail.Ru Group Limited, from the companies affiliated to MegaFon's supervisory shareholder - USM Holdings,\" the statement said.   The total sum of the deal is $740 mln. Of this amount MegaFon has already paid $640 mln. The operator will pay the remaining $100 mln in a year. In late 2016, Megafon shareholders approved the transaction on the purchase of Mail.ru Group shares from New Media and Technology Investment L.P., New Media Technologies Capital Partners Limited and Ardoe Finance Ltd, which are part of USM Group. The Federal Antimonopoly Service approved the deal on February 6. The main purpose of the transaction is synergy that will result in intensification of cooperation between the two companies. Later this month the launch of a special application VKmobile can be announced for users of VKontakte social network (part of Mail.ru Group). Also a special application can be launched for users of the Odnoklassniki (Classmates) social network, which is part of Mail.ru structure. Besides that MegaFon and Mail.ru plan to unites possibilities of targeting their consumers. MegaFon has no plans to increase its stake in the Internet company to 100%. At the same time preserve the managements of both companies will remain independent. Any possible agreements will be concluded on commercial, market conditions. At the same time MegaFon plans to fully consolidate Mail.ru Group in its financial reports.",
+      "title": "MegaFon mobile operator clinches deal on buying stake in Mail.ru Group",
+      "source": "http://tass.com/economy/930090",
+      "timestamp": "2017-02-09T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.216Z",
+        "updated": "2024-02-09T13:09:16.216Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "2c603380-c41a-11ee-a06c-cb1cbb90ffa4": {
+      "name": "annotator0",
+      "email": "s4kibart@uni-trier.de",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "044177e0-c8d6-11ee-b4a2-756af494682b",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.216Z",
+    "updated": "2024-04-15T07:28:29.170Z"
+  },
+  "userdata": {}
+}

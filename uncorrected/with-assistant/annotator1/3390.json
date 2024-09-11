@@ -1,0 +1,849 @@
+{
+  "nodes": {
+    "e1a80230-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "US President Donald Trump has suffered a stunning political setback in a Congress controlled by his own party when Republican leaders pulled legislation to overhaul the US healthcare system, a major 2016 election campaign promise of the president and his allies",
+        "reference": {
+          "resource": "3390",
+          "offset": 0,
+          "text": "US President Donald Trump has suffered a stunning political setback in a Congress controlled by his own party when Republican leaders pulled legislation to overhaul the US healthcare system, a major 2016 election campaign promise of the president and his allies"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:25:52.211Z",
+        "updated": "2024-02-13T09:25:52.211Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This provides context and the main event leading to the argument.",
+          "mcConfig": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "mcExplanation": "This ADU serves as the major claim of the argument as it encapsulates the core event of the narrative - President Trump's political setback due to the withdrawal of healthcare legislation, which was a significant promise from his 2016 campaign. The other ADUs provide supporting details, consequences, and reactions to this central event, making it the primary claim around which the argument is structured."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 124.50092688832095,
+            "y": 12
+          }
+        }
+      }
+    },
+    "e1a80231-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Republican leaders of the House of Representatives pulled the legislation due to a shortage of votes despite desperate lobbying by the White House and its allies in Congress",
+        "reference": {
+          "resource": "3390",
+          "offset": 264,
+          "text": "Republican leaders of the House of Representatives pulled the legislation due to a shortage of votes despite desperate lobbying by the White House and its allies in Congress"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:25:52.211Z",
+        "updated": "2024-02-13T09:25:52.211Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Details the reason for the failure of the legislation."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 362.0009581535062,
+            "y": 454
+          }
+        }
+      }
+    },
+    "e1a80233-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "House Republicans had planned a vote on the measure after Mr Trump cut off negotiations with Republicans who had balked at the plan and issued an ultimatum to vote on Friday, win or lose",
+        "reference": {
+          "resource": "3390",
+          "text": "House Republicans had planned a vote on the measure after Mr Trump cut off negotiations with Republicans who had balked at the plan and issued an ultimatum to vote on Friday, win or lose"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:25:52.211Z",
+        "updated": "2024-02-13T09:25:52.211Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Explains the actions taken by Trump and the House Republicans leading up to the vote."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 612.0004606387656,
+            "y": 756
+          }
+        }
+      }
+    },
+    "e1a80234-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Republican moderates as well as the most conservative lawmakers had objected to the legislation",
+        "reference": {
+          "resource": "3390",
+          "offset": 737,
+          "text": "Republican moderates as well as the most conservative lawmakers had objected to the legislation"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:25:52.211Z",
+        "updated": "2024-02-13T09:25:52.211Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Highlights the internal opposition to the legislation."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 962.0000158771246,
+            "y": 756
+          }
+        }
+      }
+    },
+    "e1a80235-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "The White House and House leaders were unable to come up with a plan that satisfied both moderates and conservatives",
+        "reference": {
+          "resource": "3390",
+          "offset": 834,
+          "text": "The White House and House leaders were unable to come up with a plan that satisfied both moderates and conservatives"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:25:52.211Z",
+        "updated": "2024-02-13T09:25:52.211Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Illustrates the challenge of reconciling internal differences."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1312.0009940881205,
+            "y": 756
+          }
+        }
+      }
+    },
+    "e1a80236-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "\"We learned a lot about loyalty. We learned a lot about the vote-getting process,\" Mr Trump told reporters at the White House, although he sought to shift the blame to the Democrats, who were unified in their opposition, even though his party controls the White House, the House and th..",
+        "reference": {
+          "resource": "3390",
+          "text": "\"We learned a lot about loyalty. We learned a lot about the vote-getting process,\" Mr Trump told reporters at the White House, although he sought to shift the blame to the Democrats, who were unified in their opposition, even though his party controls the White House, the House and th.."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:25:52.211Z",
+        "updated": "2024-02-13T09:25:52.211Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Shows Trump's response and attempt to redirect blame."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1062.0002776589083,
+            "y": 394
+          }
+        }
+      }
+    },
+    "e1a80237-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Amid a chaotic scramble for votes, House of Representatives Speaker Paul Ryan (above), who has championed the bill, met with Mr Trump at the White House before the bill was pulled from the House floor after hours of debate",
+        "reference": {
+          "resource": "3390",
+          "offset": 1247,
+          "text": "Amid a chaotic scramble for votes, House of Representatives Speaker Paul Ryan (above), who has championed the bill, met with Mr Trump at the White House before the bill was pulled from the House floor after hours of debate"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:25:52.211Z",
+        "updated": "2024-02-13T09:25:52.211Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Details the efforts made to secure votes for the legislation."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1662.0008818835433,
+            "y": 756
+          }
+        }
+      }
+    },
+    "e1a80238-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Mr Ryan said he recommended that the legislation be withdrawn from the House floor because he did not have the votes to pass it, and that Mr Trump agreed",
+        "reference": {
+          "resource": "3390",
+          "offset": 1471,
+          "text": "Mr Ryan said he recommended that the legislation be withdrawn from the House floor because he did not have the votes to pass it, and that Mr Trump agreed"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:25:52.211Z",
+        "updated": "2024-02-13T09:25:52.211Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Mr. Ryan's rationale for withdrawing the legislation and Trump's agreement."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 262.00044736991276,
+            "y": 756
+          }
+        }
+      }
+    },
+    "e1a80239-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Without the bill's passage in Congress, Democratic former President Barack Obama's signature domestic policy achievement, the 2010 Affordable Care Act - known as Obamacare - would remain in place despite seven years of Republican promises to dismantle it",
+        "reference": {
+          "resource": "3390",
+          "offset": 1626,
+          "text": "Without the bill's passage in Congress, Democratic former President Barack Obama's signature domestic policy achievement, the 2010 Affordable Care Act - known as Obamacare - would remain in place despite seven years of Republican promises to dismantle it"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:25:52.211Z",
+        "updated": "2024-02-13T09:25:52.211Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Highlights the implications of the legislation's failure on Obamacare."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1413.1895546468565,
+            "y": 394
+          }
+        }
+      }
+    },
+    "e1a8023a-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "\"There were things in this bill that I didn't particularly like,\" Mr Trump added, without specifying what those were, but he expressed confidence in Mr Ryan's leadership",
+        "reference": {
+          "resource": "3390",
+          "offset": 1882,
+          "text": "\"There were things in this bill that I didn't particularly like,\" Mr Trump added, without specifying what those were, but he expressed confidence in Mr Ryan's leadership"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:25:52.211Z",
+        "updated": "2024-02-13T09:25:52.211Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Trump's mixed feelings about the bill and support for Ryan."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1762.0004730208823,
+            "y": 394
+          }
+        }
+      }
+    },
+    "e1a8023b-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "\"Perhaps the best thing that could happen is exactly what happened today, because we'll end up with a truly great healthcare bill in the future after this mess known as Obamacare explodes,\" Mr Trump said",
+        "reference": {
+          "resource": "3390",
+          "offset": 2053,
+          "text": "\"Perhaps the best thing that could happen is exactly what happened today, because we'll end up with a truly great healthcare bill in the future after this mess known as Obamacare explodes,\" Mr Trump said"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:25:52.211Z",
+        "updated": "2024-02-13T09:25:52.211Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Trump's optimistic viewpoint on the failure leading to a better healthcare bill in the future."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2112.0004549388013,
+            "y": 394
+          }
+        }
+      }
+    },
+    "e1a8023c-ca51-11ee-b5b8-bbee0a74ec6f": {
+      "atom": {
+        "text": "Repealing and replacing Obamacare was a top campaign promise by Mr Trump in the 2016 presidential election",
+        "reference": {
+          "resource": "3390",
+          "offset": 2258,
+          "text": "Repealing and replacing Obamacare was a top campaign promise by Mr Trump in the 2016 presidential election"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-13T09:25:52.211Z",
+        "updated": "2024-02-13T09:25:52.211Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Contextualizes the importance of the legislation within Trump's campaign promises."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 12.000831136089584,
+            "y": 394
+          }
+        }
+      }
+    },
+    "1663c3b0-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Pulling the legislation due to a shortage of votes directly contributes to the political setback by illustrating the failure to pass a key promise."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 462.0002518676374,
+            "y": 294
+          }
+        }
+      }
+    },
+    "1663c3b6-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The planned vote and ultimatum issued by Trump elucidate the reasons behind the legislation being pulled, thus contributing to understanding the political setback."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 712.0007978827604,
+            "y": 656
+          }
+        }
+      }
+    },
+    "1663c3b9-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The objection from various Republican lawmakers illustrates the tangible lack of support that led to the legislation being pulled."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1062.0009636825334,
+            "y": 656
+          }
+        }
+      }
+    },
+    "1663c3bc-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The inability to satisfy both moderates and conservatives underlies the core issues that resulted in the failure to pass the legislation."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1412.0006419031167,
+            "y": 656
+          }
+        }
+      }
+    },
+    "1663c3bf-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Trump's comments on learning about loyalty and the vote-getting process, while shifting blame to Democrats, attempt to mitigate the perception of a political setback."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1162.0009960426894,
+            "y": 294
+          }
+        }
+      }
+    },
+    "1663c3c2-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The chaotic scramble for votes and the eventual decision to pull the bill demonstrate the depth of the failure to secure support for the legislation."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1762.0000762104137,
+            "y": 656
+          }
+        }
+      }
+    },
+    "1663c3c5-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Ryan's recommendation to withdraw the legislation due to lack of support further emphasizes the reasons behind the setback."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 362.00035212704137,
+            "y": 656
+          }
+        }
+      }
+    },
+    "1663c3c8-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "The continuation of Obamacare, despite Republican promises, suggests a failure in Trump's campaign promise but also reflects the ongoing political battle rather than just a setback."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1512.000792311372,
+            "y": 294
+          }
+        }
+      }
+    },
+    "1663c3cb-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Trump's selective disapproval of parts of the bill and his expression of confidence in Ryan's leadership attempt to distance himself from the failure, thus reducing the perception of a setback."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 1862.0004716963658,
+            "y": 294
+          }
+        }
+      }
+    },
+    "1663c3ce-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "Trump's assertion that the failure may lead to a better healthcare bill in the future attempts to reframe the setback as a stepping stone rather than an outright failure."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 2212.0005157476917,
+            "y": 294
+          }
+        }
+      }
+    },
+    "1663c3d1-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {
+        "assistant": {
+          "config": {
+            "model": "gpt-4-turbo-preview",
+            "baseURL": "https://api.openai.com/v1"
+          },
+          "explanation": "This statement underpins the significance of the healthcare legislation as a central campaign promise, thereby framing the inability to fulfil it as a significant political setback."
+        },
+        "arguemapper": {
+          "position": {
+            "x": 112.00071000627105,
+            "y": 294
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "1663c3b1-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "e1a80231-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "1663c3b0-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3b2-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "1663c3b0-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "e1a80230-ca51-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3b4-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "e1a80232-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "1663c3b3-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3b7-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "e1a80233-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "1663c3b6-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3b8-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "1663c3b6-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "e1a80231-ca51-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3ba-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "e1a80234-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "1663c3b9-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3bb-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "1663c3b9-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "e1a80231-ca51-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3bd-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "e1a80235-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "1663c3bc-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3c0-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "e1a80236-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "1663c3bf-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3c1-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "1663c3bf-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "e1a80230-ca51-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3c3-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "e1a80237-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "1663c3c2-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3c6-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "e1a80238-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "1663c3c5-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3c9-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "e1a80239-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "1663c3c8-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3ca-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "1663c3c8-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "e1a80230-ca51-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3cc-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "e1a8023a-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "1663c3cb-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3cd-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "1663c3cb-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "e1a80230-ca51-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3cf-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "e1a8023b-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "1663c3ce-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3d0-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "1663c3ce-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "e1a80230-ca51-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3d2-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "e1a8023c-ca51-11ee-b5b8-bbee0a74ec6f",
+      "target": "1663c3d1-ca52-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "1663c3d3-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "1663c3d1-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "e1a80230-ca51-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:27:20.683Z",
+        "updated": "2024-02-13T09:27:20.683Z"
+      },
+      "userdata": {}
+    },
+    "7a5e6640-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "1663c3bc-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "e1a80234-ca51-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:30:08.420Z",
+        "updated": "2024-02-13T09:30:08.420Z"
+      },
+      "userdata": {}
+    },
+    "91dfb3f0-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "1663c3c5-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "e1a80237-ca51-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:30:47.855Z",
+        "updated": "2024-02-13T09:30:47.855Z"
+      },
+      "userdata": {}
+    },
+    "95d1d5b0-ca52-11ee-b5b8-bbee0a74ec6f": {
+      "source": "1663c3c2-ca52-11ee-b5b8-bbee0a74ec6f",
+      "target": "e1a80231-ca51-11ee-b5b8-bbee0a74ec6f",
+      "metadata": {
+        "created": "2024-02-13T09:30:54.475Z",
+        "updated": "2024-02-13T09:30:54.475Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "3390": {
+      "text": "US President Donald Trump has suffered a stunning political setback in a Congress controlled by his own party when Republican leaders pulled legislation to overhaul the US healthcare system, a major 2016 election campaign promise of the president and his allies.- Republican leaders of the House of Representatives pulled the legislation due to a shortage of votes despite desperate lobbying by the White House and its allies in Congress,-ensuring that Mr Trump's first major legislative initiative since taking office ended in failure. - - - - - - House Republicans-had planned a vote on the measure after Mr Trump cut off negotiations with Republicans who had balked at the plan and issued an ultimatum to vote on Friday, win or lose. Republican moderates as well as the most conservative lawmakers had objected to the legislation. The White House and House leaders were unable to come up with a plan that satisfied both moderates and conservatives. \"We learned a lot about loyalty. We learned a lot about the vote-getting process,\" Mr Trump told reporters at the White House, although he sought to shift the blame to the Democrats, who were unified in their opposition, even though his party controls the White House, the House and the Senate. Amid a chaotic scramble for votes, House of Representatives Speaker Paul Ryan (above), who has championed the bill, met with Mr Trump at the White House before the bill was pulled from the House floor after hours of debate. Mr Ryan said he recommended that the legislation be withdrawn from the House floor because he did not have the votes to pass it, and that Mr Trump agreed. Without the bill's passage in Congress, Democratic former President Barack Obama's signature domestic policy achievement, the 2010 Affordable Care Act - known as Obamacare - would remain in place despite seven years of Republican promises to dismantle it. \"There were things in this bill that I didn't particularly like,\" Mr Trump added, without specifying what those were, but he expressed confidence in Mr Ryan's leadership. \"Perhaps the best thing that could happen is exactly what happened today, because we'll end up with a truly great healthcare bill in the future after this mess known as Obamacare explodes,\" Mr Trump said. Repealing and replacing Obamacare was a top campaign promise by Mr Trump in the 2016 presidential election",
+      "title": "Republicans pull healthcare legislation plan in blow to Trump",
+      "source": "http://www.rte.ie/news/2017/0324/862168-trump-health/",
+      "timestamp": "2017-03-25T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-09T13:09:16.176Z",
+        "updated": "2024-02-09T13:09:16.176Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "e1a80230-ca51-11ee-b5b8-bbee0a74ec6f",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-09T13:09:16.175Z",
+    "updated": "2024-02-13T09:31:53.160Z"
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "nodes": {
+    "c70168b0-c66c-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "Turkey's President Recep Tayyip Erdogan-continued his rhetorical attacks on European leaders on Monday by accusing German Chancellor Angela Merkel of \"supporting terrorists\"",
+        "reference": {
+          "resource": "2300",
+          "offset": 0,
+          "text": "Turkey's President Recep Tayyip Erdogan-continued his rhetorical attacks on European leaders on Monday by accusing German Chancellor Angela Merkel of \"supporting terrorists\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T10:28:19.259Z",
+        "updated": "2024-02-08T10:28:19.259Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 62.00040415714711,
+            "y": 12
+          }
+        }
+      }
+    },
+    "fd3487f0-c66c-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "\"The chancellor has no intention of taking part in a game of provocation,\"",
+        "reference": {
+          "resource": "2300",
+          "offset": 297,
+          "text": "\"The chancellor has no intention of taking part in a game of provocation,\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T10:29:50.191Z",
+        "updated": "2024-02-08T10:29:50.191Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.00060613463944,
+            "y": 325
+          }
+        }
+      }
+    },
+    "040f71c0-c66d-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T10:30:01.692Z",
+        "updated": "2024-02-08T10:30:01.692Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.000341796955,
+            "y": 225
+          }
+        }
+      }
+    },
+    "25b3f670-c66d-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": " \"Mrs Merkel, why are you hiding terrorists in your country? Why are you not doing anything?\"",
+        "reference": {
+          "resource": "2300",
+          "offset": 712,
+          "text": " \"Mrs Merkel, why are you hiding terrorists in your country? Why are you not doing anything?\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T10:30:58.135Z",
+        "updated": "2024-02-08T10:30:58.135Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 19.83498086607949,
+            "y": 405.72134301121855
+          }
+        }
+      }
+    },
+    "2766fda0-c66d-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T10:31:00.987Z",
+        "updated": "2024-02-08T10:31:00.987Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00016599455422,
+            "y": 225
+          }
+        }
+      }
+    },
+    "af6c0150-c66d-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": " The president twice over the weekend-accused NATO ally Netherlands of acting like the Nazis, comments that sparked outrage in a country bombed and occupied by German forces in World War II.",
+        "reference": {
+          "resource": "2300",
+          "offset": 1621,
+          "text": " The president twice over the weekend-accused NATO ally Netherlands of acting like the Nazis, comments that sparked outrage in a country bombed and occupied by German forces in World War II."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T10:34:49.189Z",
+        "updated": "2024-02-08T10:34:49.189Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -327.4612492411764,
+            "y": 356.09754674609917
+          }
+        }
+      }
+    },
+    "b5c9cbe0-c66d-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T10:34:59.870Z",
+        "updated": "2024-02-08T10:34:59.870Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -132.73042254201465,
+            "y": 184.04877337304958
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "040f98d0-c66d-11ee-bb24-29eae2ae94d0": {
+      "source": "fd3487f0-c66c-11ee-bb24-29eae2ae94d0",
+      "target": "040f71c0-c66d-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:30:01.693Z",
+        "updated": "2024-02-08T10:30:01.693Z"
+      },
+      "userdata": {}
+    },
+    "040f98d1-c66d-11ee-bb24-29eae2ae94d0": {
+      "source": "040f71c0-c66d-11ee-bb24-29eae2ae94d0",
+      "target": "c70168b0-c66c-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:30:01.693Z",
+        "updated": "2024-02-08T10:30:01.693Z"
+      },
+      "userdata": {}
+    },
+    "276724b0-c66d-11ee-bb24-29eae2ae94d0": {
+      "source": "25b3f670-c66d-11ee-bb24-29eae2ae94d0",
+      "target": "2766fda0-c66d-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:31:00.987Z",
+        "updated": "2024-02-08T10:31:00.987Z"
+      },
+      "userdata": {}
+    },
+    "276724b1-c66d-11ee-bb24-29eae2ae94d0": {
+      "source": "2766fda0-c66d-11ee-bb24-29eae2ae94d0",
+      "target": "c70168b0-c66c-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:31:00.987Z",
+        "updated": "2024-02-08T10:31:00.987Z"
+      },
+      "userdata": {}
+    },
+    "b5c9cbe1-c66d-11ee-bb24-29eae2ae94d0": {
+      "source": "af6c0150-c66d-11ee-bb24-29eae2ae94d0",
+      "target": "b5c9cbe0-c66d-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:34:59.871Z",
+        "updated": "2024-02-08T10:34:59.871Z"
+      },
+      "userdata": {}
+    },
+    "b5c9f2f0-c66d-11ee-bb24-29eae2ae94d0": {
+      "source": "b5c9cbe0-c66d-11ee-bb24-29eae2ae94d0",
+      "target": "c70168b0-c66c-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:34:59.871Z",
+        "updated": "2024-02-08T10:34:59.871Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "2300": {
+      "text": "Turkey's President Recep Tayyip Erdogan-continued his rhetorical attacks on European leaders on Monday by accusing German Chancellor Angela Merkel of \"supporting terrorists\".- Merkel called the accusations \"clearly absurd\" after Erdogan made the comments in an interview with Turkey's A Haber TV. \"The chancellor has no intention of taking part in a game of provocation,\" Merkel spokesman Steffen Seibert said in a brief written statement. -- Erdogan - whose government is embroiled in a spiraling row with some European governments over the cancellation of political rallies on their soil ahead of an April referendum - had earlier accused Berlin of not responding to 4,500 dossiers sent by Turkey on suspects.  \"Mrs Merkel, why are you hiding terrorists in your country? Why are you not doing anything?\" Erdogan said. \"Mrs Merkel, you are supporting terrorists.\" Erdogan did not cite specifics, but made references to the Kurdistan Workers' Party (PKK), a group deemed a \"terrorist organisation\" by the Turkey, the European Union and the United States. The scathing broadside against Merkel came hours after the EU urged him to avoid inflammatory rhetoric in a growing standoff with Germany and the Netherlands over the blocking of Turkish ministers seeking to address rallies promoting a \"Yes\" vote in the April 16 referendum.-- Erdogan has been seeking to harness the Turkish diaspora vote - which numbers as many as 1.4 million in Germany alone - ahead of the referendum on creating an executive presidency and scrapping the post of prime minister. - READ MORE: Erdogan compares Germany rally ban to 'Nazi practices' The president twice over the weekend-accused NATO ally Netherlands of acting like the Nazis, comments that sparked outrage in a country bombed and occupied by German forces in World War II. The row erupted on March 2 when local authorities in the western German town of Gaggenau cancelled a rally which Turkish Justice Minister Bekir Bozdag was set to attend, ostensibly for logistical reasons. Other local authorities followed suit, sparking fury in Ankara. Turkey said on Monday it would suspend high-level diplomatic relations with the Netherlands after Dutch authorities also prevented Turkish ministers from speaking at rallies on Saturday. Deputy Prime Minister Numan Kurtulmus, the government's chief spokesman, also said Ankara might re-evaluate its deal with the EU to halt the flow of migrants from Turkish shores to Europe. \"We are doing exactly what they did to us. We are not allowing planes carrying Dutch diplomats or envoys from landing in Turkey or using our airspace,\" Kurtulmus told a news conference. Mustafa Akyol, a Turkish journalist and visiting fellow at the Freedom Project at Wellesley College, told Al Jazeera that both sides were playing into nationalist emotions ahead of key votes in their respective countries. \"Within Turkey this [dispute] has certainly stoked nationalist ambitions and nationalist feelings,\" said Akyol. \"And even openly President Erdogan's supporters are saying that this is going to help them in the upcoming referendum in April.\" However, Akyol said that the dispute could ultimately be damaging for both countries. \"This is creating a big rift between Turkey and the West, and that is combined with anti-Turkish or anti-Islamic elements in European politics right now; the far-right and Geert Wilders in Holland. So we are going to a rift and I think that is bad for both sides.\"-  Source:-Al Jazeera and news agencies",
+      "title": "Recep Tayyip Erdogan lashes out anew at Angela Merkel",
+      "source": "http://www.aljazeera.com/news/2017/03/recep-tayyip-erdogan-lashes-anew-angela-merkel-170313203832331.html",
+      "timestamp": "2024-02-08T10:27:48.723Z",
+      "metadata": {
+        "created": "2024-02-05T09:49:22.077Z",
+        "updated": "2024-02-05T09:49:22.077Z"
+      },
+      "userdata": {}
+    }
+  },
+  "userdata": {},
+  "majorClaim": "c70168b0-c66c-11ee-bb24-29eae2ae94d0",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-05T09:49:22.077Z",
+    "updated": "2024-02-08T10:39:47.372Z"
+  }
+}

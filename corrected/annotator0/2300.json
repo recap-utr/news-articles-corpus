@@ -1,0 +1,709 @@
+{
+  "nodes": {
+    "c70168b0-c66c-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "Turkey's President Recep Tayyip Erdogan-continued his rhetorical attacks on European leaders on Monday by accusing German Chancellor Angela Merkel of \"supporting terrorists\"",
+        "reference": {
+          "resource": "2300",
+          "offset": 0,
+          "text": "Turkey's President Recep Tayyip Erdogan-continued his rhetorical attacks on European leaders on Monday by accusing German Chancellor Angela Merkel of \"supporting terrorists\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T10:28:19.259Z",
+        "updated": "2024-02-08T10:28:19.259Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0007677875295,
+            "y": 248
+          }
+        }
+      }
+    },
+    "fd3487f0-c66c-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "\"The chancellor has no intention of taking part in a game of provocation,\"",
+        "reference": {
+          "resource": "2300",
+          "offset": 297,
+          "text": "\"The chancellor has no intention of taking part in a game of provocation,\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T10:29:50.191Z",
+        "updated": "2024-02-08T10:29:50.191Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0007498720797,
+            "y": 568
+          }
+        }
+      }
+    },
+    "040f71c0-c66d-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T10:30:01.692Z",
+        "updated": "2024-02-08T10:30:01.692Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0008573962428,
+            "y": 468
+          }
+        }
+      }
+    },
+    "25b3f670-c66d-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": " \"Mrs Merkel, why are you hiding terrorists in your country? Why are you not doing anything?\"",
+        "reference": {
+          "resource": "2300",
+          "offset": 712,
+          "text": " \"Mrs Merkel, why are you hiding terrorists in your country? Why are you not doing anything?\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T10:30:58.135Z",
+        "updated": "2024-02-08T10:30:58.135Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0009220948339,
+            "y": 568
+          }
+        }
+      }
+    },
+    "2766fda0-c66d-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T10:31:00.987Z",
+        "updated": "2024-02-08T10:31:00.987Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.00004977391586,
+            "y": 468
+          }
+        }
+      }
+    },
+    "af6c0150-c66d-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": " The president twice over the weekend-accused NATO ally Netherlands of acting like the Nazis, comments that sparked outrage in a country bombed and occupied by German forces in World War II.",
+        "reference": {
+          "resource": "2300",
+          "offset": 1621,
+          "text": " The president twice over the weekend-accused NATO ally Netherlands of acting like the Nazis, comments that sparked outrage in a country bombed and occupied by German forces in World War II."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T10:34:49.189Z",
+        "updated": "2024-02-08T10:34:49.189Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.000220244524,
+            "y": 242
+          }
+        }
+      }
+    },
+    "b5c9cbe0-c66d-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T10:34:59.870Z",
+        "updated": "2024-02-08T10:34:59.870Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0008140336893,
+            "y": 130
+          }
+        }
+      }
+    },
+    "c8a39090-fb1d-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "Merkel called the accusations \"clearly absurd\"",
+        "reference": {
+          "text": "Merkel called the accusations \"clearly absurd\""
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T11:46:23.385Z",
+        "updated": "2024-04-15T11:46:23.385Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000501434863631,
+            "y": 568
+          }
+        }
+      }
+    },
+    "cb981870-fb1d-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T11:46:28.343Z",
+        "updated": "2024-04-15T11:46:28.343Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00017852649249,
+            "y": 468
+          }
+        }
+      }
+    },
+    "e16f86b0-fb1d-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "accused Berlin of not responding to 4,500 dossiers sent by Turkey on suspects",
+        "reference": {
+          "text": "accused Berlin of not responding to 4,500 dossiers sent by Turkey on suspects"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T11:47:04.987Z",
+        "updated": "2024-04-15T11:47:04.987Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0001951778606,
+            "y": 810
+          }
+        }
+      }
+    },
+    "f03ce4d0-fb1d-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T11:47:29.821Z",
+        "updated": "2024-04-15T11:47:29.821Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.0007434419516,
+            "y": 710
+          }
+        }
+      }
+    },
+    "483e57e0-fb1e-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "in a growing standoff with Germany and the Netherlands over the blocking of Turkish ministers seeking to address rallies promoting a \"Yes\" vote in the April 16 referendum",
+        "reference": {
+          "text": "in a growing standoff with Germany and the Netherlands over the blocking of Turkish ministers seeking to address rallies promoting a \"Yes\" vote in the April 16 referendum"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T11:49:57.470Z",
+        "updated": "2024-04-15T11:49:57.470Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0009925363927,
+            "y": 230
+          }
+        }
+      }
+    },
+    "5000bb80-fb1e-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T11:50:10.488Z",
+        "updated": "2024-04-15T11:50:10.488Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0001431439596,
+            "y": 130
+          }
+        }
+      }
+    },
+    "ab2eb660-fb1e-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T11:52:43.462Z",
+        "updated": "2024-04-15T11:52:43.462Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0004208862958,
+            "y": 468
+          }
+        }
+      }
+    },
+    "e0574370-fb1e-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "Dutch authorities also prevented Turkish ministers from speaking at rallies on Saturday",
+        "reference": {
+          "text": "Dutch authorities also prevented Turkish ministers from speaking at rallies on Saturday"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T11:54:12.647Z",
+        "updated": "2024-04-15T11:54:12.647Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.0007076334468,
+            "y": 568
+          }
+        }
+      }
+    },
+    "1d4cbb70-fb1f-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "Turkey has a political standoff against the Netherlands and Germany"
+      },
+      "metadata": {
+        "created": "2024-04-15T11:55:54.919Z",
+        "updated": "2024-04-15T11:55:54.919Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.000693457227,
+            "y": 12
+          }
+        }
+      }
+    },
+    "2babee70-fb1f-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T11:56:19.031Z",
+        "updated": "2024-04-15T11:56:19.031Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.00081942881087,
+            "y": 130
+          }
+        }
+      }
+    },
+    "6d5e2b30-fb1f-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "Erdogan compares Germany rally ban to 'Nazi practices'",
+        "reference": {
+          "text": "Erdogan compares Germany rally ban to 'Nazi practices'"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T11:58:09.251Z",
+        "updated": "2024-04-15T11:58:09.251Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1412.0009662047314,
+            "y": 230
+          }
+        }
+      }
+    },
+    "72734920-fb1f-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T11:58:17.778Z",
+        "updated": "2024-04-15T11:58:17.778Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1512.000939227845,
+            "y": 130
+          }
+        }
+      }
+    },
+    "b98fc8b0-fb1f-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "Ankara might re-evaluate its deal with the EU to halt the flow of migrants from Turkish shores to Europe",
+        "reference": {
+          "text": "Ankara might re-evaluate its deal with the EU to halt the flow of migrants from Turkish shores to Europe"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T12:00:17.083Z",
+        "updated": "2024-04-15T12:00:17.083Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000237256158703,
+            "y": 230
+          }
+        }
+      }
+    },
+    "be3498a0-fb1f-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T12:00:24.874Z",
+        "updated": "2024-04-15T12:00:24.874Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00058999110824,
+            "y": 130
+          }
+        }
+      }
+    },
+    "df8753d0-fb1f-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "We are not allowing planes carrying Dutch diplomats or envoys from landing in Turkey or using our airspace",
+        "reference": {
+          "text": "We are not allowing planes carrying Dutch diplomats or envoys from landing in Turkey or using our airspace"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T12:01:20.781Z",
+        "updated": "2024-04-15T12:01:20.781Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1784.3737147651627,
+            "y": 238.80380160806806
+          }
+        }
+      }
+    },
+    "e2ade830-fb1f-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T12:01:26.067Z",
+        "updated": "2024-04-15T12:01:26.067Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1737.2094741190183,
+            "y": 132.35482407428748
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "040f98d0-c66d-11ee-bb24-29eae2ae94d0": {
+      "source": "fd3487f0-c66c-11ee-bb24-29eae2ae94d0",
+      "target": "040f71c0-c66d-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:30:01.693Z",
+        "updated": "2024-02-08T10:30:01.693Z"
+      },
+      "userdata": {}
+    },
+    "040f98d1-c66d-11ee-bb24-29eae2ae94d0": {
+      "source": "040f71c0-c66d-11ee-bb24-29eae2ae94d0",
+      "target": "c70168b0-c66c-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:30:01.693Z",
+        "updated": "2024-02-08T10:30:01.693Z"
+      },
+      "userdata": {}
+    },
+    "276724b0-c66d-11ee-bb24-29eae2ae94d0": {
+      "source": "25b3f670-c66d-11ee-bb24-29eae2ae94d0",
+      "target": "2766fda0-c66d-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:31:00.987Z",
+        "updated": "2024-02-08T10:31:00.987Z"
+      },
+      "userdata": {}
+    },
+    "276724b1-c66d-11ee-bb24-29eae2ae94d0": {
+      "source": "2766fda0-c66d-11ee-bb24-29eae2ae94d0",
+      "target": "c70168b0-c66c-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:31:00.987Z",
+        "updated": "2024-02-08T10:31:00.987Z"
+      },
+      "userdata": {}
+    },
+    "b5c9cbe1-c66d-11ee-bb24-29eae2ae94d0": {
+      "source": "af6c0150-c66d-11ee-bb24-29eae2ae94d0",
+      "target": "b5c9cbe0-c66d-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:34:59.871Z",
+        "updated": "2024-02-08T10:34:59.871Z"
+      },
+      "userdata": {}
+    },
+    "cb981871-fb1d-11ee-aa26-a11ecda1a83c": {
+      "source": "c8a39090-fb1d-11ee-aa26-a11ecda1a83c",
+      "target": "cb981870-fb1d-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T11:46:28.343Z",
+        "updated": "2024-04-15T11:46:28.343Z"
+      },
+      "userdata": {}
+    },
+    "cb981872-fb1d-11ee-aa26-a11ecda1a83c": {
+      "source": "cb981870-fb1d-11ee-aa26-a11ecda1a83c",
+      "target": "c70168b0-c66c-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-04-15T11:46:28.343Z",
+        "updated": "2024-04-15T11:46:28.343Z"
+      },
+      "userdata": {}
+    },
+    "e4333a91-fb1d-11ee-aa26-a11ecda1a83c": {
+      "source": "e16f86b0-fb1d-11ee-aa26-a11ecda1a83c",
+      "target": "e4333a90-fb1d-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T11:47:09.625Z",
+        "updated": "2024-04-15T11:47:09.625Z"
+      },
+      "userdata": {}
+    },
+    "e4333a92-fb1d-11ee-aa26-a11ecda1a83c": {
+      "source": "e4333a90-fb1d-11ee-aa26-a11ecda1a83c",
+      "target": "c70168b0-c66c-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-04-15T11:47:09.625Z",
+        "updated": "2024-04-15T11:47:09.625Z"
+      },
+      "userdata": {}
+    },
+    "f03ce4d1-fb1d-11ee-aa26-a11ecda1a83c": {
+      "source": "e16f86b0-fb1d-11ee-aa26-a11ecda1a83c",
+      "target": "f03ce4d0-fb1d-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T11:47:29.821Z",
+        "updated": "2024-04-15T11:47:29.821Z"
+      },
+      "userdata": {}
+    },
+    "f03ce4d2-fb1d-11ee-aa26-a11ecda1a83c": {
+      "source": "f03ce4d0-fb1d-11ee-aa26-a11ecda1a83c",
+      "target": "25b3f670-c66d-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-04-15T11:47:29.821Z",
+        "updated": "2024-04-15T11:47:29.821Z"
+      },
+      "userdata": {}
+    },
+    "5000bb81-fb1e-11ee-aa26-a11ecda1a83c": {
+      "source": "483e57e0-fb1e-11ee-aa26-a11ecda1a83c",
+      "target": "5000bb80-fb1e-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T11:50:10.488Z",
+        "updated": "2024-04-15T11:50:10.488Z"
+      },
+      "userdata": {}
+    },
+    "ab2eb661-fb1e-11ee-aa26-a11ecda1a83c": {
+      "source": "88e7fe40-fb1e-11ee-aa26-a11ecda1a83c",
+      "target": "ab2eb660-fb1e-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T11:52:43.462Z",
+        "updated": "2024-04-15T11:52:43.462Z"
+      },
+      "userdata": {}
+    },
+    "ab2eb662-fb1e-11ee-aa26-a11ecda1a83c": {
+      "source": "ab2eb660-fb1e-11ee-aa26-a11ecda1a83c",
+      "target": "af6c0150-c66d-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-04-15T11:52:43.462Z",
+        "updated": "2024-04-15T11:52:43.462Z"
+      },
+      "userdata": {}
+    },
+    "e26514d0-fb1e-11ee-aa26-a11ecda1a83c": {
+      "source": "e0574370-fb1e-11ee-aa26-a11ecda1a83c",
+      "target": "ab2eb660-fb1e-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T11:54:16.093Z",
+        "updated": "2024-04-15T11:54:16.093Z"
+      },
+      "userdata": {}
+    },
+    "2babee71-fb1f-11ee-aa26-a11ecda1a83c": {
+      "source": "c70168b0-c66c-11ee-bb24-29eae2ae94d0",
+      "target": "2babee70-fb1f-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T11:56:19.031Z",
+        "updated": "2024-04-15T11:56:19.031Z"
+      },
+      "userdata": {}
+    },
+    "2babee72-fb1f-11ee-aa26-a11ecda1a83c": {
+      "source": "2babee70-fb1f-11ee-aa26-a11ecda1a83c",
+      "target": "1d4cbb70-fb1f-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T11:56:19.031Z",
+        "updated": "2024-04-15T11:56:19.031Z"
+      },
+      "userdata": {}
+    },
+    "32aab3f0-fb1f-11ee-aa26-a11ecda1a83c": {
+      "source": "5000bb80-fb1e-11ee-aa26-a11ecda1a83c",
+      "target": "1d4cbb70-fb1f-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T11:56:30.767Z",
+        "updated": "2024-04-15T11:56:30.767Z"
+      },
+      "userdata": {}
+    },
+    "48adc610-fb1f-11ee-aa26-a11ecda1a83c": {
+      "source": "b5c9cbe0-c66d-11ee-bb24-29eae2ae94d0",
+      "target": "1d4cbb70-fb1f-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T11:57:07.697Z",
+        "updated": "2024-04-15T11:57:07.697Z"
+      },
+      "userdata": {}
+    },
+    "72737030-fb1f-11ee-aa26-a11ecda1a83c": {
+      "source": "6d5e2b30-fb1f-11ee-aa26-a11ecda1a83c",
+      "target": "72734920-fb1f-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T11:58:17.779Z",
+        "updated": "2024-04-15T11:58:17.779Z"
+      },
+      "userdata": {}
+    },
+    "72737031-fb1f-11ee-aa26-a11ecda1a83c": {
+      "source": "72734920-fb1f-11ee-aa26-a11ecda1a83c",
+      "target": "1d4cbb70-fb1f-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T11:58:17.779Z",
+        "updated": "2024-04-15T11:58:17.779Z"
+      },
+      "userdata": {}
+    },
+    "92f60a21-fb1f-11ee-aa26-a11ecda1a83c": {
+      "source": "90925090-fb1f-11ee-aa26-a11ecda1a83c",
+      "target": "92f60a20-fb1f-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T11:59:12.322Z",
+        "updated": "2024-04-15T11:59:12.322Z"
+      },
+      "userdata": {}
+    },
+    "92f60a22-fb1f-11ee-aa26-a11ecda1a83c": {
+      "source": "92f60a20-fb1f-11ee-aa26-a11ecda1a83c",
+      "target": "6d5e2b30-fb1f-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T11:59:12.322Z",
+        "updated": "2024-04-15T11:59:12.322Z"
+      },
+      "userdata": {}
+    },
+    "be3498a1-fb1f-11ee-aa26-a11ecda1a83c": {
+      "source": "b98fc8b0-fb1f-11ee-aa26-a11ecda1a83c",
+      "target": "be3498a0-fb1f-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T12:00:24.874Z",
+        "updated": "2024-04-15T12:00:24.874Z"
+      },
+      "userdata": {}
+    },
+    "be3498a2-fb1f-11ee-aa26-a11ecda1a83c": {
+      "source": "be3498a0-fb1f-11ee-aa26-a11ecda1a83c",
+      "target": "1d4cbb70-fb1f-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T12:00:24.874Z",
+        "updated": "2024-04-15T12:00:24.874Z"
+      },
+      "userdata": {}
+    },
+    "e2ade831-fb1f-11ee-aa26-a11ecda1a83c": {
+      "source": "df8753d0-fb1f-11ee-aa26-a11ecda1a83c",
+      "target": "e2ade830-fb1f-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T12:01:26.067Z",
+        "updated": "2024-04-15T12:01:26.067Z"
+      },
+      "userdata": {}
+    },
+    "e2ade832-fb1f-11ee-aa26-a11ecda1a83c": {
+      "source": "e2ade830-fb1f-11ee-aa26-a11ecda1a83c",
+      "target": "1d4cbb70-fb1f-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T12:01:26.067Z",
+        "updated": "2024-04-15T12:01:26.067Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "2300": {
+      "text": "Turkey's President Recep Tayyip Erdogan-continued his rhetorical attacks on European leaders on Monday by accusing German Chancellor Angela Merkel of \"supporting terrorists\".- Merkel called the accusations \"clearly absurd\" after Erdogan made the comments in an interview with Turkey's A Haber TV. \"The chancellor has no intention of taking part in a game of provocation,\" Merkel spokesman Steffen Seibert said in a brief written statement. -- Erdogan - whose government is embroiled in a spiraling row with some European governments over the cancellation of political rallies on their soil ahead of an April referendum - had earlier accused Berlin of not responding to 4,500 dossiers sent by Turkey on suspects.  \"Mrs Merkel, why are you hiding terrorists in your country? Why are you not doing anything?\" Erdogan said. \"Mrs Merkel, you are supporting terrorists.\" Erdogan did not cite specifics, but made references to the Kurdistan Workers' Party (PKK), a group deemed a \"terrorist organisation\" by the Turkey, the European Union and the United States. The scathing broadside against Merkel came hours after the EU urged him to avoid inflammatory rhetoric in a growing standoff with Germany and the Netherlands over the blocking of Turkish ministers seeking to address rallies promoting a \"Yes\" vote in the April 16 referendum.-- Erdogan has been seeking to harness the Turkish diaspora vote - which numbers as many as 1.4 million in Germany alone - ahead of the referendum on creating an executive presidency and scrapping the post of prime minister. - READ MORE: Erdogan compares Germany rally ban to 'Nazi practices' The president twice over the weekend-accused NATO ally Netherlands of acting like the Nazis, comments that sparked outrage in a country bombed and occupied by German forces in World War II. The row erupted on March 2 when local authorities in the western German town of Gaggenau cancelled a rally which Turkish Justice Minister Bekir Bozdag was set to attend, ostensibly for logistical reasons. Other local authorities followed suit, sparking fury in Ankara. Turkey said on Monday it would suspend high-level diplomatic relations with the Netherlands after Dutch authorities also prevented Turkish ministers from speaking at rallies on Saturday. Deputy Prime Minister Numan Kurtulmus, the government's chief spokesman, also said Ankara might re-evaluate its deal with the EU to halt the flow of migrants from Turkish shores to Europe. \"We are doing exactly what they did to us. We are not allowing planes carrying Dutch diplomats or envoys from landing in Turkey or using our airspace,\" Kurtulmus told a news conference. Mustafa Akyol, a Turkish journalist and visiting fellow at the Freedom Project at Wellesley College, told Al Jazeera that both sides were playing into nationalist emotions ahead of key votes in their respective countries. \"Within Turkey this [dispute] has certainly stoked nationalist ambitions and nationalist feelings,\" said Akyol. \"And even openly President Erdogan's supporters are saying that this is going to help them in the upcoming referendum in April.\" However, Akyol said that the dispute could ultimately be damaging for both countries. \"This is creating a big rift between Turkey and the West, and that is combined with anti-Turkish or anti-Islamic elements in European politics right now; the far-right and Geert Wilders in Holland. So we are going to a rift and I think that is bad for both sides.\"-  Source:-Al Jazeera and news agencies",
+      "title": "Recep Tayyip Erdogan lashes out anew at Angela Merkel",
+      "source": "http://www.aljazeera.com/news/2017/03/recep-tayyip-erdogan-lashes-anew-angela-merkel-170313203832331.html",
+      "timestamp": "2024-02-08T10:27:48.723Z",
+      "metadata": {
+        "created": "2024-02-05T09:49:22.077Z",
+        "updated": "2024-02-05T09:49:22.077Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "2c603380-c41a-11ee-a06c-cb1cbb90ffa4": {
+      "name": "annotator0",
+      "email": "s4kibart@uni-trier.de",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "1d4cbb70-fb1f-11ee-aa26-a11ecda1a83c",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-05T09:49:22.077Z",
+    "updated": "2024-04-15T12:04:29.016Z"
+  },
+  "userdata": {}
+}

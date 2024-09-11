@@ -1,0 +1,509 @@
+{
+  "nodes": {
+    "d8dad5b0-c669-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "Jenner attempted to register the mark \"KYLIE\" in the US for \"advertising services\" and \"endorsement services\"",
+        "reference": {
+          "resource": "95",
+          "offset": 550,
+          "text": "Jenner attempted to register the mark \"KYLIE\" in the US for \"advertising services\" and \"endorsement services\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T10:07:20.715Z",
+        "updated": "2024-02-08T10:07:20.715Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.00067659506635,
+            "y": 325
+          }
+        }
+      }
+    },
+    "da904de0-c669-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T10:07:23.582Z",
+        "updated": "2024-02-08T10:07:23.582Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.00023436080875,
+            "y": 177
+          }
+        }
+      }
+    },
+    "f5443de0-c669-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "They noted Minogue was an \"internationally renowned performing artist, humanitarian and breast cancer activist\" who already owns Kylie-related trademarks in the US in several industries, as well as the website www.kylie.com.",
+        "reference": {
+          "resource": "95",
+          "offset": 792,
+          "text": "They noted Minogue was an \"internationally renowned performing artist, humanitarian and breast cancer activist\" who already owns Kylie-related trademarks in the US in several industries, as well as the website www.kylie.com."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T10:08:08.382Z",
+        "updated": "2024-02-08T10:08:08.382Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0001796662488,
+            "y": 277
+          }
+        }
+      }
+    },
+    "fc22f840-c669-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T10:08:19.908Z",
+        "updated": "2024-02-08T10:08:19.908Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 780.7355481691658,
+            "y": 113.21936412815495
+          }
+        }
+      }
+    },
+    "c193dc70-c66a-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "Last year, Jenner launched a line of cosmetics called KYLIE.",
+        "reference": {
+          "resource": "95",
+          "offset": 2081,
+          "text": "Last year, Jenner launched a line of cosmetics called KYLIE."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T10:13:51.159Z",
+        "updated": "2024-02-08T10:13:51.159Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.000116553558,
+            "y": 277
+          }
+        }
+      }
+    },
+    "cbc8c6b0-c66a-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T10:14:08.283Z",
+        "updated": "2024-02-08T10:14:08.283Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0001023742636,
+            "y": 177
+          }
+        }
+      }
+    },
+    "ed9f09c0-c66a-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "Meanwhile, Minogue owns \"KYLIE\" and other similar trademarks in perfumes and toiletries, music and sound recordings, live entertainment, jewellery, dolls and toys, and printed matter such as magazines and books.",
+        "reference": {
+          "resource": "95",
+          "offset": 2283,
+          "text": "Meanwhile, Minogue owns \"KYLIE\" and other similar trademarks in perfumes and toiletries, music and sound recordings, live entertainment, jewellery, dolls and toys, and printed matter such as magazines and books."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T10:15:05.052Z",
+        "updated": "2024-02-08T10:15:05.052Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.00037156824441,
+            "y": 277
+          }
+        }
+      }
+    },
+    "f38d70b0-c66a-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T10:15:15.003Z",
+        "updated": "2024-02-08T10:15:15.003Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00015435342614,
+            "y": 177
+          }
+        }
+      }
+    },
+    "1834ae10-c66b-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "Kylie Minogue has never had to go by any other name but Kylie, and her team has argued it's a fundamental part of the pop diva's identity.",
+        "reference": {
+          "resource": "95",
+          "offset": 2808,
+          "text": "Kylie Minogue has never had to go by any other name but Kylie, and her team has argued it's a fundamental part of the pop diva's identity."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T10:16:16.497Z",
+        "updated": "2024-02-08T10:16:16.497Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0005575988247,
+            "y": 614
+          }
+        }
+      }
+    },
+    "80f1bab0-c66b-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T10:19:12.220Z",
+        "updated": "2024-02-08T10:19:12.220Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0004362156079,
+            "y": 514
+          }
+        }
+      }
+    },
+    "1e5260c0-fc81-11ee-bacf-6f44838a7611": {
+      "atom": {
+        "text": "Jenner, who first shot to fame in the US reality TV show Keeping Up With the Kardashians, has been trying to trademark the name Kylie in the US. But she has been blocked by the veteran Australian pop star Minogue",
+        "reference": {
+          "resource": "95",
+          "offset": 90,
+          "text": "Jenner, who first shot to fame in the US reality TV show Keeping Up With the Kardashians, has been trying to trademark the name Kylie in the US. But she has been blocked by the veteran Australian pop star Minogue"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-17T06:09:58.476Z",
+        "updated": "2024-04-17T06:09:58.476Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 356.57504340976527,
+            "y": -174.19795313624778
+          }
+        }
+      }
+    },
+    "4981ad00-fc81-11ee-bacf-6f44838a7611": {
+      "atom": {
+        "text": " According to her latest appeal, she wants to eventually have \"KYLIE JENNER\" branded clothing as well as loungewear, swimwear, and underwear. ",
+        "reference": {
+          "resource": "95",
+          "offset": 2141,
+          "text": " According to her latest appeal, she wants to eventually have \"KYLIE JENNER\" branded clothing as well as loungewear, swimwear, and underwear. "
+        }
+      },
+      "metadata": {
+        "created": "2024-04-17T06:11:10.928Z",
+        "updated": "2024-04-17T06:11:10.928Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1070.668045033756,
+            "y": 471.11200980241983
+          }
+        }
+      }
+    },
+    "540d90e0-fc81-11ee-bacf-6f44838a7611": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-17T06:11:28.622Z",
+        "updated": "2024-04-17T06:11:28.622Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1131.9906177205564,
+            "y": 379.058407714688
+          }
+        }
+      }
+    },
+    "7142d490-fc81-11ee-bacf-6f44838a7611": {
+      "atom": {
+        "text": "So far, Minogue has released fragrances, furniture and clothes with her trademarks on them",
+        "reference": {
+          "resource": "95",
+          "offset": 2495,
+          "text": "So far, Minogue has released fragrances, furniture and clothes with her trademarks on them"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-17T06:12:17.625Z",
+        "updated": "2024-04-17T06:12:17.625Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": -6.099160567393028,
+            "y": 573.6612674787195
+          }
+        }
+      }
+    },
+    "758dc4b0-fc81-11ee-bacf-6f44838a7611": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-17T06:12:24.827Z",
+        "updated": "2024-04-17T06:12:24.827Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 108.00106458346465,
+            "y": 476.60526257750973
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "da904de1-c669-11ee-bb24-29eae2ae94d0": {
+      "source": "d8dad5b0-c669-11ee-bb24-29eae2ae94d0",
+      "target": "da904de0-c669-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:07:23.582Z",
+        "updated": "2024-02-08T10:07:23.582Z"
+      },
+      "userdata": {}
+    },
+    "da904de2-c669-11ee-bb24-29eae2ae94d0": {
+      "source": "da904de0-c669-11ee-bb24-29eae2ae94d0",
+      "target": "a7dda2d0-c669-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:07:23.582Z",
+        "updated": "2024-02-08T10:07:23.582Z"
+      },
+      "userdata": {}
+    },
+    "fc22f841-c669-11ee-bb24-29eae2ae94d0": {
+      "source": "f5443de0-c669-11ee-bb24-29eae2ae94d0",
+      "target": "fc22f840-c669-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:08:19.908Z",
+        "updated": "2024-02-08T10:08:19.908Z"
+      },
+      "userdata": {}
+    },
+    "fc22f842-c669-11ee-bb24-29eae2ae94d0": {
+      "source": "fc22f840-c669-11ee-bb24-29eae2ae94d0",
+      "target": "a7dda2d0-c669-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:08:19.908Z",
+        "updated": "2024-02-08T10:08:19.908Z"
+      },
+      "userdata": {}
+    },
+    "cbc8edc0-c66a-11ee-bb24-29eae2ae94d0": {
+      "source": "c193dc70-c66a-11ee-bb24-29eae2ae94d0",
+      "target": "cbc8c6b0-c66a-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:14:08.284Z",
+        "updated": "2024-02-08T10:14:08.284Z"
+      },
+      "userdata": {}
+    },
+    "cbc8edc1-c66a-11ee-bb24-29eae2ae94d0": {
+      "source": "cbc8c6b0-c66a-11ee-bb24-29eae2ae94d0",
+      "target": "a7dda2d0-c669-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:14:08.284Z",
+        "updated": "2024-02-08T10:14:08.284Z"
+      },
+      "userdata": {}
+    },
+    "f38d70b1-c66a-11ee-bb24-29eae2ae94d0": {
+      "source": "ed9f09c0-c66a-11ee-bb24-29eae2ae94d0",
+      "target": "f38d70b0-c66a-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:15:15.003Z",
+        "updated": "2024-02-08T10:15:15.003Z"
+      },
+      "userdata": {}
+    },
+    "f38d70b2-c66a-11ee-bb24-29eae2ae94d0": {
+      "source": "f38d70b0-c66a-11ee-bb24-29eae2ae94d0",
+      "target": "a7dda2d0-c669-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:15:15.003Z",
+        "updated": "2024-02-08T10:15:15.003Z"
+      },
+      "userdata": {}
+    },
+    "5d294490-c66b-11ee-bb24-29eae2ae94d0": {
+      "source": "6b94c910-c66a-11ee-bb24-29eae2ae94d0",
+      "target": "5d291d80-c66b-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:18:12.185Z",
+        "updated": "2024-02-08T10:18:12.185Z"
+      },
+      "userdata": {}
+    },
+    "5d294491-c66b-11ee-bb24-29eae2ae94d0": {
+      "source": "5d291d80-c66b-11ee-bb24-29eae2ae94d0",
+      "target": "d8dad5b0-c669-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:18:12.185Z",
+        "updated": "2024-02-08T10:18:12.185Z"
+      },
+      "userdata": {}
+    },
+    "80f1e1c0-c66b-11ee-bb24-29eae2ae94d0": {
+      "source": "1834ae10-c66b-11ee-bb24-29eae2ae94d0",
+      "target": "80f1bab0-c66b-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:19:12.220Z",
+        "updated": "2024-02-08T10:19:12.220Z"
+      },
+      "userdata": {}
+    },
+    "80f1e1c1-c66b-11ee-bb24-29eae2ae94d0": {
+      "source": "80f1bab0-c66b-11ee-bb24-29eae2ae94d0",
+      "target": "f5443de0-c669-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T10:19:12.220Z",
+        "updated": "2024-02-08T10:19:12.220Z"
+      },
+      "userdata": {}
+    },
+    "2528ddc0-fc81-11ee-bacf-6f44838a7611": {
+      "source": "da904de0-c669-11ee-bb24-29eae2ae94d0",
+      "target": "1e5260c0-fc81-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T06:10:09.948Z",
+        "updated": "2024-04-17T06:10:09.948Z"
+      },
+      "userdata": {}
+    },
+    "2808a520-fc81-11ee-bacf-6f44838a7611": {
+      "source": "f38d70b0-c66a-11ee-bb24-29eae2ae94d0",
+      "target": "1e5260c0-fc81-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T06:10:14.770Z",
+        "updated": "2024-04-17T06:10:14.770Z"
+      },
+      "userdata": {}
+    },
+    "29969820-fc81-11ee-bacf-6f44838a7611": {
+      "source": "fc22f840-c669-11ee-bb24-29eae2ae94d0",
+      "target": "1e5260c0-fc81-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T06:10:17.378Z",
+        "updated": "2024-04-17T06:10:17.378Z"
+      },
+      "userdata": {}
+    },
+    "2b94d920-fc81-11ee-bacf-6f44838a7611": {
+      "source": "cbc8c6b0-c66a-11ee-bb24-29eae2ae94d0",
+      "target": "1e5260c0-fc81-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T06:10:20.722Z",
+        "updated": "2024-04-17T06:10:20.722Z"
+      },
+      "userdata": {}
+    },
+    "540d90e1-fc81-11ee-bacf-6f44838a7611": {
+      "source": "4981ad00-fc81-11ee-bacf-6f44838a7611",
+      "target": "540d90e0-fc81-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T06:11:28.622Z",
+        "updated": "2024-04-17T06:11:28.622Z"
+      },
+      "userdata": {}
+    },
+    "540d90e2-fc81-11ee-bacf-6f44838a7611": {
+      "source": "540d90e0-fc81-11ee-bacf-6f44838a7611",
+      "target": "c193dc70-c66a-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-04-17T06:11:28.622Z",
+        "updated": "2024-04-17T06:11:28.622Z"
+      },
+      "userdata": {}
+    },
+    "758dc4b1-fc81-11ee-bacf-6f44838a7611": {
+      "source": "7142d490-fc81-11ee-bacf-6f44838a7611",
+      "target": "758dc4b0-fc81-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T06:12:24.827Z",
+        "updated": "2024-04-17T06:12:24.827Z"
+      },
+      "userdata": {}
+    },
+    "758dc4b2-fc81-11ee-bacf-6f44838a7611": {
+      "source": "758dc4b0-fc81-11ee-bacf-6f44838a7611",
+      "target": "ed9f09c0-c66a-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-04-17T06:12:24.827Z",
+        "updated": "2024-04-17T06:12:24.827Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "95": {
+      "text": "A trademark battle between Kylie Minogue and Kylie Jenner appears to have come to an end. Jenner, who first shot to fame in the US reality TV show Keeping Up With the Kardashians, has been trying to trademark the name Kylie in the US. But she has been blocked by the veteran Australian pop star Minogue, best known for hits such as I Should Be So Lucky and Can't Get You Out Of My Head. After a long and heated battle, the Kylies may have reached a settlement. According to papers filed with the US Patent and Trademark Office (USPTO), in April 2015 Jenner attempted to register the mark \"KYLIE\" in the US for \"advertising services\" and \"endorsement services\". In response, Minogue's team filed their opposition in February 2016, citing possible confusion and \"damage\" to Minogue's branding. They noted Minogue was an \"internationally renowned performing artist, humanitarian and breast cancer activist\" who already owns Kylie-related trademarks in the US in several industries, as well as the website www.kylie.com. Jenner, on the other hand, was dismissed as a \"secondary reality television personality\" who had drawn criticism for her \"photographic exhibitionism and controversial posts\" on social media. The case was suspended at least twice in 2016 for settlement negotiations. On 19 January Minogue's team withdrew its opposition, which means Jenner's application could proceed. This raises the possibility that they agreed to a settlement. The BBC approached both sides, but Jenner's lawyers declined comment, and Minogue's team did not respond. The USPTO does not comment on individual cases. But meanwhile Jenner appears to have conclusively lost another battle - to trademark her full name. In November 2015, Jenner's lawyers separately tried to trademark the name \"KYLIE JENNER\" for a long list of clothing and accessories. But this was rejected in July last year. On 23 January, Jenner's team appealed against this decision. Flight attendant shares story of saving trafficking victim Why do Germans hate this football club? How to own a home in the UK by the age of 25 Last year, Jenner launched a line of cosmetics called KYLIE. According to her latest appeal, she wants to eventually have \"KYLIE JENNER\" branded clothing as well as loungewear, swimwear, and underwear. Meanwhile, Minogue owns \"KYLIE\" and other similar trademarks in perfumes and toiletries, music and sound recordings, live entertainment, jewellery, dolls and toys, and printed matter such as magazines and books. So far, Minogue has released fragrances, furniture and clothes with her trademarks on them. She also had previously said in interviews she intends to one day produce a musical featuring her greatest hits, and owns the US trademark for \"Lucky: The Kylie Minogue Musical\". But it's more than that. Since the 1980s, Kylie Minogue has never had to go by any other name but Kylie, and her team has argued it's a fundamental part of the pop diva's identity. Even with a possible settlement, what the battle shows is that at the very least brand KYLIE is not won without a fight. Reporting by the BBC's Tessa Wong, Kevin Ponniah and Jay Savage.",
+      "title": "The Kylie Minogue vs Kylie Jenner trademark battle",
+      "source": "http://www.bbc.co.uk/news/world-australia-38877658",
+      "timestamp": "2024-02-08T10:03:35.464Z",
+      "metadata": {
+        "created": "2024-02-05T09:49:22.081Z",
+        "updated": "2024-02-05T09:49:22.081Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "69ca24d0-c5b2-11ee-bbb2-f78c6e9d2422": {
+      "name": "Martin Hoppe",
+      "email": "mogramming@gmail.com",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "1e5260c0-fc81-11ee-bacf-6f44838a7611",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-05T09:49:22.081Z",
+    "updated": "2024-04-17T06:13:22.270Z"
+  },
+  "userdata": {}
+}

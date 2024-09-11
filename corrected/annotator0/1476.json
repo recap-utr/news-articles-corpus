@@ -1,0 +1,835 @@
+{
+  "nodes": {
+    "e7cd57c0-c8c9-11ee-b0b9-17011e92baf6": {
+      "atom": {
+        "text": "Philippine Senator Leila de Lima, a major critic of President Rodrigo Duterte, was arrested Friday on drug trafficking charges after staying in her office through the night.",
+        "reference": {
+          "resource": "1476",
+          "offset": 0,
+          "text": "Philippine Senator Leila de Lima, a major critic of President Rodrigo Duterte, was arrested Friday on drug trafficking charges after staying in her office through the night."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T10:39:59.804Z",
+        "updated": "2024-02-11T10:39:59.804Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 783.4286797512714,
+            "y": 12
+          }
+        }
+      }
+    },
+    "03c0a590-c8ca-11ee-b0b9-17011e92baf6": {
+      "atom": {
+        "text": " \"There is no truth to the charges I benefited from the drug trade, that I received money and that I coddled drug convicts.\"",
+        "reference": {
+          "resource": "1476",
+          "offset": 384,
+          "text": " \"There is no truth to the charges I benefited from the drug trade, that I received money and that I coddled drug convicts.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T10:40:46.698Z",
+        "updated": "2024-02-11T10:40:46.698Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1726.5005467030705,
+            "y": 604
+          }
+        }
+      }
+    },
+    "1c036e80-c8ca-11ee-b0b9-17011e92baf6": {
+      "atom": {
+        "text": "De Lima and her supporters say the charges were made by Duterte to intimidate any opposition to his actions cutting drug crime in the country.",
+        "reference": {
+          "resource": "1476",
+          "offset": 509,
+          "text": "De Lima and her supporters say the charges were made by Duterte to intimidate any opposition to his actions cutting drug crime in the country."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T10:41:27.400Z",
+        "updated": "2024-02-11T10:41:27.400Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 412.00078187891063,
+            "y": 302
+          }
+        }
+      }
+    },
+    "1d7d1630-c8ca-11ee-b0b9-17011e92baf6": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T10:41:29.875Z",
+        "updated": "2024-02-11T10:41:29.875Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 512.0009837941323,
+            "y": 202
+          }
+        }
+      }
+    },
+    "4f56c660-c8ca-11ee-b0b9-17011e92baf6": {
+      "atom": {
+        "text": "\"If the government can arrest a powerful person like her, what more of the little man? That is the implied message of her arrest.\"",
+        "reference": {
+          "resource": "1476",
+          "offset": 984,
+          "text": "\"If the government can arrest a powerful person like her, what more of the little man? That is the implied message of her arrest.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T10:42:53.510Z",
+        "updated": "2024-02-11T10:42:53.510Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.0005257229839,
+            "y": 592
+          }
+        }
+      }
+    },
+    "a0cd9280-c8ca-11ee-b0b9-17011e92baf6": {
+      "atom": {
+        "text": "Duterte had faced allegations of running death squads in Davao that allegedly killed hundreds of drug addicts and petty criminals as a part of a ruthless anti-crime campaign.",
+        "reference": {
+          "resource": "1476",
+          "offset": 2709,
+          "text": "Duterte had faced allegations of running death squads in Davao that allegedly killed hundreds of drug addicts and petty criminals as a part of a ruthless anti-crime campaign."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T10:45:10.184Z",
+        "updated": "2024-02-11T10:45:10.184Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 762.0002457695598,
+            "y": 302
+          }
+        }
+      }
+    },
+    "a66aa520-c8ca-11ee-b0b9-17011e92baf6": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T10:45:19.603Z",
+        "updated": "2024-02-11T10:45:19.603Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 862.000759407165,
+            "y": 202
+          }
+        }
+      }
+    },
+    "bf9e5dc0-c8ca-11ee-b0b9-17011e92baf6": {
+      "atom": {
+        "text": "Duterte made allegations De Lima was running a drug trafficking ring in the country's largest prison in August 2016 while she was justice secretary in the previous government.",
+        "reference": {
+          "resource": "1476",
+          "offset": 3232,
+          "text": "Duterte made allegations De Lima was running a drug trafficking ring in the country's largest prison in August 2016 while she was justice secretary in the previous government."
+        }
+      },
+      "metadata": {
+        "created": "2024-02-11T10:46:01.884Z",
+        "updated": "2024-02-11T10:46:01.884Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1112.0000210216556,
+            "y": 302
+          }
+        }
+      }
+    },
+    "c2ed88c0-c8ca-11ee-b0b9-17011e92baf6": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-11T10:46:07.436Z",
+        "updated": "2024-02-11T10:46:07.436Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1212.0002840989043,
+            "y": 202
+          }
+        }
+      }
+    },
+    "91f0a5e0-fb10-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "De Lima voluntarily gave herself over to arresting officers who were waiting for her at the Senate compound, one day after a warrant was put out for her arrest",
+        "reference": {
+          "text": "De Lima voluntarily gave herself over to arresting officers who were waiting for her at the Senate compound, one day after a warrant was put out for her arrest"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T10:11:48.158Z",
+        "updated": "2024-04-15T10:11:48.158Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1462.000662308004,
+            "y": 302
+          }
+        }
+      }
+    },
+    "981a6820-fb10-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T10:11:58.498Z",
+        "updated": "2024-04-15T10:11:58.498Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1562.0009656034365,
+            "y": 202
+          }
+        }
+      }
+    },
+    "c287c3f0-fb10-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "\"I am innocent\"",
+        "reference": {
+          "text": "\"I am innocent\""
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T10:13:09.679Z",
+        "updated": "2024-04-15T10:13:09.679Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1812.0000198550993,
+            "y": 347
+          }
+        }
+      }
+    },
+    "c66b18a0-fb10-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T10:13:16.203Z",
+        "updated": "2024-04-15T10:13:16.203Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1826.5002239431135,
+            "y": 202
+          }
+        }
+      }
+    },
+    "cba63520-fb10-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T10:13:24.978Z",
+        "updated": "2024-04-15T10:13:24.978Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1826.50009447231,
+            "y": 492
+          }
+        }
+      }
+    },
+    "0a469e00-fb11-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "De Lima faces three drug-related charges, including one that states she received money from drug dealers in the country's prisons of approximately 5 million Philippine pesos ($99,850, 94,380 euros) between 2010-2016",
+        "reference": {
+          "text": "De Lima faces three drug-related charges, including one that states she received money from drug dealers in the country's prisons of approximately 5 million Philippine pesos ($99,850, 94,380 euros) between 2010-2016"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T10:15:10.049Z",
+        "updated": "2024-04-15T10:15:10.049Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1726.5008702237114,
+            "y": 882
+          }
+        }
+      }
+    },
+    "0e574440-fb11-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T10:15:16.869Z",
+        "updated": "2024-04-15T10:15:16.869Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1826.5009567226443,
+            "y": 782
+          }
+        }
+      }
+    },
+    "94d70780-fb11-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "powerful people can be brought to justice if they break-the law",
+        "reference": {
+          "text": "powerful people can be brought to justice if they break-the law"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T10:19:02.520Z",
+        "updated": "2024-04-15T10:19:02.520Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 62.0004931620634,
+            "y": 350
+          }
+        }
+      }
+    },
+    "a0876e30-fb11-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T10:19:22.131Z",
+        "updated": "2024-04-15T10:19:22.131Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 162.00030970763635,
+            "y": 202
+          }
+        }
+      }
+    },
+    "a48b9150-fb11-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T10:19:28.869Z",
+        "updated": "2024-04-15T10:19:28.869Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.0000741046004,
+            "y": 492
+          }
+        }
+      }
+    },
+    "dbffe320-fb11-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "The war on illegal drugs targets all who are involved and the arrest of an incumbent senator demonstrates the president's strong resolve to fight pushers, peddlers and their protectors",
+        "reference": {
+          "text": "The war on illegal drugs targets all who are involved and the arrest of an incumbent senator demonstrates the president's strong resolve to fight pushers, peddlers and their protectors"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T10:21:01.906Z",
+        "updated": "2024-04-15T10:21:01.906Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000770923595997,
+            "y": 592
+          }
+        }
+      }
+    },
+    "df2eb4e0-fb11-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T10:21:07.246Z",
+        "updated": "2024-04-15T10:21:07.246Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00026081841256,
+            "y": 492
+          }
+        }
+      }
+    },
+    "26924f90-fb12-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "Duterte has both denied and acknowledged his role in the death squads in Davao",
+        "reference": {
+          "text": "Duterte has both denied and acknowledged his role in the death squads in Davao"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T10:23:07.017Z",
+        "updated": "2024-04-15T10:23:07.017Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 762.0006981995332,
+            "y": 616
+          }
+        }
+      }
+    },
+    "28638d20-fb12-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T10:23:10.066Z",
+        "updated": "2024-04-15T10:23:10.066Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 862.0008627598761,
+            "y": 492
+          }
+        }
+      }
+    },
+    "4e9cdc30-fb12-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "Duterte has brought similar tactics to Manila, resulting in the deaths of thousands of suspected drug dealers since taking office in June 2016",
+        "reference": {
+          "text": "Duterte has brought similar tactics to Manila, resulting in the deaths of thousands of suspected drug dealers since taking office in June 2016"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T10:24:14.195Z",
+        "updated": "2024-04-15T10:24:14.195Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 762.0004762003298,
+            "y": 882
+          }
+        }
+      }
+    },
+    "53a7e800-fb12-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T10:24:22.656Z",
+        "updated": "2024-04-15T10:24:22.656Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 862.0002701065746,
+            "y": 782
+          }
+        }
+      }
+    },
+    "764d8900-fb12-11ee-aa26-a11ecda1a83c": {
+      "atom": {
+        "text": "he mounted a campaign to ruin her reputation",
+        "reference": {
+          "text": "he mounted a campaign to ruin her reputation"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-15T10:25:20.784Z",
+        "updated": "2024-04-15T10:25:20.784Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1112.0008909682765,
+            "y": 592
+          }
+        }
+      }
+    },
+    "782dbab0-fb12-11ee-aa26-a11ecda1a83c": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-15T10:25:23.931Z",
+        "updated": "2024-04-15T10:25:23.931Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1212.0007350760015,
+            "y": 492
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "04dac821-c8ca-11ee-b0b9-17011e92baf6": {
+      "source": "03c0a590-c8ca-11ee-b0b9-17011e92baf6",
+      "target": "04dac820-c8ca-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T10:40:48.546Z",
+        "updated": "2024-02-11T10:40:48.546Z"
+      },
+      "userdata": {}
+    },
+    "04dac822-c8ca-11ee-b0b9-17011e92baf6": {
+      "source": "04dac820-c8ca-11ee-b0b9-17011e92baf6",
+      "target": "e7cd57c0-c8c9-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T10:40:48.546Z",
+        "updated": "2024-02-11T10:40:48.546Z"
+      },
+      "userdata": {}
+    },
+    "1d7d1631-c8ca-11ee-b0b9-17011e92baf6": {
+      "source": "1c036e80-c8ca-11ee-b0b9-17011e92baf6",
+      "target": "1d7d1630-c8ca-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T10:41:29.875Z",
+        "updated": "2024-02-11T10:41:29.875Z"
+      },
+      "userdata": {}
+    },
+    "1d7d3d40-c8ca-11ee-b0b9-17011e92baf6": {
+      "source": "1d7d1630-c8ca-11ee-b0b9-17011e92baf6",
+      "target": "e7cd57c0-c8c9-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T10:41:29.876Z",
+        "updated": "2024-02-11T10:41:29.876Z"
+      },
+      "userdata": {}
+    },
+    "51889a81-c8ca-11ee-b0b9-17011e92baf6": {
+      "source": "4f56c660-c8ca-11ee-b0b9-17011e92baf6",
+      "target": "51889a80-c8ca-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T10:42:57.192Z",
+        "updated": "2024-02-11T10:42:57.192Z"
+      },
+      "userdata": {}
+    },
+    "51889a82-c8ca-11ee-b0b9-17011e92baf6": {
+      "source": "51889a80-c8ca-11ee-b0b9-17011e92baf6",
+      "target": "e7cd57c0-c8c9-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T10:42:57.192Z",
+        "updated": "2024-02-11T10:42:57.192Z"
+      },
+      "userdata": {}
+    },
+    "a66acc30-c8ca-11ee-b0b9-17011e92baf6": {
+      "source": "a0cd9280-c8ca-11ee-b0b9-17011e92baf6",
+      "target": "a66aa520-c8ca-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T10:45:19.603Z",
+        "updated": "2024-02-11T10:45:19.603Z"
+      },
+      "userdata": {}
+    },
+    "a66acc31-c8ca-11ee-b0b9-17011e92baf6": {
+      "source": "a66aa520-c8ca-11ee-b0b9-17011e92baf6",
+      "target": "e7cd57c0-c8c9-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T10:45:19.603Z",
+        "updated": "2024-02-11T10:45:19.603Z"
+      },
+      "userdata": {}
+    },
+    "c2ed88c1-c8ca-11ee-b0b9-17011e92baf6": {
+      "source": "bf9e5dc0-c8ca-11ee-b0b9-17011e92baf6",
+      "target": "c2ed88c0-c8ca-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T10:46:07.436Z",
+        "updated": "2024-02-11T10:46:07.436Z"
+      },
+      "userdata": {}
+    },
+    "c2ed88c2-c8ca-11ee-b0b9-17011e92baf6": {
+      "source": "c2ed88c0-c8ca-11ee-b0b9-17011e92baf6",
+      "target": "e7cd57c0-c8c9-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-02-11T10:46:07.436Z",
+        "updated": "2024-02-11T10:46:07.436Z"
+      },
+      "userdata": {}
+    },
+    "981a6821-fb10-11ee-aa26-a11ecda1a83c": {
+      "source": "91f0a5e0-fb10-11ee-aa26-a11ecda1a83c",
+      "target": "981a6820-fb10-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T10:11:58.498Z",
+        "updated": "2024-04-15T10:11:58.498Z"
+      },
+      "userdata": {}
+    },
+    "981a6822-fb10-11ee-aa26-a11ecda1a83c": {
+      "source": "981a6820-fb10-11ee-aa26-a11ecda1a83c",
+      "target": "e7cd57c0-c8c9-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-04-15T10:11:58.498Z",
+        "updated": "2024-04-15T10:11:58.498Z"
+      },
+      "userdata": {}
+    },
+    "c66b3fb0-fb10-11ee-aa26-a11ecda1a83c": {
+      "source": "c287c3f0-fb10-11ee-aa26-a11ecda1a83c",
+      "target": "c66b18a0-fb10-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T10:13:16.203Z",
+        "updated": "2024-04-15T10:13:16.203Z"
+      },
+      "userdata": {}
+    },
+    "c66b3fb1-fb10-11ee-aa26-a11ecda1a83c": {
+      "source": "c66b18a0-fb10-11ee-aa26-a11ecda1a83c",
+      "target": "e7cd57c0-c8c9-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-04-15T10:13:16.203Z",
+        "updated": "2024-04-15T10:13:16.203Z"
+      },
+      "userdata": {}
+    },
+    "cba63521-fb10-11ee-aa26-a11ecda1a83c": {
+      "source": "03c0a590-c8ca-11ee-b0b9-17011e92baf6",
+      "target": "cba63520-fb10-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T10:13:24.978Z",
+        "updated": "2024-04-15T10:13:24.978Z"
+      },
+      "userdata": {}
+    },
+    "cba63522-fb10-11ee-aa26-a11ecda1a83c": {
+      "source": "cba63520-fb10-11ee-aa26-a11ecda1a83c",
+      "target": "c287c3f0-fb10-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T10:13:24.978Z",
+        "updated": "2024-04-15T10:13:24.978Z"
+      },
+      "userdata": {}
+    },
+    "0e576b50-fb11-11ee-aa26-a11ecda1a83c": {
+      "source": "0a469e00-fb11-11ee-aa26-a11ecda1a83c",
+      "target": "0e574440-fb11-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T10:15:16.869Z",
+        "updated": "2024-04-15T10:15:16.869Z"
+      },
+      "userdata": {}
+    },
+    "0e576b51-fb11-11ee-aa26-a11ecda1a83c": {
+      "source": "0e574440-fb11-11ee-aa26-a11ecda1a83c",
+      "target": "03c0a590-c8ca-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-04-15T10:15:16.869Z",
+        "updated": "2024-04-15T10:15:16.869Z"
+      },
+      "userdata": {}
+    },
+    "5c218321-fb11-11ee-aa26-a11ecda1a83c": {
+      "source": "4674f570-fb11-11ee-aa26-a11ecda1a83c",
+      "target": "5c218320-fb11-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T10:17:27.378Z",
+        "updated": "2024-04-15T10:17:27.378Z"
+      },
+      "userdata": {}
+    },
+    "66d78440-fb11-11ee-aa26-a11ecda1a83c": {
+      "source": "5c218320-fb11-11ee-aa26-a11ecda1a83c",
+      "target": "c287c3f0-fb10-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T10:17:45.348Z",
+        "updated": "2024-04-15T10:17:45.348Z"
+      },
+      "userdata": {}
+    },
+    "a0876e31-fb11-11ee-aa26-a11ecda1a83c": {
+      "source": "94d70780-fb11-11ee-aa26-a11ecda1a83c",
+      "target": "a0876e30-fb11-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T10:19:22.131Z",
+        "updated": "2024-04-15T10:19:22.131Z"
+      },
+      "userdata": {}
+    },
+    "a0876e32-fb11-11ee-aa26-a11ecda1a83c": {
+      "source": "a0876e30-fb11-11ee-aa26-a11ecda1a83c",
+      "target": "e7cd57c0-c8c9-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-04-15T10:19:22.131Z",
+        "updated": "2024-04-15T10:19:22.131Z"
+      },
+      "userdata": {}
+    },
+    "a48b9151-fb11-11ee-aa26-a11ecda1a83c": {
+      "source": "4f56c660-c8ca-11ee-b0b9-17011e92baf6",
+      "target": "a48b9150-fb11-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T10:19:28.869Z",
+        "updated": "2024-04-15T10:19:28.869Z"
+      },
+      "userdata": {}
+    },
+    "a48b9152-fb11-11ee-aa26-a11ecda1a83c": {
+      "source": "a48b9150-fb11-11ee-aa26-a11ecda1a83c",
+      "target": "94d70780-fb11-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T10:19:28.869Z",
+        "updated": "2024-04-15T10:19:28.869Z"
+      },
+      "userdata": {}
+    },
+    "df2eb4e1-fb11-11ee-aa26-a11ecda1a83c": {
+      "source": "dbffe320-fb11-11ee-aa26-a11ecda1a83c",
+      "target": "df2eb4e0-fb11-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T10:21:07.246Z",
+        "updated": "2024-04-15T10:21:07.246Z"
+      },
+      "userdata": {}
+    },
+    "df2eb4e2-fb11-11ee-aa26-a11ecda1a83c": {
+      "source": "df2eb4e0-fb11-11ee-aa26-a11ecda1a83c",
+      "target": "94d70780-fb11-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T10:21:07.246Z",
+        "updated": "2024-04-15T10:21:07.246Z"
+      },
+      "userdata": {}
+    },
+    "28638d21-fb12-11ee-aa26-a11ecda1a83c": {
+      "source": "26924f90-fb12-11ee-aa26-a11ecda1a83c",
+      "target": "28638d20-fb12-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T10:23:10.066Z",
+        "updated": "2024-04-15T10:23:10.066Z"
+      },
+      "userdata": {}
+    },
+    "28638d22-fb12-11ee-aa26-a11ecda1a83c": {
+      "source": "28638d20-fb12-11ee-aa26-a11ecda1a83c",
+      "target": "a0cd9280-c8ca-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-04-15T10:23:10.066Z",
+        "updated": "2024-04-15T10:23:10.066Z"
+      },
+      "userdata": {}
+    },
+    "53a7e801-fb12-11ee-aa26-a11ecda1a83c": {
+      "source": "4e9cdc30-fb12-11ee-aa26-a11ecda1a83c",
+      "target": "53a7e800-fb12-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T10:24:22.656Z",
+        "updated": "2024-04-15T10:24:22.656Z"
+      },
+      "userdata": {}
+    },
+    "53a7e802-fb12-11ee-aa26-a11ecda1a83c": {
+      "source": "53a7e800-fb12-11ee-aa26-a11ecda1a83c",
+      "target": "26924f90-fb12-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T10:24:22.656Z",
+        "updated": "2024-04-15T10:24:22.656Z"
+      },
+      "userdata": {}
+    },
+    "782dbab1-fb12-11ee-aa26-a11ecda1a83c": {
+      "source": "764d8900-fb12-11ee-aa26-a11ecda1a83c",
+      "target": "782dbab0-fb12-11ee-aa26-a11ecda1a83c",
+      "metadata": {
+        "created": "2024-04-15T10:25:23.931Z",
+        "updated": "2024-04-15T10:25:23.931Z"
+      },
+      "userdata": {}
+    },
+    "782dbab2-fb12-11ee-aa26-a11ecda1a83c": {
+      "source": "782dbab0-fb12-11ee-aa26-a11ecda1a83c",
+      "target": "bf9e5dc0-c8ca-11ee-b0b9-17011e92baf6",
+      "metadata": {
+        "created": "2024-04-15T10:25:23.931Z",
+        "updated": "2024-04-15T10:25:23.931Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "1476": {
+      "text": "Philippine Senator Leila de Lima, a major critic of President Rodrigo Duterte, was arrested Friday on drug trafficking charges after staying in her office through the night. De Lima voluntarily gave herself over to arresting officers who were waiting for her at the Senate compound, one day after a warrant was put out for her arrest. \"I am innocent,\" said de Lima outside the Senate. \"There is no truth to the charges I benefited from the drug trade, that I received money and that I coddled drug convicts.\" De Lima and her supporters say the charges were made by Duterte to intimidate any opposition to his actions cutting drug crime in the country. De Lima faces three drug-related charges, including one that states she received money from drug dealers in the country's prisons of approximately 5 million Philippine pesos ($99,850, 94,380 euros) between 2010-2016. \"People are afraid,\" Father Robert Reyes, a priest who spent the night with de Lima, told French press agency AFP. \"If the government can arrest a powerful person like her, what more of the little man? That is the implied message of her arrest.\" While human rights organization Amnesty International also came to de Lima's side, Duterte's aides said Friday's arrest was necessary, saying powerful people can be brought to justice if they break-the law. \"The war on illegal drugs targets all who are involved and the arrest of an incumbent senator demonstrates the president's strong resolve to fight pushers, peddlers and their protectors,\" said Duterte spokesman Ernesto Abella. From human rights lawyer to senator De Lima started working after law school as a law clerk in the House of Representatives and as a legal aide to a Supreme Court associate justice. De Lima then assisted current Senate President Aquilino Pimentel Jr. earn a Senate seat and fellow future Senator Alan Peter Cayetano beat a lawsuit alleging he was not a Filipino citizen which would disqualify him from office. De Lima became the chairwoman of the government's Commission of Human Rights in 2008. During her two years on the job she investigated extrajudicial killings and abductions and human rights violations by the Philippines' security forces. In 2010 De Lima became justice secretary in the Benigno Aquino administration who pledged to fight corruption. She stayed in the position until 2015 to successfully run for a Senate position, earning the role-at the same time Duterte became president.  Philippine President Rodrigo Duterte has never gotten along with Philippine Senator Leila de Lima Long-time Duterte enemy While serving as chairwoman to the Commission of Human Rights, De Lima opened a probe on Duterte when he was mayor of the town of Davao. Duterte had faced allegations of running death squads in Davao that allegedly killed hundreds of drug addicts and petty criminals as a part of a ruthless anti-crime campaign. Duterte has both denied and acknowledged his role in the death squads in Davao. Duterte has brought similar tactics to Manila, resulting in the deaths of thousands of suspected drug dealers since taking office in June 2016. De Lima called Duterte a \"sociopathic serial killer\" on Tuesday, and demanded Duterte's cabinet consider him unfit to lead. Duterte made allegations De Lima was running a drug trafficking ring in the country's largest prison in August 2016 while she was justice secretary in the previous government. \"I will have to destroy her in public,\" said Duterte in August, as he mounted a campaign to ruin her reputation, which included allegations on de Lima's sex life. kbd/rc (AFP, AP, Reuters)",
+      "title": "Philippine Senator Leila de Lima arrested on illegal drug charges",
+      "source": "http://www.dw.com/en/philippine-senator-leila-de-lima-arrested-on-illegal-drug-charges/a-37696588?maca=en-rss-en-all-1573-rdf",
+      "timestamp": "2017-02-24T00:00:00Z",
+      "metadata": {
+        "created": "2024-02-08T09:23:32.601Z",
+        "updated": "2024-02-08T09:23:32.601Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "2c603380-c41a-11ee-a06c-cb1cbb90ffa4": {
+      "name": "annotator0",
+      "email": "s4kibart@uni-trier.de",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "e7cd57c0-c8c9-11ee-b0b9-17011e92baf6",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-08T09:23:32.600Z",
+    "updated": "2024-04-15T10:25:45.926Z"
+  },
+  "userdata": {}
+}

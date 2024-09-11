@@ -1,0 +1,578 @@
+{
+  "nodes": {
+    "bf291c00-c680-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "Secretary of State Rex Tillerson defended the State Department decision not to bring the American press corps with him on his trip to Asia",
+        "reference": {
+          "resource": "2886",
+          "offset": 0,
+          "text": "Secretary of State Rex Tillerson defended the State Department decision not to bring the American press corps with him on his trip to Asia"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:51:16.032Z",
+        "updated": "2024-02-08T12:51:16.032Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 392.0003948717876,
+            "y": 12
+          }
+        }
+      }
+    },
+    "d19a7be0-c680-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "he wasn\"t \"A big media press access person.\"?",
+        "reference": {
+          "resource": "2886",
+          "offset": 147,
+          "text": "he wasn\"t \"A big media press access person.\"?"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:51:46.974Z",
+        "updated": "2024-02-08T12:51:46.974Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.00016932377423,
+            "y": 338
+          }
+        }
+      }
+    },
+    "01610380-c681-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "\"First and foremost is what is my mission and why am I going? How can I best accomplish that mission? What's the most effective way for me to do that? I'm not a big media press access person. I personally don\"t need it,\"",
+        "reference": {
+          "resource": "2886",
+          "offset": 459,
+          "text": "\"First and foremost is what is my mission and why am I going? How can I best accomplish that mission? What's the most effective way for me to do that? I'm not a big media press access person. I personally don\"t need it,\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:53:07.128Z",
+        "updated": "2024-02-08T12:53:07.128Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 362.00091786261123,
+            "y": 592
+          }
+        }
+      }
+    },
+    "05057a70-c681-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T12:53:13.239Z",
+        "updated": "2024-02-08T12:53:13.239Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.0007973350365,
+            "y": 492
+          }
+        }
+      }
+    },
+    "0b206fa0-c681-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T12:53:23.482Z",
+        "updated": "2024-02-08T12:53:23.482Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 462.00047536554297,
+            "y": 202
+          }
+        }
+      }
+    },
+    "5e2dba40-c681-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "\"I understand it's important to get the message of what we'r doing out, but I also think there's only a purpose in getting the message out when there's something to be done.\"",
+        "reference": {
+          "resource": "2886",
+          "offset": 749,
+          "text": "\"I understand it's important to get the message of what we'r doing out, but I also think there's only a purpose in getting the message out when there's something to be done.\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T12:55:42.820Z",
+        "updated": "2024-02-08T12:55:42.820Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0005190234415,
+            "y": 302
+          }
+        }
+      }
+    },
+    "616ba730-c681-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T12:55:48.259Z",
+        "updated": "2024-02-08T12:55:48.259Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0006686177655,
+            "y": 202
+          }
+        }
+      }
+    },
+    "82e85890-c681-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T12:56:44.441Z",
+        "updated": "2024-02-08T12:56:44.441Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 812.0005838849221,
+            "y": 492
+          }
+        }
+      }
+    },
+    "507a6230-c682-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": "Because journalists were not traveling with Tillerson, they could not verify a report in the Korea Herald that he had canceled a dinner with South Korean officials because he was fatigued",
+        "reference": {
+          "resource": "2886",
+          "offset": 2535,
+          "text": "Because journalists were not traveling with Tillerson, they could not verify a report in the Korea Herald that he had canceled a dinner with South Korean officials because he was fatigued"
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:02:29.331Z",
+        "updated": "2024-02-08T13:02:29.331Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.0004347101828,
+            "y": 302
+          }
+        }
+      }
+    },
+    "529ccd00-c682-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:02:32.912Z",
+        "updated": "2024-02-08T13:02:32.912Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0006614898832,
+            "y": 202
+          }
+        }
+      }
+    },
+    "72a2e3f0-c682-11ee-bb24-29eae2ae94d0": {
+      "atom": {
+        "text": " \"they never invited us for dinner, then at the last minute they realized that optically it wasn\"t playing very well in public for them, so they put out a statement that we didn\"t have dinner because I was tired,\"",
+        "reference": {
+          "resource": "2886",
+          "offset": 2930,
+          "text": " \"they never invited us for dinner, then at the last minute they realized that optically it wasn\"t playing very well in public for them, so they put out a statement that we didn\"t have dinner because I was tired,\""
+        }
+      },
+      "metadata": {
+        "created": "2024-02-08T13:03:26.639Z",
+        "updated": "2024-02-08T13:03:26.639Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1062.0000354122888,
+            "y": 592
+          }
+        }
+      }
+    },
+    "7600b4f0-c682-11ee-bb24-29eae2ae94d0": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-02-08T13:03:32.287Z",
+        "updated": "2024-02-08T13:03:32.287Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 1162.0001178940229,
+            "y": 492
+          }
+        }
+      }
+    },
+    "81dbdf10-fc8e-11ee-bacf-6f44838a7611": {
+      "atom": {
+        "text": " the job of the press isn\"t simply to communicate the needs of the secretary of state or his department, but to hold America's chief diplomat accountable",
+        "reference": {
+          "resource": "2886",
+          "offset": 967,
+          "text": " the job of the press isn\"t simply to communicate the needs of the secretary of state or his department, but to hold America's chief diplomat accountable"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-17T07:45:48.929Z",
+        "updated": "2024-04-17T07:45:48.929Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 712.0003136827087,
+            "y": 592
+          }
+        }
+      }
+    },
+    "988fa390-fc8e-11ee-bacf-6f44838a7611": {
+      "atom": {
+        "text": "Tillerson also said that excluding the press allowed the State Department to save money",
+        "reference": {
+          "resource": "2886",
+          "offset": 1411,
+          "text": "Tillerson also said that excluding the press allowed the State Department to save money"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-17T07:46:27.017Z",
+        "updated": "2024-04-17T07:46:27.017Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000248131924263,
+            "y": 326
+          }
+        }
+      }
+    },
+    "9e439990-fc8e-11ee-bacf-6f44838a7611": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-17T07:46:36.585Z",
+        "updated": "2024-04-17T07:46:36.585Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00072626958328,
+            "y": 202
+          }
+        }
+      }
+    },
+    "bf55f060-fc8e-11ee-bacf-6f44838a7611": {
+      "atom": {
+        "text": " \"I mean, quite frankly, we'r saving a lot of money by using this aircraft, which also flies faster, allows me to be more efficient, and we'r going to destinations that, by and large, the media outlets have significant presence already, so we'r not hiding from any coverage of what we'r doing.\"?He added that he didn\"t think the press would have less access because many outlets have foreign bureaus in the places where he travels",
+        "reference": {
+          "resource": "2886",
+          "offset": 1683,
+          "text": " \"I mean, quite frankly, we'r saving a lot of money by using this aircraft, which also flies faster, allows me to be more efficient, and we'r going to destinations that, by and large, the media outlets have significant presence already, so we'r not hiding from any coverage of what we'r doing.\"?He added that he didn\"t think the press would have less access because many outlets have foreign bureaus in the places where he travels"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-17T07:47:32.070Z",
+        "updated": "2024-04-17T07:47:32.070Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000841140784898,
+            "y": 592
+          }
+        }
+      }
+    },
+    "c1b0f760-fc8e-11ee-bacf-6f44838a7611": {
+      "scheme": {
+        "support": "SUPPORT_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-17T07:47:36.022Z",
+        "updated": "2024-04-17T07:47:36.022Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00085518964582,
+            "y": 492
+          }
+        }
+      }
+    },
+    "d2660140-fc8e-11ee-bacf-6f44838a7611": {
+      "atom": {
+        "text": "Facing economic challenges, however, several outlets have shuttered their foreign bureaus in recent years. Journalists following the secretary of state around on their own may also have a more difficult time covering him because of visa issues and commercial flight schedules Earlier this month",
+        "reference": {
+          "resource": "2886",
+          "offset": 2115,
+          "text": "Facing economic challenges, however, several outlets have shuttered their foreign bureaus in recent years. Journalists following the secretary of state around on their own may also have a more difficult time covering him because of visa issues and commercial flight schedules Earlier this month"
+        }
+      },
+      "metadata": {
+        "created": "2024-04-17T07:48:04.052Z",
+        "updated": "2024-04-17T07:48:04.052Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 12.000192335037756,
+            "y": 1050
+          }
+        }
+      }
+    },
+    "d8f478c0-fc8e-11ee-bacf-6f44838a7611": {
+      "scheme": {
+        "attack": "ATTACK_DEFAULT"
+      },
+      "metadata": {
+        "created": "2024-04-17T07:48:15.052Z",
+        "updated": "2024-04-17T07:48:15.052Z"
+      },
+      "userdata": {
+        "arguemapper": {
+          "position": {
+            "x": 112.00094417346753,
+            "y": 950
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "05057a71-c681-11ee-bb24-29eae2ae94d0": {
+      "source": "01610380-c681-11ee-bb24-29eae2ae94d0",
+      "target": "05057a70-c681-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:53:13.239Z",
+        "updated": "2024-02-08T12:53:13.239Z"
+      },
+      "userdata": {}
+    },
+    "05057a72-c681-11ee-bb24-29eae2ae94d0": {
+      "source": "05057a70-c681-11ee-bb24-29eae2ae94d0",
+      "target": "d19a7be0-c680-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:53:13.239Z",
+        "updated": "2024-02-08T12:53:13.239Z"
+      },
+      "userdata": {}
+    },
+    "0b206fa1-c681-11ee-bb24-29eae2ae94d0": {
+      "source": "d19a7be0-c680-11ee-bb24-29eae2ae94d0",
+      "target": "0b206fa0-c681-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:53:23.482Z",
+        "updated": "2024-02-08T12:53:23.482Z"
+      },
+      "userdata": {}
+    },
+    "0b206fa2-c681-11ee-bb24-29eae2ae94d0": {
+      "source": "0b206fa0-c681-11ee-bb24-29eae2ae94d0",
+      "target": "bf291c00-c680-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:53:23.482Z",
+        "updated": "2024-02-08T12:53:23.482Z"
+      },
+      "userdata": {}
+    },
+    "616ba731-c681-11ee-bb24-29eae2ae94d0": {
+      "source": "5e2dba40-c681-11ee-bb24-29eae2ae94d0",
+      "target": "616ba730-c681-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:55:48.259Z",
+        "updated": "2024-02-08T12:55:48.259Z"
+      },
+      "userdata": {}
+    },
+    "616ba732-c681-11ee-bb24-29eae2ae94d0": {
+      "source": "616ba730-c681-11ee-bb24-29eae2ae94d0",
+      "target": "bf291c00-c680-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:55:48.259Z",
+        "updated": "2024-02-08T12:55:48.259Z"
+      },
+      "userdata": {}
+    },
+    "82e85891-c681-11ee-bb24-29eae2ae94d0": {
+      "source": "7d993ee0-c681-11ee-bb24-29eae2ae94d0",
+      "target": "82e85890-c681-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:56:44.441Z",
+        "updated": "2024-02-08T12:56:44.441Z"
+      },
+      "userdata": {}
+    },
+    "82e85892-c681-11ee-bb24-29eae2ae94d0": {
+      "source": "82e85890-c681-11ee-bb24-29eae2ae94d0",
+      "target": "5e2dba40-c681-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T12:56:44.441Z",
+        "updated": "2024-02-08T12:56:44.441Z"
+      },
+      "userdata": {}
+    },
+    "529ccd01-c682-11ee-bb24-29eae2ae94d0": {
+      "source": "507a6230-c682-11ee-bb24-29eae2ae94d0",
+      "target": "529ccd00-c682-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T13:02:32.912Z",
+        "updated": "2024-02-08T13:02:32.912Z"
+      },
+      "userdata": {}
+    },
+    "529ccd02-c682-11ee-bb24-29eae2ae94d0": {
+      "source": "529ccd00-c682-11ee-bb24-29eae2ae94d0",
+      "target": "bf291c00-c680-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T13:02:32.912Z",
+        "updated": "2024-02-08T13:02:32.912Z"
+      },
+      "userdata": {}
+    },
+    "7600b4f1-c682-11ee-bb24-29eae2ae94d0": {
+      "source": "72a2e3f0-c682-11ee-bb24-29eae2ae94d0",
+      "target": "7600b4f0-c682-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T13:03:32.288Z",
+        "updated": "2024-02-08T13:03:32.288Z"
+      },
+      "userdata": {}
+    },
+    "7600dc00-c682-11ee-bb24-29eae2ae94d0": {
+      "source": "7600b4f0-c682-11ee-bb24-29eae2ae94d0",
+      "target": "507a6230-c682-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-02-08T13:03:32.288Z",
+        "updated": "2024-02-08T13:03:32.288Z"
+      },
+      "userdata": {}
+    },
+    "85b98e70-fc8e-11ee-bacf-6f44838a7611": {
+      "source": "81dbdf10-fc8e-11ee-bacf-6f44838a7611",
+      "target": "82e85890-c681-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-04-17T07:45:55.415Z",
+        "updated": "2024-04-17T07:45:55.415Z"
+      },
+      "userdata": {}
+    },
+    "9e439991-fc8e-11ee-bacf-6f44838a7611": {
+      "source": "988fa390-fc8e-11ee-bacf-6f44838a7611",
+      "target": "9e439990-fc8e-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T07:46:36.585Z",
+        "updated": "2024-04-17T07:46:36.585Z"
+      },
+      "userdata": {}
+    },
+    "9e439992-fc8e-11ee-bacf-6f44838a7611": {
+      "source": "9e439990-fc8e-11ee-bacf-6f44838a7611",
+      "target": "bf291c00-c680-11ee-bb24-29eae2ae94d0",
+      "metadata": {
+        "created": "2024-04-17T07:46:36.585Z",
+        "updated": "2024-04-17T07:46:36.585Z"
+      },
+      "userdata": {}
+    },
+    "c1b0f761-fc8e-11ee-bacf-6f44838a7611": {
+      "source": "bf55f060-fc8e-11ee-bacf-6f44838a7611",
+      "target": "c1b0f760-fc8e-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T07:47:36.022Z",
+        "updated": "2024-04-17T07:47:36.022Z"
+      },
+      "userdata": {}
+    },
+    "c1b0f762-fc8e-11ee-bacf-6f44838a7611": {
+      "source": "c1b0f760-fc8e-11ee-bacf-6f44838a7611",
+      "target": "988fa390-fc8e-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T07:47:36.022Z",
+        "updated": "2024-04-17T07:47:36.022Z"
+      },
+      "userdata": {}
+    },
+    "d8f478c1-fc8e-11ee-bacf-6f44838a7611": {
+      "source": "d2660140-fc8e-11ee-bacf-6f44838a7611",
+      "target": "d8f478c0-fc8e-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T07:48:15.052Z",
+        "updated": "2024-04-17T07:48:15.052Z"
+      },
+      "userdata": {}
+    },
+    "d8f478c2-fc8e-11ee-bacf-6f44838a7611": {
+      "source": "d8f478c0-fc8e-11ee-bacf-6f44838a7611",
+      "target": "bf55f060-fc8e-11ee-bacf-6f44838a7611",
+      "metadata": {
+        "created": "2024-04-17T07:48:15.052Z",
+        "updated": "2024-04-17T07:48:15.052Z"
+      },
+      "userdata": {}
+    }
+  },
+  "resources": {
+    "2886": {
+      "text": "Secretary of State Rex Tillerson defended the State Department decision not to bring the American press corps with him on his trip to Asia, saying he wasn\"t \"A big media press access person.\"?In an-interview with the conservative Independent Journal Review, the only outlet-allowed on the trip, Tillerson said he would evaluate whether to take reporters with him on a case-by-case basis, depending on whether he needed them to communicate his message or not. \"First and foremost is what is my mission and why am I going? How can I best accomplish that mission? What's the most effective way for me to do that? I'm not a big media press access person. I personally don\"t need it,\"?said the former ExxonMobil CEO in the interview, published Saturday. \"I understand it's important to get the message of what we'r doing out, but I also think there's only a purpose in getting the message out when there's something to be done.\"?Some reporters were quick to point out that the job of the press isn\"t simply to communicate the needs of the secretary of state or his department, but to hold America's chief diplomat accountable. Rex Tillerson does not appear to understand that he now works for the U.S. taxpayer, not ExxonMobil:https://t.co/iQmaYHinnl Tillerson has no concept he doesn't work for Exxon shareholders; he works for taxpayers who pay his salary & need to know what he does w/ it https://t.co/QoqqB5tiEI Tillerson also said that excluding the press allowed the State Department to save money. President Donald Trump wants to cut the department's budget by 29 percent. \"Primarily it's driven \"?believe it or not, you won\"t believe it \"?we'r trying to save money,\"illerson said. \"I mean, quite frankly, we'r saving a lot of money by using this aircraft, which also flies faster, allows me to be more efficient, and we'r going to destinations that, by and large, the media outlets have significant presence already, so we'r not hiding from any coverage of what we'r doing.\"?He added that he didn\"t think the press would have less access because many outlets have foreign bureaus in the places where he travels. Facing economic challenges, however, several outlets have shuttered their foreign bureaus in recent years. Journalists following the secretary of state around on their own may also have a more difficult time covering him because of visa issues and commercial flight schedules Earlier this month, editors at several major outlets-published a letter-expressing concern over Tillerson's decision to leave the press behind. Because journalists were not traveling with Tillerson, they could not verify a report in the Korea Herald that he had canceled a dinner with South Korean officials because he was fatigued. Asked about the incident during his interview with the Independent Journal-Review, Tillerson denied that it was true, perhaps inadvertantly demonstrating how important it is to have U.S. reporters with him. \"they never invited us for dinner, then at the last minute they realized that optically it wasn\"t playing very well in public for them, so they put out a statement that we didn\"t have dinner because I was tired,\"?Tillerson said. Do you have information you want to share with the Huffington Post? Here's how. Share this slide: How will Trump's first 100 days impact you? Learn more",
+      "title": "Rex Tillerson Defends Not Taking Reporters On Foreign Trip, Says He Doesn't 'Need' Them",
+      "source": "http://www.huffingtonpost.com/2017/03/18/rex-tillerson-traveling-press_n_15448382.html",
+      "timestamp": "2024-02-08T12:44:58.542Z",
+      "metadata": {
+        "created": "2024-02-05T09:49:22.073Z",
+        "updated": "2024-02-05T09:49:22.073Z"
+      },
+      "userdata": {}
+    }
+  },
+  "analysts": {
+    "69ca24d0-c5b2-11ee-bbb2-f78c6e9d2422": {
+      "name": "Martin Hoppe",
+      "email": "mogramming@gmail.com",
+      "userdata": {}
+    }
+  },
+  "majorClaim": "bf291c00-c680-11ee-bb24-29eae2ae94d0",
+  "schemaVersion": 1,
+  "libraryVersion": "2.5.3",
+  "metadata": {
+    "created": "2024-02-05T09:49:22.073Z",
+    "updated": "2024-04-17T07:48:45.009Z"
+  },
+  "userdata": {}
+}
